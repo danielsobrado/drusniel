@@ -57,7 +57,7 @@ Magic in Astalor isn't a cure-all. It's a tool. Elusive. Demanding. Eight school
 5. **Necromancy**: The controversial art of life, death, and undeath. Focuses on communicating with spirits, manipulating life force, and reanimation.
 6. **Omencraft**: The discipline of unveiling hidden truths. Covers scrying, prophecy, and gleaning knowledge from otherworldly sources.
 7. **Evocation**: The practice of calling forth the unseen. Involves summoning entities, creating objects from magical energy, and teleportation.
-8. **Miragery**: The art of bending reality. Encompasses creating false sensory experiences, manipulating perceptions, and veiling the truth.
+8. **Miragery**: The art of bending reality. Encompasses creating false sensory experiences, manipulating perceptions, and hiding the truth.
 
 Each path offers unique powers. Unique trials. Mages must choose wisely, for their choice shapes their destiny.
 
