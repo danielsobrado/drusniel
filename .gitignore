@@ -78,3 +78,5 @@ yarn-error.log
 .firebase/
 # Local Netlify folder
 .netlify
+incoming/
+.history/*
