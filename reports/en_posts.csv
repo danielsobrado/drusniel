@@ -1,58 +1,58 @@
 order,date,title,category,type,canon_phase,canon_sequence,featured,path
-101,2024-07-11,Magic in Astalor,astalor,Lore,lore,L-001,false,magic-in-astalor
-102,2024-07-12,Nothingness and the Second Sun,astalor,Lore,lore,L-002,false,the-making-of-astalor
-103,2024-07-13,The regions of Astalor,astalor,Lore,lore,L-003,false,the-regions-of-astalor
-104,2024-07-14,The Contian Theocracy's Quest for Magical Supremacy,contian,Lore,lore,L-004,false,arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy
-105,2024-07-15,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prequel,prequel,P-002,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature
-106,2024-07-16,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prequel,prequel,P-003,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard
-107,2024-07-17,The Unruly Might of the Grukmar Tribes,grukmar,Prequel,prequel,P-004,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes
-108,2024-07-18,The Resilient Defense of the Lumeshirean Divine Empire,lumeshire,Lore,lore,L-005,false,shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire
-109,2024-07-19,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,stonehold,Lore,lore,L-006,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos
-110,2024-07-20,The Zuraldarr,lumeshire,Prologue,prologue,R-006,false,the-zuraldarr
-111,2024-07-21,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prequel,prequel,P-007,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness
-112,2024-07-22,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,L-008,false,dark-depths-the-wymreach-dominion
-113,2024-07-23,The Call to Zuraldi,stonehold,Prologue,prologue,R-051,true,the-call-to-zuraldi
-114,2024-07-24,A Journey Interrupted,stonehold,Prologue,prologue,R-052,false,a-journey-interrupted
-115,2024-07-25,The Sacred Chamber,umbrakor,Prologue,prologue,R-000,true,the-sacred-chamber
-116,2024-07-26,Swords and Shadows,umbrakor,Prologue,prologue,R-001,true,swords-shadows
-117,2024-07-27,The Failed Trial: The Test of Venemora,umbrakor,Prologue,prologue,R-001,false,the-failed-trial-the-test-of-venemora
-118,2024-07-28,Secrets and Shadows,umbrakor,Prologue,prologue,R-002,false,secrets-and-shadows
-119,2024-07-29,The Failed Trial: The Separation,umbrakor,Prologue,prologue,R-002,false,the-failed-trial-the-separation
-120,2024-07-30,The Failed Trial: Shadows in the Hall,umbrakor,Prologue,prologue,R-003,false,the-failed-trial-shadows-in-the-hall
-121,2024-07-31,Voices in the Dark: The Empty Days,umbrakor,Prologue,prologue,R-004,false,voices-in-the-dark-the-empty-days
-122,2024-08-01,Voices in the Dark: The Distant Voice,umbrakor,Prologue,prologue,R-005,false,voices-in-the-dark-the-distant-voice
-123,2024-08-02,Voices in the Dark: The Seed of Doubt,umbrakor,Prologue,prologue,R-006,false,voices-in-the-dark-the-seed-of-doubt
-124,2024-08-03,Voices in the Dark: The Decision,umbrakor,Prologue,prologue,R-007,false,voices-in-the-dark-the-decision
-125,2024-08-04,The Surface Mage: The Tower,umbrakor,Prologue,prologue,R-008,false,the-surface-mage-the-tower
-126,2024-08-05,The Surface Mage: The Assessment,umbrakor,Prologue,prologue,R-009,false,the-surface-mage-the-assessment
-127,2024-08-06,The Surface Mage: The First Lesson,umbrakor,Prologue,prologue,R-010,false,the-surface-mage-the-first-lesson
-129,2024-08-08,The Surface Mage: The Wyrmreach Mention,umbrakor,Prologue,prologue,R-011,false,the-surface-mage-the-wyrmreach-mention
-131,2024-08-10,The Surface Mage: The Return,umbrakor,Prologue,prologue,R-012,false,the-surface-mage-the-return
-132,2024-08-11,Forbidden Knowledge: The Old Texts,umbrakor,Prologue,prologue,R-013,false,forbidden-knowledge-the-old-texts
-135,2024-08-14,Forbidden Knowledge: The Growing Power,umbrakor,Prologue,prologue,R-014,false,forbidden-knowledge-the-growing-power
-136,2024-08-15,Forbidden Knowledge: The Warning Signs,umbrakor,Prologue,prologue,R-015,false,forbidden-knowledge-the-warning-signs
-137,2024-08-16,The Screams in the Mist,grukmar,Prologue,prologue,R-015,false,the-screams-in-the-mist
-138,2024-08-17,Forbidden Knowledge: The Distant Land,umbrakor,Prologue,prologue,R-016,false,forbidden-knowledge-the-distant-land
-139,2024-08-18,March of Despair,grukmar,Prologue,prologue,R-016,false,march-of-despair
-140,2024-08-19,Forbidden Knowledge: The Hesitation,umbrakor,Prologue,prologue,R-017,false,forbidden-knowledge-the-hesitation
-141,2024-08-20,The House Rivalry: The Gathering Storm,umbrakor,Prologue,prologue,R-018,false,the-house-rivalry-the-gathering-storm
-142,2024-08-21,The House Rivalry: The Fracture,umbrakor,Prologue,prologue,R-019,false,the-house-rivalry-the-fracture
-143,2024-08-22,The House Rivalry: The Secret Meeting,umbrakor,Prologue,prologue,R-020,false,the-house-rivalry-the-secret-meeting
-144,2024-08-23,The House Rivalry: The Night Before,umbrakor,Prologue,prologue,R-021,false,the-house-rivalry-the-night-before
-145,2024-08-24,The House Rivalry: The Warning (Cut Short),umbrakor,Prologue,prologue,R-022,false,the-house-rivalry-the-warning-cut-short
-146,2024-08-25,Blood in the Dark: The Chaos,umbrakor,Prologue,prologue,R-023,false,blood-in-the-dark-the-chaos
-147,2024-08-26,Blood in the Dark: The Slaughter,umbrakor,Prologue,prologue,R-024,false,blood-in-the-dark-the-slaughter
-148,2024-08-27,Blood in the Dark: The Escape,umbrakor,Prologue,prologue,R-025,false,blood-in-the-dark-the-escape
-149,2024-08-28,Blood in the Dark: The Evidence,umbrakor,Prologue,prologue,R-026,false,blood-in-the-dark-the-evidence
-150,2024-08-29,Blood in the Dark: Shyntara's Flight,umbrakor,Prologue,prologue,R-027,false,blood-in-the-dark-shyntaras-flight
-151,2024-08-30,Blood in the Dark: The Hollow Victory,umbrakor,Prologue,prologue,R-028,false,blood-in-the-dark-the-hollow-victory
-152,2024-08-31,The Package: The Broken Instrument,umbrakor,Chapter,main,M-029,false,the-package-the-broken-instrument
-153,2024-09-01,The Package: The Mission,umbrakor,Chapter,main,M-030,false,the-package-the-mission
-154,2024-09-02,The Package: The Artifact,umbrakor,Chapter,main,M-031,false,the-package-the-artifact
-155,2024-09-03,The Package: The Crossing,umbrakor,Chapter,main,M-032,false,the-package-the-crossing
-156,2024-09-04,The Package: The New World,umbrakor,Chapter,main,M-033,false,the-package-the-new-world
-157,2024-09-05,The Road from Zuraldi: The Awakening,stonehold,Chapter,main,M-034,false,the-road-from-zuraldi-the-awakening
-158,2024-09-06,The Road from Zuraldi: The Absence,stonehold,Chapter,main,M-035,false,the-road-from-zuraldi-the-absence
-159,2024-09-07,The Road from Zuraldi: The Nephew's Doubt,stonehold,Chapter,main,M-036,false,the-road-from-zuraldi-the-nephews-doubt
-160,2024-09-08,The Road from Zuraldi: The Followers,stonehold,Chapter,main,M-037,false,the-road-from-zuraldi-the-followers
-161,2024-09-09,The Road from Zuraldi: The Decision,stonehold,Chapter,main,M-038,false,the-road-from-zuraldi-the-decision
+101,2024-04-02,Magic in Astalor,astalor,Lore,lore,AST-L-001,false,magic-in-astalor
+102,2024-04-03,Nothingness and the Second Sun,astalor,Lore,lore,AST-L-002,false,the-making-of-astalor
+103,2024-04-04,The regions of Astalor,astalor,Lore,lore,AST-L-003,false,the-regions-of-astalor
+104,2024-04-05,The Contian Theocracy's Quest for Magical Supremacy,contian,Lore,lore,CON-L-001,false,arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy
+105,2024-04-06,The Resilient Defense of the Lumeshirean Divine Empire,lumeshire,Lore,lore,LUM-L-001,false,shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire
+106,2024-04-07,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,stonehold,Lore,lore,STO-L-001,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos
+107,2024-04-08,The Zuraldarr,lumeshire,Lore,lore,LUM-L-002,false,the-zuraldarr
+108,2024-04-09,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,WYR-L-001,false,dark-depths-the-wymreach-dominion
+109,2024-04-10,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prequel,prequel,ELE-P-001,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature
+110,2024-04-11,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prequel,prequel,FRO-P-001,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard
+111,2024-04-12,The Unruly Might of the Grukmar Tribes,grukmar,Prequel,prequel,GRU-P-001,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes
+112,2024-04-13,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prequel,prequel,UMB-P-001,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness
+113,2024-04-14,The Call to Zuraldi,stonehold,Prequel,prequel,STO-P-001,true,the-call-to-zuraldi
+114,2024-04-15,A Journey Interrupted,stonehold,Prequel,prequel,STO-P-002,false,a-journey-interrupted
+115,2024-04-16,The Screams in the Mist,grukmar,Prequel,prequel,GRU-P-002,false,the-screams-in-the-mist
+116,2024-04-17,March of Despair,grukmar,Prequel,prequel,GRU-P-003,false,march-of-despair
+117,2024-04-18,The Road from Zuraldi: The Awakening,stonehold,Prologue,prologue,STO-R-001,false,the-road-from-zuraldi-the-awakening
+118,2024-04-19,The Road from Zuraldi: The Absence,stonehold,Prologue,prologue,STO-R-002,false,the-road-from-zuraldi-the-absence
+119,2024-04-20,The Road from Zuraldi: The Nephew's Doubt,stonehold,Prologue,prologue,STO-R-003,false,the-road-from-zuraldi-the-nephews-doubt
+120,2024-04-21,The Road from Zuraldi: The Followers,stonehold,Prologue,prologue,STO-R-004,false,the-road-from-zuraldi-the-followers
+121,2024-04-22,The Road from Zuraldi: The Decision,stonehold,Prologue,prologue,STO-R-005,false,the-road-from-zuraldi-the-decision
+122,2024-04-23,The Sacred Chamber,umbrakor,,drusniel,UMB-M-001,true,the-sacred-chamber
+123,2024-04-24,Swords and Shadows,umbrakor,,drusniel,UMB-M-002,true,swords-shadows
+124,2024-04-25,The Failed Trial: The Test of Venemora,umbrakor,,drusniel,UMB-M-003,false,the-failed-trial-the-test-of-venemora
+125,2024-04-26,Secrets and Shadows,umbrakor,,drusniel,UMB-M-004,false,secrets-and-shadows
+126,2024-04-27,The Failed Trial: The Separation,umbrakor,,drusniel,UMB-M-005,false,the-failed-trial-the-separation
+127,2024-04-28,The Failed Trial: Shadows in the Hall,umbrakor,,drusniel,UMB-M-006,false,the-failed-trial-shadows-in-the-hall
+128,2024-04-29,Voices in the Dark: The Empty Days,umbrakor,,drusniel,UMB-M-007,false,voices-in-the-dark-the-empty-days
+129,2024-04-30,Voices in the Dark: The Distant Voice,umbrakor,,drusniel,UMB-M-008,false,voices-in-the-dark-the-distant-voice
+130,2024-05-01,Voices in the Dark: The Seed of Doubt,umbrakor,,drusniel,UMB-M-009,false,voices-in-the-dark-the-seed-of-doubt
+131,2024-05-02,Voices in the Dark: The Decision,umbrakor,,drusniel,UMB-M-010,false,voices-in-the-dark-the-decision
+132,2024-05-03,The Surface Mage: The Tower,umbrakor,,drusniel,UMB-M-011,false,the-surface-mage-the-tower
+133,2024-05-04,The Surface Mage: The Assessment,umbrakor,,drusniel,UMB-M-012,false,the-surface-mage-the-assessment
+134,2024-05-05,The Surface Mage: The First Lesson,umbrakor,,drusniel,UMB-M-013,false,the-surface-mage-the-first-lesson
+135,2024-05-06,The Surface Mage: The Wyrmreach Mention,umbrakor,,drusniel,UMB-M-014,false,the-surface-mage-the-wyrmreach-mention
+136,2024-05-07,The Surface Mage: The Return,umbrakor,,drusniel,UMB-M-015,false,the-surface-mage-the-return
+137,2024-05-08,Forbidden Knowledge: The Old Texts,umbrakor,,drusniel,UMB-M-016,false,forbidden-knowledge-the-old-texts
+138,2024-05-09,Forbidden Knowledge: The Growing Power,umbrakor,,drusniel,UMB-M-017,false,forbidden-knowledge-the-growing-power
+139,2024-05-10,Forbidden Knowledge: The Warning Signs,umbrakor,,drusniel,UMB-M-018,false,forbidden-knowledge-the-warning-signs
+140,2024-05-11,Forbidden Knowledge: The Distant Land,umbrakor,,drusniel,UMB-M-019,false,forbidden-knowledge-the-distant-land
+141,2024-05-12,Forbidden Knowledge: The Hesitation,umbrakor,,drusniel,UMB-M-020,false,forbidden-knowledge-the-hesitation
+142,2024-05-13,The House Rivalry: The Gathering Storm,umbrakor,,drusniel,UMB-M-021,false,the-house-rivalry-the-gathering-storm
+143,2024-05-14,The House Rivalry: The Fracture,umbrakor,,drusniel,UMB-M-022,false,the-house-rivalry-the-fracture
+144,2024-05-15,The House Rivalry: The Secret Meeting,umbrakor,,drusniel,UMB-M-023,false,the-house-rivalry-the-secret-meeting
+145,2024-05-16,The House Rivalry: The Night Before,umbrakor,,drusniel,UMB-M-024,false,the-house-rivalry-the-night-before
+146,2024-05-17,The House Rivalry: The Warning (Cut Short),umbrakor,,drusniel,UMB-M-025,false,the-house-rivalry-the-warning-cut-short
+147,2024-05-18,Blood in the Dark: The Chaos,umbrakor,,drusniel,UMB-M-026,false,blood-in-the-dark-the-chaos
+148,2024-05-19,Blood in the Dark: The Slaughter,umbrakor,,drusniel,UMB-M-027,false,blood-in-the-dark-the-slaughter
+149,2024-05-20,Blood in the Dark: The Escape,umbrakor,,drusniel,UMB-M-028,false,blood-in-the-dark-the-escape
+150,2024-05-21,Blood in the Dark: The Evidence,umbrakor,,drusniel,UMB-M-029,false,blood-in-the-dark-the-evidence
+151,2024-05-22,Blood in the Dark: Shyntara's Flight,umbrakor,,drusniel,UMB-M-030,false,blood-in-the-dark-shyntaras-flight
+152,2024-05-23,Blood in the Dark: The Hollow Victory,umbrakor,,drusniel,UMB-M-031,false,blood-in-the-dark-the-hollow-victory
+153,2024-05-24,The Package: The Broken Instrument,umbrakor,,drusniel,UMB-M-032,false,the-package-the-broken-instrument
+154,2024-05-25,The Package: The Mission,umbrakor,,drusniel,UMB-M-033,false,the-package-the-mission
+155,2024-05-26,The Package: The Artifact,umbrakor,,drusniel,UMB-M-034,false,the-package-the-artifact
+156,2024-05-27,The Package: The Crossing,umbrakor,,drusniel,UMB-M-035,false,the-package-the-crossing
+157,2024-05-28,The Package: The New World,umbrakor,,drusniel,UMB-M-036,false,the-package-the-new-world

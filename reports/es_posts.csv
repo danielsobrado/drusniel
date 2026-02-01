@@ -1,62 +1,62 @@
 order,date,title,category,type,canon_phase,canon_sequence,featured,path
-1101,2024-07-11,La magia en Astalor,astalor,Lore,lore,L-001,false,la-magia-en-astalor
-1102,2024-07-12,La Nada y el Segundo Sol,astalor,Lore,lore,L-002,false,la-creacion-de-astalor
-1103,2024-07-13,Descubriendo las Regiones de Astalor,astalor,Lore,lore,L-003,false,descubriendo-las-regiones-de-astalor
-1104,2024-07-14,La Búsqueda de la Supremacía Mágica por la Teocracia Contiana,contian,Lore,lore,L-004,false,echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica
-1105,2024-07-15,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,P-002,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza
-1106,2024-07-16,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prequel,prequel,P-003,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard
-1107,2024-07-17,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,P-004,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar
-1108,2024-07-18,La Defensa Resiliente del Imperio Divino de Lumeshire,lumeshire,Lore,lore,L-005,true,escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire
-1109,2024-07-19,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,L-006,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos
-1110,2024-07-20,Los Zuraldarr,lumeshire,Prequel,prequel,P-006,true,the-zuraldarr
-1111,2024-07-21,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prequel,prequel,P-007,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad
-1112,2024-07-22,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach
-1113,2024-07-23,La llamada a Zuraldi,stonehold,Prequel,prequel,P-051,true,la-llamada-a-zuraldi
-1114,2024-07-24,Un viaje complicado,stonehold,Prequel,prequel,P-052,false,un-viaje-complicado
-1115,2024-07-25,La Cámara Sagrada,umbrakor,Prologue,prologue,R-000,true,la-camara-sagrada
-1116,2024-07-26,Espadas y Sombras,umbrakor,Prologue,prologue,R-001,true,espadas-sombras
-1117,2024-07-27,La Prueba Fallida: La Prueba de Venemora,umbrakor,Prologue,prologue,R-001,false,la-prueba-fallida-la-prueba-de-venemora
-1118,2024-07-28,Secretos y Sombras,umbrakor,Prologue,prologue,R-002,false,secretos-y-sombras
-1119,2024-07-29,La Prueba Fallida: La Separación,umbrakor,Prologue,prologue,R-002,false,la-prueba-fallida-la-separacion
-1120,2024-07-30,La Prueba Fallida: Sombras en el Salón,umbrakor,Prologue,prologue,R-003,false,la-prueba-fallida-sombras-en-el-salon
-1121,2024-07-31,Voces en la Oscuridad: Los Días Vacíos,umbrakor,Prologue,prologue,R-004,false,voces-en-la-oscuridad-los-dias-vacios
-1122,2024-08-01,Voces en la Oscuridad: La Voz Distante,umbrakor,Prologue,prologue,R-005,false,voces-en-la-oscuridad-la-voz-distante
-1123,2024-08-02,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,Prologue,prologue,R-006,false,voces-en-la-oscuridad-la-semilla-de-la-duda
-1124,2024-08-03,Voces en la Oscuridad: La Decisión,umbrakor,Prologue,prologue,R-007,false,voces-en-la-oscuridad-la-decision
-1125,2024-08-04,El Mago de Superficie: La Torre,umbrakor,Prologue,prologue,R-008,false,el-mago-de-superficie-la-torre
-1126,2024-08-05,El Mago de Superficie: La Evaluación,umbrakor,Prologue,prologue,R-009,false,el-mago-de-superficie-la-evaluacion
-1127,2024-08-06,El Mago de Superficie: La Primera Lección,umbrakor,Prologue,prologue,R-010,false,el-mago-de-superficie-la-primera-leccion
-1128,2024-08-07,La mirada de un guardia a Grukmar,lumeshire,Chapter,main,M-011,true,la-mirada-de-un-guardia-a-grukmar
-1129,2024-08-08,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,Prologue,prologue,R-011,false,el-mago-de-superficie-la-mencion-de-wyrmreach
-1130,2024-08-09,Amenazas goblin en el borde con Grukmar,lumeshire,Chapter,main,M-012,false,amenazas-goblin-en-el-borde-de-grukmar
-1131,2024-08-10,El Mago de Superficie: El Regreso,umbrakor,Prologue,prologue,R-012,false,el-mago-de-superficie-el-regreso
-1132,2024-08-11,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,Prologue,prologue,R-013,false,conocimiento-prohibido-los-textos-antiguos
-1133,2024-08-12,La búsqueda de goblins se extiende más allá del borde de Grukmar,lumeshire,Chapter,main,M-013,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar
-1134,2024-08-13,Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos,lumeshire,Chapter,main,M-014,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar
-1135,2024-08-14,Conocimiento Prohibido: El Poder Creciente,umbrakor,Prologue,prologue,R-014,false,conocimiento-prohibido-el-poder-creciente
-1136,2024-08-15,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,Prologue,prologue,R-015,false,conocimiento-prohibido-las-senales-de-advertencia
-1137,2024-08-16,Gritos en la niebla,grukmar,Chapter,main,M-015,false,gritos-en-la-niebla
-1138,2024-08-17,Conocimiento Prohibido: La Tierra Distante,umbrakor,Prologue,prologue,R-016,false,conocimiento-prohibido-la-tierra-distante
-1139,2024-08-18,La marcha de la Desesperación ,grukmar,Prologue,prologue,R-016,false,la-marcha-de-la-desesperacion
-1140,2024-08-19,Conocimiento Prohibido: La Duda,umbrakor,Prologue,prologue,R-017,false,conocimiento-prohibido-la-duda
-1141,2024-08-20,La Rivalidad de la Casa: La Tormenta que se Avecina,umbrakor,Prologue,prologue,R-018,false,la-rivalidad-de-la-casa-la-tormenta-que-se-avecina
-1142,2024-08-21,La Rivalidad de la Casa: La Grieta,umbrakor,Prologue,prologue,R-019,false,la-rivalidad-de-la-casa-la-grieta
-1143,2024-08-22,La Rivalidad de la Casa: La Reunión Secreta,umbrakor,Prologue,prologue,R-020,false,la-rivalidad-de-la-casa-la-reunion-secreta
-1144,2024-08-23,La Rivalidad de la Casa: La Noche Antes,umbrakor,Prologue,prologue,R-021,false,la-rivalidad-de-la-casa-la-noche-antes
-1145,2024-08-24,La Rivalidad de la Casa: La Advertencia (Cortada),umbrakor,Prologue,prologue,R-022,false,la-rivalidad-de-la-casa-la-advertencia-cortada
-1146,2024-08-25,Sangre en la Oscuridad: El Caos,umbrakor,Prologue,prologue,R-023,false,sangre-en-la-oscuridad-el-caos
-1147,2024-08-26,Sangre en la Oscuridad: La Matanza,umbrakor,Prologue,prologue,R-024,false,sangre-en-la-oscuridad-la-matanza
-1148,2024-08-27,Sangre en la Oscuridad: El Escape,umbrakor,Prologue,prologue,R-025,false,sangre-en-la-oscuridad-el-escape
-1149,2024-08-28,Sangre en la Oscuridad: La Evidencia,umbrakor,Prologue,prologue,R-026,false,sangre-en-la-oscuridad-la-evidencia
-1150,2024-08-29,Sangre en la Oscuridad: La Huida de Shyntara,umbrakor,Prologue,prologue,R-027,false,sangre-en-la-oscuridad-la-huida-de-shyntara
-1151,2024-08-30,Sangre en la Oscuridad: La Victoria Hueca,umbrakor,Prologue,prologue,R-028,false,sangre-en-la-oscuridad-la-victoria-hueca
-1152,2024-08-31,El Paquete: El Instrumento Roto,umbrakor,Chapter,main,M-029,false,el-paquete-el-instrumento-roto
-1153,2024-09-01,El Paquete: La Misión,umbrakor,Chapter,main,M-030,false,el-paquete-la-mision
-1154,2024-09-02,El Paquete: El Artefacto,umbrakor,Chapter,main,M-031,false,el-paquete-el-artefacto
-1155,2024-09-03,El Paquete: La Travesía,umbrakor,Chapter,main,M-032,false,el-paquete-la-travesia
-1156,2024-09-04,El Paquete: El Nuevo Mundo,umbrakor,Chapter,main,M-033,false,el-paquete-el-nuevo-mundo
-1157,2024-09-05,El Camino de Zuraldi: El Despertar,stonehold,Chapter,main,M-034,false,el-camino-de-zuraldi-el-despertar
-1158,2024-09-06,El Camino de Zuraldi: La Ausencia,stonehold,Chapter,main,M-035,false,el-camino-de-zuraldi-la-ausencia
-1159,2024-09-07,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Chapter,main,M-036,false,el-camino-de-zuraldi-la-duda-del-sobrino
-1160,2024-09-08,El Camino de Zuraldi: Los Seguidores,stonehold,Chapter,main,M-037,false,el-camino-de-zuraldi-los-seguidores
-1161,2024-09-09,El Camino de Zuraldi: La Decisión,stonehold,Chapter,main,M-038,false,el-camino-de-zuraldi-la-decision
+101,2024-04-02,La magia en Astalor,astalor,Lore,lore,AST-L-001,false,la-magia-en-astalor
+102,2024-04-03,La Nada y el Segundo Sol,astalor,Lore,lore,AST-L-002,false,la-creacion-de-astalor
+103,2024-04-04,Descubriendo las Regiones de Astalor,astalor,Lore,lore,AST-L-003,false,descubriendo-las-regiones-de-astalor
+104,2024-04-05,La Búsqueda de la Supremacía Mágica por la Teocracia Contiana,contian,Lore,lore,CON-L-001,false,echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica
+105,2024-04-06,La Defensa Resiliente del Imperio Divino de Lumeshire,lumeshire,Lore,lore,LUM-L-001,true,escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire
+106,2024-04-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,STO-L-001,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos
+107,2024-04-08,Los Zuraldarr,lumeshire,Lore,lore,LUM-L-002,true,the-zuraldarr
+108,2024-04-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,WYR-L-001,true,profundidades-oscuras-el-dominio-wymreach
+109,2024-04-10,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,ELE-P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza
+110,2024-04-11,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prequel,prequel,FRO-P-001,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard
+111,2024-04-12,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,GRU-P-001,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar
+112,2024-04-13,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prequel,prequel,UMB-P-001,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad
+113,2024-04-14,La llamada a Zuraldi,stonehold,Prequel,prequel,STO-P-001,true,la-llamada-a-zuraldi
+114,2024-04-15,Un viaje complicado,stonehold,Prequel,prequel,STO-P-002,false,un-viaje-complicado
+115,2024-04-16,Gritos en la niebla,grukmar,Prequel,prequel,GRU-P-002,false,gritos-en-la-niebla
+116,2024-04-17,La marcha de la Desesperación,grukmar,Prequel,prequel,GRU-P-003,false,la-marcha-de-la-desesperacion
+117,2024-04-18,El Camino de Zuraldi: El Despertar,stonehold,Prologue,prologue,STO-R-001,false,el-camino-de-zuraldi-el-despertar
+118,2024-04-19,El Camino de Zuraldi: La Ausencia,stonehold,Prologue,prologue,STO-R-002,false,el-camino-de-zuraldi-la-ausencia
+119,2024-04-20,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Prologue,prologue,STO-R-003,false,el-camino-de-zuraldi-la-duda-del-sobrino
+120,2024-04-21,El Camino de Zuraldi: Los Seguidores,stonehold,Prologue,prologue,STO-R-004,false,el-camino-de-zuraldi-los-seguidores
+121,2024-04-22,El Camino de Zuraldi: La Decisión,stonehold,Prologue,prologue,STO-R-005,false,el-camino-de-zuraldi-la-decision
+122,2024-04-23,La Cámara Sagrada,umbrakor,,drusniel,UMB-M-001,true,la-camara-sagrada
+123,2024-04-24,Espadas y Sombras,umbrakor,,drusniel,UMB-M-002,true,espadas-sombras
+124,2024-04-25,La Prueba Fallida: La Prueba de Venemora,umbrakor,,drusniel,UMB-M-003,false,la-prueba-fallida-la-prueba-de-venemora
+125,2024-04-26,Secretos y Sombras,umbrakor,,drusniel,UMB-M-004,false,secretos-y-sombras
+126,2024-04-27,La Prueba Fallida: La Separación,umbrakor,,drusniel,UMB-M-005,false,la-prueba-fallida-la-separacion
+127,2024-04-28,La Prueba Fallida: Sombras en el Salón,umbrakor,,drusniel,UMB-M-006,false,la-prueba-fallida-sombras-en-el-salon
+128,2024-04-29,Voces en la Oscuridad: Los Días Vacíos,umbrakor,,drusniel,UMB-M-007,false,voces-en-la-oscuridad-los-dias-vacios
+129,2024-04-30,Voces en la Oscuridad: La Voz Distante,umbrakor,,drusniel,UMB-M-008,false,voces-en-la-oscuridad-la-voz-distante
+130,2024-05-01,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,,drusniel,UMB-M-009,false,voces-en-la-oscuridad-la-semilla-de-la-duda
+131,2024-05-02,Voces en la Oscuridad: La Decisión,umbrakor,,drusniel,UMB-M-010,false,voces-en-la-oscuridad-la-decision
+132,2024-05-03,El Mago de Superficie: La Torre,umbrakor,,drusniel,UMB-M-011,false,el-mago-de-superficie-la-torre
+133,2024-05-04,El Mago de Superficie: La Evaluación,umbrakor,,drusniel,UMB-M-012,false,el-mago-de-superficie-la-evaluacion
+134,2024-05-05,El Mago de Superficie: La Primera Lección,umbrakor,,drusniel,UMB-M-013,false,el-mago-de-superficie-la-primera-leccion
+135,2024-05-06,La mirada de un guardia a Grukmar,lumeshire,,drusniel,LUM-M-001,true,la-mirada-de-un-guardia-a-grukmar
+136,2024-05-07,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,,drusniel,UMB-M-014,false,el-mago-de-superficie-la-mencion-de-wyrmreach
+137,2024-05-08,Amenazas goblin en el borde con Grukmar,lumeshire,,drusniel,LUM-M-002,false,amenazas-goblin-en-el-borde-de-grukmar
+138,2024-05-09,El Mago de Superficie: El Regreso,umbrakor,,drusniel,UMB-M-015,false,el-mago-de-superficie-el-regreso
+139,2024-05-10,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,,drusniel,UMB-M-016,false,conocimiento-prohibido-los-textos-antiguos
+140,2024-05-11,La búsqueda de goblins se extiende más allá del borde de Grukmar,lumeshire,,drusniel,LUM-M-003,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar
+141,2024-05-12,Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos,lumeshire,,drusniel,LUM-M-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar
+142,2024-05-13,Conocimiento Prohibido: El Poder Creciente,umbrakor,,drusniel,UMB-M-017,false,conocimiento-prohibido-el-poder-creciente
+143,2024-05-14,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,,drusniel,UMB-M-018,false,conocimiento-prohibido-las-senales-de-advertencia
+144,2024-05-15,Conocimiento Prohibido: La Tierra Distante,umbrakor,,drusniel,UMB-M-019,false,conocimiento-prohibido-la-tierra-distante
+145,2024-05-16,Conocimiento Prohibido: La Duda,umbrakor,,drusniel,UMB-M-020,false,conocimiento-prohibido-la-duda
+146,2024-05-17,La Rivalidad de la Casa: La Tormenta que se Avecina,umbrakor,,drusniel,UMB-M-021,false,la-rivalidad-de-la-casa-la-tormenta-que-se-avecina
+147,2024-05-18,La Rivalidad de la Casa: La Grieta,umbrakor,,drusniel,UMB-M-022,false,la-rivalidad-de-la-casa-la-grieta
+148,2024-05-19,La Rivalidad de la Casa: La Reunión Secreta,umbrakor,,drusniel,UMB-M-023,false,la-rivalidad-de-la-casa-la-reunion-secreta
+149,2024-05-20,La Rivalidad de la Casa: La Noche Antes,umbrakor,,drusniel,UMB-M-024,false,la-rivalidad-de-la-casa-la-noche-antes
+150,2024-05-21,La Rivalidad de la Casa: La Advertencia (Cortada),umbrakor,,drusniel,UMB-M-025,false,la-rivalidad-de-la-casa-la-advertencia-cortada
+151,2024-05-22,Sangre en la Oscuridad: El Caos,umbrakor,,drusniel,UMB-M-026,false,sangre-en-la-oscuridad-el-caos
+152,2024-05-23,Sangre en la Oscuridad: La Matanza,umbrakor,,drusniel,UMB-M-027,false,sangre-en-la-oscuridad-la-matanza
+153,2024-05-24,Sangre en la Oscuridad: El Escape,umbrakor,,drusniel,UMB-M-028,false,sangre-en-la-oscuridad-el-escape
+154,2024-05-25,Sangre en la Oscuridad: La Evidencia,umbrakor,,drusniel,UMB-M-029,false,sangre-en-la-oscuridad-la-evidencia
+155,2024-05-26,Sangre en la Oscuridad: La Huida de Shyntara,umbrakor,,drusniel,UMB-M-030,false,sangre-en-la-oscuridad-la-huida-de-shyntara
+156,2024-05-27,Sangre en la Oscuridad: La Victoria Hueca,umbrakor,,drusniel,UMB-M-031,false,sangre-en-la-oscuridad-la-victoria-hueca
+157,2024-05-28,El Paquete: El Instrumento Roto,umbrakor,,drusniel,UMB-M-032,false,el-paquete-el-instrumento-roto
+158,2024-05-29,El Paquete: La Misión,umbrakor,,drusniel,UMB-M-033,false,el-paquete-la-mision
+159,2024-05-30,El Paquete: El Artefacto,umbrakor,,drusniel,UMB-M-034,false,el-paquete-el-artefacto
+160,2024-05-31,El Paquete: La Travesía,umbrakor,,drusniel,UMB-M-035,false,el-paquete-la-travesia
+161,2024-06-01,El Paquete: El Nuevo Mundo,umbrakor,,drusniel,UMB-M-036,false,el-paquete-el-nuevo-mundo
