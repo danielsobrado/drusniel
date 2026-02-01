@@ -1270,6 +1270,18 @@ This scene contrasts approaches:
 - Srietz's value: provides non-magical solutions
 - Survival requires BOTH but knowing when to use each
 
+**SRIETZ FAILURE BEAT (REQUIRED)**:
+> Srietz's alchemy works—but costs something. Value must come with price.
+
+The smoke vial works, but:
+- It was Srietz's LAST prepared compound
+- OR: The reaction ruins half their remaining water supply (contamination)
+- OR: Srietz used ingredients he needed for something else (medical salve, now gone)
+
+**Example beat**: "It worked," Srietz muttered, staring at the empty vial case. "That was the last one. Took me three weeks to make."
+
+This prevents Srietz from being a walking solution dispenser. His value is real but finite.
+
 **WORLDBUILDING ELEMENTS**:
 - **Alchemical smoke**: Disrupts Coatly senses, temporary
 - **Cave system**: Obsidian formations, defensible, hidden
@@ -1419,6 +1431,15 @@ The Voice knew he'd call again. It was waiting.
 - **Information as payment**: The Voice gives knowledge, not power
 - **Suspiciously precise**: It gives exactly what he needs (manipulation)
 
+**VOICE INFORMATION LIMIT (LOCKED)**:
+> The Voice does not provide solutions. It provides exactly what keeps Drusniel alive one step longer.
+
+- The Voice gives survival information (where to find food, where danger waits)
+- The Voice does NOT give strategic advantage, prophecy interpretation, or answers to mysteries
+- The Voice knows everything but shares only what serves its purposes
+- If information would resolve a plot question, the Voice withholds it
+- The Voice wants Drusniel alive and indebted—not informed
+
 **Hook**: "Two favors now. He couldn't afford to wonder what they'd cost."
 
 ---
@@ -1465,6 +1486,18 @@ This is NOT beautiful shapeshifting:
 - **Elion's experience**: He's done this before; knows the price
 - **Post-transformation state**: Capable but burning reserves
 - **What he becomes**: Not named, not explained—just FAST
+
+**TRANSFORMATION LIMIT RULE (LOCKED)**:
+> Elion can fully transform only once within a recovery cycle. Three transformations in close succession would kill him.
+
+- **Recovery cycle**: Minimum 24 hours between full transformations
+- **Degradation pattern**: Each transformation without recovery is worse
+  - First: exhausted but functional
+  - Second: fever, tremors, can't hold form long
+  - Third: fatal systemic failure
+- **Partial shifts**: Small changes (eyes, hands) cost less but still accumulate
+- **This is NOT a soft limit**: The narrative must respect this constraint
+- **Story implication**: Transformation is a last resort, not a combat option
 
 **Hook**: "And then he was gone, and they were alone with the silence."
 
@@ -1524,7 +1557,7 @@ This is NOT beautiful shapeshifting:
 | Drusniel | (reading) "...the prison realm, sealed against escape..." | Fragment |
 | Drusniel | (reading) "...the barrier was not protection but containment..." | Revelation |
 | Drusniel | (reading) "...those of dual nature alone may pass..." | Foreshadowing |
-| Drusniel (internal) | "Dual nature. Air and water. Is that what Zaelar meant?" | Connection |
+| Drusniel (internal) | "Dual nature. Air and water. Zaelar had guessed. Or hoped. This proved nothing." | Connection (uncertain) |
 | Drusniel (internal) | "This wasn't a history. It was a warning." | Realization |
 
 **ANCIENT WRITINGS CONTENT** (fragments only):
@@ -1844,6 +1877,14 @@ The chapter ends simply:
 ## Chapters 1-5 | Gathering Phase
 
 **Reading Order**: D1-D7 → E0 → D8 → E1 → D9 → E2 → D10 → E3 → D11 → E4 → D12 → E5 → D13...
+
+**E0 CLASSIFICATION NOTE**:
+> E0 is a prologue and is excluded from East Side chapter numbering.
+
+- E0 = East Side Prologue (covered in drusniel_chapter_blueprints_v2.md)
+- E1 = East Side Chapter 1 (this document begins here)
+- The "0" designation indicates prologue status, not a chapter number
+- This matches D convention where prologues would be D0 if applicable
 
 East Side chapters interleave with Drusniel chapters. Each East Side chapter parallels a Drusniel chapter thematically.
 
@@ -3128,6 +3169,195 @@ Each chapter should include at least one:
 | Balin | Quick, interrupting | Counts firsts | Humor |
 | Maris | Dry, restrained | Distance language | Dark humor |
 | Xandor | Patient, circular | Talks to plants | Metaphor |
+
+---
+
+# APPENDIX G: PROSE "DO NOT BREAK" CHECKLIST (LOCKED)
+
+> Keep this open while drafting. If any box fails, stop and fix.
+
+## A. DEBT & VOICE (NON-NEGOTIABLE)
+
+- [ ] The Voice appears only when death or irreversible failure is imminent
+- [ ] The Voice never:
+  - [ ] explains motives
+  - [ ] explains the system
+  - [ ] justifies itself
+  - [ ] offers comfort
+- [ ] Every Debt:
+  - [ ] is chosen consciously by Drusniel
+  - [ ] solves only the immediate survival window
+  - [ ] leaves a visible physical or psychological toll
+- [ ] No Debt ever:
+  - [ ] grants reusable power
+  - [ ] grants foresight beyond the next step
+  - [ ] improves Drusniel's long-term position
+
+**Fail state**: If a reader could ask "Why doesn't he just ask the Voice again?" → rewrite.
+
+## B. MAGIC (FIRST LAW ENFORCEMENT)
+
+- [ ] Magic never resolves the core conflict of a scene
+- [ ] Magic always:
+  - [ ] worsens exposure
+  - [ ] causes physical degradation
+  - [ ] attracts pursuit, attention, or escalation
+- [ ] Non-magical solutions must:
+  - [ ] exist
+  - [ ] be harder
+  - [ ] be morally or physically costly
+
+**Fail state**: If magic feels like the "correct" solution → rewrite the scene so it's the wrong one.
+
+## C. COMPANIONS (ANTI-POWER FANTASY)
+
+### Elion
+- [ ] Transformation is painful every time
+- [ ] Recovery time increases, not decreases
+- [ ] Precision drops before strength does
+- [ ] More than one transformation in short succession is lethal
+
+### Srietz
+- [ ] Every success costs supplies, time, or safety
+- [ ] At least one plan partially fails
+- [ ] Loyalty is conditional until proven otherwise
+
+**Fail state**: If either companion feels like a "build advantage" → inject cost.
+
+## D. INFORMATION CONTROL
+
+- [ ] Drusniel never knows what the East Side knows
+- [ ] Maris never explains meaning, only sensation
+- [ ] The Nexus is never framed as:
+  - [ ] wanting
+  - [ ] warning
+  - [ ] guiding
+- [ ] Ancient texts create questions, not answers
+
+**Fail state**: If information reduces uncertainty instead of redirecting it → cut or obscure.
+
+## E. ZAELAR / SZORAVEL GUARDRAILS
+
+- [ ] Zaelar never promises outcomes
+- [ ] Zaelar never names the system
+- [ ] Szoravel never explains purpose
+- [ ] Szoravel never validates Drusniel emotionally
+
+**Fail state**: If either feels omniscient or explanatory → remove dialogue lines.
+
+---
+
+# APPENDIX H: ZAELAR / SZORAVEL CONTRADICTION STRESS TEST
+
+> Run this after drafting each chapter where either is referenced or implied.
+
+## ZAELAR — CONSISTENCY TEST
+
+Ask each question. If any answer is "yes," fix it.
+
+Does Zaelar:
+- [ ] correctly predict Drusniel's exact emotional response?
+- [ ] reference knowledge that requires Wyrmreach access?
+- [ ] imply certainty instead of probability?
+- [ ] sound procedural or system-aware?
+
+**Required framing**: Zaelar operates on psychological models, not facts.
+
+**One allowed flaw only**:
+- [ ] Exactly one micro-irritation or impatience before Act 3
+- [ ] No second crack appears
+
+## SZORAVEL — CONSISTENCY TEST
+
+Ask each question.
+
+Does Szoravel:
+- [ ] explain why the system exists?
+- [ ] express approval or disappointment?
+- [ ] acknowledge Zaelar emotionally?
+- [ ] frame Drusniel as special instead of sufficient?
+
+**Required framing**: Szoravel treats Drusniel as replaceable but currently useful.
+
+## HANDOFF TEST (CRITICAL)
+
+On reread, this must be true:
+- [ ] Zaelar → convinces Drusniel to step onto the path
+- [ ] Szoravel → confirms the path exists, nothing more
+- [ ] They do not feel like collaborators
+- [ ] They do not share ideology
+
+**Fail state**: If they feel coordinated, the manipulation becomes authorial.
+
+---
+
+# APPENDIX I: DEBT #3 DESIGN PASS (LOCKED)
+
+> This is not prose. This is the constraint system so you don't trap yourself later.
+
+## DEBT ESCALATION TABLE (LOCKED)
+
+| Debt | Trigger | What It Solves | What It Costs |
+|------|---------|----------------|---------------|
+| #1 | Self death | Immediate survival | Physical stability |
+| #2 | Companion death | Short-term survival | Psychological fracture |
+| #3 | Mission failure | Partial success | Autonomy |
+
+**Debt #3 must be the first time**:
+- The Voice withholds something
+- Drusniel realizes survival ≠ control
+
+## DEBT #3 — HARD REQUIREMENTS
+
+**Debt #3 must**:
+- [ ] Solve the objective imperfectly
+- [ ] Force Drusniel to act against his preferred method
+- [ ] Remove a choice instead of adding one
+- [ ] Be visible to companions as a change in behavior
+
+**Debt #3 must not**:
+- [ ] Save everyone
+- [ ] Be framed as necessary evil
+- [ ] Feel like an upgrade
+- [ ] Provide clarity
+
+## STRUCTURAL SHAPE (NO PROSE)
+
+**Trigger condition** (choose one, not multiple):
+- Mission can succeed only if Drusniel relinquishes control
+- A companion's agency conflicts with mission success
+- The Nexus requires compliance, not resistance
+
+**The Voice's change**:
+- Shorter sentences
+- Less patience
+- One refusal before compliance
+
+**Aftermath marker**:
+- Drusniel hesitates where he didn't before
+- Someone else notices first
+- He cannot explain why
+
+## WARNING: COMMON FAILURE MODES FOR DEBT #3
+
+- ❌ Making it a bigger version of Debt #2
+- ❌ Letting Drusniel rationalize it immediately
+- ❌ Making the Voice openly antagonistic
+- ❌ Paying off earlier mysteries
+
+> Debt #3 should feel worse than death — because it removes authorship of self.
+
+---
+
+# FINAL LOCK STATEMENT
+
+If all constraint documents are enforced:
+
+- Zaelar remains human, not prophetic
+- Szoravel remains procedural, not villainous
+- The Voice remains terrifying without theatrics
+- Power escalates while agency collapses
+- Rereads feel inevitable, not engineered
 
 ---
 
