@@ -103,3 +103,53 @@ Before publishing any lore or prequel, verify:
 - [ ] Are threats localized, not structural?
 
 If any answer is "no", revise before publication.
+
+---
+
+## PREQUEL CONSTRAINT SHEET (LOCKED)
+
+**Status**: Canon rule — applies to ALL prequels
+
+### Core Constraint (Non-Negotiable)
+
+> A prequel may not state, confirm, or correctly explain any truth that Drusniel has not personally verified at the equivalent point in the main story.
+
+### Knowledge Ceiling
+
+POV must obey:
+- Knows less than the reader
+- Knows far less than the truth
+- Is capable of being wrong
+
+**Forbidden Knowledge:**
+- Explain the Nexus
+- Correctly describe the barrier's purpose
+- Name Wyrmreach as a prison realm
+- State prophecy as real/inevitable
+- Use "designed," "built," or "intended" for ancient systems
+
+### Language Filters
+
+**❌ Forbidden:**
+- "It is known that…"
+- "The truth of…"
+- "In reality…"
+- "This proves…"
+- "Inevitably"
+- "Designed to" / "Created for"
+
+**✅ Required Replacements:**
+- "They believed…"
+- "Some claimed…"
+- "The records disagree…"
+- "No one could explain…"
+- "It was said…"
+
+### Final Gate Check
+
+Before publishing, answer YES to all:
+1. Is the POV possibly wrong?
+2. Does this create questions instead of answers?
+3. Would removing this weaken the story more than clarify it?
+
+**If any answer is "no" → revise.**

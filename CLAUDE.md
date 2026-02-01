@@ -123,6 +123,71 @@ Every lore/prequel must end with one of:
 
 ---
 
+## PREQUEL CONSTRAINT SHEET (LOCKED)
+
+**Status**: Canon rule — applies to ALL prequels (Lore + Prequel categories)
+
+### Core Constraint (Non-Negotiable)
+
+> **A prequel may not state, confirm, or correctly explain any truth that Drusniel has not personally verified at the equivalent point in the main story.**
+
+If a sentence answers a question the chapters delay → **cut or reframe**.
+
+### Knowledge Ceiling Rule
+
+Each prequel POV must obey:
+- Knows less than the reader
+- Knows far less than the truth
+- Is capable of being wrong
+
+**Forbidden Knowledge** (prequel POV may NOT):
+- Explain the Nexus
+- Correctly describe the barrier's purpose
+- Name Wyrmreach as a prison realm
+- State prophecy as real, inevitable, or accurate
+- Use "designed," "built," or "intended" for ancient systems
+
+**Allowed**:
+- Rumors, beliefs, superstition
+- Institutional doctrine
+- Conflicting theories
+
+### Language Filters (Hard Rules)
+
+**❌ Forbidden Phrases:**
+- "It is known that…"
+- "The truth of…"
+- "In reality…"
+- "This proves…"
+- "Inevitably"
+- "Designed to" / "Created for"
+
+**✅ Required Replacements:**
+- "They believed…"
+- "Some claimed…"
+- "The records disagree…"
+- "No one could explain…"
+- "It was said…"
+
+**If certainty appears → downgrade it.**
+
+### Structural Density Rule
+
+- Prequels must be **rarer than chapters**
+- Never publish two high-density prequels back-to-back
+- One prequel = texture, not foundation
+
+### Final Gate Check (must pass ALL)
+
+Before publishing, answer **YES** to all:
+1. Is the POV possibly wrong?
+2. Does this create questions instead of answers?
+3. Would removing this prequel weaken the story more than it clarifies it?
+
+**If any answer is "no" → revise.**
+
+---
+
 ## Pre-Publication Checklist
 
 Before publishing any lore or prequel, verify:
@@ -131,6 +196,8 @@ Before publishing any lore or prequel, verify:
 - [ ] Does the piece end with uncertainty or error?
 - [ ] Are cosmic elements fragmentary, not explanatory?
 - [ ] Are threats localized, not structural?
+- [ ] No forbidden phrases present?
+- [ ] Passes all three Final Gate Check questions?
 
 ---
 
