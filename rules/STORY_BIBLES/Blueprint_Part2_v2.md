@@ -651,15 +651,7 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - "Rest another day"—repeated daily
 - No mention of payment, favor, or exchange
 
-**PROSE EXAMPLE (GOOD)**:
-> "You've been kind," Drusniel said. "Why?"
->
-> Merrik's smile didn't waver. "Company. News. You're interesting."
->
-> It was an answer. It wasn't a lie. Drusniel couldn't explain why it felt like both.
-
-**PROSE EXAMPLE (BAD)**:
-> Merrik's eyes glinted with hidden malice. "Rest another day," he said, his voice too smooth, too practiced. Drusniel felt a chill of suspicion.
+**PROSE GUIDANCE**: Merrik's answers are truthful but incomplete. Drusniel should sense wrongness without identifying it. Avoid villain signaling (glinting eyes, smooth voice).
 
 **Hook**: Something behind Merrik's eyes. Not cruelty. Patience. The patience of someone waiting for a sale.
 
@@ -1409,20 +1401,7 @@ The Voice knew he'd call again. It was waiting.
 - Still no warmth, no negotiation, no explanation
 - The offer is exactly what he needs (suspiciously precise)
 
-**PROSE EXAMPLE (GOOD)**:
-> The Voice didn't greet him. It didn't need to. The hollow attention was enough.
->
-> *There is a village. Goblins. Three hours east. They have what you need.*
->
-> "What's the price?"
->
-> *One favor. Owed when I call.*
->
-> Two now. Two unknown debts, stacked on his soul like weights.
->
-> "Agreed."
->
-> The Voice didn't respond. Information arrived instead—a map he hadn't learned, paths he'd never walked, knowledge that settled into his mind like something that had always been there.
+**PROSE GUIDANCE**: The Voice's return should feel inevitable, not surprising. No greeting, no preamble—just presence, then offer. Information delivery should feel invasive (implanted, not learned).
 
 **WORLDBUILDING ELEMENTS**:
 - **Voice's knowledge**: It knows Wyrmreach intimately (dragon's knowledge)
@@ -2224,20 +2203,7 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - Hand is vague—grey-dark, long fingers (not "drow" yet)
 - Chaos surrounds the fixed elements
 
-**PROSE EXAMPLE (GOOD)**:
-> The boat was always the same. Small. Wooden. Sitting on water that shouldn't exist.
->
-> Black water. Moving wrong. Too thick, then too thin. Alive in ways water shouldn't be.
->
-> And the hand.
->
-> Grey-dark skin. Long fingers. Reaching up from beneath the surface as the water pulled it down.
->
-> She never saw the face. Just the hand, slipping under. Just the moment before drowning.
->
-> Everything else was chaos—screaming wind, shapes in the deep, pressure from all sides.
->
-> But the boat was always the same. And the hand was always falling.
+**PROSE GUIDANCE**: The Stable Image should feel repetitive in structure but fresh in prose. Boat = anchor. Hand = emotion. Chaos = everything else. Don't over-describe the hand—grey-dark skin, long fingers, species ambiguous.
 
 **WORLDBUILDING ELEMENTS**:
 - **Stable Images**: Fixed elements in prophecy—things that WILL happen
@@ -2757,6 +2723,17 @@ The seer told him:
 
 **Character beat**: Aldric is right about speed. Dulint is right about danger. They're both right. And they'll both be wrong.
 
+**EMOTIONAL DELAY REQUIREMENT**:
+> At least one delay in this arc must be emotionally motivated, not purely tactical.
+
+Examples (choose one, don't script):
+- He delays because Balin looks exhausted (protecting family)
+- He delays because Maris collapses from a vision (compassion)
+- He delays because Stonehold memories intrude (grief)
+- He delays because the artifact reminds him of what he's losing (fear)
+
+This prevents the delay engine from becoming pure chess. Dulint is human first.
+
 **Hook**: "Three days. It sounded like nothing. It would mean everything."
 
 ---
@@ -3195,6 +3172,15 @@ Each chapter should include at least one:
 
 **Fail state**: If a reader could ask "Why doesn't he just ask the Voice again?" → rewrite.
 
+**REQUIRED BEAT (D13-D16 range)**:
+> Between Debt #2 and Debt #3, include exactly one scene where Drusniel almost anticipates the Voice—and realizes too late that anticipation itself is the trap.
+
+This is the "false normalization" moment:
+- He catches himself expecting the Voice in a difficult moment
+- He realizes he's becoming dependent, not just indebted
+- The Voice does NOT appear in this scene (that's the point)
+- His anticipation is the horror—he wanted it to come
+
 ## B. MAGIC (FIRST LAW ENFORCEMENT)
 
 - [ ] Magic never resolves the core conflict of a scene
@@ -3279,6 +3265,14 @@ Does Szoravel:
 
 **Required framing**: Szoravel treats Drusniel as replaceable but currently useful.
 
+**SZORAVEL LIMITATION (REQUIRED)**:
+> Szoravel must be factually wrong once. Not morally wrong—factually wrong. Discovered later.
+
+If Szoravel is never wrong, he becomes covertly omniscient. One small factual error (about timing, about a location, about a mechanism) prevents this.
+- The error should be minor enough to be defensible
+- The error should be discovered AFTER Drusniel commits to a path
+- The error should not be the Voice's domain (Voice handles survival, not strategy)
+
 ## HANDOFF TEST (CRITICAL)
 
 On reread, this must be true:
@@ -3346,6 +3340,35 @@ On reread, this must be true:
 - ❌ Paying off earlier mysteries
 
 > Debt #3 should feel worse than death — because it removes authorship of self.
+
+---
+
+# APPENDIX J: LOCALIZATION GOVERNANCE (LOCKED)
+
+> One canon_sequence = one post per language. Splits are allowed only if mirrored across all languages.
+
+## RULES
+
+1. **One-to-One Mapping**: Every English post has exactly one Spanish counterpart (and vice versa)
+2. **No Language-Specific Splits**: If a chapter is split into parts in EN, it must be split identically in ES
+3. **Publication Order Offset**: ES publication_order = EN publication_order + 1000
+4. **Sequence Parity**: Both languages use identical canon_sequence values (L-001, P-007, M-030)
+5. **Date Alignment**: Both language versions share the same publication date
+
+## ENFORCEMENT
+
+Before publishing:
+- [ ] EN and ES posts exist for this canon_sequence
+- [ ] Both use the same subchapter structure
+- [ ] counterpart_path fields are accurate and bidirectional
+- [ ] publication_order difference = exactly 1000
+
+## DRIFT PREVENTION
+
+If a split is needed:
+1. Apply to BOTH languages simultaneously
+2. Update both canon_sequence values together
+3. Regenerate reports for both catalogs
 
 ---
 
