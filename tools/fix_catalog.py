@@ -141,6 +141,7 @@ class Post:
         
     def update_metadata(self, new_order, new_date, new_sequence_id, lang):
         self.frontmatter['publication_order'] = new_order
+        self.frontmatter['order'] = new_order # Add required field for Gatsby
         self.frontmatter['date'] = new_date
         self.frontmatter['type'] = self.type_str
         self.frontmatter['canon_phase'] = self.canon_phase
