@@ -29,6 +29,9 @@
 - Spanish files are direct translations of English originals, with matching order and date.
 - Titles and tags are translated appropriately.
 
+## Content Body Conventions
+- The first content heading after frontmatter must include both the chapter and subchapter (e.g., `# Chapter 1.4 | Shadows in the Hall` / `# Capítulo 1.4 | Sombras en el Salón`).
+
 ## Chapter and Section Numbering
 - Chapter 0 (East) comes after Chapter 7 in timeline and order.
 - Order numbers are strictly sequential across all chapters.
