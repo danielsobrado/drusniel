@@ -188,6 +188,95 @@ Before publishing, answer **YES** to all:
 
 ---
 
+## PREQUEL LINT RULESET (v1.0 — ENFORCEABLE)
+
+**Scope**: `canon_phase` in {lore, prequel}
+**Goal**: Prevent premature truth, certainty, and omniscience
+
+### 🔴 ERROR Rules (Must Fix)
+
+#### L001 — Absolute Truth Assertion
+Prequel states a fact as universally true.
+```regex
+\b(it is|this is|there is)\b .* \b(true|fact|certain|known)\b
+\b(in reality|the truth is|it is known that)\b
+```
+**Fix**: Replace with "it is believed that", "some claim that", "records suggest"
+
+#### L002 — Purpose / Design Attribution
+Assigns intent to ancient systems.
+```regex
+\b(designed to|created to|built to|intended to)\b
+```
+**Fix**: Replace with "was believed to exist to", "is assumed to function as"
+
+#### L003 — Determinism / Inevitability
+Implies fate or unavoidable outcome.
+```regex
+\b(inevitable|destined|cannot be avoided|must happen)\b
+```
+**Fix**: Replace with "many feared it would", "some insisted it would"
+
+#### L004 — Causal Certainty
+Clear cause → effect chain stated as fact.
+```regex
+\b(thus|therefore|as a result|because of this)\b
+```
+**Fix**: Remove connector or insert contradiction
+
+#### L010 — Vocabulary Leak (Canonical Terms)
+Uses correct future vocabulary too early.
+**Watchlist**: "prison realm", "containment system", "governance mechanism", "Nexus" (pre-reveal)
+**Fix**: Replace with descriptive phrasing or local terminology
+
+### 🟠 WARNING Rules (Should Fix)
+
+#### L005 — Omniscient Perspective
+Narration knows things no POV character should.
+**Flags**: "no one knew", "all would learn", "the world would soon"
+**Action**: Manual rewrite required
+
+#### L006 — Metaphysical Definition
+Defines abstract concepts cleanly.
+```regex
+\b(represents|symbolizes|means)\b
+```
+**Fix**: Replace with "is often taken to represent", "has been interpreted as"
+
+#### L007 — Instructional Tone
+Text guides reader understanding.
+```regex
+\b(to understand|one must|in order to)\b
+```
+**Fix**: Replace with "attempts to understand often", "many begin by assuming"
+
+#### L009 — Clean Ending
+Prequel ends with clarity or resolution.
+**Flags in last paragraph**: "thus", "in this way", "therefore"
+**Fix**: Replace ending with missing text, suppression, or wrong conclusion
+
+### 🟡 SUGGESTION Rules
+
+#### L008 — Single-Voice Authority
+Only one interpretation presented.
+**Heuristic**: Paragraph > 120 words with no qualifiers ("some", "others", "disputed", "claimed")
+**Fix**: Insert contradiction or dissent
+
+### Pass / Fail Gate
+
+A prequel **FAILS** lint if:
+- ❌ Any ERROR (L001-L004, L010) remains
+- ❌ More than 2 WARNINGS remain
+- ❌ Ending violates L009
+
+### Advanced Rules (v1.1)
+
+- **Density Cap**: Max 1 abstract paragraph per prequel
+- **POV Anchor**: Every 300 words must reference a physical action or sensation
+- **Ignorance Token**: At least one explicit "we do not know" equivalent
+
+---
+
 ## Pre-Publication Checklist
 
 Before publishing any lore or prequel, verify:
@@ -198,6 +287,7 @@ Before publishing any lore or prequel, verify:
 - [ ] Are threats localized, not structural?
 - [ ] No forbidden phrases present?
 - [ ] Passes all three Final Gate Check questions?
+- [ ] Passes PREQUEL LINT (no ERRORs, ≤2 WARNINGs)?
 
 ---
 
