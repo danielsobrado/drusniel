@@ -102,16 +102,12 @@ Before writing ANY chapter in this document, verify:
 - "Worth it"
 
 **ALLOWED framing**:
-- "Say yes or die"
-- "This is the only way"
-- "It will not save you again"
-- "One favor. Owed when I call."
+- Coercive ultimatum (survival vs. death)
+- Single offer, no negotiation
+- Cost unspecified, owed when called
+- No explanation, no reassurance
 
 Debt is coercive survival, not consent.
-
-**GOOD**: "The voice didn't bargain. It offered once. Drusniel's lungs were filling with black water. He said yes."
-
-**BAD**: "The voice offered a fair exchange—one favor for his life. Drusniel considered it reasonable."
 
 ---
 
@@ -124,9 +120,7 @@ Any time magic is used:
 
 If magic feels helpful without consequence, revise.
 
-**GOOD**: "The wind obeyed him. The arrows scattered. And somewhere in the distance, something turned its attention toward the disturbance."
-
-**BAD**: "His air magic deflected the arrows perfectly. They continued on safely."
+Magic success must always include detection consequence.
 
 ---
 
@@ -278,9 +272,7 @@ This is the most important scene in Part 2. Get it right.
 - Sound warm or kind
 - Linger for conversation
 
-**The offer**: "I can save you. One favor. Owed when I call."
-
-That's it. No elaboration. No terms. No "trust me."
+**The offer structure**: Single sentence. Survival in exchange for unspecified favor. No elaboration, no terms, no reassurance.
 
 ### SUBCHAPTER BREAKDOWN
 
@@ -293,12 +285,10 @@ That's it. No elaboration. No terms. No "trust me."
 - His training feels useless before the first stroke
 - Physical dread before anything attacks
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | Artifact sensation | "Like breathing through cloth. Every spell I knew was muffled, distant." |
-| Drusniel (internal) | First wrongness | "The water was too thick. Then too thin. Then thick again." |
-| Drusniel (internal) | Counting | "I counted strokes. One. Two. Three. Three. Three." |
+**SCENE REQUIREMENTS**:
+- Establish artifact muting sensation (magical suffocation)
+- Show water behaving wrong (density shifts)
+- Use counting quirk, then break it (time distortion)
 
 **WORLDBUILDING ELEMENTS**:
 - **Nightmare sea**: The barrier between realms manifests as impossible water
@@ -326,12 +316,10 @@ That's it. No elaboration. No terms. No "trust me."
 - The artifact's muting makes everything harder
 - Something is hunting by magical signature—his attempts make him visible
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | Air magic attempt | "I pulled air toward my face. It came—thin, reluctant. Enough for one more breath. Not two." |
-| Drusniel (internal) | Water magic disaster | "I reached for the current and felt it reach back. The vertigo tripled." |
-| Drusniel (internal) | Realization | "Every spell I cast was a beacon. Something below was listening." |
+**SCENE REQUIREMENTS**:
+- Air magic barely works (thin, insufficient)
+- Water magic backfires (connects him to the threat)
+- Magic use creates visibility to predators
 
 **WORLDBUILDING ELEMENTS**:
 - **Air magic in nightmare sea**: Works, but air is wrong here—thin, reluctant, tastes like copper
@@ -347,7 +335,7 @@ That's it. No elaboration. No terms. No "trust me."
 
 **Character beat**: Drusniel's INTJ mind tries to problem-solve. He calculates: air magic buys 30 seconds per cast. He has maybe three casts in him. That's 90 seconds. The shore is nowhere.
 
-**The math doesn't work.** This is when he starts to truly panic.
+**The math doesn't work.** Panic follows the calculation.
 
 **Hook**: "Ninety seconds. The shore was gone. He was going to die doing arithmetic."
 
@@ -361,12 +349,10 @@ That's it. No elaboration. No terms. No "trust me."
 - No physical or magical exit
 - The moment he stops fighting (surrender, not peace)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | Lungs | "The water entered him. It didn't feel like drowning. It felt like being filled." |
-| Drusniel (internal) | Final thought | "Annariel. I never said goodbye." |
-| Drusniel (internal) | Surrender | "He stopped fighting. Not acceptance. Exhaustion." |
+**SCENE REQUIREMENTS**:
+- Drowning feels like being filled, not suffocating
+- Final thought is personal (Annariel callback)
+- Surrender from exhaustion, not acceptance
 
 **WORLDBUILDING ELEMENTS**:
 - **Nightmare sea death**: Not drowning—being consumed
@@ -397,12 +383,10 @@ That's it. No elaboration. No terms. No "trust me."
 - Drusniel says yes because he has no other option
 - Immediate effect—power floods through
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| The Voice | The offer | "I can save you. One favor. Owed when I call." |
-| Drusniel | Acceptance | "Yes." (No hesitation—he's dying) |
-| The Voice | After | Nothing. The Voice doesn't respond. It simply acts. |
+**VOICE CONSTRAINTS**:
+- Offer once, no negotiation
+- Drusniel accepts because alternative is death
+- Voice acts immediately, no acknowledgment
 
 **THE VOICE'S CHARACTERISTICS** (CRITICAL):
 - No greeting
@@ -425,28 +409,6 @@ That's it. No elaboration. No terms. No "trust me."
 - When power flows, it feels wrong—not his, wearing him
 - The thing below retreats—it recognizes something
 
-**PROSE EXAMPLE (GOOD)**:
-> The silence spoke.
->
-> Not words. Not sound. Just meaning, arriving in his mind like something that had always been there.
->
-> *I can save you. One favor. Owed when I call.*
->
-> No greeting. No name. No terms explained.
->
-> Drusniel's lungs were full of black water. His heart was slowing. The thing below was rising.
->
-> "Yes."
->
-> The Voice didn't acknowledge. It simply acted.
-
-**PROSE EXAMPLE (BAD)**:
-> "Hello, Drusniel," a warm voice spoke in his mind. "I've been watching you. You have potential. I can save your life, but in exchange, you'll owe me one small favor. Does that sound fair?"
->
-> Drusniel considered the offer. It seemed reasonable.
->
-> "Deal," he said.
-
 **Hook**: "Power flooded through him. Not his. Something old, something vast, something that fit him like a glove fits a hand it was made to wear."
 
 ---
@@ -460,12 +422,10 @@ That's it. No elaboration. No terms. No "trust me."
 - No understanding gained—he doesn't know what just happened
 - Wyrmreach's shore is WRONG (not just dark—alien)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | Power | "The magic wasn't his. It wore him. He was the glove, not the hand." |
-| Drusniel (internal) | Shore | "Black sand. Red sky. Nothing was the right color." |
-| Drusniel (internal) | Collapse | "He made it three steps before his legs stopped working." |
+**SCENE REQUIREMENTS**:
+- Power felt borrowed, not his (wearing him)
+- Shore is alien (wrong colors, wrong everything)
+- Physical collapse before reaching safety
 
 **WORLDBUILDING ELEMENTS**:
 - **Wyrmreach shore**: Black sand, red-tinged sky, distant volcanic glow, wrong flora
@@ -549,15 +509,11 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - The environment is a camp, not civilization
 - First impressions of Wyrmreach through fever-haze
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Merrik | "Easy. Easy. You're safe now." | False comfort |
-| Drusniel | "Where..." (barely conscious) | Vulnerability |
-| Merrik | "You're lucky I found you before the scavengers did. Another hour and there'd be nothing left." | Stakes + ownership language |
-| Drusniel (internal) | "His voice was kind. That was all that mattered." | Trust forming |
-| Merrik | "Rest. You've been through something. The sea takes a toll." | Knowledge of crossing |
-| Drusniel (internal) | "He knows about the crossing. He's helped others." | False assumption |
+**DIALOGUE CONSTRAINTS**:
+- Merrik offers false comfort (uses "safe" language)
+- Uses ownership language ("my find," "lucky I found you")
+- Shows knowledge of crossing (suspicious expertise)
+- Drusniel forms trust from vulnerability, not evidence
 
 **WORLDBUILDING ELEMENTS**:
 - **Wyrmreach coast scavengers**: Things that feed on crossing survivors
@@ -586,17 +542,11 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - Drusniel's magic is returning but weak
 - The distant volcanic glow—constant, ominous
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "The sky. Why is it that color?" | Alien environment |
-| Merrik | "Wyrmreach. The sky's been wrong since before anyone remembers." | Normalization |
-| Drusniel | "What is that glow? On the horizon?" | Volcano introduction |
-| Merrik | "The contested lands. Best avoided unless you want to be someone's asset." | Foreshadowing |
-| Drusniel (internal) | "My magic. I can feel it returning. Slowly." | Recovery note |
-| Merrik | "You're a mage, then? That's valuable here." | Information gathering |
-| Drusniel | "I have some training." | Guarded |
-| Merrik | "Good. Good. That's good for you." | Calculating |
+**DIALOGUE CONSTRAINTS**:
+- Drusniel asks about alien environment (sky, glow)
+- Merrik normalizes wrongness (been this way forever)
+- Merrik probes for value (mage status, skills)
+- Drusniel guards information but not enough
 
 **WORLDBUILDING ELEMENTS**:
 - **Wyrmreach sky**: Red-shifted, perpetual twilight, no true night
@@ -626,17 +576,11 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - Something is wrong (too generous, too interested, too patient)
 - Drusniel notices but rationalizes
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Merrik | "More stew? You need your strength." | Caretaking |
-| Drusniel | "You've been very kind. What do you want in return?" | Suspicion surfacing |
-| Merrik | "Want? Company. News from outside. You're interesting." | Deflection |
-| Merrik | "Where were you headed? Before the sea?" | Intelligence |
-| Drusniel | "Someone named Szoravel. Do you know him?" | Mission reveal |
-| Merrik | "Szoravel? That's... ambitious. Eastern territories. Dangerous road." | Recognition |
-| Drusniel (internal) | "He knows the name. He's helped others reach this Szoravel?" | Wrong conclusion |
-| Merrik | "Rest another day. You're not strong enough to travel." | Delay tactic |
+**DIALOGUE CONSTRAINTS**:
+- Drusniel's suspicion surfaces but is deflected
+- Merrik probes for mission details (reveals too much)
+- Merrik shows suspicious knowledge (Szoravel recognition)
+- "Rest another day" as repeated delay tactic
 
 **WORLDBUILDING ELEMENTS**:
 - **Merrik's knowledge**: He knows Szoravel, the territories, the roads—too well
@@ -665,19 +609,12 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - Merrik's true nature: not evil, just economical
 - Capture is LOGICAL, not dramatic
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "I should leave today. I've imposed enough." | Attempt to leave |
-| Merrik | "Of course. Let me pack you supplies for the road." | Compliance |
-| Drusniel (internal) | "My legs. Why are my legs so heavy?" | Drug realization |
-| Drusniel | "What did you give me?" | Confrontation |
-| Merrik | "Nothing dangerous. Just something to help you rest. You needed rest." | No lie—technically true |
-| Drusniel | "You're going to sell me." | Understanding |
-| Merrik | "You'll fetch a good price. Drow are rare here. Mages rarer." | No denial |
-| Merrik | "I could have left you to the scavengers. This is kinder." | His logic |
-| Drusniel | "Kinder." | Bitter echo |
-| Merrik | "The caravan arrives tomorrow. You'll be treated well—healthy cargo sells better." | Business |
+**DIALOGUE CONSTRAINTS**:
+- Drusniel attempts to leave, discovers he's been drugged
+- Merrik never lies (technically true statements only)
+- Merrik justifies with logic ("kinder than scavengers")
+- Betrayal is pragmatic, not dramatic
+- "Healthy cargo sells better" as business framing
 
 **WORLDBUILDING ELEMENTS**:
 - **Wyrmreach drugs**: Compliance agents, common in slave trade
@@ -764,15 +701,11 @@ Elion must be UNSETTLING before he's sympathetic:
 - The journey is degrading but not brutally so (cargo preservation)
 - Drusniel's magic is returning but risky to use
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Guard | "Don't look at the demon. Don't talk to it. Don't go near its cage." | Elion introduction |
-| Drusniel (internal) | "The other prisoners pressed against the far side of their cages." | Social isolation |
-| Guard | "It possessed that elf weeks ago. Been wrong ever since." | False explanation |
-| Drusniel (internal) | "Grey skin. Red markings. Longer ears than any elf I've seen." | Description |
-| Drusniel (internal) | "My magic. I can feel it now. Weak. But there." | Recovery |
-| Other prisoner | (whispered) "They caught a drow? We're all going to die." | Drow reputation |
+**SCENE REQUIREMENTS**:
+- Guards establish Elion as "demon-possessed" (false explanation)
+- Other prisoners fear both Elion and Drusniel
+- Drusniel's magic returning but risky
+- Visual wrongness of Elion without revealing truth
 
 **WORLDBUILDING ELEMENTS**:
 - **Slave caravans**: Professional operations, multiple cages, scheduled routes
@@ -801,19 +734,12 @@ Elion must be UNSETTLING before he's sympathetic:
 - Mutual recognition: two people who value freedom above safety
 - Guards interrupt before trust can fully form
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Elion | "You're not from here." | First words |
-| Drusniel | "Neither are you, from what I hear." | Testing |
-| Elion | "What do they say I am?" | Curiosity, not defense |
-| Drusniel | "Possessed. A demon wearing an elf's body." | Direct |
-| Elion | (slight smile) "Close enough. What are you?" | Acceptance |
-| Drusniel | "Drow. Mage. Currently property." | Bitter |
-| Elion | "Property is temporary. Freedom is a choice." | His philosophy |
-| Drusniel | "Freedom requires opportunity." | Pragmatism |
-| Elion | "Opportunity requires attention. They feed us at dusk." | Plan seed |
-| Guard | "No talking to the demon!" (kicks cage) | Interruption |
+**DIALOGUE CONSTRAINTS**:
+- Elion speaks first (recognizes Drusniel as different)
+- Conversation is strange (Elion knows too much, asks wrong questions)
+- Mutual recognition of shared value: freedom above safety
+- Escape plan seeded through practical detail
+- Guards interrupt before trust fully forms
 
 **WORLDBUILDING ELEMENTS**:
 - **Elion's self-knowledge**: He doesn't know what he is—only what he isn't
@@ -828,7 +754,7 @@ Elion must be UNSETTLING before he's sympathetic:
 - He jumps straight to escape planning
 - He seems to already know Drusniel can help
 
-**Character beat**: Drusniel realizes he's not afraid of Elion. He should be—everyone else is. But the creature in the cage looks at him like an equal, not prey or predator. That's rare. That matters.
+**Character beat**: Drusniel's lack of fear toward Elion contrasts with everyone else's terror. Elion treats him as equal—that distinction matters.
 
 **Hook**: "They feed us at dusk." Four words. A plan in four words.
 
@@ -842,15 +768,11 @@ Elion must be UNSETTLING before he's sympathetic:
 - He chooses to stay and help Elion
 - This is AGENCY—not forced, not manipulation, HIS choice
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | "The lock. Rusted. One precise push and it would give." | Opportunity |
-| Drusniel (internal) | "I could be gone before they noticed. Leave the demon. Leave everyone." | Option clear |
-| Drusniel (internal) | "He looked at me like a person. That shouldn't matter." | Why it matters |
-| Drusniel | (to Elion, whispered) "When they open for feeding. Follow my lead." | Choice made |
-| Elion | (no words—just a nod) | Understanding |
-| Drusniel (internal) | "Two of us. Worse odds. But at least I wouldn't be running alone." | Rationalization |
+**SCENE REQUIREMENTS**:
+- Clear solo escape option exists (magic works, cage weakness)
+- Drusniel CHOOSES to include Elion (agency moment)
+- Choice based on recognition, not obligation
+- Worse odds acknowledged but accepted
 
 **WORLDBUILDING ELEMENTS**:
 - **Cage construction**: Iron bars, wooden frames, varying quality
@@ -1076,17 +998,12 @@ Vexrath is Srietz's former captor. The Coatly are Vexrath's hunting creatures:
 - He knows where they are, what's hunting them
 - First bargain: information for protection
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "Not good. Not good at all. You're in Vexrath's shadow." | First words |
-| Drusniel | "Who are you?" | Challenge |
-| Srietz | "Srietz. Alchemist. Currently very motivated to be elsewhere." | Self-intro |
-| Srietz | "You. Drow? And that—" (looks at Elion) "—Srietz doesn't want to know what that is." | Assessment |
-| Drusniel | "We need to get out of this territory." | Need stated |
-| Srietz | "Srietz can help. Srietz knows the paths. But Srietz doesn't help for free." | Transactional |
-| Elion | "What do you want?" | Direct |
-| Srietz | "Take Srietz with you. Away from here. That's the price." | The bargain |
+**DIALOGUE CONSTRAINTS**:
+- Srietz uses third person (speech pattern)
+- Immediate mutual value assessment
+- Transactional framing from first moment
+- Bargain: his knowledge for their protection
+- Srietz avoids asking what Elion is
 
 **WORLDBUILDING ELEMENTS**:
 - **Srietz's speech pattern**: Third person for distance, survival habit
@@ -1381,18 +1298,12 @@ The Voice knew he'd call again. It was waiting.
 - Offer: knowledge of nearby resources (goblin village)
 - Choice: accept debt or watch group slowly die
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | "Alone in the dark. The others asleep. Thinking." | Setup |
-| The Voice | (no greeting—just presence) | Familiar return |
-| Drusniel (internal) | "I knew this feeling. The hollow attention. It was back." | Recognition |
-| The Voice | "There is a village. Goblins. Three hours east. Supplies." | Offer |
-| Drusniel | "What's the price?" | He knows now |
-| The Voice | "One favor. Owed when I call." | Same terms |
-| Drusniel (internal) | "Two favors now. Two unknown debts." | Awareness of accumulation |
-| Drusniel | "...Agreed." | Acceptance |
-| The Voice | (silence—information arrives like a map in his mind) | Transaction complete |
+**DIALOGUE CONSTRAINTS**:
+- Voice arrives without greeting (familiar now)
+- Offer is precise survival information
+- Same terms as before (favor owed when called)
+- Drusniel aware this is accumulating
+- Information delivery feels invasive, not learned
 
 **VOICE CHARACTERISTICS (Ch 12)**:
 - Familiar now—no introduction needed
@@ -1905,15 +1816,11 @@ Aldric enters this story BROKEN:
 - His connection to Xandor (old friend, why he's here)
 - The weight of men he lost
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric (internal) | "Three months since they stripped his rank. Three months since they were proven right." | Backstory |
-| Tavern keeper | "Captain Aldric? Thought you'd left." | Recognition |
-| Aldric | "Just Aldric now. The 'captain' stays with the uniform." | Bitterness |
-| Aldric (internal) | "Varian. Elric. Dead because he wasn't convincing enough." | Guilt |
-| Messenger | "Message for you. From Xandor." | Plot hook |
-| Aldric | "Xandor. Of course." (reluctant hope) | Connection |
+**SCENE REQUIREMENTS**:
+- Establish dismissal backstory (vindicated but too late)
+- Show bitterness without villain framing
+- Dead scouts' names carry weight
+- Xandor summons as reluctant hope
 
 **WORLDBUILDING ELEMENTS**:
 - **Riverhold**: Major crossroads town, trading hub
@@ -3381,6 +3288,101 @@ If all constraint documents are enforced:
 - The Voice remains terrifying without theatrics
 - Power escalates while agency collapses
 - Rereads feel inevitable, not engineered
+
+---
+
+# APPENDIX K: FUTURE COLLAPSE AUDIT (Ch 14-20)
+
+> Failure forecast for escalation pressure. Lock these constraints BEFORE drafting.
+
+## COLLAPSE POINT #1 — DEBT #3 SOLVES TOO MUCH
+
+**Risk**: High pressure tempts letting Debt #3 fix positioning, guarantee success, or reveal system logic.
+
+**Constraint (LOCKED)**:
+- Debt #3 must solve objective imperfectly
+- Must remove choice, not add power
+- Must succeed while damaging alignment with companions
+
+> If Debt #3 feels like a "breakthrough", you failed.
+
+---
+
+## COLLAPSE POINT #2 — ELION BECOMES COMBAT SOLUTION
+
+**Risk**: Repeated danger + known transformation = "Elion handles it" syndrome.
+
+**Constraint (LOCKED)**:
+- Between Ch 14–20: Elion may transform at most ONCE
+- That transformation must:
+  - Worsen his later effectiveness
+  - Scare allies as much as enemies
+
+> If Elion ever feels reliable, tension dies.
+
+---
+
+## COLLAPSE POINT #3 — SRIETZ TURNS INTO PLOT GLUE
+
+**Risk**: Srietz becomes pathfinder, logistics solver, exposition bridge.
+
+**Constraint (LOCKED)**:
+- Srietz must be wrong once
+- Srietz must misjudge once
+- Srietz must cause delay or loss unintentionally
+
+> If Srietz only helps, he stops feeling transactional.
+
+---
+
+## COLLAPSE POINT #4 — ZAELAR RETROACTIVE OMNISCIENCE
+
+**Risk**: Later revelations tempt validating Zaelar's early framing, making him "basically right all along."
+
+**Constraint (LOCKED)**:
+- By Ch 17–18: One of Zaelar's assumptions must be proven incomplete
+- Not malicious, not stupid—just limited
+
+> Zaelar must remain human in hindsight.
+
+---
+
+## COLLAPSE POINT #5 — SZORAVEL AS FINAL AUTHORITY
+
+**Risk**: As systems tighten, Szoravel risks becoming mouthpiece for truth, arbiter of correctness.
+
+**Constraint (LOCKED)**:
+- Between Ch 16–20: Szoravel must be factually wrong once
+- The system still functions
+- But his certainty does not
+
+> If Szoravel is never wrong, the system feels authored.
+
+---
+
+## COLLAPSE POINT #6 — VOICE NORMALIZATION TRAP
+
+**Risk**: After multiple interactions, the Voice risks becoming familiar, expected, routine.
+
+**Constraint (LOCKED)**:
+- One scene between Ch 14–20 must include:
+  - Drusniel anticipating the Voice
+  - The Voice NOT appearing
+  - Consequences follow
+
+> This reasserts dominance without theatrics.
+
+---
+
+## COLLAPSE POINT #7 — LORE DUMP PRESSURE
+
+**Risk**: Mid-book escalation creates temptation to explain Nexus, clarify Barrier, connect all dots.
+
+**Constraint (LOCKED)**:
+- Ch 14–20 may: add questions, add contradictions, add cost
+- Ch 14–20 may NOT: resolve mysteries, explain system origin, confirm ultimate outcomes
+
+> If clarity increases, mystery collapses.
 
 ---
 
