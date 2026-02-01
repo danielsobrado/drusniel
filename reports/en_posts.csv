@@ -1,0 +1,62 @@
+order,date,title,pov,category,type,chapter_number,path,url
+101,2021-05-15,Magic in Astalor,Sage,Astalor,Lore,,/magic-in-astalor/,https://www.drusniel.com/magic-in-astalor/
+102,2024-04-16,Nothingness and the Second Sun,Sage,Astalor,Lore,,/nothingness-and-the-second-sun/,https://www.drusniel.com/nothingness-and-the-second-sun/
+103,2022-02-17,The regions of Astalor,Sage,Astalor,Lore,,/the-regions-of-astalor/,https://www.drusniel.com/the-regions-of-astalor/
+201,2024-04-10,The Contian Theocracy's Quest for Magical Supremacy,Syrael,Contian,Lore,,/the-contian-theocracys-quest-for-magical-supremacy/,https://www.drusniel.com/the-contian-theocracys-quest-for-magical-supremacy/
+202,2024-04-10,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,Faelyn,Elenoria,Lore,,/eternal-woods-the-kingdom-of-elenorias-dance-with-nature/,https://www.drusniel.com/eternal-woods-the-kingdom-of-elenorias-dance-with-nature/
+203,2024-04-10,Ice and Iron: The Warriors of the Empire of Frostgard,Ymirgard,Frostgard,Lore,,/ice-and-iron-the-warriors-of-the-empire-of-frostgard/,https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/
+204,2024-04-10,The Unruly Might of the Grukmar Tribes,Groktar,Grukmar,Lore,,/the-unruly-might-of-the-grukmar-tribes/,https://www.drusniel.com/the-unruly-might-of-the-grukmar-tribes/
+205,2024-04-10,The Resilient Defense of the Lumeshirean Divine Empire,Valarian,Lumeshire,Lore,,/the-resilient-defense-of-the-lumeshirean-divine-empire/,https://www.drusniel.com/the-resilient-defense-of-the-lumeshirean-divine-empire/
+206,2024-04-10,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,Vondar,Stonehold,Lore,,/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/,https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/
+206,2024-04-11,The Zuraldarr,Valarian,Lumeshire,Lore,,/the-zuraldarr/,https://www.drusniel.com/the-zuraldarr/
+207,2024-04-10,The Umbra'kor Dominion's Pact with Darkness,Venemora,Umbra'kor,Lore,,/the-umbrakor-dominions-pact-with-darkness/,https://www.drusniel.com/the-umbrakor-dominions-pact-with-darkness/
+208,2024-04-10,The Mysteries of the Wymreach Dominion,Vorogarth,Wyrmreach,Lore,,/the-mysteries-of-the-wymreach-dominion/,https://www.drusniel.com/the-mysteries-of-the-wymreach-dominion/
+251,2024-04-25,The Call to Zuraldi,Vondar,Stonehold,Prequel,,/the-call-to-zuraldi/,https://www.drusniel.com/the-call-to-zuraldi/
+252,2024-04-26,A Journey Interrupted,Vondar,Stonehold,Prequel,,/a-journey-interrupted/,https://www.drusniel.com/a-journey-interrupted/
+300,2024-04-15,The Sacred Chamber,Drusniel,Umbra'kor,Chapter,1.1,/the-sacred-chamber/,https://www.drusniel.com/the-sacred-chamber/
+301,2024-04-16,Swords and Shadows,Drusniel,Umbra'kor,Prequel,,/swords-and-shadows/,https://www.drusniel.com/swords-and-shadows/
+301,2024-04-16,The Failed Trial: The Test of Venemora,Drusniel,Umbra'kor,Chapter,1.2,/the-failed-trial-the-test-of-venemora/,https://www.drusniel.com/the-failed-trial-the-test-of-venemora/
+302,2024-04-17,Secrets and Shadows,Drusniel,Umbra'kor,Prequel,,/secrets-and-shadows/,https://www.drusniel.com/secrets-and-shadows/
+302,2024-04-17,The Failed Trial: The Separation,Drusniel,Umbra'kor,Chapter,1.3,/the-failed-trial-the-separation/,https://www.drusniel.com/the-failed-trial-the-separation/
+303,2024-04-18,The Failed Trial: Shadows in the Hall,Drusniel,Umbra'kor,Chapter,1.4,/the-failed-trial-shadows-in-the-hall/,https://www.drusniel.com/the-failed-trial-shadows-in-the-hall/
+304,2024-04-19,Voices in the Dark: The Empty Days,Drusniel,Umbra'kor,Chapter,2.1,/voices-in-the-dark-the-empty-days/,https://www.drusniel.com/voices-in-the-dark-the-empty-days/
+305,2024-04-20,Voices in the Dark: The Distant Voice,Drusniel,Umbra'kor,Chapter,2.2,/voices-in-the-dark-the-distant-voice/,https://www.drusniel.com/voices-in-the-dark-the-distant-voice/
+306,2024-04-21,Voices in the Dark: The Seed of Doubt,Drusniel,Umbra'kor,Chapter,2.3,/voices-in-the-dark-the-seed-of-doubt/,https://www.drusniel.com/voices-in-the-dark-the-seed-of-doubt/
+307,2024-04-22,Voices in the Dark: The Decision,Drusniel,Umbra'kor,Chapter,2.4,/voices-in-the-dark-the-decision/,https://www.drusniel.com/voices-in-the-dark-the-decision/
+308,2024-04-23,The Surface Mage: The Tower,Drusniel,Umbra'kor,Chapter,3.1,/the-surface-mage-the-tower/,https://www.drusniel.com/the-surface-mage-the-tower/
+309,2024-04-24,The Surface Mage: The Assessment,Drusniel,Umbra'kor,Chapter,3.2,/the-surface-mage-the-assessment/,https://www.drusniel.com/the-surface-mage-the-assessment/
+310,2024-04-25,The Surface Mage: The First Lesson,Drusniel,Umbra'kor,Chapter,3.3,/the-surface-mage-the-first-lesson/,https://www.drusniel.com/the-surface-mage-the-first-lesson/
+311,2024-04-02,A Guard's Glimpse into Grukmar,Valarian,Lumeshire,Prequel,,/a-guards-glimpse-into-grukmar/,https://www.drusniel.com/a-guards-glimpse-into-grukmar/
+311,2024-04-26,The Surface Mage: The Wyrmreach Mention,Drusniel,Umbra'kor,Chapter,3.4,/the-surface-mage-the-wyrmreach-mention/,https://www.drusniel.com/the-surface-mage-the-wyrmreach-mention/
+312,2024-04-03,Goblin Threats at Grukmar's Edge,Valarian,Lumeshire,Prequel,,/goblin-threats-at-grukmars-edge/,https://www.drusniel.com/goblin-threats-at-grukmars-edge/
+312,2024-04-27,The Surface Mage: The Return,Drusniel,Umbra'kor,Chapter,3.5,/the-surface-mage-the-return/,https://www.drusniel.com/the-surface-mage-the-return/
+313,2024-04-28,Forbidden Knowledge: The Old Texts,Drusniel,Umbra'kor,Chapter,4.1,/forbidden-knowledge-the-old-texts/,https://www.drusniel.com/forbidden-knowledge-the-old-texts/
+313,2024-04-04,The Quest for Goblin Tracks Beyond Grukmar's Border,Valarian,Lumeshire,Prequel,,/the-quest-for-goblin-tracks-beyond-grukmars-border/,https://www.drusniel.com/the-quest-for-goblin-tracks-beyond-grukmars-border/
+314,2024-04-05,A Tenderfoot Patrol's Brush with Grukmar's Legends,Valarian,Lumeshire,Prequel,,/a-tenderfoot-patrols-brush-with-grukmars-legends/,https://www.drusniel.com/a-tenderfoot-patrols-brush-with-grukmars-legends/
+314,2024-04-29,Forbidden Knowledge: The Growing Power,Drusniel,Umbra'kor,Chapter,4.2,/forbidden-knowledge-the-growing-power/,https://www.drusniel.com/forbidden-knowledge-the-growing-power/
+315,2024-04-30,Forbidden Knowledge: The Warning Signs,Drusniel,Umbra'kor,Chapter,4.3,/forbidden-knowledge-the-warning-signs/,https://www.drusniel.com/forbidden-knowledge-the-warning-signs/
+315,2024-04-06,The Screams in the Mist,Korgath Nargul,Grukmar,Prequel,,/the-screams-in-the-mist/,https://www.drusniel.com/the-screams-in-the-mist/
+316,2024-05-01,Forbidden Knowledge: The Distant Land,Drusniel,Umbra'kor,Chapter,4.4,/forbidden-knowledge-the-distant-land/,https://www.drusniel.com/forbidden-knowledge-the-distant-land/
+316,2024-04-07,March of Despair,Korgath Nargul,Grukmar,Prequel,,/march-of-despair/,https://www.drusniel.com/march-of-despair/
+317,2024-05-02,Forbidden Knowledge: The Hesitation,Drusniel,Umbra'kor,Chapter,4.5,/forbidden-knowledge-the-hesitation/,https://www.drusniel.com/forbidden-knowledge-the-hesitation/
+318,2024-05-03,The House Rivalry: The Gathering Storm,Drusniel,Umbra'kor,Chapter,5.1,/the-house-rivalry-the-gathering-storm/,https://www.drusniel.com/the-house-rivalry-the-gathering-storm/
+319,2024-05-04,The House Rivalry: The Fracture,Drusniel,Umbra'kor,Chapter,5.2,/the-house-rivalry-the-fracture/,https://www.drusniel.com/the-house-rivalry-the-fracture/
+320,2024-05-05,The House Rivalry: The Secret Meeting,Drusniel,Umbra'kor,Chapter,5.3,/the-house-rivalry-the-secret-meeting/,https://www.drusniel.com/the-house-rivalry-the-secret-meeting/
+321,2024-05-06,The House Rivalry: The Night Before,Drusniel,Umbra'kor,Chapter,5.4,/the-house-rivalry-the-night-before/,https://www.drusniel.com/the-house-rivalry-the-night-before/
+322,2024-05-07,The House Rivalry: The Warning (Cut Short),Drusniel,Umbra'kor,Chapter,5.5,/the-house-rivalry-the-warning-cut-short/,https://www.drusniel.com/the-house-rivalry-the-warning-cut-short/
+323,2024-05-08,Blood in the Dark: The Chaos,Drusniel,Umbra'kor,Chapter,6.1,/blood-in-the-dark-the-chaos/,https://www.drusniel.com/blood-in-the-dark-the-chaos/
+324,2024-05-09,Blood in the Dark: The Slaughter,Drusniel,Umbra'kor,Chapter,6.2,/blood-in-the-dark-the-slaughter/,https://www.drusniel.com/blood-in-the-dark-the-slaughter/
+325,2024-05-10,Blood in the Dark: The Escape,Drusniel,Umbra'kor,Chapter,6.3,/blood-in-the-dark-the-escape/,https://www.drusniel.com/blood-in-the-dark-the-escape/
+326,2024-05-11,Blood in the Dark: The Evidence,Drusniel,Umbra'kor,Chapter,6.4,/blood-in-the-dark-the-evidence/,https://www.drusniel.com/blood-in-the-dark-the-evidence/
+327,2024-05-12,Blood in the Dark: Shyntara's Flight,Shyntara,Umbra'kor,Chapter,6.5,/blood-in-the-dark-shyntaras-flight/,https://www.drusniel.com/blood-in-the-dark-shyntaras-flight/
+328,2024-05-13,Blood in the Dark: The Hollow Victory,Drusniel,Umbra'kor,Chapter,6.6,/blood-in-the-dark-the-hollow-victory/,https://www.drusniel.com/blood-in-the-dark-the-hollow-victory/
+329,2024-05-14,The Package: The Broken Instrument,Drusniel,Umbra'kor,Chapter,7.1,/the-package-the-broken-instrument/,https://www.drusniel.com/the-package-the-broken-instrument/
+330,2024-05-15,The Package: The Mission,Drusniel,Umbra'kor,Chapter,7.2,/the-package-the-mission/,https://www.drusniel.com/the-package-the-mission/
+331,2024-05-16,The Package: The Artifact,Drusniel,Umbra'kor,Chapter,7.3,/the-package-the-artifact/,https://www.drusniel.com/the-package-the-artifact/
+332,2024-05-17,The Package: The Crossing,Drusniel,Umbra'kor,Chapter,7.4,/the-package-the-crossing/,https://www.drusniel.com/the-package-the-crossing/
+333,2024-05-18,The Package: The New World,Drusniel,Umbra'kor,Chapter,7.5,/the-package-the-new-world/,https://www.drusniel.com/the-package-the-new-world/
+334,2024-05-19,The Road from Zuraldi: The Awakening,Drusniel,Stonehold,Chapter,0.1,/the-road-from-zuraldi-the-awakening/,https://www.drusniel.com/the-road-from-zuraldi-the-awakening/
+335,2024-05-20,The Road from Zuraldi: The Absence,Drusniel,Stonehold,Chapter,0.2,/the-road-from-zuraldi-the-absence/,https://www.drusniel.com/the-road-from-zuraldi-the-absence/
+336,2024-05-21,The Road from Zuraldi: The Nephew's Doubt,Drusniel,Stonehold,Chapter,0.3,/the-road-from-zuraldi-the-nephews-doubt/,https://www.drusniel.com/the-road-from-zuraldi-the-nephews-doubt/
+337,2024-05-22,The Road from Zuraldi: The Followers,Drusniel,Stonehold,Chapter,0.4,/the-road-from-zuraldi-the-followers/,https://www.drusniel.com/the-road-from-zuraldi-the-followers/
+338,2024-05-23,The Road from Zuraldi: The Decision,Drusniel,Stonehold,Chapter,0.5,/the-road-from-zuraldi-the-decision/,https://www.drusniel.com/the-road-from-zuraldi-the-decision/
