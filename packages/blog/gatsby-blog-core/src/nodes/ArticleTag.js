@@ -23,7 +23,17 @@ module.exports = (
     const tagsToCreate = tags_array || tags || []
 
     // Create nodes
-    tagsToCreate.forEach(tag => {
+    // Ensure tagsToCreate is an array to prevent "forEach is not a function" error
+  if (!Array.isArray(tagsToCreate)) {
+    if (tagsToCreate) {
+      // If it's a single value (string, etc), wrap it
+      tagsToCreate = [tagsToCreate]
+    } else {
+      tagsToCreate = []
+    }
+  }
+
+  tagsToCreate.forEach(tag => {
       const id = createNodeId(`${tag} >>> ${newNodeType}`)
 
       // Skip existing node
