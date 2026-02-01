@@ -9,6 +9,8 @@ type MdxArticleProxy implements Node & Article @dontInfer @childOf(types: ["Mdx"
   private: Boolean @proxyField(from: "parent.frontmatter.private")
   protected: Boolean @proxyField(from: "parent.frontmatter.protected")
   language: String @proxyField(from: "parent.frontmatter.language")
+  counterpart_path: String @proxyField(from: "parent.frontmatter.counterpart_path")
+  counterpart_title: String @proxyField(from: "parent.frontmatter.counterpart_title")
   author: ArticleAuthor @proxyField(from: "parent.frontmatter.author") @link(by: "name")
   category: ArticleCategory @proxyField(from: "parent.frontmatter.category") @link(by: "name")
   tags: [ArticleTag] @proxyField(from: "parent.frontmatter.tags") @link(by: "name")
@@ -21,7 +23,7 @@ type MdxArticleProxy implements Node & Article @dontInfer @childOf(types: ["Mdx"
   thumbnail: ImageSharp @proxyField(from: "parent.frontmatter.thumbnail") @fileByRelativePath @reduce(to: "id") @link(by: "parent.id")
   tableOfContents(maxDepth: Int = 6): JSON @link(from: "parent", on: "Mdx") @proxyResolver(on: "Mdx")
   draft: Boolean @proxyField(from: "parent.frontmatter.draft")
-  order: String! @proxyField(from: "parent.frontmatter.order")
+  order: Int! @proxyField(from: "parent.frontmatter.publication_order")
 }
 
 ############################################

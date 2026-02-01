@@ -1,7 +1,7 @@
 # CLAUDE.md - Drusniel Project Guidelines
 
 ## Project Overview
-Drusniel is a dark fantasy fiction project with bilingual content (EN/ES). Content is organized into three tiers: Lore, Prequel, and Main chapters.
+Drusniel is a dark fantasy fiction project with bilingual content (EN/ES). Content is organized into four tiers: Lore, Prequel, Prologue, and Main chapters.
 
 ---
 
@@ -10,8 +10,9 @@ Drusniel is a dark fantasy fiction project with bilingual content (EN/ES). Conte
 ### Frontmatter Fields (Required)
 ```yaml
 publication_order: 330           # Unique integer for sorting
-canon_phase: main                # lore | prequel | main
-canon_sequence: M-030            # L-001, P-007, M-030 format
+canon_phase: main                # lore | prequel | prologue | main
+canon_sequence: M-030            # L-001, P-007, R-001, M-030 format
+narrative_weight: high           # low | medium | high (optional)
 title: "Chapter Title"
 category: Umbra'kor              # Region/arc name
 author: Drusniel                 # Always Drusniel for main content
@@ -20,14 +21,25 @@ date: 2024-11-17                 # Aligned with publication_order
 thumbnail: image.jpg
 featured: false
 language: en                     # en | es
+counterpart_path: site/content/posts/es/<category>/<slug>/index.mdx
+counterpart_title: "Translated Title"  # EN points to ES; ES points to EN
 ```
 
 ### Order Ranges
 | Phase | EN Range | ES Range | Sequence Format |
 |-------|----------|----------|-----------------|
 | Lore | 101-199 | 1101-1199 | L-001 to L-099 |
-| Prequel | 200-299 | 1200-1299 | P-001 to P-099 |
+| Prequel | 200-249 | 1200-1249 | P-001 to P-049 |
+| Prologue | 250-299 | 1250-1299 | R-001 to R-049 |
 | Main | 300-399 | 1300-1399 | M-001 to M-099 |
+
+### Content Taxonomy
+| Category | Purpose | Rule System | Narrative Weight |
+|----------|---------|-------------|------------------|
+| Lore | World texture | Prequel Lint | low |
+| Prequel | Fragmented POV | Prequel Lint | low |
+| Prologue | Narrative setup | Chapter Rules | medium |
+| Main | Mainline story | Chapter Rules | high |
 
 ### Date Alignment
 Dates increment with publication_order using base date 2024-04-01:
@@ -95,6 +107,22 @@ site/content/posts/es/<category>/<slug>/index.mdx
 
 ### Main Content (300+)
 **Voice**: Drusniel's direct experience, real-time discovery
+### Prologue Content (250-299)
+**Voice**: Full chapter quality, backstory before main journey
+
+Prologues are dramatized story chapters set outside the main sequence. They follow **chapter rules**, not prequel rules.
+
+**Single Constraint:**
+> A prologue may advance plot, but may not resolve mysteries introduced later in the mainline chapters.
+
+**Do:**
+- Use full POV depth and causality
+- Create momentum and establish stakes
+- Develop characters and relationships
+
+**Don't:**
+- Reveal secrets the main story needs to discover
+- Resolve plot threads that belong to the mainline
 
 ---
 

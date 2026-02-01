@@ -6,6 +6,8 @@ interface Article implements Node {
   title: String!
   slug: String!
   language: String
+  counterpart_path: String
+  counterpart_title: String
   #proxy is a workaround for gatsby issue #21476
   date: Date @proxy(from: "date") @dateformat
   featured: Boolean
@@ -23,7 +25,7 @@ interface Article implements Node {
   thumbnail: ImageAsset
   tableOfContents(maxDepth: Int = 6): JSON
   draft: Boolean
-  order: String!
+  order: Int!
 }
 
 ############################################

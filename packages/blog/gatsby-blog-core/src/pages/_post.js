@@ -43,8 +43,7 @@ module.exports = async (
   }
   
   const articles = result.data.allArticle.edges.map(edge => edge.node);
-  // Sort by converting `order` to a number
-  articles.sort((a, b) => parseInt(a.order, 10) - parseInt(b.order, 10));
+  articles.sort((a, b) => a.order - b.order);
   
   articles.forEach((node, index) => {
     const { id, slug, language, category, tags, link } = node;
