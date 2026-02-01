@@ -1,0 +1,33 @@
+{
+  "name": "Dulint",
+  "title": "Guardian of the Cube",
+  "titlees": "Guardián del Cubo",
+  "description": "Dulint is an elderly dwarf miner and trader, great-grandson of Thrain Ironbeard. He carries an ancient artifact unknowingly and guards dangerous secrets, believing silence will protect those he cares for.",
+  "descriptiones": "Dulint es un enano anciano minero y comerciante, bisnieto de Thrain Ironbeard. Lleva un artefacto antiguo sin saberlo y guarda secretos peligrosos, creyendo que el silencio protegera a quienes aprecia.",
+  "thumbnail": "dulint.png",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Miner",
+    "Trader",
+    "Artifact Bearer"
+  ],
+  "skillses": [
+    "Minero",
+    "Comerciante",
+    "Portador de Artefacto"
+  ]
+}

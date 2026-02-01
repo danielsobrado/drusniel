@@ -1,0 +1,31 @@
+﻿{
+  "name": "Maris",
+  "title": "Omencraft Seer",
+  "titlees": "Vidente de Presagios",
+  "description": "Maris is a young human seer who receives fragmented visions she cannot control. Sleep-deprived and fragile, she uses dry humor to mask her fear of what she sees. She seeks to understand her visions well enough to survive them.",
+  "descriptiones": "Maris es una joven vidente humana que recibe visiones fragmentadas que no puede controlar. Privada de sueño y frágil, usa humor seco para enmascarar su miedo de lo que ve. Busca comprender sus visiones lo suficiente para sobrevivirlas.",
+  "thumbnail": "maris.png",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Seer",
+    "Analyst"
+  ],
+  "skillses": [
+    "Vidente",
+    "Analista"
+  ]
+}

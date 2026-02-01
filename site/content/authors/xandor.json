@@ -1,0 +1,33 @@
+{
+  "name": "Xandor",
+  "title": "Druid Lorekeeper",
+  "titlees": "Druida Guardián del Saber",
+  "description": "Xandor is a mature druid with Zuraldi heritage, expert on ancient artifacts and prophecies. He identifies dangerous patterns and warns of threats, but does not fully explain mysteries early. Patient and wise beyond his years, he seeks to ensure knowledge serves purpose.",
+  "descriptiones": "Xandor es un druida maduro con herencia Zuraldi, experto en artefactos antiguos y profecías. Identifica patrones peligrosos y advierte de amenazas, pero no explica completamente los misterios temprano. Paciente y sabio más allá de sus años, busca asegurar que el conocimiento sirva un propósito.",
+  "thumbnail": "xandor.png",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Druid",
+    "Lorekeeper",
+    "Pattern-seeker"
+  ],
+  "skillses": [
+    "Druida",
+    "Guardián del Saber",
+    "Buscador de Patrones"
+  ]
+}

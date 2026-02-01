@@ -1,0 +1,31 @@
+{
+  "name": "Nyxara",
+  "title": "Warlord of Wyrmreach",
+  "titlees": "Señora de la Guerra de Wyrmreach",
+  "description": "Nyxara is a commanding warlord in dark armor, whose authority appears political and absolute. People obey her instantly. She speaks rarely and decisively, treating war like logistics.",
+  "descriptiones": "Nyxara es una imponente señora de la guerra en armadura oscura, cuya autoridad parece política y absoluta. La gente la obedece instantáneamente. Habla raramente y de forma decisiva, tratando la guerra como logística.",
+  "thumbnail": "nyxara.png",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Commander",
+    "Tactician"
+  ],
+  "skillses": [
+    "Comandante",
+    "Táctica"
+  ]
+}

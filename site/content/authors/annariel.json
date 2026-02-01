@@ -1,0 +1,33 @@
+{
+  "name": "Annariel",
+  "title": "Scholar of House Vrinn",
+  "titlees": "Erudito de la Casa Vrinn",
+  "description": "Annariel is a young drow scholar from House Vrinn, Drusniel's best friend. He seeks truth and carries guilt for a failure that cost his friend dearly. Idealistic and loyal, he believes knowledge and honesty can make things right.",
+  "descriptiones": "Annariel es un joven erudito drow de la Casa Vrinn, el mejor amigo de Drusniel. Busca la verdad y carga con la culpa de un fallo que le costo caro a su amigo. Idealista y leal, cree que el conocimiento y la honestidad pueden arreglarlo.",
+  "thumbnail": "annariel.png",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Scholar",
+    "Mage",
+    "Truth-seeker"
+  ],
+  "skillses": [
+    "Erudito",
+    "Mago",
+    "Buscador de la Verdad"
+  ]
+}
