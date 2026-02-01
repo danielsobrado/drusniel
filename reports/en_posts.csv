@@ -1,62 +1,58 @@
-"order","date","title","pov","category","type","chapter_number","path","canon_phase","canon_sequence","narrative_weight","featured","counterpart_title","counterpart_path"
-"101","2024-07-11","La magia en Astalor","","astalor","Lore","","/magic-in-astalor/","lore","L-001","","false","La magia en Astalor","site/content/posts/es/astalor/la-magia-en-astalor/index.mdx"
-"102","2024-07-12","Nothingness and the Second Sun","","astalor","Lore","","/the-making-of-astalor/","lore","L-002","","false","La Nada y el Segundo Sol","site/content/posts/es/astalor/la-creacion-de-astalor/index.mdx"
-"103","2024-07-13","Descubriendo las Regiones de Astalor","","astalor","Lore","","/the-regions-of-astalor/","lore","L-003","","false","Descubriendo las Regiones de Astalor","site/content/posts/es/astalor/descubriendo-las-regiones-de-astalor/index.mdx"
-"104","2024-07-14","The Contian Theocracy","","contian","Lore","","/arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy/","lore","L-004","","false","La B??squeda de la Supremac??a M??gica por la Teocracia Contiana","site/content/posts/es/contian/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/index.mdx"
-"105","2024-07-15","Eternal Woods: The Kingdom of Elenoria","","elenoria","Prequel","","/eternal-woods-the-kingdom-of-elenoria-dance-with-nature/","prequel","P-002","","false","Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza","site/content/posts/es/elenoria/bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza/index.mdx"
-"106","2024-07-16","Ice and Iron: The Warriors of the Empire of Frostgard","","frostgard","Prequel","","/ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard/","prequel","P-003","","false","Hielo y Hierro: Los Guerreros del Imperio de Frostgard","site/content/posts/es/frostgard/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/index.mdx"
-"107","2024-07-17","The Unruly Might of the Grukmar Tribes","","grukmar","Prequel","","/clash-of-clans-the-unruly-might-of-the-grukmar-tribes/","prequel","P-004","","false","El Poder Ind??mito de las Tribus Grukmar","site/content/posts/es/grukmar/choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar/index.mdx"
-"108","2024-07-18","The Resilient Defense of the Lumeshirean Divine Empire","","lumeshire","Lore","","/shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire/","lore","L-005","","false","La Defensa Resiliente del Imperio Divino de Lumeshire","site/content/posts/es/lumeshire/escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire/index.mdx"
-"109","2024-07-19","Forge and Fire: The Mountain Kingdom of Stonehold","","stonehold","Lore","","/forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos/","lore","L-006","","true","Fragua y Fuego: La Postura del Reino Monta??oso de Stonehold Contra el Caos","site/content/posts/es/stonehold/fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos/index.mdx"
-"110","2024-07-20","The Zuraldarr","","lumeshire","Prologue","","/the-zuraldarr/","prologue","R-006","medium","false","Los Zuraldarr","site/content/posts/es/lumeshire/the-zuraldarr/index.mdx"
-"111","2024-07-21","The Umbra","","umbrakor","Prequel","","/shadows-reign-the-umbrakor-dominions-pact-with-darkness/","prequel","P-007","","false","El Pacto del Dominio Umbra","site/content/posts/es/umbrakor/el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad/index.mdx"
-"112","2024-07-22","The Mysteries of the Wyrmreach Dominion","","wyrmreach","Lore","","/dark-depths-the-wymreach-dominion/","lore","L-008","","false","Los Misterios del Dominio Wymreach","site/content/posts/es/wyrmreach/profundidades-oscuras-el-dominio-wymreach/index.mdx"
-"113","2024-07-23","The Call to Zuraldi","","stonehold","Prologue","","/the-call-to-zuraldi/","prologue","R-051","medium","true","La llamada a Zuraldi","site/content/posts/es/stonehold/la-llamada-a-zuraldi/index.mdx"
-"114","2024-07-24","A Journey Interrupted","","stonehold","Prologue","","/a-journey-interrupted/","prologue","R-052","medium","false","Un viaje complicado","site/content/posts/es/stonehold/un-viaje-complicado/index.mdx"
-"115","2024-07-25","The Sacred Chamber","","umbrakor","Prologue","","/the-sacred-chamber/","prologue","R-000","medium","true","La C??mara Sagrada","site/content/posts/es/umbrakor/la-camara-sagrada/index.mdx"
-"116","2024-07-26","Swords and Shadows","","umbrakor","Prologue","","/swords-shadows/","prologue","R-001","medium","true","Espadas y Sombras","site/content/posts/es/umbrakor/espadas-sombras/index.mdx"
-"117","2024-07-27","The Failed Trial: The Test of Venemora","","umbrakor","Prologue","","/the-failed-trial-the-test-of-venemora/","prologue","R-001","medium","false","La Prueba Fallida: La Prueba de Venemora","site/content/posts/es/umbrakor/la-prueba-fallida-la-prueba-de-venemora/index.mdx"
-"118","2024-07-28","Secrets and Shadows","","umbrakor","Prologue","","/secrets-and-shadows/","prologue","R-002","medium","false","Secretos y Sombras","site/content/posts/es/umbrakor/secretos-y-sombras/index.mdx"
-"119","2024-07-29","The Failed Trial: The Separation","","umbrakor","Prologue","","/the-failed-trial-the-separation/","prologue","R-002","medium","false","La Prueba Fallida: La Separaci??n","site/content/posts/es/umbrakor/la-prueba-fallida-la-separacion/index.mdx"
-"120","2024-07-30","The Failed Trial: Shadows in the Hall","","umbrakor","Prologue","","/the-failed-trial-shadows-in-the-hall/","prologue","R-003","medium","false","La Prueba Fallida: Sombras en el Sal??n","site/content/posts/es/umbrakor/la-prueba-fallida-sombras-en-el-salon/index.mdx"
-"121","2024-07-31","Voices in the Dark: The Empty Days","","umbrakor","Prologue","","/voices-in-the-dark-the-empty-days/","prologue","R-004","medium","false","Voces en la Oscuridad: Los D??as Vac??os","site/content/posts/es/umbrakor/voces-en-la-oscuridad-los-dias-vacios/index.mdx"
-"122","2024-08-01","Voices in the Dark: The Distant Voice","","umbrakor","Prologue","","/voices-in-the-dark-the-distant-voice/","prologue","R-005","medium","false","Voces en la Oscuridad: La Voz Distante","site/content/posts/es/umbrakor/voces-en-la-oscuridad-la-voz-distante/index.mdx"
-"123","2024-08-02","Voices in the Dark: The Seed of Doubt","","umbrakor","Prologue","","/voices-in-the-dark-the-seed-of-doubt/","prologue","R-006","medium","false","Voces en la Oscuridad: La Semilla de la Duda","site/content/posts/es/umbrakor/voces-en-la-oscuridad-la-semilla-de-la-duda/index.mdx"
-"124","2024-08-03","Voices in the Dark: The Decision","","umbrakor","Prologue","","/voices-in-the-dark-the-decision/","prologue","R-007","medium","false","Voces en la Oscuridad: La Decisi??n","site/content/posts/es/umbrakor/voces-en-la-oscuridad-la-decision/index.mdx"
-"125","2024-08-04","The Surface Mage: The Tower","","umbrakor","Prologue","","/the-surface-mage-the-tower/","prologue","R-008","medium","false","El Mago de Superficie: La Torre","site/content/posts/es/umbrakor/el-mago-de-superficie-la-torre/index.mdx"
-"126","2024-08-05","The Surface Mage: The Assessment","","umbrakor","Prologue","","/the-surface-mage-the-assessment/","prologue","R-009","medium","false","El Mago de Superficie: La Evaluaci??n","site/content/posts/es/umbrakor/el-mago-de-superficie-la-evaluacion/index.mdx"
-"127","2024-08-06","The Surface Mage: The First Lesson","","umbrakor","Prologue","","/the-surface-mage-the-first-lesson/","prologue","R-010","medium","false","El Mago de Superficie: La Primera Lecci??n","site/content/posts/es/umbrakor/el-mago-de-superficie-la-primera-leccion/index.mdx"
-"129","2024-08-08","The Surface Mage: The Wyrmreach Mention","","umbrakor","Prologue","","/the-surface-mage-the-wyrmreach-mention/","prologue","R-011","medium","false","El Mago de Superficie: La Menci??n de Wyrmreach","site/content/posts/es/umbrakor/el-mago-de-superficie-la-mencion-de-wyrmreach/index.mdx"
-"131","2024-08-10","The Surface Mage: The Return","","umbrakor","Prologue","","/the-surface-mage-the-return/","prologue","R-012","medium","false","El Mago de Superficie: El Regreso","site/content/posts/es/umbrakor/el-mago-de-superficie-el-regreso/index.mdx"
-"132","2024-08-11","Forbidden Knowledge: The Old Texts","","umbrakor","Prologue","","/forbidden-knowledge-the-old-texts/","prologue","R-013","medium","false","Conocimiento Prohibido: Los Textos Antiguos","site/content/posts/es/umbrakor/conocimiento-prohibido-los-textos-antiguos/index.mdx"
-"135","2024-08-14","Forbidden Knowledge: The Growing Power","","umbrakor","Prologue","","/forbidden-knowledge-the-growing-power/","prologue","R-014","medium","false","Conocimiento Prohibido: El Poder Creciente","site/content/posts/es/umbrakor/conocimiento-prohibido-el-poder-creciente/index.mdx"
-"136","2024-08-15","Forbidden Knowledge: The Warning Signs","","umbrakor","Prologue","","/forbidden-knowledge-the-warning-signs/","prologue","R-015","medium","false","Conocimiento Prohibido: Las Se??ales de Advertencia","site/content/posts/es/umbrakor/conocimiento-prohibido-las-senales-de-advertencia/index.mdx"
-"137","2024-08-16","The Screams in the Mist","","grukmar","Prologue","","/the-screams-in-the-mist/","prologue","R-015","medium","false","Gritos en la niebla","site/content/posts/es/grukmar/gritos-en-la-niebla/index.mdx"
-"138","2024-08-17","Forbidden Knowledge: The Distant Land","","umbrakor","Prologue","","/forbidden-knowledge-the-distant-land/","prologue","R-016","medium","false","Conocimiento Prohibido: La Tierra Distante","site/content/posts/es/umbrakor/conocimiento-prohibido-la-tierra-distante/index.mdx"
-"139","2024-08-18","March of Despair","","grukmar","Prologue","","/march-of-despair/","prologue","R-016","medium","false","La marcha de la Desesperaci??n","site/content/posts/es/grukmar/la-marcha-de-la-desesperacion/index.mdx"
-"140","2024-08-19","Forbidden Knowledge: The Hesitation","","umbrakor","Prologue","","/forbidden-knowledge-the-hesitation/","prologue","R-017","medium","false","Conocimiento Prohibido: La Duda","site/content/posts/es/umbrakor/conocimiento-prohibido-la-duda/index.mdx"
-"141","2024-08-20","The House Rivalry: The Gathering Storm","","umbrakor","Prologue","","/the-house-rivalry-the-gathering-storm/","prologue","R-018","medium","false","La Rivalidad de la Casa: La Tormenta que se Avecina","site/content/posts/es/umbrakor/la-rivalidad-de-la-casa-la-tormenta-que-se-avecina/index.mdx"
-"142","2024-08-21","The House Rivalry: The Fracture","","umbrakor","Prologue","","/the-house-rivalry-the-fracture/","prologue","R-019","medium","false","La Rivalidad de la Casa: La Grieta","site/content/posts/es/umbrakor/la-rivalidad-de-la-casa-la-grieta/index.mdx"
-"143","2024-08-22","The House Rivalry: The Secret Meeting","","umbrakor","Prologue","","/the-house-rivalry-the-secret-meeting/","prologue","R-020","medium","false","La Rivalidad de la Casa: La Reuni??n Secreta","site/content/posts/es/umbrakor/la-rivalidad-de-la-casa-la-reunion-secreta/index.mdx"
-"144","2024-08-23","The House Rivalry: The Night Before","","umbrakor","Prologue","","/the-house-rivalry-the-night-before/","prologue","R-021","medium","false","La Rivalidad de la Casa: La Noche Antes","site/content/posts/es/umbrakor/la-rivalidad-de-la-casa-la-noche-antes/index.mdx"
-"145","2024-08-24","The House Rivalry: The Warning (Cut Short)","","umbrakor","Prologue","","/the-house-rivalry-the-warning-cut-short/","prologue","R-022","medium","false","La Rivalidad de la Casa: La Advertencia (Cortada)","site/content/posts/es/umbrakor/la-rivalidad-de-la-casa-la-advertencia-cortada/index.mdx"
-"146","2024-08-25","Blood in the Dark: The Chaos","","umbrakor","Prologue","","/blood-in-the-dark-the-chaos/","prologue","R-023","medium","false","Sangre en la Oscuridad: El Caos","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-el-caos/index.mdx"
-"147","2024-08-26","Blood in the Dark: The Slaughter","","umbrakor","Prologue","","/blood-in-the-dark-the-slaughter/","prologue","R-024","medium","false","Sangre en la Oscuridad: La Matanza","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-la-matanza/index.mdx"
-"148","2024-08-27","Blood in the Dark: The Escape","","umbrakor","Prologue","","/blood-in-the-dark-the-escape/","prologue","R-025","medium","false","Sangre en la Oscuridad: El Escape","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-el-escape/index.mdx"
-"149","2024-08-28","Blood in the Dark: The Evidence","","umbrakor","Prologue","","/blood-in-the-dark-the-evidence/","prologue","R-026","medium","false","Sangre en la Oscuridad: La Evidencia","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-la-evidencia/index.mdx"
-"150","2024-08-29","Blood in the Dark: Shyntara","","umbrakor","Prologue","","/blood-in-the-dark-shyntaras-flight/","prologue","R-027","medium","false","Sangre en la Oscuridad: La Huida de Shyntara","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-la-huida-de-shyntara/index.mdx"
-"151","2024-08-30","Blood in the Dark: The Hollow Victory","","umbrakor","Prologue","","/blood-in-the-dark-the-hollow-victory/","prologue","R-028","medium","false","Sangre en la Oscuridad: La Victoria Hueca","site/content/posts/es/umbrakor/sangre-en-la-oscuridad-la-victoria-hueca/index.mdx"
-"152","2024-08-31","The Package: The Broken Instrument","","umbrakor","Chapter","","/the-package-the-broken-instrument/","main","M-029","","false","El Paquete: El Instrumento Roto","site/content/posts/es/umbrakor/el-paquete-el-instrumento-roto/index.mdx"
-"153","2024-09-01","The Package: The Mission","","umbrakor","Chapter","","/the-package-the-mission/","main","M-030","","false","El Paquete: La Misi??n","site/content/posts/es/umbrakor/el-paquete-la-mision/index.mdx"
-"154","2024-09-02","The Package: The Artifact","","umbrakor","Chapter","","/the-package-the-artifact/","main","M-031","","false","El Paquete: El Artefacto","site/content/posts/es/umbrakor/el-paquete-el-artefacto/index.mdx"
-"155","2024-09-03","The Package: The Crossing","","umbrakor","Chapter","","/the-package-the-crossing/","main","M-032","","false","El Paquete: La Traves??a","site/content/posts/es/umbrakor/el-paquete-la-travesia/index.mdx"
-"156","2024-09-04","The Package: The New World","","umbrakor","Chapter","","/the-package-the-new-world/","main","M-033","","false","El Paquete: El Nuevo Mundo","site/content/posts/es/umbrakor/el-paquete-el-nuevo-mundo/index.mdx"
-"157","2024-09-05","The Road from Zuraldi: The Awakening","","stonehold","Chapter","","/the-road-from-zuraldi-the-awakening/","main","M-034","","false","El Camino de Zuraldi: El Despertar","site/content/posts/es/stonehold/el-camino-de-zuraldi-el-despertar/index.mdx"
-"158","2024-09-06","The Road from Zuraldi: The Absence","","stonehold","Chapter","","/the-road-from-zuraldi-the-absence/","main","M-035","","false","El Camino de Zuraldi: La Ausencia","site/content/posts/es/stonehold/el-camino-de-zuraldi-la-ausencia/index.mdx"
-"159","2024-09-07","The Road from Zuraldi: The Nephew","","stonehold","Chapter","","/the-road-from-zuraldi-the-nephews-doubt/","main","M-036","","false","El Camino de Zuraldi: La Duda del Sobrino","site/content/posts/es/stonehold/el-camino-de-zuraldi-la-duda-del-sobrino/index.mdx"
-"160","2024-09-08","The Road from Zuraldi: The Followers","","stonehold","Chapter","","/the-road-from-zuraldi-the-followers/","main","M-037","","false","El Camino de Zuraldi: Los Seguidores","site/content/posts/es/stonehold/el-camino-de-zuraldi-los-seguidores/index.mdx"
-"161","2024-09-09","The Road from Zuraldi: The Decision","","stonehold","Chapter","","/the-road-from-zuraldi-the-decision/","main","M-038","","false","El Camino de Zuraldi: La Decisi??n","site/content/posts/es/stonehold/el-camino-de-zuraldi-la-decision/index.mdx"
-"311","2025-02-06","A Guard","","lumeshire","Chapter","","/whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar/","main","M-011","","true","La mirada de un guardia a Grukmar","site/content/posts/es/lumeshire/la-mirada-de-un-guardia-a-grukmar/index.mdx"
-"312","2025-02-07","Goblin Threats at Grukmar","","lumeshire","Chapter","","/morning-tidings-goblin-threats-at-grukmars-edge/","main","M-012","","false","Amenazas goblin en el borde con Grukmar","site/content/posts/es/lumeshire/amenazas-goblin-en-el-borde-de-grukmar/index.mdx"
-"313","2025-02-08","The Quest for Goblin Tracks Beyond Grukmar","","lumeshire","Chapter","","/a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil/","main","M-013","","false","La b??squeda de goblins se extiende m??s all?? del borde de Grukmar","site/content/posts/es/lumeshire/el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar/index.mdx"
-"314","2025-02-09","A Tenderfoot Patrol","","lumeshire","Chapter","","/whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends/","main","M-014","","false","Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos","site/content/posts/es/lumeshire/susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar/index.mdx"
+order,date,title,category,type,canon_phase,canon_sequence,featured,path
+101,2024-07-11,"La magia en Astalor",astalor,lore,lore,L-001,false,magic-in-astalor
+102,2024-07-12,"Nothingness and the Second Sun",astalor,lore,lore,L-002,false,the-making-of-astalor
+103,2024-07-13,"Descubriendo las Regiones de Astalor",astalor,lore,lore,L-003,false,the-regions-of-astalor
+104,2024-07-14,"The Contian Theocracy",contian,lore,lore,L-004,false,arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy
+105,2024-07-15,"Eternal Woods: The Kingdom of Elenoria",elenoria,prequel,prequel,P-002,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature
+106,2024-07-16,"Ice and Iron: The Warriors of the Empire of Frostgard",frostgard,prequel,prequel,P-003,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard
+107,2024-07-17,"The Unruly Might of the Grukmar Tribes",grukmar,prequel,prequel,P-004,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes
+108,2024-07-18,"The Resilient Defense of the Lumeshirean Divine Empire",lumeshire,lore,lore,L-005,false,shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire
+109,2024-07-19,"Forge and Fire: The Mountain Kingdom of Stonehold",stonehold,lore,lore,L-006,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos
+110,2024-07-20,"The Zuraldarr",lumeshire,prologue,prologue,R-006,false,the-zuraldarr
+111,2024-07-21,"The Umbra",umbrakor,prequel,prequel,P-007,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness
+112,2024-07-22,"The Mysteries of the Wyrmreach Dominion",wyrmreach,lore,lore,L-008,false,dark-depths-the-wymreach-dominion
+113,2024-07-23,"The Call to Zuraldi",stonehold,prologue,prologue,R-051,true,the-call-to-zuraldi
+114,2024-07-24,"A Journey Interrupted",stonehold,prologue,prologue,R-052,false,a-journey-interrupted
+115,2024-07-25,"The Sacred Chamber",umbrakor,prologue,prologue,R-000,true,the-sacred-chamber
+116,2024-07-26,"Swords and Shadows",umbrakor,prologue,prologue,R-001,true,swords-shadows
+117,2024-07-27,"The Failed Trial: The Test of Venemora",umbrakor,prologue,prologue,R-001,false,the-failed-trial-the-test-of-venemora
+118,2024-07-28,"Secrets and Shadows",umbrakor,prologue,prologue,R-002,false,secrets-and-shadows
+119,2024-07-29,"The Failed Trial: The Separation",umbrakor,prologue,prologue,R-002,false,the-failed-trial-the-separation
+120,2024-07-30,"The Failed Trial: Shadows in the Hall",umbrakor,prologue,prologue,R-003,false,the-failed-trial-shadows-in-the-hall
+121,2024-07-31,"Voices in the Dark: The Empty Days",umbrakor,prologue,prologue,R-004,false,voices-in-the-dark-the-empty-days
+122,2024-08-01,"Voices in the Dark: The Distant Voice",umbrakor,prologue,prologue,R-005,false,voices-in-the-dark-the-distant-voice
+123,2024-08-02,"Voices in the Dark: The Seed of Doubt",umbrakor,prologue,prologue,R-006,false,voices-in-the-dark-the-seed-of-doubt
+124,2024-08-03,"Voices in the Dark: The Decision",umbrakor,prologue,prologue,R-007,false,voices-in-the-dark-the-decision
+125,2024-08-04,"The Surface Mage: The Tower",umbrakor,prologue,prologue,R-008,false,the-surface-mage-the-tower
+126,2024-08-05,"The Surface Mage: The Assessment",umbrakor,prologue,prologue,R-009,false,the-surface-mage-the-assessment
+127,2024-08-06,"The Surface Mage: The First Lesson",umbrakor,prologue,prologue,R-010,false,the-surface-mage-the-first-lesson
+129,2024-08-08,"The Surface Mage: The Wyrmreach Mention",umbrakor,prologue,prologue,R-011,false,the-surface-mage-the-wyrmreach-mention
+131,2024-08-10,"The Surface Mage: The Return",umbrakor,prologue,prologue,R-012,false,the-surface-mage-the-return
+132,2024-08-11,"Forbidden Knowledge: The Old Texts",umbrakor,prologue,prologue,R-013,false,forbidden-knowledge-the-old-texts
+135,2024-08-14,"Forbidden Knowledge: The Growing Power",umbrakor,prologue,prologue,R-014,false,forbidden-knowledge-the-growing-power
+136,2024-08-15,"Forbidden Knowledge: The Warning Signs",umbrakor,prologue,prologue,R-015,false,forbidden-knowledge-the-warning-signs
+137,2024-08-16,"The Screams in the Mist",grukmar,prologue,prologue,R-015,false,the-screams-in-the-mist
+138,2024-08-17,"Forbidden Knowledge: The Distant Land",umbrakor,prologue,prologue,R-016,false,forbidden-knowledge-the-distant-land
+139,2024-08-18,"March of Despair",grukmar,prologue,prologue,R-016,false,march-of-despair
+140,2024-08-19,"Forbidden Knowledge: The Hesitation",umbrakor,prologue,prologue,R-017,false,forbidden-knowledge-the-hesitation
+141,2024-08-20,"The House Rivalry: The Gathering Storm",umbrakor,prologue,prologue,R-018,false,the-house-rivalry-the-gathering-storm
+142,2024-08-21,"The House Rivalry: The Fracture",umbrakor,prologue,prologue,R-019,false,the-house-rivalry-the-fracture
+143,2024-08-22,"The House Rivalry: The Secret Meeting",umbrakor,prologue,prologue,R-020,false,the-house-rivalry-the-secret-meeting
+144,2024-08-23,"The House Rivalry: The Night Before",umbrakor,prologue,prologue,R-021,false,the-house-rivalry-the-night-before
+145,2024-08-24,"The House Rivalry: The Warning (Cut Short)",umbrakor,prologue,prologue,R-022,false,the-house-rivalry-the-warning-cut-short
+146,2024-08-25,"Blood in the Dark: The Chaos",umbrakor,prologue,prologue,R-023,false,blood-in-the-dark-the-chaos
+147,2024-08-26,"Blood in the Dark: The Slaughter",umbrakor,prologue,prologue,R-024,false,blood-in-the-dark-the-slaughter
+148,2024-08-27,"Blood in the Dark: The Escape",umbrakor,prologue,prologue,R-025,false,blood-in-the-dark-the-escape
+149,2024-08-28,"Blood in the Dark: The Evidence",umbrakor,prologue,prologue,R-026,false,blood-in-the-dark-the-evidence
+150,2024-08-29,"Blood in the Dark: Shyntara",umbrakor,prologue,prologue,R-027,false,blood-in-the-dark-shyntaras-flight
+151,2024-08-30,"Blood in the Dark: The Hollow Victory",umbrakor,prologue,prologue,R-028,false,blood-in-the-dark-the-hollow-victory
+152,2024-08-31,"The Package: The Broken Instrument",umbrakor,main,main,M-029,false,the-package-the-broken-instrument
+153,2024-09-01,"The Package: The Mission",umbrakor,main,main,M-030,false,the-package-the-mission
+154,2024-09-02,"The Package: The Artifact",umbrakor,main,main,M-031,false,the-package-the-artifact
+155,2024-09-03,"The Package: The Crossing",umbrakor,main,main,M-032,false,the-package-the-crossing
+156,2024-09-04,"The Package: The New World",umbrakor,main,main,M-033,false,the-package-the-new-world
+157,2024-09-05,"The Road from Zuraldi: The Awakening",stonehold,main,main,M-034,false,the-road-from-zuraldi-the-awakening
+158,2024-09-06,"The Road from Zuraldi: The Absence",stonehold,main,main,M-035,false,the-road-from-zuraldi-the-absence
+159,2024-09-07,"The Road from Zuraldi: The Nephew",stonehold,main,main,M-036,false,the-road-from-zuraldi-the-nephews-doubt
+160,2024-09-08,"The Road from Zuraldi: The Followers",stonehold,main,main,M-037,false,the-road-from-zuraldi-the-followers
+161,2024-09-09,"The Road from Zuraldi: The Decision",stonehold,main,main,M-038,false,the-road-from-zuraldi-the-decision
