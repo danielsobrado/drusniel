@@ -28,7 +28,7 @@ module.exports = {
     social: [
       {
         name: 'Github',
-        url: 'https://github.com/danielsobrado'
+        url: 'https://github.com/danielsobrado/drusniel-voxels'
       },
       {
         name: 'Twitter',
