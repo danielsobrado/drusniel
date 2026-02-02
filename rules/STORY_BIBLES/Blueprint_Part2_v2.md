@@ -3,7 +3,7 @@
 
 **Scope**:
 - **Drusniel Chapters 8–13**
-- **East Side Chapters 1–5**
+- **West Side Chapters 1–6**
 
 **Purpose**:
 - Scene-by-scene requirements before prose writing
@@ -204,13 +204,16 @@ The betrayal should feel like "of course" not "how dare you."
 | **Ch 11** | Week 10, Days 9-10 | Near Vexrath's tower, meets Srietz, Coatly pursuit |
 | **Ch 12** | Week 11, Days 11-12 | Obsidian caves, DEBT #2, Elion transforms, ancient writings |
 | **Ch 13** | Week 11-12, Days 13-18 | Journey to gloomy town, information on Szoravel, departure |
-| **E1** | Week 10 (parallel) | Riverhold gathering, Beacon reacts to Maris |
-| **E2** | Week 10 (parallel) | Maris's first vision—sees Drusniel drowning |
-| **E3** | Week 10-11 | Xandor names the system, warns of broadcast |
-| **E4** | Week 11 | Dulint's secret seer visit, hidden prophecy |
-| **E5** | Week 11-12 | First fragment found, hunters confirmed, departure north |
+| **E1** | Week 9-10 | Dulint/Balin journey, artifact activates, pursuit begins (Road from Zuraldi) |
+| **E2** | Week 10 (parallel) | Riverhold gathering, Beacon reacts to Maris |
+| **E3** | Week 10 (parallel) | Maris's first vision—sees Drusniel drowning |
+| **E4** | Week 10-11 | Xandor names the system, warns of broadcast |
+| **E5** | Week 11 | Dulint's secret seer visit, hidden prophecy |
+| **E6** | Week 11-12 | First fragment found, hunters confirmed, departure north |
 
-**SYNC POINT**: E2 (Maris's drowning vision) maps directly to D8 (Drusniel's nightmare sea crossing). Same event, different perspectives.
+**SYNC POINT**: E3 (Maris's drowning vision) maps directly to D8 (Drusniel's nightmare sea crossing). Same event, different perspectives.
+
+**NOTE**: E1 content exists as "The Road from Zuraldi" series (E1-001 through E1-005).
 
 ---
 
@@ -1676,7 +1679,7 @@ The chapter ends simply:
 
 ---
 
-# PART THREE: EAST SIDE ARC (ASTALOR)
+# PART THREE: WEST SIDE ARC (ASTALOR)
 ## Chapters 1-5 | Gathering Phase
 
 **Reading Order**: D1-D7 → E0 → D8 → E1 → D9 → E2 → D10 → E3 → D11 → E4 → D12 → E5 → D13...
@@ -1689,11 +1692,26 @@ The chapter ends simply:
 - The "0" designation indicates prologue status, not a chapter number
 - This matches D convention where prologues would be D0 if applicable
 
-East Side chapters interleave with Drusniel chapters. Each East Side chapter parallels a Drusniel chapter thematically.
+West Side chapters interleave with Drusniel chapters. Each East Side chapter parallels a Drusniel chapter thematically.
 
 ---
 
-## CHAPTER 1 (EAST): THE KNOT AT RIVERHOLD
+## CHAPTER 1 (WEST): THE ROAD FROM ZURALDI
+
+**Timeline**: Week 9-10 (before D8)
+**POV**: Dulint / Balin
+**Word Target**: 5,000-6,000 words (5 subchapters)
+**Beat**: Artifact Activation / Journey Begins / Delay Engine Starts
+
+**NOTE**: This content already exists as "The Road from Zuraldi" series (E1-001 through E1-005).
+Subchapters: The Awakening, The Absence, The Nephew's Doubt, The Followers, The Decision.
+
+### Core Conflict
+The artifact activates. Dulint makes delay choices that feel protective but accumulate cost. Pursuit begins.
+
+---
+
+## CHAPTER 2 (WEST): THE KNOT AT RIVERHOLD
 
 **Timeline**: Week 10 (parallel to D8)
 **POV**: Aldric
@@ -1875,7 +1893,7 @@ Aldric enters this story BROKEN:
 
 ---
 
-### CHAPTER 1 (EAST) CHECKLIST
+### CHAPTER 6 (WEST) CHECKLIST
 - [ ] Aldric's bitter/correct state established
 - [ ] His military background and dismissal explained
 - [ ] Xandor connection introduced (old friend, believer)
@@ -1889,7 +1907,7 @@ Aldric enters this story BROKEN:
 
 ---
 
-## CHAPTER 2 (EAST): THE GRASS WHERE SHE FELL
+## CHAPTER 3 (WEST): THE GRASS WHERE SHE FELL
 
 **Timeline**: Week 10 (parallel to D9)
 **POV**: Maris
@@ -2152,7 +2170,7 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 
 ---
 
-### CHAPTER 2 (EAST) CHECKLIST
+### CHAPTER 6 (WEST) CHECKLIST
 - [ ] Vision cost shown FIRST (physical pain, time loss)
 - [ ] Stable Image burned into reader (boat, water, hand)
 - [ ] Maris's power rules established (receives, doesn't control)
@@ -2166,7 +2184,7 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 
 ---
 
-## CHAPTER 3 (EAST): NAMING WITHOUT EXPLAINING
+## CHAPTER 4 (WEST): NAMING WITHOUT EXPLAINING
 
 **Timeline**: Week 10-11 (parallel to D10)
 **POV**: Xandor
@@ -2331,7 +2349,7 @@ Xandor knows MORE than others but NOT everything:
 
 ---
 
-### CHAPTER 3 (EAST) CHECKLIST
+### CHAPTER 6 (WEST) CHECKLIST
 - [ ] Xandor's expertise established (decades of research)
 - [ ] Nexus system NAMED but not fully explained
 - [ ] Five phases introduced by name only
@@ -2345,7 +2363,7 @@ Xandor knows MORE than others but NOT everything:
 
 ---
 
-## CHAPTER 4 (EAST): THE SEER'S WARNING
+## CHAPTER 5 (WEST): THE SEER'S WARNING
 
 **Timeline**: Week 11 (parallel to D11)
 **POV**: Dulint
@@ -2560,7 +2578,7 @@ This prevents the delay engine from becoming pure chess. Dulint is human first.
 
 ---
 
-### CHAPTER 4 (EAST) CHECKLIST
+### CHAPTER 6 (WEST) CHECKLIST
 - [ ] Dulint's secret burden established
 - [ ] Seer encounter shown (flashback)
 - [ ] "Slowly" as strategy explained
@@ -2574,7 +2592,7 @@ This prevents the delay engine from becoming pure chess. Dulint is human first.
 
 ---
 
-## CHAPTER 5 (EAST): NORTHBOUND
+## CHAPTER 6 (WEST): NORTHBOUND
 
 **Timeline**: Week 11-12 (parallel to D12)
 **POV**: Balin
@@ -2770,7 +2788,7 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 
 ---
 
-### CHAPTER 5 (EAST) CHECKLIST
+### CHAPTER 6 (WEST) CHECKLIST
 - [ ] Balin's counting quirk established
 - [ ] His eagerness contrasted with reality
 - [ ] Grukmar evidence found (organized pursuit)
