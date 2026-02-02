@@ -17,13 +17,13 @@ TRANS = {
         'Lore': 'Lore', 'Main': 'Chapter', 'Prequel': 'Prequel', 'Prologue': 'Prologue',
         'Part': 'Part',
         'Footer': '**[End of {current} — continues in {next_seq}: {next_title}]**',
-        'FooterMain': '**[End of {c_num}.{p_num} — continues in {n_num}.{np_num}: {next_title}]**'
+        'FooterMain': '**[End of Chapter {c_num}.{p_num} — continues in Chapter {n_num}.{np_num}: {next_title}]**'
     },
     'es': {
         'Lore': 'Lore', 'Main': 'Capítulo', 'Prequel': 'Precuela', 'Prologue': 'Prólogo',
         'Part': 'Parte',
         'Footer': '**[Fin de {current} — continúa en {next_seq}: {next_title}]**',
-        'FooterMain': '**[Fin de {c_num}.{p_num} — continúa en {n_num}.{np_num}: {next_title}]**'
+        'FooterMain': '**[Fin del Capítulo {c_num}.{p_num} — continúa en el Capítulo {n_num}.{np_num}: {next_title}]**'
     }
 }
 

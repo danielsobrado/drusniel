@@ -28,10 +28,12 @@ counterpart_title: "Translated Title"  # EN points to ES; ES points to EN
 ### Order Ranges
 | Phase | EN Range | ES Range | Sequence Format |
 |-------|----------|----------|-----------------|
-| Lore | 101-199 | 1101-1199 | L-001 to L-099 |
-| Prequel | 200-249 | 1200-1249 | P-001 to P-049 |
-| Prologue | 250-299 | 1250-1299 | R-001 to R-049 |
-| Main | 300-399 | 1300-1399 | M-001 to M-099 |
+| Lore | 1-599 | 10001-10599 | L-001 to L-599 |
+| Prequel | 600-699 | 10600-10699 | P-001 to P-099 |
+| Prologue | 700-799 | 10700-10799 | R-001 to R-099 |
+| Main | 1000+ | 11000+ | W1-xxx to W6-xxx (West Side chapters) |
+
+**Note:** Main has no upper limit. Skip-by-3 numbering for insertion flexibility.
 
 ### Content Taxonomy
 | Category | Purpose | Rule System | Narrative Weight |
@@ -42,10 +44,11 @@ counterpart_title: "Translated Title"  # EN points to ES; ES points to EN
 | Main | Mainline story | Chapter Rules | high |
 
 ### Date Alignment
-Dates increment with publication_order using base date 2024-04-01:
-- Order 101 → 2024-04-02
-- Order 250 → 2024-08-27
-- Order 330 → 2024-11-17
+Dates increment with publication_order using base date 2024-01-01:
+- Order 1 → 2024-01-02
+- Order 600 → 2024-08-19
+- Order 700 → 2024-11-27
+- Order 1000 → 2025-09-27
 
 ---
 
@@ -64,7 +67,7 @@ site/content/posts/es/<category>/<slug>/index.mdx
 ### Core Principle
 > **Every prequel/lore character knows less than Drusniel at the corresponding point in the main story.**
 
-### Lore Content (101-199)
+### Lore Content (1-599)
 **Voice**: Fragmentary, compiled, disputed
 
 **Do:**
@@ -85,7 +88,7 @@ site/content/posts/es/<category>/<slug>/index.mdx
 ✅ "Some claim it was built. Others say it grew. Vorogarth stopped asking which was true."
 ```
 
-### Prequel Content (200-299)
+### Prequel Content (600-699)
 **Voice**: Limited POV, local stakes
 
 **Do:**
@@ -105,7 +108,7 @@ site/content/posts/es/<category>/<slug>/index.mdx
 ✅ "Lumeshire believed it had time."
 ```
 
-### Main Content (300+)
+### Main Content (1000+)
 **Voice**: Drusniel's direct experience, real-time discovery
 
 ---
@@ -312,7 +315,7 @@ Before publishing any lore or prequel, verify:
 
 ## Bilingual Workflow
 - Spanish files are direct translations of English originals
-- ES `publication_order` = EN order + 1000
+- ES `publication_order` = EN order + 10000 (for new content)
 - Titles and tags are translated appropriately
 - Dates match between language pairs
 
