@@ -1,6 +1,7 @@
 import os
 import csv
 import re
+import shutil
 
 # Configurations
 BASE_DIR = r'c:\Development\workspace\GitHub\drusniel\site\content\posts'
@@ -14,34 +15,79 @@ CSV_FILES = {
 TRANS = {
     'en': {
         'Lore': 'Lore', 'Main': 'Chapter', 'Prequel': 'Prequel', 'Prologue': 'Prologue',
-        'Footer': '**[End of {current} — continues in {next_seq}: {next_title}]**'
+        'Part': 'Part',
+        'Footer': '**[End of {current} — continues in {next_seq}: {next_title}]**',
+        'FooterMain': '**[End of {c_num}.{p_num} — continues in {n_num}.{np_num}: {next_title}]**'
     },
     'es': {
         'Lore': 'Lore', 'Main': 'Capítulo', 'Prequel': 'Precuela', 'Prologue': 'Prólogo',
-        'Footer': '**[Fin de {current} — continúa en {next_seq}: {next_title}]**'
+        'Part': 'Parte',
+        'Footer': '**[Fin de {current} — continúa en {next_seq}: {next_title}]**',
+        'FooterMain': '**[Fin de {c_num}.{p_num} — continúa en {n_num}.{np_num}: {next_title}]**'
     }
 }
 
 def load_csv(filepath):
     posts = []
     if not os.path.exists(filepath):
-        print(f"Error: {filepath} not found.")
         return []
     with open(filepath, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             posts.append(row)
-    # Sort by order just in case
+    # Sort by order
     posts.sort(key=lambda x: int(x.get('order', 0)) if x.get('order', '0').isdigit() else 0)
     return posts
+
+def build_main_mapping(posts):
+    # Filter Main
+    main_posts = [p for p in posts if '-M-' in p.get('canon_sequence', '')]
+    if not main_posts:
+        return {}
+        
+    arcs = []
+    current_arc = None
+    
+    for p in main_posts:
+        title = p['title']
+        if ':' in title:
+            prefix = title.split(':')[0].strip()
+            suffix = title.split(':', 1)[1].strip()
+        else:
+            prefix = title.strip()
+            suffix = title.strip() # Subtitle is same as title if no colon?
+            
+        if current_arc is None or current_arc['name'] != prefix:
+            if current_arc:
+                arcs.append(current_arc)
+            current_arc = {'name': prefix, 'posts': []}
+        
+        current_arc['posts'].append({'data': p, 'subtitle': suffix})
+        
+    if current_arc:
+        arcs.append(current_arc)
+        
+    mapping = {} # seq -> {chap, part, subtitle}
+    for i, arc in enumerate(arcs, 1):
+        for j, item in enumerate(arc['posts'], 1):
+            p = item['data']
+            mapping[p['canon_sequence']] = {
+                'chap': i,
+                'part': j,
+                'subtitle': item['subtitle']
+            }
+    return mapping
 
 def find_file_by_sequence(target_seq, lang):
     for root, dirs, files in os.walk(BASE_DIR):
         for file in files:
             if file.endswith('.mdx') or file.endswith('.md'):
                 filepath = os.path.join(root, file)
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    content = f.read()
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        content = f.read()
+                except:
+                    continue
                 
                 seq_match = re.search(r'canon_sequence:\s*([^\s]+)', content)
                 lang_match = re.search(r'language:\s*([^\s]+)', content)
@@ -57,65 +103,72 @@ def find_file_by_sequence(target_seq, lang):
 def process_language(lang):
     print(f"Processing {lang}...")
     posts = load_csv(CSV_FILES[lang])
+    main_map = build_main_mapping(posts)
     
     for i in range(len(posts)):
         current_post = posts[i]
         next_post = posts[i+1] if i < len(posts) - 1 else None
         
         seq = current_post.get('canon_sequence')
-        if not seq:
-            continue
-            
+        if not seq: continue
+        
         filepath, content = find_file_by_sequence(seq, lang)
-        if not filepath:
-            # print(f"Warning: File not found for sequence {seq}")
-            continue
+        if not filepath: continue
             
         # Split Frontmatter
         parts = content.split('---', 2)
-        if len(parts) < 3:
-            continue
+        if len(parts) < 3: continue
             
         frontmatter = parts[1]
         body = parts[2]
         
-        # --- CLEAN HEADER OLD ARTIFACTS ---
-        # Strip initial whitespace
+        # --- CLEAN OLD ARTIFACTS ---
         body = body.strip()
-        
-        # 1. Remove leading separator if present (regex ^---)
         body = re.sub(r'^---\s*', '', body).strip()
-        
-        # 2. Remove leading Header line (regex ^#+ .*)
         body = re.sub(r'^#+.*?\n', '', body).strip()
-        
-        # 3. Remove trailing separator of the header block if present
         body = re.sub(r'^---\s*', '', body).strip()
-        
-        # Now body should be "clean" text starting with content.
+        body = re.sub(r'\s*\*\*\[.*?\]\*\*\s*$', '', body, flags=re.DOTALL).strip()
         
         # --- GENERATE NEW HEADER ---
         p_type = current_post.get('type', 'Main')
         p_title = current_post.get('title', '')
-        type_label = TRANS[lang].get(p_type, p_type)
-        header_text = f"{type_label} | {p_title}"
         
+        labels = TRANS[lang]
+        
+        if seq in main_map:
+            # Main Post
+            info = main_map[seq]
+            chap_num = info['chap']
+            part_num = info['part']
+            # Header: ## Capítulo X | Parte Y
+            header_text = f"{labels['Main']} {chap_num} | {labels['Part']} {part_num}"
+        else:
+            # Lore/Prequel
+            p_cat_label = labels.get(p_type, p_type)
+            header_text = f"{p_cat_label} | {p_title}"
+
         new_header_block = f"\n\n--- \n\n## {header_text}\n\n--- \n\n"
         
-        # --- CLEAN FOOTER OLD ARTIFACTS ---
-        # Remove existing footer if it matches pattern **[ ... ]** at end
-        body = re.sub(r'\s*\*\*\[.*?\]\*\*\s*$', '', body, flags=re.DOTALL)
-        body = body.strip()
-
         # --- GENERATE NEW FOOTER ---
         new_footer = ""
         if next_post:
-            n_title = next_post.get('title')
             n_seq = next_post.get('canon_sequence')
-            footer_template = TRANS[lang]['Footer']
-            current_id = seq 
-            next_id = n_seq
-            new_footer = f"\n\n{footer_template.format(current=current_id, next_seq=next_id, next_title=n_title)}"
+            n_title = next_post.get('title')
+            
+            # If both are Main, use nice numbering
+            if seq in main_map and n_seq in main_map:
+                c_info = main_map[seq]
+                n_info = main_map[n_seq]
+                
+                # Get next subtitle (we need to resolve it from map)
+                n_subtitle = n_info['subtitle']
+                
+                ft = labels['FooterMain']
+                new_footer = f"\n\n{ft.format(c_num=c_info['chap'], p_num=c_info['part'], n_num=n_info['chap'], np_num=n_info['part'], next_title=n_subtitle)}"
+            else:
+                # Fallback footer
+                ft = labels['Footer']
+                new_footer = f"\n\n{ft.format(current=seq, next_seq=n_seq, next_title=n_title)}"
 
         # Reassemble
         new_content = f"---{frontmatter}---{new_header_block}{body}{new_footer}"
