@@ -14,7 +14,8 @@ START_DATE = datetime(2024, 4, 1)
 TYPE_LORE = ('Lore', 'lore', 'L')
 TYPE_PREQUEL = ('Prequel', 'prequel', 'P')
 TYPE_PROLOGUE = ('Prologue', 'prologue', 'R') # R for Prologue as per user req
-TYPE_MAIN = ('Chapter', 'drusniel', 'M')
+TYPE_MAIN = ('Main', 'drusniel', 'M')
+TYPE_META = ('Meta', 'meta', 'X')
 
 # Prefix Mapping (Category -> 3-Letter Code)
 CATEGORY_PREFIXES = {
@@ -123,17 +124,30 @@ class Post:
         if self.slug in TAXONOMY_OVERRIDES:
             self.taxonomy = TAXONOMY_OVERRIDES[self.slug]
         else:
-            phase = str(frontmatter.get('canon_phase', '')).lower().strip()
-            # If phase is Lore/Prequel, trust it. If Prologue/Main, check overlap.
-            if phase == 'lore': self.taxonomy = TYPE_LORE
-            elif phase == 'prequel': self.taxonomy = TYPE_PREQUEL
-            elif phase == 'prologue': self.taxonomy = TYPE_MAIN # Reclass old prologues to Main
-            else: self.taxonomy = TYPE_MAIN
+            title_lower = str(frontmatter.get('title', '')).lower()
+            if any(x in title_lower for x in ["introducción", "contexto", "nota del autor", "resumen"]):
+                 self.taxonomy = TYPE_META
+            else:
+                phase = str(frontmatter.get('canon_phase', '').lower().strip())
+                # Debug logging
+                if 'guard' in title_lower or 'amenaza' in title_lower:
+                    print(f"DEBUG: Processing '{self.slug}' - Phase: '{phase}'")
+
+                # If phase is Lore/Prequel, trust it. If Prologue/Main, check overlap.
+                if phase == 'lore': self.taxonomy = TYPE_LORE
+                elif phase == 'prequel': self.taxonomy = TYPE_PREQUEL
+                elif phase == 'east': self.taxonomy = TYPE_PROLOGUE # East Prologue
+                elif phase == 'prologue': self.taxonomy = TYPE_MAIN # Reclass old prologues to Main # Default to Main
+                else: self.taxonomy = TYPE_MAIN
+        
+        # Double check alignment
+        if 'east' in str(frontmatter.get('canon_phase', '')):
+             self.taxonomy = TYPE_PROLOGUE
             
         self.type_str, self.canon_phase, self.type_code = self.taxonomy
         
         # Sort Keys
-        self.type_rank = {TYPE_LORE: 10, TYPE_PREQUEL: 20, TYPE_PROLOGUE: 30, TYPE_MAIN: 40}[self.taxonomy]
+        self.type_rank = {TYPE_LORE: 10, TYPE_PREQUEL: 20, TYPE_PROLOGUE: 30, TYPE_MAIN: 40, TYPE_META: 99}[self.taxonomy]
         try:
             self.original_order = int(frontmatter.get('publication_order', 9999))
         except:
@@ -212,6 +226,13 @@ def process_language(lang):
     seq_counters = defaultdict(lambda: 1)
     
     for post in all_posts:
+        if post.taxonomy == TYPE_META:
+            # Meta posts get no order, no sequence ID, just type=meta
+            # They don't increment current_order
+            post.update_metadata(9999, (START_DATE + timedelta(days=999)).strftime('%Y-%m-%d'), "META", lang)
+            post.write_back()
+            continue
+
         # Generate new date
         offset = current_order - 100
         new_date = (START_DATE + timedelta(days=offset)).strftime('%Y-%m-%d')

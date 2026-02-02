@@ -20,39 +20,43 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path
 119,2024-04-20,The Road from Zuraldi: The Nephew's Doubt,stonehold,Prologue,prologue,STO-R-003,false,the-road-from-zuraldi-the-nephews-doubt
 120,2024-04-21,The Road from Zuraldi: The Followers,stonehold,Prologue,prologue,STO-R-004,false,the-road-from-zuraldi-the-followers
 121,2024-04-22,The Road from Zuraldi: The Decision,stonehold,Prologue,prologue,STO-R-005,false,the-road-from-zuraldi-the-decision
-122,2024-04-23,The Sacred Chamber,umbrakor,,drusniel,UMB-M-001,true,the-sacred-chamber
-123,2024-04-24,Swords and Shadows,umbrakor,,drusniel,UMB-M-002,true,swords-shadows
-124,2024-04-25,The Failed Trial: The Test of Venemora,umbrakor,,drusniel,UMB-M-003,false,the-failed-trial-the-test-of-venemora
-125,2024-04-26,Secrets and Shadows,umbrakor,,drusniel,UMB-M-004,false,secrets-and-shadows
-126,2024-04-27,The Failed Trial: The Separation,umbrakor,,drusniel,UMB-M-005,false,the-failed-trial-the-separation
-127,2024-04-28,The Failed Trial: Shadows in the Hall,umbrakor,,drusniel,UMB-M-006,false,the-failed-trial-shadows-in-the-hall
-128,2024-04-29,Voices in the Dark: The Empty Days,umbrakor,,drusniel,UMB-M-007,false,voices-in-the-dark-the-empty-days
-129,2024-04-30,Voices in the Dark: The Distant Voice,umbrakor,,drusniel,UMB-M-008,false,voices-in-the-dark-the-distant-voice
-130,2024-05-01,Voices in the Dark: The Seed of Doubt,umbrakor,,drusniel,UMB-M-009,false,voices-in-the-dark-the-seed-of-doubt
-131,2024-05-02,Voices in the Dark: The Decision,umbrakor,,drusniel,UMB-M-010,false,voices-in-the-dark-the-decision
-132,2024-05-03,The Surface Mage: The Tower,umbrakor,,drusniel,UMB-M-011,false,the-surface-mage-the-tower
-133,2024-05-04,The Surface Mage: The Assessment,umbrakor,,drusniel,UMB-M-012,false,the-surface-mage-the-assessment
-134,2024-05-05,The Surface Mage: The First Lesson,umbrakor,,drusniel,UMB-M-013,false,the-surface-mage-the-first-lesson
-135,2024-05-06,The Surface Mage: The Wyrmreach Mention,umbrakor,,drusniel,UMB-M-014,false,the-surface-mage-the-wyrmreach-mention
-136,2024-05-07,The Surface Mage: The Return,umbrakor,,drusniel,UMB-M-015,false,the-surface-mage-the-return
-137,2024-05-08,Forbidden Knowledge: The Old Texts,umbrakor,,drusniel,UMB-M-016,false,forbidden-knowledge-the-old-texts
-138,2024-05-09,Forbidden Knowledge: The Growing Power,umbrakor,,drusniel,UMB-M-017,false,forbidden-knowledge-the-growing-power
-139,2024-05-10,Forbidden Knowledge: The Warning Signs,umbrakor,,drusniel,UMB-M-018,false,forbidden-knowledge-the-warning-signs
-140,2024-05-11,Forbidden Knowledge: The Distant Land,umbrakor,,drusniel,UMB-M-019,false,forbidden-knowledge-the-distant-land
-141,2024-05-12,Forbidden Knowledge: The Hesitation,umbrakor,,drusniel,UMB-M-020,false,forbidden-knowledge-the-hesitation
-142,2024-05-13,The House Rivalry: The Gathering Storm,umbrakor,,drusniel,UMB-M-021,false,the-house-rivalry-the-gathering-storm
-143,2024-05-14,The House Rivalry: The Fracture,umbrakor,,drusniel,UMB-M-022,false,the-house-rivalry-the-fracture
-144,2024-05-15,The House Rivalry: The Secret Meeting,umbrakor,,drusniel,UMB-M-023,false,the-house-rivalry-the-secret-meeting
-145,2024-05-16,The House Rivalry: The Night Before,umbrakor,,drusniel,UMB-M-024,false,the-house-rivalry-the-night-before
-146,2024-05-17,The House Rivalry: The Warning (Cut Short),umbrakor,,drusniel,UMB-M-025,false,the-house-rivalry-the-warning-cut-short
-147,2024-05-18,Blood in the Dark: The Chaos,umbrakor,,drusniel,UMB-M-026,false,blood-in-the-dark-the-chaos
-148,2024-05-19,Blood in the Dark: The Slaughter,umbrakor,,drusniel,UMB-M-027,false,blood-in-the-dark-the-slaughter
-149,2024-05-20,Blood in the Dark: The Escape,umbrakor,,drusniel,UMB-M-028,false,blood-in-the-dark-the-escape
-150,2024-05-21,Blood in the Dark: The Evidence,umbrakor,,drusniel,UMB-M-029,false,blood-in-the-dark-the-evidence
-151,2024-05-22,Blood in the Dark: Shyntara's Flight,umbrakor,,drusniel,UMB-M-030,false,blood-in-the-dark-shyntaras-flight
-152,2024-05-23,Blood in the Dark: The Hollow Victory,umbrakor,,drusniel,UMB-M-031,false,blood-in-the-dark-the-hollow-victory
-153,2024-05-24,The Package: The Broken Instrument,umbrakor,,drusniel,UMB-M-032,false,the-package-the-broken-instrument
-154,2024-05-25,The Package: The Mission,umbrakor,,drusniel,UMB-M-033,false,the-package-the-mission
-155,2024-05-26,The Package: The Artifact,umbrakor,,drusniel,UMB-M-034,false,the-package-the-artifact
-156,2024-05-27,The Package: The Crossing,umbrakor,,drusniel,UMB-M-035,false,the-package-the-crossing
-157,2024-05-28,The Package: The New World,umbrakor,,drusniel,UMB-M-036,false,the-package-the-new-world
+122,2024-04-23,The Quest for Goblin Tracks Beyond Grukmar's Border,lumeshire,,drusniel,LUM-M-001,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil
+123,2024-04-24,Goblin Threats at Grukmar's Edge,lumeshire,,drusniel,LUM-M-002,false,morning-tidings-goblin-threats-at-grukmars-edge
+124,2024-04-25,A Guard's Glimpse into Grukmar,lumeshire,,drusniel,LUM-M-003,true,whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar
+125,2024-04-26,A Tenderfoot Patrol's Brush with Grukmar's Legends,lumeshire,,drusniel,LUM-M-004,false,whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends
+126,2024-04-27,The Sacred Chamber,umbrakor,,drusniel,UMB-M-001,true,the-sacred-chamber
+127,2024-04-28,Swords and Shadows,umbrakor,,drusniel,UMB-M-002,true,swords-shadows
+128,2024-04-29,The Failed Trial: The Test of Venemora,umbrakor,,drusniel,UMB-M-003,false,the-failed-trial-the-test-of-venemora
+129,2024-04-30,Secrets and Shadows,umbrakor,,drusniel,UMB-M-004,false,secrets-and-shadows
+130,2024-05-01,The Failed Trial: The Separation,umbrakor,,drusniel,UMB-M-005,false,the-failed-trial-the-separation
+131,2024-05-02,The Failed Trial: Shadows in the Hall,umbrakor,,drusniel,UMB-M-006,false,the-failed-trial-shadows-in-the-hall
+132,2024-05-03,Voices in the Dark: The Empty Days,umbrakor,,drusniel,UMB-M-007,false,voices-in-the-dark-the-empty-days
+133,2024-05-04,Voices in the Dark: The Distant Voice,umbrakor,,drusniel,UMB-M-008,false,voices-in-the-dark-the-distant-voice
+134,2024-05-05,Voices in the Dark: The Seed of Doubt,umbrakor,,drusniel,UMB-M-009,false,voices-in-the-dark-the-seed-of-doubt
+135,2024-05-06,Voices in the Dark: The Decision,umbrakor,,drusniel,UMB-M-010,false,voices-in-the-dark-the-decision
+136,2024-05-07,The Surface Mage: The Tower,umbrakor,,drusniel,UMB-M-011,false,the-surface-mage-the-tower
+137,2024-05-08,The Surface Mage: The Assessment,umbrakor,,drusniel,UMB-M-012,false,the-surface-mage-the-assessment
+138,2024-05-09,The Surface Mage: The First Lesson,umbrakor,,drusniel,UMB-M-013,false,the-surface-mage-the-first-lesson
+139,2024-05-10,The Surface Mage: The Wyrmreach Mention,umbrakor,,drusniel,UMB-M-014,false,the-surface-mage-the-wyrmreach-mention
+140,2024-05-11,The Surface Mage: The Return,umbrakor,,drusniel,UMB-M-015,false,the-surface-mage-the-return
+141,2024-05-12,Forbidden Knowledge: The Old Texts,umbrakor,,drusniel,UMB-M-016,false,forbidden-knowledge-the-old-texts
+142,2024-05-13,Forbidden Knowledge: The Growing Power,umbrakor,,drusniel,UMB-M-017,false,forbidden-knowledge-the-growing-power
+143,2024-05-14,Forbidden Knowledge: The Warning Signs,umbrakor,,drusniel,UMB-M-018,false,forbidden-knowledge-the-warning-signs
+144,2024-05-15,Forbidden Knowledge: The Distant Land,umbrakor,,drusniel,UMB-M-019,false,forbidden-knowledge-the-distant-land
+145,2024-05-16,Forbidden Knowledge: The Hesitation,umbrakor,,drusniel,UMB-M-020,false,forbidden-knowledge-the-hesitation
+146,2024-05-17,The House Rivalry: The Gathering Storm,umbrakor,,drusniel,UMB-M-021,false,the-house-rivalry-the-gathering-storm
+147,2024-05-18,The House Rivalry: The Fracture,umbrakor,,drusniel,UMB-M-022,false,the-house-rivalry-the-fracture
+148,2024-05-19,The House Rivalry: The Secret Meeting,umbrakor,,drusniel,UMB-M-023,false,the-house-rivalry-the-secret-meeting
+149,2024-05-20,The House Rivalry: The Night Before,umbrakor,,drusniel,UMB-M-024,false,the-house-rivalry-the-night-before
+150,2024-05-21,The House Rivalry: The Warning (Cut Short),umbrakor,,drusniel,UMB-M-025,false,the-house-rivalry-the-warning-cut-short
+151,2024-05-22,Blood in the Dark: The Chaos,umbrakor,,drusniel,UMB-M-026,false,blood-in-the-dark-the-chaos
+152,2024-05-23,Blood in the Dark: The Slaughter,umbrakor,,drusniel,UMB-M-027,false,blood-in-the-dark-the-slaughter
+153,2024-05-24,Blood in the Dark: The Escape,umbrakor,,drusniel,UMB-M-028,false,blood-in-the-dark-the-escape
+154,2024-05-25,Blood in the Dark: The Evidence,umbrakor,,drusniel,UMB-M-029,false,blood-in-the-dark-the-evidence
+155,2024-05-26,Blood in the Dark: Shyntara's Flight,umbrakor,,drusniel,UMB-M-030,false,blood-in-the-dark-shyntaras-flight
+156,2024-05-27,Blood in the Dark: The Hollow Victory,umbrakor,,drusniel,UMB-M-031,false,blood-in-the-dark-the-hollow-victory
+157,2024-05-28,The Package: The Broken Instrument,umbrakor,,drusniel,UMB-M-032,false,the-package-the-broken-instrument
+158,2024-05-29,The Package: The Mission,umbrakor,,drusniel,UMB-M-033,false,the-package-the-mission
+159,2024-05-30,The Package: The Artifact,umbrakor,,drusniel,UMB-M-034,false,the-package-the-artifact
+160,2024-05-31,The Package: The Crossing,umbrakor,,drusniel,UMB-M-035,false,the-package-the-crossing
+161,2024-06-01,The Package: The New World,umbrakor,,drusniel,UMB-M-036,false,the-package-the-new-world

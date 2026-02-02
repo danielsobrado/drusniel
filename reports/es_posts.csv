@@ -20,26 +20,26 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path
 119,2024-04-20,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Prologue,prologue,STO-R-003,false,el-camino-de-zuraldi-la-duda-del-sobrino
 120,2024-04-21,El Camino de Zuraldi: Los Seguidores,stonehold,Prologue,prologue,STO-R-004,false,el-camino-de-zuraldi-los-seguidores
 121,2024-04-22,El Camino de Zuraldi: La Decisión,stonehold,Prologue,prologue,STO-R-005,false,el-camino-de-zuraldi-la-decision
-122,2024-04-23,La Cámara Sagrada,umbrakor,,drusniel,UMB-M-001,true,la-camara-sagrada
-123,2024-04-24,Espadas y Sombras,umbrakor,,drusniel,UMB-M-002,true,espadas-sombras
-124,2024-04-25,La Prueba Fallida: La Prueba de Venemora,umbrakor,,drusniel,UMB-M-003,false,la-prueba-fallida-la-prueba-de-venemora
-125,2024-04-26,Secretos y Sombras,umbrakor,,drusniel,UMB-M-004,false,secretos-y-sombras
-126,2024-04-27,La Prueba Fallida: La Separación,umbrakor,,drusniel,UMB-M-005,false,la-prueba-fallida-la-separacion
-127,2024-04-28,La Prueba Fallida: Sombras en el Salón,umbrakor,,drusniel,UMB-M-006,false,la-prueba-fallida-sombras-en-el-salon
-128,2024-04-29,Voces en la Oscuridad: Los Días Vacíos,umbrakor,,drusniel,UMB-M-007,false,voces-en-la-oscuridad-los-dias-vacios
-129,2024-04-30,Voces en la Oscuridad: La Voz Distante,umbrakor,,drusniel,UMB-M-008,false,voces-en-la-oscuridad-la-voz-distante
-130,2024-05-01,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,,drusniel,UMB-M-009,false,voces-en-la-oscuridad-la-semilla-de-la-duda
-131,2024-05-02,Voces en la Oscuridad: La Decisión,umbrakor,,drusniel,UMB-M-010,false,voces-en-la-oscuridad-la-decision
-132,2024-05-03,El Mago de Superficie: La Torre,umbrakor,,drusniel,UMB-M-011,false,el-mago-de-superficie-la-torre
-133,2024-05-04,El Mago de Superficie: La Evaluación,umbrakor,,drusniel,UMB-M-012,false,el-mago-de-superficie-la-evaluacion
-134,2024-05-05,El Mago de Superficie: La Primera Lección,umbrakor,,drusniel,UMB-M-013,false,el-mago-de-superficie-la-primera-leccion
-135,2024-05-06,La mirada de un guardia a Grukmar,lumeshire,,drusniel,LUM-M-001,true,la-mirada-de-un-guardia-a-grukmar
-136,2024-05-07,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,,drusniel,UMB-M-014,false,el-mago-de-superficie-la-mencion-de-wyrmreach
-137,2024-05-08,Amenazas goblin en el borde con Grukmar,lumeshire,,drusniel,LUM-M-002,false,amenazas-goblin-en-el-borde-de-grukmar
-138,2024-05-09,El Mago de Superficie: El Regreso,umbrakor,,drusniel,UMB-M-015,false,el-mago-de-superficie-el-regreso
-139,2024-05-10,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,,drusniel,UMB-M-016,false,conocimiento-prohibido-los-textos-antiguos
-140,2024-05-11,La búsqueda de goblins se extiende más allá del borde de Grukmar,lumeshire,,drusniel,LUM-M-003,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar
-141,2024-05-12,Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos,lumeshire,,drusniel,LUM-M-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar
+122,2024-04-23,Amenazas goblin en el borde con Grukmar,lumeshire,,drusniel,LUM-M-001,false,amenazas-goblin-en-el-borde-de-grukmar
+123,2024-04-24,La búsqueda de goblins se extiende más allá del borde de Grukmar,lumeshire,,drusniel,LUM-M-002,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar
+124,2024-04-25,La mirada de un guardia a Grukmar,lumeshire,,drusniel,LUM-M-003,true,la-mirada-de-un-guardia-a-grukmar
+125,2024-04-26,Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos,lumeshire,,drusniel,LUM-M-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar
+126,2024-04-27,La Cámara Sagrada,umbrakor,,drusniel,UMB-M-001,true,la-camara-sagrada
+127,2024-04-28,Espadas y Sombras,umbrakor,,drusniel,UMB-M-002,true,espadas-sombras
+128,2024-04-29,La Prueba Fallida: La Prueba de Venemora,umbrakor,,drusniel,UMB-M-003,false,la-prueba-fallida-la-prueba-de-venemora
+129,2024-04-30,Secretos y Sombras,umbrakor,,drusniel,UMB-M-004,false,secretos-y-sombras
+130,2024-05-01,La Prueba Fallida: La Separación,umbrakor,,drusniel,UMB-M-005,false,la-prueba-fallida-la-separacion
+131,2024-05-02,La Prueba Fallida: Sombras en el Salón,umbrakor,,drusniel,UMB-M-006,false,la-prueba-fallida-sombras-en-el-salon
+132,2024-05-03,Voces en la Oscuridad: Los Días Vacíos,umbrakor,,drusniel,UMB-M-007,false,voces-en-la-oscuridad-los-dias-vacios
+133,2024-05-04,Voces en la Oscuridad: La Voz Distante,umbrakor,,drusniel,UMB-M-008,false,voces-en-la-oscuridad-la-voz-distante
+134,2024-05-05,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,,drusniel,UMB-M-009,false,voces-en-la-oscuridad-la-semilla-de-la-duda
+135,2024-05-06,Voces en la Oscuridad: La Decisión,umbrakor,,drusniel,UMB-M-010,false,voces-en-la-oscuridad-la-decision
+136,2024-05-07,El Mago de Superficie: La Torre,umbrakor,,drusniel,UMB-M-011,false,el-mago-de-superficie-la-torre
+137,2024-05-08,El Mago de Superficie: La Evaluación,umbrakor,,drusniel,UMB-M-012,false,el-mago-de-superficie-la-evaluacion
+138,2024-05-09,El Mago de Superficie: La Primera Lección,umbrakor,,drusniel,UMB-M-013,false,el-mago-de-superficie-la-primera-leccion
+139,2024-05-10,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,,drusniel,UMB-M-014,false,el-mago-de-superficie-la-mencion-de-wyrmreach
+140,2024-05-11,El Mago de Superficie: El Regreso,umbrakor,,drusniel,UMB-M-015,false,el-mago-de-superficie-el-regreso
+141,2024-05-12,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,,drusniel,UMB-M-016,false,conocimiento-prohibido-los-textos-antiguos
 142,2024-05-13,Conocimiento Prohibido: El Poder Creciente,umbrakor,,drusniel,UMB-M-017,false,conocimiento-prohibido-el-poder-creciente
 143,2024-05-14,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,,drusniel,UMB-M-018,false,conocimiento-prohibido-las-senales-de-advertencia
 144,2024-05-15,Conocimiento Prohibido: La Tierra Distante,umbrakor,,drusniel,UMB-M-019,false,conocimiento-prohibido-la-tierra-distante

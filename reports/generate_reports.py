@@ -62,7 +62,11 @@ def scan_directory(lang_code):
             if canon_phase == 'lore': post_type = 'Lore'
             elif canon_phase == 'prequel': post_type = 'Prequel'
             elif canon_phase == 'prologue': post_type = 'Prologue'
-            elif canon_phase == 'main': post_type = 'Chapter'
+            elif canon_phase == 'east': post_type = 'Prologue'
+            elif canon_phase == 'main': post_type = 'Main'
+            elif canon_phase == 'meta': 
+                # Skip meta posts as requested
+                continue
             
             # Get category from parent folder name
             # Structure: .../posts/en/{category}/{slug}/index.mdx

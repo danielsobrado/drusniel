@@ -804,19 +804,11 @@ This shows magic returning but unreliable. The escape can't rely on magic alone.
 - Elion demonstrates surprising capability (shapeshifter hint without reveal)
 - They flee but don't "win"—survival, not victory
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | (magic push—lock breaks) | Action |
-| Guard | "The drow! It's loose!" | Alarm |
-| Drusniel (internal) | "Too hard. The push was too hard. Wind scattered everywhere." | Misfire |
-| Drusniel | "Elion! Now!" | Coordination |
-| Elion | (moves—too fast, wrong angles, something NOT elf) | Capability hint |
-| Guard | "The demon's out! Kill it!" | Escalation |
-| Drusniel (internal) | "My legs. Run. Don't think. Run." | Survival mode |
-| Elion | "This way. I know a place." | Sage feeding info |
-| Drusniel | "How do you know?" | Question |
-| Elion | "I don't know. I just do." | Mystery preserved |
+**SCENE REQUIREMENTS**:
+- Magic misfire included (too strong, scattered)
+- Elion moves wrong (capability hint without reveal)
+- Elion knows direction he shouldn't (Sage mystery)
+- Escape chaotic, not clean
 
 **MAGIC MISFIRE (REQUIRED)**:
 
@@ -854,17 +846,11 @@ This is NOT failure—the escape still works. But it's messy, and magic created 
 - No speeches, no oaths—just survival together
 - Direction needed (sets up Srietz encounter)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | (collapsed, breathing hard) | Exhaustion |
-| Elion | (hands Drusniel water—where did he get water?) | Care |
-| Drusniel | "You didn't have to help me. You could have run faster alone." | Acknowledgment |
-| Elion | "You could have left me in the cage." | Simple |
-| Drusniel | "Why didn't you?" | Asking himself as much as Elion |
-| Elion | "You looked at me. Not through me. Not away from me. At me." | Why loyalty |
-| Drusniel | "That's it? That's enough?" | Surprise |
-| Elion | "For now." | Honesty |
+**SCENE REQUIREMENTS**:
+- Loyalty forms through action, not words
+- Recognition-based bond (not gratitude, not debt)
+- No speeches, no oaths—exhaustion and silence
+- "For now" honesty about conditional trust
 
 **WORLDBUILDING ELEMENTS**:
 - **Shapeshifter trauma**: Years in cages—Elion's fear is specific
@@ -963,15 +949,11 @@ Vexrath is Srietz's former captor. The Coatly are Vexrath's hunting creatures:
 - Something is watching/hunting
 - They need help they don't have
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "These markings. What are they?" | Territory signs |
-| Elion | "Warning. Or claim. Hard to tell the difference here." | Wyrmreach logic |
-| Drusniel (internal) | "My magic. I could scout ahead. But every time I reach for it..." | Visibility awareness |
-| Elion | "Something's wrong. The air." | His senses |
-| Drusniel | "What kind of wrong?" | Seeking info |
-| Elion | "The kind where we're not alone anymore." | Threat |
+**SCENE REQUIREMENTS**:
+- Territory markers unreadable to Drusniel
+- Elion's senses detect threat before Drusniel
+- Magic use temptation vs. visibility fear
+- Wrongness in environment escalates
 
 **WORLDBUILDING ELEMENTS**:
 - **Territory markers**: Lords and warlords claim areas with specific signs
@@ -1029,16 +1011,11 @@ Vexrath is Srietz's former captor. The Coatly are Vexrath's hunting creatures:
 - Srietz demonstrates value (knowledge of weaknesses)
 - Escape is barely managed, not won
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "Coatly! Don't use magic. Whatever you do, don't—" | Warning |
-| Drusniel | (instinctive air push to deflect attack) | Magic use |
-| Srietz | "No! Now they ALL know where we are!" | Consequence |
-| Drusniel (internal) | "Three of them. Now six. Now more in the distance." | Escalation |
-| Srietz | "They track magic. The more you use, the louder you become." | Rule established |
-| Elion | "Then we run." | Simple |
-| Srietz | "This way. Srietz knows where they don't go." | Value shown |
+**SCENE REQUIREMENTS**:
+- Srietz warns against magic (too late)
+- Drusniel uses magic instinctively—draws MORE enemies
+- Magic visibility rule established through consequence
+- Srietz demonstrates value (knows escape routes)
 
 **COATLY DESCRIPTION**:
 - Bat-like but wrong proportions
@@ -1081,17 +1058,11 @@ This scene ESTABLISHES the rule:
 - Loyalty is CONDITIONAL—trust must be earned
 - Srietz's past with Vexrath hinted (not explained)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "Here. They won't follow here." | Safety |
-| Drusniel | "Why not?" | Question |
-| Srietz | "Something else lives here. Something the Coatly fear." | Mystery |
-| Drusniel | "What?" | Alarm |
-| Srietz | "Srietz doesn't know. But Srietz knows the Coatly don't come here." | Pragmatism |
-| Drusniel | "Fine. We take you with us. But if you betray us—" | Threat |
-| Srietz | "Betray? Srietz needs you alive. Dead companions are worthless." | His logic |
-| Elion | (to Drusniel) "He's useful. Keep him." | Simple endorsement |
+**SCENE REQUIREMENTS**:
+- Safe zone mystery (something else lives here)
+- Srietz's pragmatic survival logic
+- Conditional loyalty framed as mutual benefit
+- Elion's simple endorsement
 
 **WORLDBUILDING ELEMENTS**:
 - **Safe zones**: Areas predators avoid (other predators, magical anomalies)
@@ -1118,18 +1089,11 @@ This scene ESTABLISHES the rule:
 - Neither he nor Drusniel can explain it
 - Srietz is suspicious but practical
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "We need shelter. Real shelter. Somewhere we can rest." | Need |
-| Elion | "Obsidian caves. Three hours north. Safe." | Sudden knowledge |
-| Drusniel | "How do you know that?" | Question |
-| Elion | "I..." (pause) "I don't know. I just do." | Mystery |
-| Srietz | "The demon elf knows things. Useful things. Srietz doesn't like it." | Suspicion |
-| Drusniel | "Can we trust it?" | Practical concern |
-| Elion | "It's never been wrong before." | Simple |
-| Srietz | "Before? This happens often?" | Alarm |
-| Elion | "More now than before. Things come to me." | Growing frequency |
+**SCENE REQUIREMENTS**:
+- Elion suddenly "knows" direction (Sage feeding)
+- Neither can explain it—mystery preserved
+- Srietz suspicious but practical
+- Growing frequency of Elion's knowledge established
 
 **SAGE MECHANICS** (HIDDEN):
 - Sage is feeding Elion survival information
@@ -1159,17 +1123,11 @@ This scene ESTABLISHES the rule:
 - Escape into obsidian caves
 - Chapter ends with safety reached but not guaranteed
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | "I could feel them. Not sight. Not sound. Just... pressure." | Awareness |
-| Srietz | "They found us. Move. Now." | Alarm |
-| Drusniel | "My magic—" | Instinct |
-| Srietz | "NO. No magic. Srietz has something better." | Alternative |
-| Srietz | (throws vial—smoke explodes, acrid, thick) | Alchemy |
-| Srietz | "Confuses their senses. Won't last long. Run!" | Effect |
-| Drusniel | "The caves. How far?" | Survival |
-| Elion | "Close. I can feel them." | Sage guidance |
+**SCENE REQUIREMENTS**:
+- Drusniel instinct reaches for magic—stopped
+- Srietz provides non-magical alternative (alchemy)
+- Alchemy works but has cost (REQUIRED failure beat)
+- Escape into caves, safety temporary
 
 **ALCHEMY VS. MAGIC**:
 
@@ -1265,17 +1223,13 @@ The Voice knew he'd call again. It was waiting.
 - Survival is days away, not hours
 - Despair begins to set in
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | "We survived. Now we starve." | New problem |
-| Srietz | "No supplies. No food. Water maybe—there's moisture in caves." | Inventory |
-| Elion | "I can hunt." | Offer |
-| Drusniel | "Hunt what? We don't know what's safe to eat here." | Challenge |
-| Srietz | "Srietz knows. Srietz has survived on worse." | Knowledge |
-| Drusniel | "Then what do we need?" | Practical |
-| Srietz | "Time. Supplies. Information about the area." | Requirements |
-| Elion | "I know where to find some of that." | Sage knowledge |
+**SCENE REQUIREMENTS**:
+- New problem acknowledged: survival, then starvation
+- Inventory: no supplies, no food, maybe water (caves)
+- Elion offers to hunt; Drusniel challenges (what's safe?)
+- Srietz's survival knowledge introduced (survived on worse)
+- Requirements listed: time, supplies, area information
+- Elion hints at Sage knowledge (where to find information)
 
 **WORLDBUILDING ELEMENTS**:
 - **Obsidian caves**: Volcanic formation, naturally defensible
@@ -1342,16 +1296,11 @@ The Voice knew he'd call again. It was waiting.
 - The cost is VISIBLE (he returns wrecked)
 - Drusniel and Srietz wait, terrified
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Elion | "I'll go. I'm fastest." | Offer |
-| Drusniel | "You don't know where—" | Objection |
-| Elion | "I do now. The direction came to me." | Sage info |
-| Srietz | "The demon is going to change, isn't it?" | Dread |
-| Elion | "Don't watch if you don't want to see." | Warning |
-| Drusniel | "What happens when you—" | Curiosity |
-| Elion | "It hurts. And it costs. But it's faster than walking." | Honest |
+**SCENE REQUIREMENTS**:
+- Elion offers because he's fastest (Sage-fed direction)
+- Warning given before transformation
+- Transformation is honest about cost
+- Drusniel and Srietz react differently (data vs. horror)
 
 **THE TRANSFORMATION**:
 
@@ -1401,18 +1350,11 @@ This is NOT beautiful shapeshifting:
 - Bonding: two very different people with shared survival
 - Drusniel explores caves, finds ancient writings
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "He's not coming back. The demon finally left." | Doubt |
-| Drusniel | "He'll come back." | Faith (or stubbornness) |
-| Srietz | "Why? What does he owe you?" | Transactional mind |
-| Drusniel | "Nothing. That's the point." | Non-transactional loyalty |
-| Srietz | (silence—this doesn't compute for him) | Processing |
-| Drusniel | "What's your story, Srietz? Why were you in Vexrath's territory?" | Seeking connection |
-| Srietz | "Three years. Vexrath's alchemist. Srietz didn't choose. Srietz survived." | Revelation |
-| Drusniel | "How did you escape?" | Interest |
-| Srietz | "Srietz was useful until Srietz wasn't. Then Srietz ran." | Simple |
+**SCENE REQUIREMENTS**:
+- Doubt about Elion's return (Srietz transactional view)
+- Non-transactional loyalty concept introduced
+- Srietz backstory revealed (Vexrath's alchemist)
+- Shared vulnerability builds connection
 
 **WORLDBUILDING ELEMENTS**:
 - **Srietz's backstory**: Enslaved alchemist, survived by being useful
@@ -1439,16 +1381,12 @@ This is NOT beautiful shapeshifting:
 - He can read it (learned with Annariel—callback)
 - Seeds prophecy and worldbuilding for later
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel (internal) | "Old dialect. Formal. Like what Annariel and I studied." | Recognition |
-| Drusniel (internal) | "These writings are thousands of years old." | Scale |
-| Drusniel | (reading) "...the prison realm, sealed against escape..." | Fragment |
-| Drusniel | (reading) "...the barrier was not protection but containment..." | Revelation |
-| Drusniel | (reading) "...those of dual nature alone may pass..." | Foreshadowing |
-| Drusniel (internal) | "Dual nature. Air and water. Zaelar had guessed. Or hoped. This proved nothing." | Connection (uncertain) |
-| Drusniel (internal) | "This wasn't a history. It was a warning." | Realization |
+**SCENE REQUIREMENTS**:
+- Drusniel recognizes old drow dialect (Annariel callback)
+- Fragments plant questions, don't answer them
+- "Prison realm" and "dual nature" referenced
+- Zaelar connection uncertain (guessed, not confirmed)
+- Writings incomplete (deliberate destruction)
 
 **ANCIENT WRITINGS CONTENT** (fragments only):
 - Wyrmreach as "prison realm" (not named directly)
@@ -1482,18 +1420,12 @@ This is NOT beautiful shapeshifting:
 - Trust earned through action, not words
 - Group is now bound by shared survival
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "Something's coming." | Alert |
-| Drusniel | (reaches for magic, stops) | Learning |
-| Elion | (collapses at cave entrance, bags of supplies) | Return |
-| Drusniel | "You came back." | Simple |
-| Elion | "Said I would." | Simple |
-| Srietz | "Food. Water. Medicine. The demon actually..." | Surprise |
-| Elion | (barely conscious) "Don't call me demon." | First objection |
-| Drusniel | "What do we call you?" | Respect |
-| Elion | "Elion. Just Elion." | Identity |
+**SCENE REQUIREMENTS**:
+- Elion returns with supplies (success)
+- Transformation cost visible (wrecked)
+- Drusniel's magic restraint shown (learning)
+- Elion asserts identity ("Just Elion")
+- Trust earned through action, not words
 
 **TRANSFORMATION COST SHOWN**:
 - Elion can barely stand
@@ -1573,17 +1505,13 @@ This is a breathing chapter after intense action. But "breathing" doesn't mean "
 - Drusniel studying writings, planning
 - Group rhythm forming
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "How long until you can travel?" (to Elion) | Practical |
-| Elion | "Tomorrow. Maybe the day after. The change takes time." | Honest |
-| Srietz | "Supplies for five days. Six if we ration." | Calculation |
-| Drusniel | "Then we move in two days." | Decision |
-| Srietz | "Move where? Srietz needs to know the destination." | Planning |
-| Drusniel | "East. Toward Szoravel." | Direction |
-| Elion | "Who's Szoravel?" | He wasn't told |
-| Drusniel | "Someone I was sent to find. Someone who might have answers." | Partial truth |
+**SCENE REQUIREMENTS**:
+- Drusniel initiates travel planning (practical, leader tone)
+- Elion gives honest recovery estimate (transformation cost lingers)
+- Srietz calculates supplies precisely (obsessive tracking)
+- Drusniel makes decision without consensus
+- Szoravel named as destination (Elion hasn't heard this name before)
+- Drusniel gives partial truth only ("someone who might have answers")
 
 **WORLDBUILDING ELEMENTS**:
 - **Recovery timeline**: Shapeshifter needs 2-3 days full recovery
@@ -1609,19 +1537,14 @@ This is a breathing chapter after intense action. But "breathing" doesn't mean "
 - Multiple factions fighting over the volcano zone
 - Szoravel is known—but not trusted
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "What do you know about the eastern territories?" | Seeking intel |
-| Srietz | "Contested. Three lords, all fighting. The volcano's in the middle." | Overview |
-| Drusniel | "Lords?" | Probing |
-| Srietz | "Warlords. Territory rulers. Srietz doesn't ask what they really are." | Dragon hint without dragon words |
-| Drusniel | "And Szoravel?" | Main question |
-| Srietz | "A mage. Drow. Has power in the east. Not a lord, but... protected." | Intel |
-| Drusniel | "Protected by whom?" | Key question |
-| Srietz | "Srietz doesn't know. Srietz didn't survive by asking questions like that." | Limit |
-| Elion | "Is the road safe?" | Direct |
-| Srietz | "No road in Wyrmreach is safe. Some are less deadly than others." | Truth |
+**SCENE REQUIREMENTS**:
+- Drusniel seeks intel on eastern territories
+- Srietz reveals: contested lands, three lords, volcano at center
+- **DRAGON LANGUAGE PROTECTION**: Use "lords," "warlords," "rulers"—never dragon terminology
+- Srietz hints at lords' true nature without naming it
+- Szoravel described: drow mage, powerful, "protected" by unknown forces
+- Srietz demonstrates his knowledge limit (survived by not asking certain questions)
+- Road safety acknowledged as relative, not absolute
 
 **WORLDBUILDING ELEMENTS**:
 - **Three lords**: Nyxara, Vorthrak, Sytherix (not named yet—"the three")
@@ -1644,17 +1567,13 @@ This is a breathing chapter after intense action. But "breathing" doesn't mean "
 - Information about Szoravel refined
 - Supplies restocked (Srietz's gems pay)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Srietz | "Gems. From the goblin village. Worth enough to buy silence." | Payment |
-| Drusniel | "This place feels wrong." | Observation |
-| Srietz | "Everywhere in Wyrmreach feels wrong. This is just honest about it." | Philosophy |
-| Merchant | "Szoravel? Eastern territory. Through the contested lands." | Intel |
-| Drusniel | "Is there a safer route?" | Hope |
-| Merchant | (laughs) | Answer |
-| Elion | (watching crowd) "We're being observed." | Warning |
-| Srietz | "Always. Move fast. Buy fast. Leave faster." | Survival |
+**SCENE REQUIREMENTS**:
+- Srietz pays with goblin village gems (buys silence, not just goods)
+- Drusniel observes wrongness; Srietz contextualizes (Wyrmreach is all wrong)
+- Merchant confirms Szoravel location (eastern, through contested lands)
+- No safer route exists (merchant's response makes this clear)
+- Elion alerts to observation (faction scouts always watching)
+- Srietz urges speed (survival philosophy: move fast, buy fast, leave faster)
 
 **WORLDBUILDING ELEMENTS**:
 - **Gloomy town**: Ramshackle settlement, criminals, refugees, traders
@@ -1681,19 +1600,15 @@ This is a breathing chapter after intense action. But "breathing" doesn't mean "
 - Drusniel's internal conflict (what is he walking into?)
 - Elion's silent support
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "I'll take first watch." | Leadership |
-| Srietz | "Srietz will take second. The demon—Elion—takes third." | Acceptance |
-| Elion | "Fine." | Simple |
-| (later, quiet) |
-| Drusniel (internal) | "Szoravel. A mage. Protected. By what?" | Doubt |
-| Elion | (sitting beside him) "You don't trust where we're going." | Observation |
-| Drusniel | "I don't trust anything anymore." | Honest |
-| Elion | "Good. Trust is earned. Direction is just direction." | His philosophy |
-| Drusniel | "That's almost wise." | Surprised |
-| Elion | "Almost." | Slight smile |
+**SCENE REQUIREMENTS**:
+- Watch rotation established (shows group trust forming)
+- Srietz uses "Elion" not "demon" (acceptance milestone)
+- Drusniel's internal doubt about Szoravel surfaces
+- Elion/Drusniel quiet exchange deepens bond:
+  - Elion observes Drusniel's distrust without judgment
+  - Drusniel admits trust is gone
+  - Elion offers philosophy, not comfort ("Direction is just direction")
+  - Moment of near-warmth, quickly deflected
 
 **CHARACTER MOMENT**:
 
@@ -1721,14 +1636,12 @@ Elion and Drusniel's bond deepens:
 - Brief foreshadowing (distant volcanic glow)
 - Act 2 end, Act 3 setup
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Drusniel | "Ready?" | Simple |
-| Elion | (nods) | Simple |
-| Srietz | "Srietz is never ready. Srietz goes anyway." | His philosophy |
-| Drusniel (internal) | "The volcano glowed on the horizon. Everything he didn't know lay between here and there." | Foreshadowing |
-| Drusniel | "Then we go." | Commitment |
+**SCENE REQUIREMENTS**:
+- Simple departure exchange (no speeches, no drama)
+- Srietz's philosophy captured: never ready, goes anyway
+- Volcanic glow visible (foreshadowing, not describing)
+- Commitment locked with minimal words
+- Chapter ends with forward motion, not resolution
 
 **CLOSING BEAT**:
 
@@ -1843,17 +1756,13 @@ Aldric enters this story BROKEN:
 - The artifact is active, broadcasting, dangerous
 - Aldric sees patterns others miss
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Xandor | "You came. I wasn't certain you would." | Testing |
-| Aldric | "You're the only one who believed me. That earns an answer." | Honest |
-| Xandor | "Something has changed. An artifact, carried by dwarves from Stonehold." | Introduction |
-| Aldric | "What kind of artifact?" | Tactical |
-| Xandor | "The kind that draws attention. The kind that explains what you saw." | Connection |
-| Aldric | "The Grukmar organization. You think it's connected?" | Hope |
-| Xandor | "I think everything is connected. I think you were right." | Validation |
-| Aldric | (silence—this is what he needed to hear) | Emotion |
+**SCENE REQUIREMENTS**:
+- Xandor tests whether Aldric still trusts (he has reason not to)
+- Aldric explains: Xandor believed him, that earns response
+- Artifact introduced: dwarves from Stonehold, draws attention
+- Connection to Grukmar organization established (Aldric's vindication)
+- Validation moment: "You were right" (needed, not triumphant)
+- Silence as emotion (Aldric processes being believed)
 
 **WORLDBUILDING ELEMENTS**:
 - **Xandor's network**: Druids, scholars, information gatherers
@@ -1876,19 +1785,14 @@ Aldric enters this story BROKEN:
 - Aldric's tactical assessment (this draws enemies)
 - The gathering begins to form
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Dulint | "You're the soldier Xandor mentioned." | Assessment |
-| Aldric | "Former soldier. Now I'm just a man with experience." | Humble |
-| Aldric | (sees cube) "It's... pointing. At something." | Observation |
-| Xandor | "It senses. Locates. And unfortunately, broadcasts." | Explanation |
-| Aldric | "Broadcasts to whom?" | Key question |
-| Xandor | "To anyone listening. Which is why you were followed." (to Dulint) | Revelation |
-| Balin | "We knew. We just didn't know what to do about it." | Admission |
-| Aldric | "You fortify. You establish patterns. You control the information." | Tactical mind |
-| Dulint | "You talk like a commander." | Recognition |
-| Aldric | "I was. Once." | Pain |
+**SCENE REQUIREMENTS**:
+- Aldric identifies as "former soldier" (humble, not bitter here)
+- First observation of Beacon behavior (pointing, sensing)
+- Broadcast danger explained (anyone listening can find them)
+- Dulint/Balin acknowledge they knew pursuit was coming
+- Aldric's tactical mind emerges (fortify, establish patterns, control information)
+- Recognition of commander mentality (Dulint sees it)
+- Pain behind "I was. Once." (loss, not self-pity)
 
 **WORLDBUILDING ELEMENTS**:
 - **Beacon mechanics**: Points, warms, broadcasts (visible behavior)
@@ -1915,17 +1819,14 @@ Aldric enters this story BROKEN:
 - Aldric takes tactical command (habit, not authority)
 - First sign that Maris exists (not seen yet)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Dulint | "It's warmer. Warmer than before." | Observation |
-| Xandor | "Something is resonating. Or someone." | Speculation |
-| Aldric | "Defensive positions. Now." | Command habit |
-| Balin | "Who put you in charge?" | Challenge |
-| Aldric | "No one. But I know what that kind of reaction means." | Experience |
-| Xandor | "He's right. Something is coming." | Support |
-| Dulint | (holding cube) "Not hostile. It feels... curious." | Sensation |
-| Aldric | "Curious things can still be dangerous." | Caution |
+**SCENE REQUIREMENTS**:
+- Dulint notices Beacon warming (artifact behavior change)
+- Xandor speculates: resonance with someone approaching
+- Aldric commands defensively (instinct, not authority)
+- Balin challenges authority ("Who put you in charge?")
+- Aldric's response: experience, not rank
+- Dulint senses "curious, not hostile" (different perception)
+- Tension: curiosity can still be dangerous
 
 **WORLDBUILDING ELEMENTS**:
 - **Beacon resonance**: Reacts to magical beings, especially seers
@@ -1948,19 +1849,14 @@ Aldric enters this story BROKEN:
 - Group recognizes they're now bound together
 - Next step determined (investigate, not flee)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris | "Where is it? The thing that's been screaming in my head?" | Arrival |
-| Xandor | "You felt it." | Recognition |
-| Maris | "Felt it? I've been seeing it for three days. Waking up where I fell." | Cost |
-| Dulint | "You're a seer." | Understanding |
-| Maris | "I'm a woman who collapses and sees things she doesn't want to see." | Bitter |
-| Aldric | "What did you see?" | Tactical |
-| Maris | "Water. Black water. A hand slipping under. And this—" (points at cube) "—in the distance." | Vision fragment |
-| Xandor | "The Beacon drew you here. As it drew the hunters. As it may draw worse." | Gravity |
-| Aldric | "Then we can't stay. And we can't run blind." | Decision |
-| Dulint | "We investigate. We understand. Then we act." | Agreement |
+**SCENE REQUIREMENTS**:
+- Maris arrives demanding the "screaming" source
+- Her cost visible: collapsed, saw visions for three days
+- Self-description bitter ("woman who collapses and sees things")
+- Vision fragment shared: black water, hand slipping under, cube in distance
+- Beacon's draw established (pulls seers, hunters, worse)
+- Decision crystallizes: can't stay, can't run blind
+- Group purpose forms: investigate, understand, then act
 
 **WORLDBUILDING ELEMENTS**:
 - **Maris's visions**: Began recently, connected to artifact activation
@@ -2053,15 +1949,13 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - She doesn't know how she got here
 - The vision was worse than usual
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris (internal) | "Cold. Wet. Grass pressing against her cheek." | Awakening |
-| Maris (internal) | "How long? The sun was wrong. Hours at least." | Time loss |
-| Maris (internal) | "Her tongue—she'd bitten it again. Copper taste." | Physical cost |
-| Maris (internal) | "Stand. Try to stand." | Recovery |
-| Maris (internal) | "The vision. What did she see?" | Trying to remember |
-| Maris (internal) | "Water. Black water. And a hand—" | Fragment |
+**SCENE REQUIREMENTS**:
+- Opens with sensory disorientation (cold, wet, grass on cheek)
+- Time loss evident (sun position wrong—hours passed)
+- Physical cost visible (bitten tongue, copper taste)
+- Recovery slow and difficult (standing is effort)
+- Vision fragments surface incompletely (water, black water, hand)
+- Show at least 3 costs: physical, temporal, spatial
 
 **COST REQUIREMENTS** (show at least 3):
 - Physical: headache, bitten tongue, trembling hands
@@ -2094,15 +1988,14 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - A hand slipping under (Drusniel)
 - Chaos around the fixed elements
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris (vision) | "The boat. Always the same boat." | Anchor |
-| Maris (vision) | "Water that moved wrong. Too thick. Too alive." | Nightmare sea |
-| Maris (vision) | "A hand. Long fingers. Grey-dark skin. Slipping under." | Drusniel (vague) |
-| Maris (vision) | "She couldn't see the face. She never saw the face." | Mystery |
-| Maris (vision) | "Screaming wind. Shapes in the water. Something waiting below." | Chaos |
-| Maris (vision) | "The hand reached up. Begging. And then it was gone." | Ending |
+**SCENE REQUIREMENTS**:
+- Boat appears as anchor (always the same boat)
+- Water described wrong: too thick, too alive (nightmare sea)
+- Hand visible: grey-dark skin, long fingers (NOT "drow" yet)
+- Face never visible (mystery preserved)
+- Chaos surrounds fixed elements (wind, shapes, something below)
+- Drowning feels IMMINENT, not symbolic
+- Hand reaches up, then gone (ending without resolution)
 
 **STABLE IMAGE REQUIREMENTS**:
 - Boat appears at least twice
@@ -2131,15 +2024,13 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - Doubt about vision's reality vs. madness
 - Decision to seek answers despite fear
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris (internal) | "Real. The grass was real. The headache was real." | Grounding |
-| Maris (internal) | "Was it? Was any of it? Or was she finally breaking?" | Doubt |
-| Maris (internal) | "Riverhold. She could see the town from here." | Orientation |
-| Maris (internal) | "The vision pulled her here. Toward something." | Compulsion |
-| Maris (internal) | "She could ignore it. She could pretend she saw nothing." | Option |
-| Maris (internal) | "She'd tried that before. It never worked." | Experience |
+**SCENE REQUIREMENTS**:
+- Grounding through physical reality (grass, headache are real)
+- Sanity questioned (is this prophecy or madness?)
+- Spatial orientation (Riverhold visible—destination clear)
+- Pull toward something acknowledged (compulsion)
+- Agency established: she could ignore it
+- Experience: ignoring visions makes them worse
 
 **WORLDBUILDING ELEMENTS**:
 - **Vision aftermath**: Disorientation, confusion, identity blur
@@ -2162,17 +2053,13 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - The message comes from elsewhere (Sage? Beacon?)
 - The person doesn't remember afterward
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Beggar | "Spare a coin? Hard times, miss." | Normal approach |
-| Maris | "I don't have..." (reaches for pouch) | Normal response |
-| Beggar | (posture stiffens, eyes unfocus) | Change |
-| Beggar | "Go to the inn. Two streets ahead. Ask for Xandor. It's about what you saw." | Message |
-| Maris | "What? How do you—" | Shock |
-| Beggar | (blinks, confused) "Sorry? Did I say something?" | Amnesia |
-| Beggar | "I feel strange. Do you have water?" | Disorientation |
-| Maris (internal) | "He didn't remember. Whatever spoke through him was gone." | Understanding |
+**SCENE REQUIREMENTS**:
+- Normal encounter begins (beggar asking for coin)
+- Transformation visible: posture changes, eyes unfocus
+- Message delivered: specific and actionable (inn, Xandor, about what she saw)
+- Beggar has no memory of delivering message
+- Conduit experiences discomfort/confusion after
+- Maris understands: something spoke through him and left
 
 **CONDUIT RULES**:
 - The person is normal (not a mage)
@@ -2206,16 +2093,13 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - The Stable Image returns briefly (reinforcement)
 - She goes anyway (choice, not compulsion)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris (internal) | "She could leave. Riverhold was just a town. She didn't have to—" | Option |
-| Maris (internal) | "The vision flickered. Boat. Water. Hand." | Reinforcement |
-| Maris (internal) | "If she walked away, would it stop?" | Question |
-| Maris (internal) | "It had never stopped before. Running made it worse." | Experience |
-| Maris (internal) | "This Xandor might have answers. Or he might have nothing." | Uncertainty |
-| Maris | (stands, chooses direction toward town) | Action |
-| Maris (internal) | "At least drowning in someone else's black water was new." | Dark humor |
+**SCENE REQUIREMENTS**:
+- Agency moment: she CHOOSES to follow (not compelled)
+- Stable Image reinforces (boat, water, hand flicker through)
+- Experience informs: running makes visions worse
+- Uncertainty about outcome (Xandor might have nothing)
+- Physical action: chooses direction, moves
+- Dark humor as coping ("drowning in someone else's black water was new")
 
 **AGENCY MOMENT**:
 - She CHOOSES to follow the message
@@ -2244,19 +2128,14 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 - Recognition: this is the source
 - Group formation complete (connects to E1.5)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris | "Xandor? A man sent me. Or something sent a man." | Arrival |
-| Xandor | "You're the seer. I felt you approaching." | Recognition |
-| Maris | "You felt—what is that thing?" | Seeing Beacon |
-| Xandor | "An artifact. Ancient. We don't fully understand it yet." | Explanation |
-| Maris | "It's been in my head for days. The screaming." | Accusation |
-| Dulint | "It doesn't scream. It points." | His experience |
-| Maris | "Maybe it screams for some of us." | Different perception |
-| Aldric | "What have you seen?" | Practical |
-| Maris | "Water. Black water. Someone drowning." | Truth |
-| Xandor | "Then we need you. Whatever you've seen, it matters." | Recruitment |
+**SCENE REQUIREMENTS**:
+- Maris arrives with cryptic explanation ("something sent a man")
+- Xandor recognizes her as seer (felt her approaching)
+- First sight of Beacon triggers recognition
+- Different perceptions established: Dulint feels pointing, Maris feels screaming
+- Vision shared: black water, someone drowning
+- Recruitment: what she's seen matters to the group
+- **SYNC WITH E1**: This connects to E1.5 (same arrival, different POV)
 
 **WORLDBUILDING ELEMENTS**:
 - **Different perceptions**: Dulint feels pointing; Maris feels screaming
@@ -2333,16 +2212,13 @@ Xandor knows MORE than others but NOT everything:
 - He knows enough to be afraid
 - He doesn't know enough to be certain
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Xandor (internal) | "Decades of research. And here it was. Exactly as the old texts described." | Recognition |
-| Aldric | "You've been staring at it for an hour. What do you see?" | Impatience |
-| Xandor | "A piece of something. Not the whole. Never the whole." | Knowledge limit |
-| Balin | "A piece of what?" | Question |
-| Xandor | "We call it the Nexus. An old word for connection, junction, meeting point." | Naming |
-| Dulint | "What does it connect?" | Key question |
-| Xandor | "That's what I don't know. What I do know is that it's looking for the rest of itself." | Partial truth |
+**SCENE REQUIREMENTS**:
+- Xandor's decades of research recognized in artifact (emotional moment)
+- Aldric pushes for actionable information (impatience vs. scholarship)
+- Naming without explaining: "Nexus" introduced as concept
+- Incompleteness emphasized: piece, not whole
+- Key revelation: artifact is looking for the rest of itself
+- Knowledge limits acknowledged (Xandor doesn't know what it connects)
 
 **WORLDBUILDING ELEMENTS**:
 - **Nexus system**: Ancient, pre-dating current civilizations
@@ -2365,18 +2241,13 @@ Xandor knows MORE than others but NOT everything:
 - They cannot hide while holding it
 - They cannot abandon it (it will find them)
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Xandor | "You need to understand what this is doing. It's not just pointing—it's calling." | Core warning |
-| Aldric | "Calling what?" | Tactical |
-| Xandor | "Anything attuned to it. Other pieces. People who know what it is. Things that hunt by such signals." | Answer |
-| Maris | "That's why I couldn't escape the visions." | Understanding |
-| Xandor | "Yes. You're attuned. It found you. It will keep finding you." | Truth |
-| Dulint | "Can we shield it? Block the signal?" | Hope |
-| Xandor | "This piece is incomplete. Incomplete pieces broadcast. Completion might—might—quiet it." | Uncertain hope |
-| Balin | "So we find the other pieces?" | Plan |
-| Xandor | "Or we spend our lives running from what hears this call." | Alternative |
+**SCENE REQUIREMENTS**:
+- Core warning: not pointing, calling (broadcast danger)
+- What hears: other pieces, attuned beings, hunters
+- Maris's persecution explained (attuned, can't escape)
+- Hope introduced but uncertain: completion might quiet it
+- Binary choice framed: find pieces or run forever
+- No guaranteed solution offered
 
 **WORLDBUILDING ELEMENTS**:
 - **Incomplete artifact**: Sense mode always active, always broadcasting
@@ -2403,19 +2274,13 @@ Xandor knows MORE than others but NOT everything:
 - Connection to the barrier and Wyrmreach
 - Prophecy fragments mention this system
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Xandor | "What you hold is one piece. There are others." | Scale |
-| Xandor | "The texts name functions—Sense, Erase, Alter, Bind, Rewrite." | Naming |
-| Aldric | "What do those mean?" | Seeking clarity |
-| Xandor | "Modes of operation. This one senses—reads, locates, broadcasts." | Explanation |
-| Maris | "And the others?" | Question |
-| Xandor | "Erase removes. Alter changes. Bind locks. Rewrite..." (trails off) | Mystery |
-| Dulint | "Rewrite what?" | Pressing |
-| Xandor | "Everything. Reality itself. That's why the barrier exists." | Revelation |
-| Aldric | "The barrier. Wyrmreach. This connects to that?" | Connection |
-| Xandor | "This connects to everything." | Weight |
+**SCENE REQUIREMENTS**:
+- Scale established: multiple pieces exist
+- Five phases NAMED: Sense, Erase, Alter, Bind, Rewrite
+- Beacon = Sense mode clarified (reads, locates, broadcasts)
+- Rewrite trails off ominously (mystery preserved)
+- Barrier/Wyrmreach connection hinted ("This connects to everything")
+- **NAMING vs. EXPLAINING**: Names given, mechanics NOT explained
 
 **WORLDBUILDING ELEMENTS**:
 - **Five phases named**: Sense, Erase, Alter, Bind, Rewrite
@@ -2442,17 +2307,14 @@ Xandor knows MORE than others but NOT everything:
 - Dulint has additional knowledge he's not sharing (seer warning)
 - The quest begins—reluctantly
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "So we investigate. We find more pieces? More information?" | Plan |
-| Xandor | "The fragments I've studied point north. Frostgard. Ancient sites." | Direction |
-| Maris | "I'm being asked to walk toward something that's been torturing me." | Resistance |
-| Xandor | "Or stay here and let it torture you forever." | Hard truth |
-| Dulint | "We go. Together. Srietz—" (stops himself) | Almost slips |
-| Balin | "Uncle?" | Noticing |
-| Dulint | "Nothing. We go together. That's what matters." | Cover |
-| Aldric | "Agreed. We move in three days. Supplies, preparation, then north." | Command |
+**SCENE REQUIREMENTS**:
+- Plan crystallizes: investigate north toward Frostgard
+- Maris's resistance voiced (walking toward torture)
+- Hard truth offered: stay and suffer forever, or move
+- **DULINT'S TELL**: Almost references seer warning, catches himself
+- Balin notices uncle's slip (mystery planted)
+- Timeline set: three days preparation, then north
+- Group consensus reluctant but unanimous
 
 **WORLDBUILDING ELEMENTS**:
 - **Frostgard**: Northern region, ancient sites, cold
@@ -2526,17 +2388,13 @@ The seer told him:
 - He believes secrecy is protection
 - Balin notices something wrong but doesn't know what
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Dulint (internal) | "The seer's words. He heard them every time he closed his eyes." | Burden |
-| Dulint (internal) | "'Your purpose is to prevent a prophecy.' She'd said it so simply." | Memory |
-| Dulint (internal) | "Stonehold burning. Balin's face. His own death." | The vision |
-| Dulint (internal) | "If he told them, they'd take risks. They'd hurry. They'd die faster." | His logic |
-| Balin | "You're not sleeping, uncle." | Observation |
-| Dulint | "Old men don't need much sleep." | Deflection |
-| Balin | "You've been different since we left Stonehold. What aren't you telling me?" | Pressing |
-| Dulint | "Nothing that helps you to know." | Honest evasion |
+**SCENE REQUIREMENTS**:
+- Internal burden established: seer's words echo constantly
+- Vision content clear: Stonehold burning, Balin's face, his death
+- His logic shown: telling them would make them rush, rushing kills
+- Balin notices change (uncle is different since Stonehold)
+- Dulint deflects with partial truths ("Old men don't need much sleep")
+- Honest evasion: "Nothing that helps you to know"
 
 **WORLDBUILDING ELEMENTS**:
 - **Seer encounter**: Happened before the main journey (backstory)
@@ -2559,21 +2417,14 @@ The seer told him:
 - The specific warning given
 - Why he can't ignore it
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Dulint (memory) | "The witch's cave. He'd told no one he was going." | Context |
-| Seer | "The dwarf with the singing stone. I expected you." | Recognition |
-| Dulint | "You know what I carry?" | Surprise |
-| Seer | "I know what it will cause." | Ominous |
-| Dulint | "Tell me." | Demand |
-| Seer | "You seek to prevent a prophecy. You will fail." | Blunt |
-| Dulint | "Then why am I here?" | Despair |
-| Seer | "Because there are degrees of failure. Total loss... or partial." | Hope |
-| Seer | "If you fail completely, you die. Stonehold burns. Your nephew's name is forgotten." | Stakes |
-| Seer | "If you fail carefully, some survive. Not all. Some." | Alternative |
-| Dulint | "How do I fail carefully?" | Key question |
-| Seer | "Slowly." | Answer |
+**SCENE REQUIREMENTS**:
+- Flashback to seer encounter (secret visit, told no one)
+- Seer recognizes him and artifact ("singing stone")
+- Seer is blunt: "You will fail"
+- Hope offered: degrees of failure (total vs. partial)
+- Stakes clear: complete failure = death + Stonehold burns + Balin forgotten
+- Alternative: "fail carefully, some survive"
+- Key instruction: "Slowly" (one word that costs everything)
 
 **THE WARNING DECODED**:
 - Success = prevent prophecy (unlikely)
@@ -2602,18 +2453,14 @@ The seer told him:
 - Dulint argues for safety
 - Dulint wins—time is lost
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "The mountain pass. Three days instead of six." | Fast option |
-| Dulint | "The mountain pass is Grukmar territory. We'd be exposed." | Objection |
-| Aldric | "We have weapons. We have Maris's warnings." | Counter |
-| Dulint | "Weapons don't help if we're ambushed in narrow paths." | Logic |
-| Balin | "Uncle, we need to move. The longer we wait—" | Pressure |
-| Dulint | "The longer we wait, the more we learn. The safer we are." | His reasoning |
-| Xandor | "Dulint has a point. Rushing kills more than waiting." | Support |
-| Aldric | (frustrated) "Fine. The long way. But every day we lose is a day something else gains." | Concession |
-| Dulint (internal) | "Three days lost. Three days bought." | His calculation |
+**SCENE REQUIREMENTS**:
+- Two routes presented: fast (3 days, dangerous) vs. slow (6 days, safer)
+- Aldric argues for speed
+- Dulint argues for safety (Grukmar territory, ambush risk)
+- Both positions have merit (THIS IS REASONABLE)
+- Xandor supports caution; Balin pushes for speed
+- Dulint wins: three days lost, three days bought
+- **DELAY MECHANICS**: Costs three days, will matter later
 
 **DELAY MECHANICS**:
 - This is REASONABLE: Grukmar are real, danger is real
@@ -2653,22 +2500,15 @@ This prevents the delay engine from becoming pure chess. Dulint is human first.
 - Why he doesn't (love, fear, logic)
 - The isolation of carrying alone
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Maris | "You're not sleeping either." | Recognition |
-| Dulint | "You see more than you say, seer." | Acknowledgment |
-| Maris | "I see drowning hands. What do you see?" | Direct |
-| Dulint | "Fire. I see fire." | Almost truth |
-| Maris | "Visions?" | Probing |
-| Dulint | "Warnings." | Admission |
-| Maris | "From whom?" | Pressing |
-| Dulint | "Someone who knew what this would cost." | Close to truth |
-| Maris | "Tell me." | Open |
-| Dulint | "..." (long pause) | Consideration |
-| Dulint | "No. Knowing would make you rush. Rushing would make it worse." | Decision |
-| Maris | "That's not your choice to make." | Challenge |
-| Dulint | "It's the only choice I have." | Finality |
+**SCENE REQUIREMENTS**:
+- Maris recognizes Dulint's burden (shared insomnia)
+- Dulint acknowledges she sees more than she says
+- Exchange of vision types: she sees drowning, he sees fire
+- Near-confession: "warnings" and "someone who knew what this would cost"
+- Dulint considers telling her (long pause)
+- Decision to maintain secrecy: "Knowing would make you rush"
+- Maris challenges: "That's not your choice"
+- Dulint accepts: "It's the only choice I have"
 
 **THE ALMOST-CONFESSION**:
 - Maris is the one he almost tells (she'd understand visions)
@@ -2698,16 +2538,14 @@ This prevents the delay engine from becoming pure chess. Dulint is human first.
 - Direction: north toward Frostgard
 - The artifact's pull strengthening
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "Supplies packed. Route planned. Any last objections?" | Leadership |
-| Xandor | "The artifact is stronger today. We're going the right direction." | Confirmation |
-| Balin | "For once I agree with the rock—let's move." | Eagerness |
-| Maris | (touching head) "It's quieter this way. Less screaming." | Her compass |
-| Dulint | (holding artifact) "Then we go." | Decision |
-| Dulint (internal) | "North. Toward ice and answers. Away from Stonehold." | His burden |
-| Dulint (internal) | "Every step forward is a step he can't take back." | Weight |
+**SCENE REQUIREMENTS**:
+- Final preparations confirmed (supplies, route)
+- Artifact strengthening (validation of direction)
+- Maris's compass: less screaming = right direction
+- Balin's eagerness returns briefly
+- Dulint commits: "Then we go"
+- Internal weight: every step north is step away from Stonehold
+- Quest truly begins (no turning back)
 
 **WORLDBUILDING ELEMENTS**:
 - **Riverhold departure**: Leaving relative safety
@@ -2772,18 +2610,13 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 - His frustration with Dulint's caution
 - The gap between adventure dreamed and adventure lived
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Balin (internal) | "First time seeing mountains from this angle. First time sleeping under foreign stars." | Counting |
-| Balin (internal) | "First time wishing his uncle would just hurry up." | Frustration |
-| Aldric | "You're quiet today." | Observation |
-| Balin | "Counting. It's what I do." | Explanation |
-| Aldric | "Counting what?" | Curiosity |
-| Balin | "Firsts. First time crossing the Ironback ridge. First time seeing a Grukmar track." | List |
-| Aldric | "You're not counting the important things." | Wisdom |
-| Balin | "What's important?" | Question |
-| Aldric | "First time someone tries to kill you. First time you have to kill back." | Warning |
+**SCENE REQUIREMENTS**:
+- Balin's counting quirk established (firsts: mountains, stars, ridges)
+- Frustration with Dulint's pace ("uncle would just hurry up")
+- Aldric notices and engages (observation, curiosity)
+- Foreshadowing from Aldric: "First time someone tries to kill you"
+- Gap between adventure dreamed and adventure lived
+- Youth vs. experience dynamic established
 
 **WORLDBUILDING ELEMENTS**:
 - **Balin's youth**: He's never been in real danger
@@ -2806,19 +2639,14 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 - Group tension rises
 - The artifact's broadcast made this inevitable
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "Stop. Everyone stop." | Command |
-| Balin | "What? What do you see?" | Confusion |
-| Aldric | "Tracks. Recent. Organized." (kneeling) | Evidence |
-| Xandor | "Grukmar?" | Question |
-| Aldric | "This is what I warned about. Years ago. Coordinated movement." | Vindication |
-| Dulint | "How many?" | Practical |
-| Aldric | "Six? Eight? Moving parallel to our route." | Assessment |
-| Maris | "They're not ahead of us. They're alongside." | Vision assist |
-| Balin | "So we're being herded." | Understanding |
-| Aldric | "Someone knows where we're going. And they're waiting." | Truth |
+**SCENE REQUIREMENTS**:
+- Aldric commands halt (instinct, authority)
+- Evidence found: tracks, recent, organized (not random)
+- Aldric's vindication: this is what he warned about years ago
+- Assessment: 6-8 Grukmar, moving parallel
+- Maris adds vision intel: alongside, not ahead
+- Balin understands: "We're being herded"
+- Truth: someone knows where they're going
 
 **WORLDBUILDING ELEMENTS**:
 - **Grukmar organization**: Not random raiders—coordinated
@@ -2841,16 +2669,14 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 - Balin's first real combat (not heroic—terrifying)
 - Casualties on both sides
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "Contact! Right flank!" | Warning |
-| Balin (internal) | "Everything happened too fast and too slow." | Combat sensation |
-| Grukmar | (war cry—guttural, organized) | Enemy presence |
-| Dulint | "Protect the artifact! Whatever else happens—" | Priority |
-| Balin | (raising weapon) "I can—I can fight—" | Attempt |
-| Aldric | "Stay down! You don't know what you're doing!" | Order |
-| Balin (internal) | "He was right. He was completely right." | Realization |
+**SCENE REQUIREMENTS**:
+- Combat begins sudden (contact, right flank)
+- Perception warps: too fast and too slow simultaneously
+- Grukmar attack is organized, not mindless
+- Priority: protect the artifact above all
+- Balin attempts to fight, Aldric orders him down
+- Realization: Aldric was right (experience vs. eagerness)
+- **NOT HEROIC**: chaotic, confusing, terrifying
 
 **COMBAT DESCRIPTION NOTES**:
 - NOT heroic—chaotic, confusing, terrifying
@@ -2884,16 +2710,14 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 - The moment changes him
 - No glory, only survival
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Balin (internal) | "The blade went in wrong. Sideways. He felt it scrape bone." | The act |
-| Grukmar | (sound—not human, but close enough) | Dying |
-| Balin (internal) | "He'd imagined this. In his head, it was clean. It was never clean." | Reality vs. fantasy |
-| Balin | (vomiting) | Physical reaction |
-| Aldric | (pulling him away) "Don't look. Keep moving." | Tactical |
-| Balin | "I killed him. I—" | Processing |
-| Aldric | "You survived. Process later. Move now." | Soldier's truth |
+**SCENE REQUIREMENTS**:
+- The kill is ugly: blade goes in wrong, scrapes bone
+- Grukmar dies with sound (not human, but close enough)
+- Fantasy vs. reality: "In his head, it was clean. It was never clean."
+- Physical reaction: vomiting
+- Aldric pulls him away ("Don't look. Keep moving.")
+- No time to process: "Survived. Process later. Move now."
+- **FIRST KILL**: desperate, not heroic
 
 **THE FIRST KILL**:
 - Not heroic—desperate, ugly
@@ -2923,19 +2747,15 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 - The artifact saved (barely)
 - Quest continues but changed
 
-**DIALOGUE REQUIREMENTS**:
-| Speaker | Topic | Purpose |
-|---------|-------|---------|
-| Aldric | "Sound off. Who's injured?" | Command |
-| Xandor | "Cuts. Nothing deep." | Report |
-| Maris | "I saw it. Before it happened. I couldn't warn fast enough." | Guilt |
-| Dulint | "The artifact?" | Priority |
-| Balin | (holding it, hands shaking) "Here. I have it." | Success |
-| Aldric | "Good. That's all that matters." | Cold truth |
-| Balin | "That's not—people almost died—" | Objection |
-| Aldric | "And they'll keep almost dying. Or actually dying. Until this is done." | Reality |
-| Dulint | "We keep moving. That's all we can do." | Wisdom |
-| Balin (internal) | "He wanted to go home. For the first time ever, he wanted to go home." | Changed |
+**SCENE REQUIREMENTS**:
+- Aftermath assessment: who's injured, what's lost
+- Maris's guilt: saw it coming, couldn't warn fast enough
+- Artifact priority confirmed (Aldric: "That's all that matters")
+- Balin objects: people almost died
+- Cold truth: they'll keep almost dying until this is done
+- Dulint's wisdom: "We keep moving. That's all we can do."
+- Balin changed: first time wanting to go home
+- **INNOCENCE LOST**: eagerness gone forever
 
 **WORLDBUILDING ELEMENTS**:
 - **Quest reality**: Not adventure—survival
