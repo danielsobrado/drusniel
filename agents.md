@@ -329,3 +329,12 @@ Before publishing any lore or prequel, verify:
 - `rules/GUIDELINES.md` - Detailed POV voice guidelines
 - `rules/WORLDBUILDING/` - Story bible and world details
 - `rules/CHAPTER_STRUCTURE/` - Chapter outlines and beat sheets
+
+---
+
+## Maintenance Scripts
+Scripts located in `tools/` for automated repository maintenance:
+
+- **`tools/validate_frontmatter.py`**: Audits all posts for required frontmatter fields, valid dates, hashtags in tags, and canon sequence format.
+- **`tools/fix_tags.py`**: Fixes malformed tag lists (removes quotes) and normalizes whitespace after frontmatter.
+- **`tools/standardize_headers.py`**: Enforces standard header/footer format based on `reports/*.csv` data, ensuring consistent linking between chapters. Uses `reports/en_posts.csv` and `reports/es_posts.csv` as source of truth.
