@@ -21,8 +21,9 @@ const styles = {
 const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence, pov }) => {
     const { language } = useContext(LanguageContext)
 
-    // Determine secondary tag label
+    // Determine secondary tag label and type for styling
     let tagLabel = null
+    let tagType = null // 'chapter', 'lore', or 'prologue'
 
     if (chapter) {
         if (subchapter) {
@@ -30,6 +31,7 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
         } else {
             tagLabel = language === 'es' ? `Capítulo ${chapter}` : `Chapter ${chapter}`
         }
+        tagType = 'chapter'
     } else if (canon_phase) {
         // Normalize phase
         const phase = String(canon_phase).trim().toLowerCase()
@@ -44,15 +46,53 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
             }
         }
 
-        // Map to display label
+        // Map to display label - prequel and prologue both show as "Prologue"
         if (phase === 'lore') {
             tagLabel = 'Lore'
-        } else if (phase === 'prequel') {
-            const label = language === 'es' ? 'Prólogo' : 'Prequel'
-            tagLabel = `${label}${seqNum}`
-        } else if (phase === 'prologue') {
+            tagType = 'lore'
+        } else if (phase === 'prequel' || phase === 'prologue') {
             const label = language === 'es' ? 'Prólogo' : 'Prologue'
             tagLabel = `${label}${seqNum}`
+            tagType = 'prologue'
+        }
+    }
+
+    // Define tag styles based on type
+    const getTagStyles = () => {
+        switch (tagType) {
+            case 'chapter':
+                // Chapters: stronger, darker font
+                return {
+                    bg: 'transparent',
+                    color: 'omegaDark',
+                    fontWeight: 'bold',
+                    border: '1px solid',
+                    borderColor: 'omegaDark'
+                }
+            case 'lore':
+                // Lore: soft fantasy color (muted purple/lavender)
+                return {
+                    bg: 'rgba(147, 112, 219, 0.15)',
+                    color: '#6B5B95',
+                    fontWeight: 'normal',
+                    border: '1px solid',
+                    borderColor: 'rgba(147, 112, 219, 0.3)'
+                }
+            case 'prologue':
+                // Prologue: grey, subtle
+                return {
+                    bg: 'muted',
+                    color: 'text',
+                    fontWeight: 'normal',
+                    border: '1px solid',
+                    borderColor: 'muted'
+                }
+            default:
+                return {
+                    bg: 'muted',
+                    color: 'text',
+                    fontWeight: 'normal'
+                }
         }
     }
 
@@ -82,11 +122,7 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
                     variant='tag'
                     sx={{
                         ...styles.badge,
-                        bg: 'muted',
-                        color: 'text',
-                        fontWeight: 'normal',
-                        border: '1px solid',
-                        borderColor: 'muted'
+                        ...getTagStyles()
                     }}
                 >
                     {tagLabel}
