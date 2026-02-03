@@ -5,7 +5,9 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\nRemove AI-generated prose patterns from story files\n\nReplaced banned AI patterns across 20 story files in English and Spanish:\n- Removed physical tells \\(jaw clenched, heart pounded/sank\\)\n- Removed vague interiority \\(coiled in gut, tension built\\)\n- Removed staccato ominous endings \\(Patient. Hungry. Waiting.\\)\n- Cleaned up bold formatting on emotional descriptions\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nRefine Blueprint_Part2_v2: Address audit issues and reduce over-specification\n\n- Remove verbose PROSE EXAMPLE blocks, replace with concise PROSE GUIDANCE\n- Add Voice false normalization beat requirement \\(D13-D16 range\\)\n- Add Szoravel factual limitation to prevent covert omniscience\n- Add Dulint emotional delay requirement \\(human first, not pure chess\\)\n- Add APPENDIX J: Localization governance rules \\(EN/ES parity\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git push)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(\" / \"Prólogo)",
+      "Bash(\" from content headers\n- Classification now in frontmatter only, not in web excerpts\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
