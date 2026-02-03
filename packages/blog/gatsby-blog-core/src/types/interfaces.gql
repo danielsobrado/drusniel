@@ -26,6 +26,10 @@ interface Article implements Node {
   tableOfContents(maxDepth: Int = 6): JSON
   draft: Boolean
   order: Int!
+  chapter: Int
+  subchapter: Int
+  canon_phase: String
+  canon_sequence: String
 }
 
 ############################################

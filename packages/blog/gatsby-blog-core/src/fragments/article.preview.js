@@ -12,6 +12,10 @@ export const query = graphql`
     featured
     thumbnailText
     date(formatString: "MMMM DD, YYYY")
+    chapter
+    subchapter
+    canon_phase
+    canon_sequence
     category {
       ...ArticleCategory
     }

@@ -15,6 +15,57 @@ REQUIRED_FIELDS = [
 
 CANON_SEQ_REGEX = r'^[A-Z0-9]+(?:-[A-Z0-9]+)*-\d{3}$'
 
+PHASE_TO_TYPE = {
+    "lore": "Lore",
+    "prequel": "Prequel",
+    "prologue": "Prologue",
+    "main": "Main",
+}
+
+
+def _as_int(value):
+    try:
+        return int(str(value).strip())
+    except Exception:
+        return None
+
+
+def expected_phase(publication_order, language):
+    """
+    Classification based on repo rules:
+    - EN: lore 1-599, prequel 600-699, prologue 700-799, main 1000+
+    - ES: lore 10001-10599, prequel 10600-10699, prologue 10700-10799, main 11000+
+    """
+    if publication_order is None or not language:
+        return None
+
+    lang = str(language).strip().lower()
+    order = publication_order
+
+    if lang == "en":
+        if 1 <= order <= 599:
+            return "lore"
+        if 600 <= order <= 699:
+            return "prequel"
+        if 700 <= order <= 799:
+            return "prologue"
+        if order >= 1000:
+            return "main"
+        return None
+
+    if lang == "es":
+        if 10001 <= order <= 10599:
+            return "lore"
+        if 10600 <= order <= 10699:
+            return "prequel"
+        if 10700 <= order <= 10799:
+            return "prologue"
+        if order >= 11000:
+            return "main"
+        return None
+
+    return None
+
 def parse_frontmatter(content):
     match = re.search(r'^---\s*\n(.*?)\n---\s*', content, re.DOTALL)
     if not match:
@@ -46,6 +97,32 @@ def validate_file(filepath):
             errors.append(f"Missing required field: {field}")
         elif not fm[field]:
             errors.append(f"Empty field: {field}")
+
+    # Classification checks (based on publication_order + language)
+    po = _as_int(fm.get("publication_order"))
+    lang = fm.get("language")
+    exp_phase = expected_phase(po, lang)
+    if exp_phase:
+        got_phase = str(fm.get("canon_phase", "")).strip().lower()
+        if got_phase and got_phase != exp_phase:
+            errors.append(
+                f"canon_phase mismatch: expected {exp_phase} for publication_order={po} language={lang}, got {got_phase}"
+            )
+
+        exp_type = PHASE_TO_TYPE.get(exp_phase)
+        got_type = str(fm.get("type", "")).strip()
+        if exp_type and got_type and got_type.lower() != exp_type.lower():
+            errors.append(f"type mismatch: expected {exp_type} for canon_phase={exp_phase}, got {got_type}")
+
+        # storyline validation (optional field in older files)
+        storyline = str(fm.get("storyline", "")).strip().lower()
+        if storyline:
+            if exp_phase in {"lore", "prequel", "prologue"} and storyline != exp_phase:
+                errors.append(f"storyline mismatch: expected {exp_phase} for canon_phase={exp_phase}, got {storyline}")
+            if exp_phase == "main" and storyline in {"lore", "prequel", "prologue"}:
+                errors.append(f"storyline mismatch: expected drusniel|west|east for canon_phase=main, got {storyline}")
+
+    # order vs publication_order is not enforced here yet (repo may still be mid-migration)
 
     # Check Tags
     tags = fm.get('tags')

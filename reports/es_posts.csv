@@ -9,7 +9,7 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10008,2024-01-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
 10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,prequel
 10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prequel,prequel,P-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prequel
-10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
+10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,prequel
 10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prequel,prequel,P-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prequel
 10604,2025-08-27,La llamada a Zuraldi,stonehold,Prequel,prequel,P-005,true,la-llamada-a-zuraldi,null,null,prequel
 10605,2025-08-28,Un viaje complicado,stonehold,Prequel,prequel,P-006,false,un-viaje-complicado,null,null,prequel
