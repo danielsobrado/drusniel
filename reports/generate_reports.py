@@ -83,11 +83,14 @@ def scan_directory(lang_code):
                 'canon_phase': canon_phase,
                 'canon_sequence': data.get('canon_sequence', ''),
                 'featured': data.get('featured', 'false'),
-                'path': slug
+                'path': slug,
+                'chapter': data.get('chapter', ''),
+                'subchapter': data.get('subchapter', ''),
+                'storyline': data.get('storyline', '')
             }
             
             # Filter out potentially invalid large order numbers (if any legacy ones remain > 2000)
-            if post['order'] < 2000:
+            if post['order'] < 20000:
                 posts.append(post)
     
     # Sort by order
@@ -102,7 +105,7 @@ def generate_csv(lang_code, filename):
     output_path = os.path.join(BASE_DIR, filename)
     print(f"Writing {len(posts)} rows to {filename}...")
     
-    fieldnames = ['order', 'date', 'title', 'category', 'type', 'canon_phase', 'canon_sequence', 'featured', 'path']
+    fieldnames = ['order', 'date', 'title', 'category', 'type', 'canon_phase', 'canon_sequence', 'featured', 'path', 'chapter', 'subchapter', 'storyline']
     
     with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

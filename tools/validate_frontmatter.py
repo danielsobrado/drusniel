@@ -1,53 +1,35 @@
 import os
 import re
+from pathlib import Path
+
 import yaml
 
 # Configuration
-BASE_DIR = r'c:\Development\workspace\GitHub\drusniel\site\content\posts'
+REPO_ROOT = Path(__file__).resolve().parents[1]
+BASE_DIR = REPO_ROOT / "site" / "content" / "posts"
 
 REQUIRED_FIELDS = [
     'title', 'date', 'tags', 'canon_sequence', 'publication_order', 
     'language', 'type', 'category', 'author'
 ]
 
-CANON_SEQ_REGEX = r'^(L|P|R|M|UMB-M|LUM-M|AST-L|WYR-L)-\d{3}$'
-# Note: User has UMB-M-xxx in examples, need to support that. 
-# CLAUDE.md says L-001, but file UMB-M-001 exists. I should allow the longer format.
-# Updating regex to be more permissive based on seen files: ^[A-Z]+-(L|P|R|M)-\d{3}$ maybe?
-# Let's inspect known values: LUM-M-002, UMB-M-001, AST-L-001. 
-# Pattern seems to be: [REGION_CODE]-[TYPE]-[NUMBER]
-# Or just accept strict known formats if I can derive them. 
-# Let's use a broader regex for now: ^[A-Z]+-[A-Z]+-\d{3}$
-
-CANON_SEQ_REGEX_BROAD = r'^[A-Z0-9]+-[A-Z]+-\d{3}$'
+CANON_SEQ_REGEX = r'^[A-Z0-9]+(?:-[A-Z0-9]+)*-\d{3}$'
 
 def parse_frontmatter(content):
-    try:
-        match = re.search(r'^---\s+(.*?)\s+---', content, re.DOTALL)
-        if match:
-            # Simple YAML parser or PyYAML if available. 
-            # Since we can't rely on pip packages in this env easily, let's try manual or simple parsing
-            # But the user environment might have pyyaml. I'll try to use naive parsing if import fails, 
-            # but standard generic parsing is safer.
-            # I'll stick to basic line splitting for robustness if pyyaml isn't there.
-            fm = {}
-            for line in match.group(1).split('\n'):
-                if ':' in line:
-                    key, val = line.split(':', 1)
-                    key = key.strip()
-                    val = val.strip()
-                    # Handle lists like ['a', 'b']
-                    if val.startswith('[') and val.endswith(']'):
-                         # primitive list parse
-                         val = eval(val) 
-                    else:
-                        # Strip quotes
-                        val = val.strip("'").strip('"')
-                    fm[key] = val
-            return fm
-    except Exception as e:
+    match = re.search(r'^---\s*\n(.*?)\n---\s*', content, re.DOTALL)
+    if not match:
         return None
-    return None
+
+    raw = match.group(1)
+    try:
+        data = yaml.safe_load(raw)
+    except Exception:
+        return None
+
+    if not isinstance(data, dict):
+        return None
+
+    return data
 
 def validate_file(filepath):
     errors = []
@@ -78,7 +60,8 @@ def validate_file(filepath):
     # Check Canon Sequence
     start_seq = fm.get('canon_sequence')
     if start_seq:
-        if not re.match(CANON_SEQ_REGEX_BROAD, start_seq):
+        seq_str = str(start_seq).strip().upper()
+        if not re.match(CANON_SEQ_REGEX, seq_str):
             errors.append(f"Invalid canon_sequence format: {start_seq}")
 
     # Check Date format YYYY-MM-DD
@@ -107,7 +90,8 @@ def main():
                 filepath = os.path.join(root, file)
                 errs = validate_file(filepath)
                 if errs:
-                    print(f"\n{file}:")
+                    rel = os.path.relpath(filepath, BASE_DIR)
+                    print(f"\n{rel}:")
                     for e in errs:
                         print(f"  - {e}")
                     error_count += 1

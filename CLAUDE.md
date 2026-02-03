@@ -9,50 +9,45 @@ Drusniel is a dark fantasy fiction project with bilingual content (EN/ES). Conte
 
 ### Frontmatter Fields (Required)
 ```yaml
-publication_order: 330           # Unique integer for sorting
-canon_phase: main                # lore | prequel | prologue | main
-canon_sequence: M-030            # L-001, P-007, R-001, M-030 format
-narrative_weight: high           # low | medium | high (optional)
-title: "Chapter Title"
-category: Umbra'kor              # Region/arc name
-author: Drusniel                 # Always Drusniel for main content
-tags: ['#arc name', '#character', '#location']
-date: 2024-11-17                 # Aligned with publication_order
+publication_order: 11015           # Unique integer for sorting
+order: 11015                       # Same as publication_order
+chapter: 5                         # Global chapter number (reader facing)
+subchapter: 2                      # Internal split (Parte 2)
+storyline: drusniel                # drusniel | west | east | prologue | lore
+canon_phase: main                  # main | lore | prequel | prologue
+canon_sequence: D-005-002          # {Initial}-{Chapter}-{Subchapter}
+narrative_weight: medium           # low | medium | high
+title: "La Prueba Fallida: Sombras en el Salón"
+date: 2025-01-06
+language: es                       # en | es
+category: Umbra'kor
+author: Drusniel
+type: Main
+tags: ['#la prueba fallida', '#drusniel']
 thumbnail: image.jpg
 featured: false
-language: en                     # en | es
-counterpart_path: site/content/posts/es/<category>/<slug>/index.mdx
-counterpart_title: "Translated Title"  # EN points to ES; ES points to EN
+counterpart_path: site/content/posts/en/...
+counterpart_title: "Translated Title"
 ```
 
-### Order Ranges
-| Phase | EN Range | ES Range | Sequence Format |
-|-------|----------|----------|-----------------|
-| Lore | 1-599 | 10001-10599 | L-001 to L-599 |
-| Prequel | 600-699 | 10600-10699 | P-001 to P-099 |
-| Prologue | 700-799 | 10700-10799 | R-001 to R-099 |
-| Main | 1000+ | 11000+ | W1-xxx to W6-xxx (West Side chapters) |
+### Global Chaptering Rules (LOCKED)
+1. **Global Sequence**: Chapter numbers increment once across the entire reading order, regardless of POV.
+   - Drusniel Arc: Chapters 1-7
+   - Road from Zuraldi (West): Chapter 8
+   - Riverhold (East): Chapter 9
+   - Maris: Chapter 10
+2. **Storyline Field**: Explicitly declares the narrative arc.
+   - `drusniel`
+   - `west` (Wyrmreach/Stonehold)
+   - `east` (Astalor/Riverhold)
+   - `prologue`
+   - `lore`
+3. **Canon Sequence**: Structural identifier, not for reading order.
+   - `D-007-006` (Drusniel, Ch 7, Part 6)
+   - `W-008-001` (West, Ch 8, Part 1)
+   - `P-LUM-001` (Prologue)
 
-**Note:** Main has no upper limit. Skip-by-3 numbering for insertion flexibility.
-
-### Content Taxonomy
-| Category | Purpose | Rule System | Narrative Weight |
-|----------|---------|-------------|------------------|
-| Lore | World texture | Prequel Lint | low |
-| Prequel | Fragmented POV | Prequel Lint | low |
-| Prologue | Narrative setup | Chapter Rules | medium |
-| Main | Mainline story | Chapter Rules | high |
-
-### Date Alignment
-Dates increment with publication_order using base date 2024-01-01:
-- Order 1 → 2024-01-02
-- Order 600 → 2024-08-19
-- Order 700 → 2024-11-27
-- Order 1000 → 2025-09-27
-
----
-
-## Path Structure
+### Path Structure
 ```
 site/content/posts/en/<category>/<slug>/index.mdx
 site/content/posts/es/<category>/<slug>/index.mdx

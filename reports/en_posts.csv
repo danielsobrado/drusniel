@@ -1,62 +1,62 @@
-path,order,publication_order,title,type,canon_phase,canon_sequence,language
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\astalor\magic-in-astalor\index.mdx,1,1,Magic in Astalor,Lore,lore,L-001,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\astalor\the-making-of-astalor\index.mdx,2,2,Nothingness and the Second Sun,Lore,lore,L-002,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\astalor\the-regions-of-astalor\index.mdx,3,3,The regions of Astalor,Lore,lore,L-003,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\contian\arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy\index.mdx,4,4,The Contian Theocracy's Quest for Magical Supremacy,Lore,lore,L-004,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire\index.mdx,5,5,The Resilient Defense of the Lumeshirean Divine Empire,Lore,lore,L-005,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos\index.mdx,6,6,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,Lore,lore,L-006,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\the-zuraldarr\index.mdx,7,7,The Zuraldarr,Lore,lore,L-007,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\wyrmreach\dark-depths-the-wymreach-dominion\index.mdx,8,8,The Mysteries of the Wyrmreach Dominion,Lore,lore,L-008,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\elenoria\eternal-woods-the-kingdom-of-elenoria-dance-with-nature\index.mdx,600,600,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,Prequel,prequel,P-001,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\frostgard\ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard\index.mdx,601,601,Ice and Iron: The Warriors of the Empire of Frostgard,Prequel,prequel,P-002,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\grukmar\clash-of-clans-the-unruly-might-of-the-grukmar-tribes\index.mdx,602,602,The Unruly Might of the Grukmar Tribes,Prequel,prequel,P-003,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\shadows-reign-the-umbrakor-dominions-pact-with-darkness\index.mdx,603,603,The Umbra'kor Dominion's Pact with Darkness,Prequel,prequel,P-004,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-call-to-zuraldi\index.mdx,604,604,The Call to Zuraldi,Prequel,prequel,P-005,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\a-journey-interrupted\index.mdx,605,605,A Journey Interrupted,Prequel,prequel,P-006,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\grukmar\the-screams-in-the-mist\index.mdx,606,606,The Screams in the Mist,Prequel,prequel,P-007,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\grukmar\march-of-despair\index.mdx,607,607,March of Despair,Prequel,prequel,P-008,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil\index.mdx,700,700,The Quest for Goblin Tracks Beyond Grukmar's Border,Prologue,prologue,LUM-R-001,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\morning-tidings-goblin-threats-at-grukmars-edge\index.mdx,703,703,Goblin Threats at Grukmar's Edge,Prologue,prologue,LUM-R-002,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar\index.mdx,706,706,A Guard's Glimpse into Grukmar,Prologue,prologue,LUM-R-003,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\lumeshire\whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends\index.mdx,709,709,A Tenderfoot Patrol's Brush with Grukmar's Legends,Prologue,prologue,LUM-R-004,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-sacred-chamber\index.mdx,1000,1000,The Sacred Chamber,Main,main,UMB-M-001,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\swords-shadows\index.mdx,1003,1003,Swords and Shadows,Main,main,UMB-M-002,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-failed-trial-the-test-of-venemora\index.mdx,1006,1006,The Failed Trial: The Test of Venemora,Main,main,UMB-M-003,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\secrets-and-shadows\index.mdx,1009,1009,Secrets and Shadows,Main,main,UMB-M-004,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-failed-trial-the-separation\index.mdx,1012,1012,The Failed Trial: The Separation,Main,main,UMB-M-005,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-failed-trial-shadows-in-the-hall\index.mdx,1015,1015,The Failed Trial: Shadows in the Hall,Main,main,UMB-M-006,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\voices-in-the-dark-the-empty-days\index.mdx,1018,1018,Voices in the Dark: The Empty Days,Main,main,UMB-M-007,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\voices-in-the-dark-the-distant-voice\index.mdx,1021,1021,Voices in the Dark: The Distant Voice,Main,main,UMB-M-008,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\voices-in-the-dark-the-seed-of-doubt\index.mdx,1024,1024,Voices in the Dark: The Seed of Doubt,Main,main,UMB-M-009,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\voices-in-the-dark-the-decision\index.mdx,1027,1027,Voices in the Dark: The Decision,Main,main,UMB-M-010,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-surface-mage-the-tower\index.mdx,1030,1030,The Surface Mage: The Tower,Main,main,UMB-M-011,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-surface-mage-the-assessment\index.mdx,1033,1033,The Surface Mage: The Assessment,Main,main,UMB-M-012,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-surface-mage-the-first-lesson\index.mdx,1036,1036,The Surface Mage: The First Lesson,Main,main,UMB-M-013,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-surface-mage-the-wyrmreach-mention\index.mdx,1039,1039,The Surface Mage: The Wyrmreach Mention,Main,main,UMB-M-014,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-surface-mage-the-return\index.mdx,1042,1042,The Surface Mage: The Return,Main,main,UMB-M-015,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\forbidden-knowledge-the-old-texts\index.mdx,1045,1045,Forbidden Knowledge: The Old Texts,Main,main,UMB-M-016,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\forbidden-knowledge-the-growing-power\index.mdx,1048,1048,Forbidden Knowledge: The Growing Power,Main,main,UMB-M-017,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\forbidden-knowledge-the-warning-signs\index.mdx,1051,1051,Forbidden Knowledge: The Warning Signs,Main,main,UMB-M-018,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\forbidden-knowledge-the-distant-land\index.mdx,1054,1054,Forbidden Knowledge: The Distant Land,Main,main,UMB-M-019,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\forbidden-knowledge-the-hesitation\index.mdx,1057,1057,Forbidden Knowledge: The Hesitation,Main,main,UMB-M-020,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-house-rivalry-the-gathering-storm\index.mdx,1060,1060,The House Rivalry: The Gathering Storm,Main,main,UMB-M-021,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-house-rivalry-the-fracture\index.mdx,1063,1063,The House Rivalry: The Fracture,Main,main,UMB-M-022,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-house-rivalry-the-secret-meeting\index.mdx,1066,1066,The House Rivalry: The Secret Meeting,Main,main,UMB-M-023,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-house-rivalry-the-night-before\index.mdx,1069,1069,The House Rivalry: The Night Before,Main,main,UMB-M-024,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-house-rivalry-the-warning-cut-short\index.mdx,1072,1072,The House Rivalry: The Warning (Cut Short),Main,main,UMB-M-025,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-the-chaos\index.mdx,1075,1075,Blood in the Dark: The Chaos,Main,main,UMB-M-026,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-the-slaughter\index.mdx,1078,1078,Blood in the Dark: The Slaughter,Main,main,UMB-M-027,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-the-escape\index.mdx,1081,1081,Blood in the Dark: The Escape,Main,main,UMB-M-028,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-the-evidence\index.mdx,1084,1084,Blood in the Dark: The Evidence,Main,main,UMB-M-029,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-shyntaras-flight\index.mdx,1087,1087,Blood in the Dark: Shyntara's Flight,Main,main,UMB-M-030,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\blood-in-the-dark-the-hollow-victory\index.mdx,1090,1090,Blood in the Dark: The Hollow Victory,Main,main,UMB-M-031,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-package-the-broken-instrument\index.mdx,1093,1093,The Package: The Broken Instrument,Main,main,UMB-M-032,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-package-the-mission\index.mdx,1096,1096,The Package: The Mission,Main,main,UMB-M-033,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-package-the-artifact\index.mdx,1099,1099,The Package: The Artifact,Main,main,UMB-M-034,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-package-the-crossing\index.mdx,1102,1102,The Package: The Crossing,Main,main,UMB-M-035,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\umbrakor\the-package-the-new-world\index.mdx,1105,1105,The Package: The New World,Main,main,UMB-M-036,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-road-from-zuraldi-the-awakening\index.mdx,1110,1110,The Road from Zuraldi: The Awakening,Main,main,W1-001,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-road-from-zuraldi-the-absence\index.mdx,1113,1113,The Road from Zuraldi: The Absence,Main,main,W1-002,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-road-from-zuraldi-the-nephews-doubt\index.mdx,1116,1116,The Road from Zuraldi: The Nephew's Doubt,Main,main,W1-003,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-road-from-zuraldi-the-followers\index.mdx,1119,1119,The Road from Zuraldi: The Followers,Main,main,W1-004,en
-c:\Development\workspace\GitHub\drusniel\site\content\posts\en\stonehold\the-road-from-zuraldi-the-decision\index.mdx,1122,1122,The Road from Zuraldi: The Decision,Main,main,W1-005,en
+order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,subchapter,storyline
+1,2024-01-02,Magic in Astalor,astalor,Lore,lore,L-001,false,magic-in-astalor,null,null,lore
+2,2024-01-03,Nothingness and the Second Sun,astalor,Lore,lore,L-002,false,the-making-of-astalor,null,null,lore
+3,2024-01-04,The regions of Astalor,astalor,Lore,lore,L-003,false,the-regions-of-astalor,null,null,lore
+4,2024-01-05,The Contian Theocracy's Quest for Magical Supremacy,contian,Lore,lore,L-004,false,arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy,null,null,lore
+5,2024-01-06,The Resilient Defense of the Lumeshirean Divine Empire,lumeshire,Lore,lore,L-005,false,shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire,null,null,lore
+6,2024-01-07,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,stonehold,Lore,lore,L-006,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos,null,null,lore
+7,2024-01-08,The Zuraldarr,lumeshire,Lore,lore,L-007,false,the-zuraldarr,null,null,lore
+8,2024-01-09,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,L-008,false,dark-depths-the-wymreach-dominion,null,null,lore
+600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prequel,prequel,P-001,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,prequel
+601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prequel,prequel,P-002,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prequel
+602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Prequel,prequel,P-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,prequel
+603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prequel,prequel,P-004,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prequel
+604,2025-08-27,The Call to Zuraldi,stonehold,Prequel,prequel,P-005,true,the-call-to-zuraldi,null,null,prequel
+605,2025-08-28,A Journey Interrupted,stonehold,Prequel,prequel,P-006,false,a-journey-interrupted,null,null,prequel
+606,2024-08-25,The Screams in the Mist,grukmar,Prequel,prequel,P-007,false,the-screams-in-the-mist,null,null,prequel
+607,2024-08-26,March of Despair,grukmar,Prequel,prequel,P-008,false,march-of-despair,null,null,prequel
+700,2024-11-27,Border Sign,lumeshire,Lore,lore,LUM-R-001,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil,null,null,lore
+703,2024-11-30,No Tracks,lumeshire,Lore,lore,LUM-R-002,false,morning-tidings-goblin-threats-at-grukmars-edge,null,null,lore
+706,2024-12-03,The Scream,lumeshire,Lore,lore,LUM-R-003,true,whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar,null,null,lore
+709,2024-12-06,Tavern Talk,lumeshire,Lore,lore,LUM-R-004,false,whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends,null,null,lore
+1000,2025-01-01,The Sacred Chamber,umbrakor,Main,main,D-001-001,true,the-sacred-chamber,1,1,drusniel
+1003,2025-01-02,Swords and Shadows,umbrakor,Main,main,D-002-001,true,swords-shadows,2,1,drusniel
+1006,2025-01-03,The Failed Trial: The Test of Venemora,umbrakor,Main,main,D-003-001,false,the-failed-trial-the-test-of-venemora,3,1,drusniel
+1009,2025-01-04,Secrets and Shadows,umbrakor,Main,main,D-004-001,false,secrets-and-shadows,4,1,drusniel
+1012,2025-01-05,The Failed Trial: The Separation,umbrakor,Main,main,D-005-001,false,the-failed-trial-the-separation,5,1,drusniel
+1015,2025-01-06,The Failed Trial: Shadows in the Hall,umbrakor,Main,main,D-005-002,false,the-failed-trial-shadows-in-the-hall,5,2,drusniel
+1018,2025-01-07,Voices in the Dark: The Empty Days,umbrakor,Main,main,D-006-001,false,voices-in-the-dark-the-empty-days,6,1,drusniel
+1021,2025-01-08,Voices in the Dark: The Distant Voice,umbrakor,Main,main,D-006-002,false,voices-in-the-dark-the-distant-voice,6,2,drusniel
+1024,2025-01-09,Voices in the Dark: The Seed of Doubt,umbrakor,Main,main,D-006-003,false,voices-in-the-dark-the-seed-of-doubt,6,3,drusniel
+1027,2025-01-10,Voices in the Dark: The Decision,umbrakor,Main,main,D-006-004,false,voices-in-the-dark-the-decision,6,4,drusniel
+1030,2025-01-11,The Surface Mage: The Tower,umbrakor,Main,main,D-007-001,false,the-surface-mage-the-tower,7,1,drusniel
+1033,2025-01-12,The Surface Mage: The Assessment,umbrakor,Main,main,D-007-002,false,the-surface-mage-the-assessment,7,2,drusniel
+1036,2025-01-13,The Surface Mage: The First Lesson,umbrakor,Main,main,D-007-003,false,the-surface-mage-the-first-lesson,7,3,drusniel
+1039,2025-01-14,The Surface Mage: The Wyrmreach Mention,umbrakor,Main,main,D-007-004,false,the-surface-mage-the-wyrmreach-mention,7,4,drusniel
+1042,2025-01-15,The Surface Mage: The Return,umbrakor,Main,main,D-007-005,false,the-surface-mage-the-return,7,5,drusniel
+1045,2025-01-16,Forbidden Knowledge: The Old Texts,umbrakor,Main,main,D-007-006,false,forbidden-knowledge-the-old-texts,7,6,drusniel
+1048,2025-01-17,Forbidden Knowledge: The Growing Power,umbrakor,Main,main,D-007-007,false,forbidden-knowledge-the-growing-power,7,7,drusniel
+1051,2025-01-18,Forbidden Knowledge: The Warning Signs,umbrakor,Main,main,D-007-008,false,forbidden-knowledge-the-warning-signs,7,8,drusniel
+1054,2025-01-19,Forbidden Knowledge: The Distant Land,umbrakor,Main,main,D-007-009,false,forbidden-knowledge-the-distant-land,7,9,drusniel
+1057,2025-01-20,Forbidden Knowledge: The Hesitation,umbrakor,Main,main,D-007-010,false,forbidden-knowledge-the-hesitation,7,10,drusniel
+1060,2025-01-21,The House Rivalry: The Gathering Storm,umbrakor,Main,main,D-007-011,false,the-house-rivalry-the-gathering-storm,7,11,drusniel
+1063,2025-01-22,The House Rivalry: The Fracture,umbrakor,Main,main,D-007-012,false,the-house-rivalry-the-fracture,7,12,drusniel
+1066,2025-01-23,The House Rivalry: The Secret Meeting,umbrakor,Main,main,D-007-013,false,the-house-rivalry-the-secret-meeting,7,13,drusniel
+1069,2025-01-24,The House Rivalry: The Night Before,umbrakor,Main,main,D-007-014,false,the-house-rivalry-the-night-before,7,14,drusniel
+1072,2025-01-25,The House Rivalry: The Warning (Cut Short),umbrakor,Main,main,D-007-015,false,the-house-rivalry-the-warning-cut-short,7,15,drusniel
+1075,2025-01-26,Blood in the Dark: The Chaos,umbrakor,Main,main,D-007-016,false,blood-in-the-dark-the-chaos,7,16,drusniel
+1078,2025-01-27,Blood in the Dark: The Slaughter,umbrakor,Main,main,D-007-017,false,blood-in-the-dark-the-slaughter,7,17,drusniel
+1081,2025-01-28,Blood in the Dark: The Escape,umbrakor,Main,main,D-007-018,false,blood-in-the-dark-the-escape,7,18,drusniel
+1084,2025-01-29,Blood in the Dark: The Evidence,umbrakor,Main,main,D-007-019,false,blood-in-the-dark-the-evidence,7,19,drusniel
+1087,2025-01-30,Blood in the Dark: Shyntara's Flight,umbrakor,Main,main,D-007-020,false,blood-in-the-dark-shyntaras-flight,7,20,drusniel
+1090,2025-01-31,Blood in the Dark: The Hollow Victory,umbrakor,Main,main,D-007-021,false,blood-in-the-dark-the-hollow-victory,7,21,drusniel
+1093,2025-02-01,The Package: The Broken Instrument,umbrakor,Main,main,D-007-022,false,the-package-the-broken-instrument,7,22,drusniel
+1096,2025-02-02,The Package: The Mission,umbrakor,Main,main,D-007-023,false,the-package-the-mission,7,23,drusniel
+1099,2025-02-03,The Package: The Artifact,umbrakor,Main,main,D-007-024,false,the-package-the-artifact,7,24,drusniel
+1102,2025-02-04,The Package: The Crossing,umbrakor,Main,main,D-007-025,false,the-package-the-crossing,7,25,drusniel
+1105,2025-02-05,The Package: The New World,umbrakor,Main,main,D-007-026,false,the-package-the-new-world,7,26,drusniel
+1110,2025-02-06,The Road from Zuraldi: The Awakening,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-awakening,8,1,west
+1113,2025-02-07,The Road from Zuraldi: The Absence,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-absence,8,1,west
+1116,2025-02-08,The Road from Zuraldi: The Nephew's Doubt,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-nephews-doubt,8,1,west
+1119,2025-02-09,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-followers,8,1,west
+1122,2025-02-10,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-decision,8,1,west

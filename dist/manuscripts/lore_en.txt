@@ -1,0 +1,1598 @@
+DRUSNIEL - LORE (EN)
+========================================
+
+
+
+########## Magic in Astalor ##########
+
+--- 
+
+## Lore | Magic in Astalor
+
+--- 
+
+Magic isn't commonplace. It's a treasure. A burden. A gift bestowed upon few. **Mages** walk a precarious path, wielding power that's as dangerous as it is wondrous.
+
+## The Elemental Foundations
+
+At the heart of magic lie four elements: **water, fire, earth**, and **air**. Each mage masters one. Some grasp a related element. But opposites remain forever out of reach. No mage commands both **water and fire**, or **earth and air**. It's a fundamental law, unyielding and absolute.
+
+## The Art of Spellcasting
+
+Casting a spell? It's no simple task. It demands utmost concentration. Precise timing. Perfect intonation.
+
+> "Casting a spell is no simple feat. Mages must concentrate their minds, drawing intricate magical runes in their thoughts while uttering the incantations with precise timing and intonation. Even the slightest mistake can have disastrous consequences, making the practice of magic a high-risk endeavor."
+
+One misstep can spell disaster. Magic is unforgiving. It rewards precision and punishes carelessness.
+
+## Nature's Role in Magic
+
+[![MagicIntro1](https://i.imgur.com/TYv7RFn.png)](https://i.imgur.com/TYv7RFn.png)
+
+Words and thoughts alone don't make a spell. Physical components matter. **Herbs and extracts** enhance. But **stones**? They're the true key. They unlock a mage's full potential.
+
+Yet these stones are rare—precious and fleeting.
+
+> "However, they are not easy to come by. The unworked stones must be closely examined, and only a precious few contain the power needed to cast spells. Once a suitable stone is found, it can only be used once before its power is exhausted, crumbling into dust or shattering into useless fragments."
+
+Use a stone, and it's gone. Turned to dust or useless shards. This scarcity shapes Astalor's arcane map. Some regions overflow with certain magics. In others, they're mere myths. Mage guilds rise, vying for control of valuable deposits.
+
+## Divine Favor and Magic
+
+There's another path to power: the **favor of the gods**. Through devotion and prayer, mages can amplify their magic. But gods are fickle. Demanding. The rewards are great, but so are the risks.
+
+## The Price of Power
+
+[![MagicIntro2](https://i.imgur.com/VxUX1Ex.png)](https://i.imgur.com/VxUX1Ex.png)
+
+As mages grow, casting becomes easier. More powerful. But the cost never truly fades. Overuse leads to exhaustion. Insanity. Even death. And magic attracts attention - from rivals, supernatural entities, or those who fear its power.
+
+## The Eight Schools
+
+Magic in Astalor isn't a cure-all. It's a tool: elusive, demanding. Eight schools exist, each with its own strengths and challenges:
+
+1. **Hydromancy** (Water): The art of flowing and adapting. Includes healing, purification, and manipulation of liquids.
+2. **Ignimancy** (Fire): The discipline of passion and transformation. Covers combat magic, energy manipulation, and purification through flame.
+3. **Geomancy** (Earth): The study of stability and growth. Encompasses protection magic, physical enhancement, and manipulation of stone and plant life.
+4. **Ventomancy** (Air): The practice of freedom and intellect. Involves weather control, enhancing speed, and manipulating gases.
+5. **Necromancy**: The controversial art of life, death, and undeath. Focuses on communicating with spirits, manipulating life force, and reanimation.
+6. **Omencraft**: The discipline of unveiling hidden truths. Covers scrying, prophecy, and gleaning knowledge from otherworldly sources.
+7. **Evocation**: The practice of calling forth the unseen. Involves summoning entities, creating objects from magical energy, and teleportation.
+8. **Miragery**: The art of bending reality. Encompasses creating false sensory experiences, manipulating perceptions, and veiling the truth.
+
+Each path offers unique powers. Unique trials. Mages must choose wisely, for their choice shapes their destiny.
+
+Magic is no trifling matter. It's a force of nature. A divine gift. A dangerous art.
+
+--------------------
+
+
+########## Nothingness and the Second Sun ##########
+
+--- 
+
+## Lore | Nothingness and the Second Sun
+
+--- 
+
+The book smelled of ash.
+
+Not the clean ash of a temple brazier—something older, something wrong. Sage Meridia lifted the cover with gloved fingers and felt the leather crack beneath her touch like dried skin.
+
+"Where did you find this?" she asked.
+
+The merchant shrugged—a gesture that managed to convey both ignorance and deliberate evasion. "Flooded cellar in the river district. Old building. Nobody claimed it."
+
+Meridia turned the first page. The parchment was stained with water damage, but the writing remained clear: angular script, pre-unification style, perhaps eight centuries old. Maybe older. The ink had a faint bronze tint that suggested mineral pigment rather than standard gallnut.
+
+*An original*, she realized. Not a copy. Nobody made copies in that ink anymore. The formula was lost.
+
+She paid the merchant twice what he asked. He left quickly, as if glad to be rid of his burden.
+
+---
+
+![Destruido](https://i.imgur.com/3ACVFUZ.png)
+
+The translation took three weeks.
+
+Not because the language was difficult—Meridia had studied the old tongues since childhood—but because the text refused to behave like text should. Words that seemed clear on first reading became ambiguous on second. Sentences rearranged themselves when she looked away. Numbers contradicted each other between paragraphs.
+
+She began keeping multiple copies of her notes, comparing them each morning to see what had changed. Sometimes nothing changed. Sometimes everything did.
+
+By the end of the first week, she understood that the book was not a single document. It was a compilation—fragments from at least four different sources, bound together by someone who either didn't notice the contradictions or didn't care.
+
+*In the beginning*, read the first fragment, *there was only void—endless and empty. Then came a spark.*
+
+*In the beginning*, read the second fragment, *there was only sound—a note without origin, without end. The spark was a lie the sound told itself.*
+
+*There was no beginning*, read the third fragment. *The concept of beginning was invented later, to make the records orderly.*
+
+Meridia made three columns in her notebook: *Fire*, *Sound*, and *No Origin*. She assigned each fragment to a category, hoping patterns would emerge.
+
+The patterns that emerged were not reassuring.
+
+---
+
+![Desolado](https://i.imgur.com/ua1uWII.png)
+
+The section on the gods was worse.
+
+*Human folly summoned 12 major gods*, one source claimed.
+
+*Human wisdom invited them*, said another.
+
+*The gods were already present*, insisted a third. *They simply chose that moment to reveal themselves. The summoning was theater.*
+
+Marginalia in three different hands argued with each other across the pages:
+
+*This contradicts the Temple of Azarion's account—compare with the Vespertine Codex.*
+
+*The Vespertine Codex is a forgery. Everyone knows this.*
+
+*If it's a forgery, why does the Archpriestess quote it every equinox?*
+
+Meridia found herself tracing the arguments with her finger, trying to follow the logic. The logic did not follow. Each voice was certain. Each voice was certain differently.
+
+---
+
+![V. Vance](https://i.imgur.com/v0etStB.png)
+
+The section on the First Pacts was missing sixteen pages.
+
+The numbering jumped from page forty-three to page sixty—a gap marked only by a note in crimson ink:
+
+*These pages were removed by order of the Third Council. The content was deemed hazardous to doctrinal stability. Replacement text follows.*
+
+The replacement text was three paragraphs long and said nothing useful. It praised the wisdom of the Pacts without explaining what the Pacts contained. It celebrated the harmony between gods and mortals without describing how that harmony was achieved.
+
+Meridia read it twice, then wrote in her notes: *Something important was here. Something they wanted us not to know.*
+
+She moved on.
+
+---
+
+![Good races](https://i.imgur.com/bd3QjIs.png)
+
+*Six gods engineered new races*, the book claimed. *Three birthed beings of pure goodness. Three created beings of pure evil.*
+
+The marginal hand was back, sharper now:
+
+*The word translated as 'goodness' is more accurately rendered as 'utility.' The word for 'evil' is closer to 'resistance' or 'wildness.' These are not moral categories. They are functional ones.*
+
+Another hand, different ink:
+
+*Functional to whom?*
+
+No answer followed.
+
+---
+
+![Evil races](https://i.imgur.com/6A0b8r2.png)
+
+The final section—what remained of it—concerned the Second Sun.
+
+Meridia could barely read it. The pages were smoke-damaged, their edges curling inward as if the fire had come from within rather than without. Great black streaks obscured half the text.
+
+What remained:
+
+*...a new era dawned. Diverse species. Active gods. Regional confli—*
+
+*—necromancers discovered transmutation. They created dragons from—*
+
+*—gods responded. They granted their followers—*
+
+*—banished to Wyrmreach, a remote, forbidding—*
+
+The last readable sentence:
+
+*Some called it a sun. Others denied it was light at all. The truth, if there is a truth, remains unwritten.*
+
+Below that, in the same crimson ink as the censorship note:
+
+*This book is incomplete. The final chapters were destroyed by order of the Assembly of Sages. The flame that consumed them was blessed. The blessing was not sufficient.*
+
+---
+
+[![MakeDragons](https://i.imgur.com/4demPFq.png)](https://i.imgur.com/4demPFq.png)
+
+Meridia closed the book.
+
+Her hands were trembling—not from fear, but from the peculiar exhaustion that came from trying to hold contradictory ideas simultaneously. The truth about Astalor's creation was not hidden; it was fragmented. Scattered across dozens of sources that could not agree on basic facts.
+
+Was the universe born from fire or sound? Did humans summon the gods or merely recognize them? Were the Pacts an agreement or a surrender?
+
+The book offered no answers. Only questions wearing the masks of answers.
+
+She filed it in the restricted archive, beside seventeen other texts she had studied and failed to reconcile. Someday, she hoped, a scholar would come who could make sense of the contradictions.
+
+Someday.
+
+In the meantime, she taught the Official Account: clean, orderly, safe. The story the Academy approved because students needed *something* to believe.
+
+It wasn't true. But it was stable. And stability, in a world born from contradiction, was the closest thing to truth anyone could offer.
+
+---
+
+*Compiler's note: The preceding text was reconstructed from surviving fragments. All translations remain disputed. The Academy takes no official position on authenticity.*
+
+*The final page of Sage Meridia's notebook was found blank, save for a single line written in her own hand:*
+
+*"We do not know what happened. We only know what we were told. And what we were told was never meant to be believed—only repeated."*
+
+*Meaning: unclear.*
+
+--------------------
+
+
+########## The regions of Astalor ##########
+
+--- 
+
+## Lore | The regions of Astalor
+
+--- 
+
+[![map](https://i.imgur.com/xurkpWW.png)](https://i.imgur.com/xurkpWW.png)
+
+Astalor. A land of stark contrasts and ancient conflicts. Frozen wastes stand beside verdant forests; towering mountains loom over sprawling plains. Each region tells a unique story. Here's a glimpse into the diverse realms that shape this world.
+
+## Lumeshirean Divine Empire
+
+Vast and varied, the [Lumeshirean Divine Empire](https://www.drusniel.com/the-resilient-defense-of-the-lumeshirean-divine-empire/) stands as a bastion of human civilization. Paladins and warriors defend its borders. Political intrigue runs deep. The Divine Emperor's word is law, but even law has its limits.
+
+> "The empire is entangled in a web of political machinations, alliances, and betrayals with the Contian Theocracy."
+
+Across its borders, Lumeshire faces constant challenges. [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) tribes threaten the south. The Norths press down out of the north. Yet the empire endures, its people united under a banner of faith and duty.
+
+## Contian Theocracy
+
+Where magic and faith intertwine, you'll find the [Contian Theocracy](https://www.drusniel.com/the-contian-theocracys-quest-for-magical-supremacy/). Mage towers pierce the sky. Arcane energy crackles in the air. Knowledge is power here, and power is everything.
+
+> "Although they claim neutrality, the Contians have numerous factions that accept all kinds of alignments."
+
+Contia's neutrality is a deliberately crafted illusion. Beneath the surface, factions vie for control. The pursuit of magical supremacy drives their every action. In Contia, today's ally could be tomorrow's rival.
+
+## Empire of [Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/)
+
+In the frozen north, [[Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/)](https://www.drusniel.com/ice-and-iron-the-unyielding-warriors-of-the-empire-of-[Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/)/) stands defiant against nature itself. The Norths, barbarian warriors hardened by ice and stubborn in spirit, call this harsh land home. Runic magic flows through their veins. Spirits whisper in the howling winds.
+
+> "The northern reaches of [Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/) are plagued by giants, posing a constant threat to the Norths."
+
+Giants loom as a constant threat. Yet the people of [Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/) remain unbroken. Their druids commune with ancient powers. Their warriors stand ready. In [Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/), survival isn't just a goal—it's a way of life.
+
+## Mountain Kingdom of [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)
+
+Carved from living rock, the [Mountain Kingdom of [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-[Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)s-stand-against-chaos/) is a marvel of dwarven and gnomish ingenuity. Fortress-cities defy the very laws of architecture. The ring of hammers on anvils never ceases.
+
+[Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)'s greatest challenge? The relentless [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) tribes. Yet with dwarven determination and gnomish creativity, they've held strong for centuries. In [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/), every stone tells a story of resilience.
+
+## Kingdom of Elenoria
+
+Amidst ancient forests, [Elenoria](https://www.drusniel.com/eternal-woods-the-kingdom-of-elenorias-dance-with-nature/) stands as a testament to elven grace and wisdom. Trees whisper secrets of ages past. Magic flows as freely as the crystal streams. Here, nature and civilization exist in harmonious balance.
+
+The elves of Elenoria are renowned for their archery and their bond to the natural world. Their realm is a place of beauty and mystery, where time itself seems to move differently.
+
+## [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) Tribes
+
+Chaos incarnate, the [[Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) Tribes](https://www.drusniel.com/the-unruly-might-of-the-[Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/)-tribes/) are a force of pure destruction. Orcs, goblins, and creatures too foul to name make up this ruthless host. They live for battle, for the thrill of conquest.
+
+The [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) are a constant threat to their neighbors. Their raids keep [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/) and Lumeshire on constant alert. In the world of Astalor, the [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) represent the ever-present danger of unchecked brutality.
+
+## Umbra'kor Dominion
+
+In the shadows between realms, the [Umbra'kor Dominion](https://www.drusniel.com/shadows-reign-the-umbrakor-dominions-pact-with-darkness/) lurks. Home to the dark elves, it's a place where ambition and darkness reign supreme. They serve as a buffer between the known world and the horrors beyond.
+
+The dark elves of Umbra'kor are masters of sinister magic. They venture into the dreaded Wyrmreach, seeking power at any cost. In Astalor's delicate balance, Umbra'kor is a necessary evil—but evil nonetheless.
+
+## Wyrmreach Dominion
+
+Beyond the tempestuous sea lies the [Wyrmreach Dominion](https://www.drusniel.com/the-mysteries-of-the-wymreach-dominion/).
+
+In song and tale, travelers whisper of terrible things in that distant land — of horrors beyond mortal understanding and shadows that defy description — but few who travel there ever return to confirm what is true.
+
+To most, it remains a place spoken of in fearful legends rather than known fact.
+
+> "Only the dark elves of Umbra'kor can establish contact with this forsaken realm."
+
+The horrors contained within Wyrmreach are beyond mortal comprehension. It stands as a grim reminder of the darkness that threatens to consume Astalor should the barriers ever fall.
+
+These are the realms of Astalor. Each unique, each vital to the world's precarious balance.
+
+--------------------
+
+
+########## The Contian Theocracy's Quest for Magical Supremacy ##########
+
+--- 
+
+## Lore | The Contian Theocracy's Quest for Magical Supremacy
+
+--- 
+
+[![ContianMap](https://i.imgur.com/BOau7mi.png)](https://i.imgur.com/BOau7mi.png)
+
+Syrael hated the tower stairs.
+
+Not because they were tall. The towers of Contian were built to be tall. Height was part of the lesson. You looked up until your neck ached, and you remembered where the power lived.
+
+He hated the stairs because they echoed.
+
+Every step sounded like an accusation in the stone. Every step reminded him he was late.
+
+He lifted his robe hem with two fingers and climbed faster. Ink vials thumped gently against his belt. The scroll case bumped his hip. The parchment inside it was new and clean. That mattered. The Inquisitors loved clean parchment.
+
+At the landing, an acolyte blocked the doorway. The boy's hair was shaved in the old style, leaving only a thin strip at the crown. His hands were stained with prayer ash.
+
+"Name," the acolyte said.
+
+"Syrael. Third Ledger. I'm assigned to the morning record."
+
+The acolyte studied his face for a moment too long, as if deciding whether Syrael's voice sounded loyal enough.
+
+Behind the boy, Syrael could hear the low chant, steady as a tide. The words were familiar. They always were. The same lines, repeated, carved into the mind the way Contian carved scripture into stone.
+
+*Order is mercy. Mercy is control. Control is salvation.*
+
+The acolyte stepped aside. "Do not speak unless asked. Do not write unless told."
+
+Syrael nodded and entered.
+
+[![ContianIntro1](https://i.imgur.com/DpJOZdH.png)](https://i.imgur.com/DpJOZdH.png)
+
+The chamber was long and bright, with tall windows that let in the pale morning sun. Light wasn't sacred in Contian. It was simply useful. It revealed stains. It revealed flaws.
+
+Rows of benches faced a raised dais. On the dais stood a circle of robed scholars, their collars stiff with gold thread. Behind them, the High Minister sat with hands folded, face calm, eyes like a man carved from wax.
+
+In the center of the dais lay the object Syrael had been summoned to record.
+
+A rod of dull metal, no longer than Syrael's forearm.
+
+It didn't glow. It didn't hum. It didn't float. It just sat there on the black cloth as if it belonged in a kitchen drawer.
+
+That was the first lie, of course.
+
+Nothing that reached the dais belonged in a kitchen drawer.
+
+Syrael found his assigned place near the side, where scribes were meant to be invisible. He unrolled his parchment, sharpened his quill, and waited.
+
+A scholar stepped forward. Minister Halvek. His voice carried easily without effort.
+
+"Brothers and sisters," Halvek said, "you have heard the rumors from the border. You have heard the whispers of wild power. You have heard the foolish claim that magic belongs to the untamed."
+
+He let silence answer him. It always did. Contian did silence better than any other kingdom. Silence was training.
+
+Halvek gestured toward the rod. "We have recovered this from the ruin beneath the river shelf. It was found where no faithful man should have been able to find anything. Yet the faithful went. And returned. Because order rewards obedience."
+
+Syrael wrote: *Recovered artifact presented. Claimed recovered from river shelf ruin.*
+
+The quill scratched. The ink dried quickly in the warm light.
+
+Halvek continued. "Our doctrine is simple. Magic is law. Law is structure. Structure is control. If something can be measured, it can be governed. If something can be governed, it can be purified."
+
+Syrael wrote it down because he was supposed to.
+
+He had written those lines before. Hundreds of times. Different days. Different objects. The words always fit. That was the strength of doctrine.
+
+It was also, Syrael sometimes feared, the weakness.
+
+Halvek turned toward a set of brass instruments arranged on a smaller table: bowls of blessed water, a slate etched with circles, a thin chain of silver links, and a small glass prism. Practical tools. Simple tools. The kind of tools that made priests feel like engineers.
+
+"Bring the subject," Halvek said.
+
+Two guards escorted a young man into the chamber. The man's wrists were bound. His cheeks were hollow. A bruise darkened one side of his throat, as if someone had gripped him hard and long.
+
+Syrael recognized the symbols tattooed on the man's forearms. Not the holy marks. Not Contian's clean geometry.
+
+Spiral marks. Crude. Tribal. Borderland.
+
+The kind that made ministers speak of *filth*.
+
+Halvek's smile did not change. "You were observed using uncontrolled manifestation near the salt road. Do you deny it?"
+
+The prisoner lifted his head. His eyes were bloodshot. "I was trying to stop a fire."
+
+The High Minister's gaze did not move. But Syrael felt the room tighten. The wrong answer had been spoken: a claim of virtue without permission.
+
+Halvek's voice remained gentle. "You attempted to act as if power belongs to the individual."
+
+The prisoner swallowed. "It belongs to whoever needs it."
+
+Syrael's quill paused.
+
+He told himself it was only because he needed to catch up.
+
+Halvek picked up the silver chain. "Hold this."
+
+One guard forced the prisoner's hands forward. Halvek wrapped the chain around the bound wrists and clipped it shut.
+
+Syrael had seen the chain before. He'd recorded its use twice last month. It did not stop magic. It did not block it. It did something stranger.
+
+It made the room feel… *flatter*.
+
+Like a melody had lost one note.
+
+Halvek placed the glass prism beside the prisoner's hands. "Now," Halvek said softly, "show us what you are."
+
+The prisoner looked from face to face. He saw robed scholars. He saw guards. He saw no mercy.
+
+He closed his eyes.
+
+For a moment, nothing happened.
+
+Then the air in front of his bound hands shimmered, faint as heat over stone. The bowls of water trembled. The flame lamps along the wall flickered.
+
+Syrael felt the hairs on his arms lift.
+
+Power. Real power. Not in scripture. Not in diagrams. In the air, alive.
+
+Halvek watched with satisfaction. "There," he said. "Unstructured. Wasteful. Emotional."
+
+The prisoner's breath hitched. The shimmer grew. The flame lamps strained, bending their light.
+
+Halvek lifted one hand, palm down, and pressed it toward the chain.
+
+The change was immediate.
+
+The shimmer didn't vanish. It didn't break. It didn't explode.
+
+It simply… *thinned*.
+
+As if something had been drained out of it, leaving a hollow shape behind.
+
+The prisoner gasped. He tried again, forcing, straining. The shimmer returned in weak spurts, then collapsed into nothing.
+
+Syrael wrote quickly: *Chain interaction observed. Manifestation attenuates. Subject distressed. Lamps stabilize.*
+
+Halvek leaned in as if studying a specimen under a lens. "See? Magic obeys when law is applied."
+
+One of the older scholars nodded. Another murmured a blessing.
+
+Syrael did not look at the prisoner's face. He kept his eyes on the parchment.
+
+The prisoner's breathing had turned uneven, like he was trying to inhale through cloth.
+
+Halvek released the chain and stepped back. "We will now measure residual variance."
+
+He lifted the brass bowl of blessed water and poured it onto the slate circles. The water did not spread evenly. It crawled along the etched lines, obeying the geometry as if frightened of crossing.
+
+Syrael had always liked that part. It made the world seem simple.
+
+Halvek placed the prisoner's bound hands above the slate. "Again."
+
+The prisoner's lips moved. Syrael could not hear the words, but he could guess: a plea, not to any god, but to the power itself. Begging it to return.
+
+A shimmer sparked.
+
+The water in the slate circles rippled, once. Then it went still.
+
+Halvek frowned.
+
+It was tiny. Most people would not have noticed it. His mouth tightened at one corner for half a breath, then smoothed again.
+
+Syrael noticed because scribes lived on details. Details were the only safe thing to own.
+
+Halvek tried again. The same result. Weak shimmer. One ripple. Stillness.
+
+The older scholar beside him leaned in and whispered something. Halvek's eyes flicked to the High Minister, seeking permission without moving his head.
+
+The High Minister did not nod.
+
+Halvek swallowed.
+
+Then he raised his voice. "The measurements confirm it. Contian's instruments are sufficient."
+
+Syrael wrote the words. His hand did not pause this time, but his stomach did.
+
+Because the instruments had not confirmed what Halvek wanted.
+
+They had confirmed something else.
+
+Something resistant.
+
+Something that did not fit the geometry cleanly.
+
+The prisoner sagged. The guards held him up.
+
+Halvek addressed the chamber. "This is why the Theocracy expands its reach. Wild power threatens the faithful. We do not conquer for pride. We conquer for protection."
+
+Syrael had written that line before too.
+
+It always sounded noble.
+
+It always sounded clean.
+
+Halvek turned to the guards. "Take him below. Prepare him for instruction."
+
+The prisoner's head jerked up. "Instruction?"
+
+Halvek's smile returned. "You will learn obedience."
+
+The guards dragged the man away. His feet scraped the stone.
+
+Syrael forced himself to keep writing, even as the scrape sound faded into the hall.
+
+The High Minister stood at last. Everyone in the chamber rose with him.
+
+His voice was quiet. That made the room listen harder.
+
+"We will not be afraid of what we cannot name," the High Minister said. "We will name it. We will number it. We will bind it in law."
+
+Syrael wrote every word.
+
+Because that was his job.
+
+Because jobs were safer than opinions.
+
+The High Minister looked down at the rod on the black cloth. "Increase retrieval efforts. Two more ruins have been identified. Bring me everything."
+
+Halvek bowed. "As you will it."
+
+The High Minister's gaze lifted, passing over the scribes, the guards, the scholars. When it reached Syrael, Syrael lowered his eyes at once.
+
+He felt, absurdly, like the man could read his thoughts.
+
+But that was not possible. Contian had rules. Contian had walls. Contian had chains.
+
+When the chamber emptied, Syrael stayed until he was permitted to leave. He rolled the parchment carefully and sealed it with the Third Ledger mark.
+
+Outside, the air in the tower stairwell felt colder than it should have.
+
+Syrael paused on the landing, alone for the first time since he had arrived. He found that his fingers were trembling.
+
+Not from fear of punishment.
+
+From the memory of that shimmer.
+
+From the way it had thinned when the chain touched it.
+
+Not stopped. Not blocked.
+
+*Changed*.
+
+He told himself that meant the doctrine was right. Law could shape magic.
+
+But another thought slipped in, unwanted and sharp.
+
+*If law could shape it… then something else could shape it too.*
+
+*Something older than law.*
+
+Syrael pushed the thought away as he descended the stairs. He did not let it show on his face. He did not let it touch his writing.
+
+Still, when he reached the ground floor, he found himself glancing back up the tower, as if expecting to see the prisoner's eyes staring out from a window.
+
+There were no eyes.
+
+Only stone.
+
+Only order.
+
+And somewhere below that, in a place Syrael was not allowed to name, a man was being "instructed," and the Theocracy was calling it mercy.
+
+Syrael tightened his grip on the scroll case and walked into the sun, repeating the doctrine under his breath like a charm.
+
+*Order is mercy. Mercy is control. Control is salvation.*
+
+This time, the words did not settle in his chest the way they usually did.
+
+This time, they felt thin.
+
+--------------------
+
+
+########## The Resilient Defense of the Lumeshirean Divine Empire ##########
+
+--- 
+
+## Lore | The Resilient Defense of the Lumeshirean Divine Empire
+
+--- 
+
+[![LumeshireMap](https://i.imgur.com/hZSjjVU.png)](https://i.imgur.com/hZSjjVU.png)
+
+Valarian's boots were wet.
+
+That was the first wrong thing about the morning. He'd taken the eastern path from the barracks—the dry path, the sensible path, the path every guard took during the autumn rains. There should have been no puddles. There had been no puddles yesterday.
+
+He looked down. Water pooled around his feet, dark and still, reflecting nothing.
+
+*Strange*, he thought. Then he kept walking, because strange things weren't his responsibility. Border patrol was his responsibility. Strange things belonged to the priests.
+
+The garrison wall came into view: a thirty-foot barrier of gray stone, old but solid, marking where Lumeshire ended and the treeline began. Beyond the trees lay Grukmar territory—swamps and ruins and things that didn't bear thinking about.
+
+Corporal Bren was waiting at the checkpoint, rubbing his hands together for warmth. A young man from the capital, still convinced his posting mattered.
+
+"Anything overnight?" Valarian asked.
+
+"Goblin tracks near the southern fence. Small band, maybe six. They didn't cross."
+
+"They never cross during harvest season. Too much patrol traffic."
+
+Bren nodded, but his expression was odd. "Something else, though. Venn filed a report. Said he saw lights in the eastern woods."
+
+"Venn sees lights every time he drinks."
+
+"He wasn't drinking. He was on third watch. Said the lights were moving, like lanterns, but there was no one carrying them."
+
+Valarian took the report from Bren's hands and scanned it. Standard form, Venn's cramped handwriting, the section for witness signatures conspicuously empty.
+
+"He needs two witnesses to make this official."
+
+"I know. That's why he's upset. Marrek was on watch with him, but Marrek says he didn't see anything."
+
+Valarian folded the report and tucked it into his belt. "Then it goes in the unverified file. Same as last time."
+
+Bren hesitated. "What if there was something?"
+
+"Then we wait until someone else sees it. That's procedure." Valarian clapped him on the shoulder. "Don't worry. The empire has survived stranger things than floating lights."
+
+He walked the perimeter, checking the fence posts, counting the sentries. Everything looked normal. Everything always looked normal. That was the strange thing about border duty: nothing happened, until suddenly everything did.
+
+At the western gate, he found Marrek smoking a pipe and staring at the mountains.
+
+"You didn't see the lights," Valarian said.
+
+Marrek didn't turn. "I saw something. I'm not sure it was lights."
+
+"What was it?"
+
+A long pause. Smoke curled from the pipe.
+
+"A shape," Marrek said finally. "At the edge of the trees. Tall. Too tall to be a man. It was just standing there, watching the wall."
+
+"And you didn't report that?"
+
+"Report what? 'I saw a shape'? That's not a report. That's a poem."
+
+Valarian couldn't argue with that logic. The forms had boxes for goblin tracks, orc sightings, unusual weather. There was no box for *tall shapes that felt wrong*.
+
+He looked toward the eastern treeline. The trees stood still in the morning air, dark and dense. Beyond them, the land sloped upward toward Stonehold's mountains. Beyond those, according to the old maps, lay territories even the scouts didn't patrol.
+
+*Umbra'kor*. Dark elves. Fairy tales, mostly. Soldiers told stories around campfires—shadow magic, blood rituals, cities built underground. Nobody actually believed them.
+
+And beyond the Umbra'kor?
+
+*Wyrmreach*.
+
+Valarian had never met anyone who'd been there. He'd met plenty of people who claimed to know someone who had. The stories never matched. That was the reliable part: no two accounts agreed on anything except that you didn't want to go.
+
+"Captain Aldric thinks Venn was dreaming," Marrek said.
+
+"Aldric thinks everything is dreams or discipline problems."
+
+"What do you think?"
+
+Valarian considered the question. The wet boots. The strange puddle. The lights Venn saw and Marrek didn't. The shape at the treeline, too tall to be a man.
+
+"I think," he said slowly, "that we're not equipped to think about things like that. We're equipped to check fence posts and count goblins. That's what we should do."
+
+Marrek nodded. Neither of them felt satisfied by the answer.
+
+The morning shift passed without incident. Valarian filed reports on grain shipment delays, approved a requisition for new boots, and signed a patrol schedule for the coming week. Normal work. Safe work.
+
+At midday, a messenger arrived from the eastern watchtower. A single page, sealed with the minor seal that meant *unusual but not urgent*.
+
+Valarian broke the wax.
+
+*Patrol Seven returned early. Report attached. One member missing—Private Coller. Search party dispatched. No traces found.*
+
+He read it twice. Then he walked to the Commander's quarters and placed the report on his desk.
+
+"Missing how?" the Commander asked without looking up.
+
+"The report doesn't say. Just that he was with the patrol at sunset and gone by dawn. No tracks. No struggle. His gear was still in his tent."
+
+The Commander sighed. It was the sigh of a man who had seen too many reports like this one. "File it."
+
+"Shouldn't we—"
+
+"File it, Valarian. Under 'unexplained.' We have three dozen unexplained disappearances in that filing cabinet. None of them led anywhere. None of them ever do."
+
+Valarian hesitated. "Do you think it's connected? The lights Venn saw, the shape Marrek mentioned—"
+
+"I think," the Commander said, finally looking up, "that the empire has one hundred and forty-seven border garrisons. Each one files two or three unexplained reports per season. If we investigated every strange light and missing patrol member, we'd have no soldiers left to guard anything."
+
+He returned to his paperwork.
+
+Valarian stood there a moment longer, then left.
+
+Outside, the sky was gray and ordinary. The trees were silent. The sentries walked their routes with the mechanical certainty of men who believed their routines meant safety.
+
+Valarian understood that belief. He relied on it. The alternative—considering what the routines might be failing to prevent—was not something he could afford to think about.
+
+He filed Venn's sighting report in the unverified drawer. He filed the missing soldier report in the unexplained cabinet. He completed his shift, ate his dinner, and slept without dreaming.
+
+In the morning, his boots were wet again.
+
+This time, there was no puddle.
+
+---
+
+[![LumeshireIntro](https://i.imgur.com/RNjhnOi.png)](https://i.imgur.com/RNjhnOi.png)
+
+*Report filed. Status unchanged. Recommend continued observation.*
+
+*Lumeshire believed it had time.*
+
+*It always believed it had time.*
+
+--------------------
+
+
+########## Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos ##########
+
+--- 
+
+## Lore | Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos
+
+--- 
+
+[![StoneholdMap](https://i.imgur.com/JURYfEJ.png)](https://i.imgur.com/JURYfEJ.png)
+
+The crack was thirteen inches long.
+
+Foreman Bragni measured it twice, wrote down the number, then measured it a third time because numbers were supposed to stay the same. They weren't supposed to change depending on how hard you looked.
+
+Thirteen inches. Perhaps fourteen.
+
+He put the measuring tape away and ran his finger along the fissure. The stone was cold, which was wrong. This deep in Stonehold, this close to the Forgeheart, nothing was cold. Even the walls sweated warmth. Even the air tasted of copper and iron.
+
+But the crack was cold. His finger came away numb.
+
+"When did you first notice it?" Bragni asked.
+
+Behind him, the survey crew shuffled nervously. Torgen, the eldest, cleared his throat. "Three days ago. We thought it was settlement. Normal settlement—the kind you get after a spring thaw."
+
+"It's autumn."
+
+"Yes."
+
+Bragni touched the crack again. The cold was spreading now, a thin line of numbness tracing toward his wrist. He pulled his hand back.
+
+"This isn't settlement," he said.
+
+[![StoneholdIntro2](https://i.imgur.com/0oQxjcD.png)](https://i.imgur.com/0oQxjcD.png)
+
+The survey charts showed nothing unusual. Bragni spread them across the stone floor of the shaft station and traced the lines with his stubby finger. Tunnels branched in all directions—some centuries old, some cut within living memory. The Sixth Shaft, where the crack appeared, was ancient: one of the original passages carved by the first stonemasons, blessed by priests of Vondar when the world was young.
+
+Blessed stone didn't crack. That was the doctrine.
+
+And yet.
+
+"Has there been any seismic activity?" Bragni asked. "Tremors? Rumbles from below?"
+
+The crew exchanged glances. Torgen spoke again. "Not exactly tremors. More like... pressure. The miners say it feels like something pushing against the walls from the other side."
+
+"The other side of what?"
+
+"That's the thing." Torgen's voice dropped lower. "There isn't supposed to be another side. According to the charts, Shaft Six terminates at solid bedrock. There's nothing beyond it."
+
+Bragni studied the chart. The line marking Shaft Six ended in a solid black fill—the cartographic symbol for *impassable rock, confirmed by survey*. Dwarven surveys were reliable. Dwarven surveys had been reliable for eight hundred years.
+
+He rolled up the chart. "Show me."
+
+They walked for twenty minutes, descending through passages carved with perfect geometric precision. Runes of protection lined the walls, glowing faintly with the residual blessing of generations of priests. Bragni touched them as he passed, a habit from childhood. The runes were warm.
+
+Except when they weren't.
+
+He stopped. "This one."
+
+The rune—a standard ward against cave-ins—was dark. Not damaged. Not erased. Just... empty. Like a lamp that had run out of oil.
+
+Torgen nodded. "We noticed that too. Reported it to the temple. They said they'd send someone."
+
+"When?"
+
+"Next month."
+
+*Next month.* As if dead runes could wait like accounting errors.
+
+Bragni moved on.
+
+The crack was worse than described.
+
+It ran along the ceiling of the Sixth Shaft, a jagged line that seemed to pulse faintly in the torchlight. Bragni climbed the inspection ladder and pressed his measuring tape against it.
+
+Seventeen inches.
+
+He stared at the number. Then he measured again.
+
+Nineteen inches.
+
+"It's growing," he said.
+
+"Impossible," Torgen replied. "Stone doesn't grow."
+
+"Neither do cracks." Bragni climbed down. "When was your last measurement?"
+
+"This morning. Twelve inches."
+
+*Twelve to nineteen in six hours.* That wasn't settlement. That wasn't geological pressure. That was something else entirely.
+
+Bragni placed his hand flat against the wall below the crack. The cold bit into his palm instantly, sharp as a blade.
+
+And he heard something.
+
+Not with his ears—with his bones. A low vibration, almost beneath the threshold of sensation. A hum that seemed to come from everywhere and nowhere.
+
+"Do you hear that?" he whispered.
+
+The crew fell silent. One by one, they shook their heads.
+
+But Bragni heard it. A steady pulse, deep and slow, like the heartbeat of something impossibly large. Sleeping. Or waking.
+
+He pulled his hand away.
+
+"We're sealing this shaft," he said. "Immediately. Full barricade. Iron bracing. Warded stone."
+
+"What?" Torgen stepped forward. "The Mining Council hasn't approved—"
+
+"The Mining Council isn't standing in front of a crack that's growing two inches an hour." Bragni's voice was sharper than he intended. "Get the ironworkers. Get a priest. Get anyone who can pour blessed mortar."
+
+Torgen hesitated—habitual deference to procedure warring with the visible evidence of something wrong.
+
+Then he nodded and ran.
+
+The barricade went up in three hours. Dwarven efficiency. Iron beams driven into the stone, reinforced with blessed chain, covered in warded mortar thick enough to stop a battering ram.
+
+Bragni supervised every step. When the final seal was placed, he pressed his hand against it.
+
+Warm. Solid. Safe.
+
+He filed his report that evening. *Structural anomaly contained. Recommend no excavation beyond Shaft Six until further study. Estimated repair cost: minimal. Estimated risk assessment: low.*
+
+The Mining Council read it. They thanked him for his diligence. They approved a commendation for quick action.
+
+They did not ask about the cold. They did not ask about the vibration. They did not ask why a crack in blessed stone had grown seven inches in a single afternoon.
+
+Some questions were easier not to ask.
+
+---
+
+[![StoneholdIntro](https://i.imgur.com/KzpA3lJ.png)](https://i.imgur.com/KzpA3lJ.png)
+
+*Report filed. Shaft Six sealed. Survey crew reassigned.*
+
+*The problem was solved. That was all that mattered.*
+
+Three weeks later, Bragni woke in the night to find his bedroom wall cold to the touch.
+
+He didn't report it. Some things, he was learning, were not meant for reports.
+
+Stone cracked where it never had before. But the bracing held. For now.
+
+For now was all anyone could promise.
+
+--------------------
+
+
+########## The Zuraldarr ##########
+
+--- 
+
+## Lore | The Zuraldarr
+
+--- 
+
+[![Zuraldarr1](https://i.imgur.com/uV1xzcl.jpeg)](https://i.imgur.com/uV1xzcl.jpeg)
+
+[Zuraldi](https://www.drusniel.com/the-zuraldarr/) stretched across the eastern reaches of Lumeshire, a rugged expanse of dense forests and craggy mountains. The land bred hardy folk, the Zuraldarr, whose strength matched the terrain they called home.
+
+Anja stood atop a cliff, her eyes scanning the horizon. Below, the forests of [Zuraldi](https://www.drusniel.com/the-zuraldarr/) spread out like a green sea, broken only by the glint of rivers and the occasional clearing. To the east, the peaks of [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/) loomed, marking the border with the dwarven kingdom.
+
+"See those passes?" She pointed to narrow gaps between the mountains. "Our ancestors used them to outmaneuver every army that tried to take our land."
+
+Her apprentice, Torben, squinted against the sun. "But we're part of Lumeshire now, aren't we?"
+
+Anja nodded. "On our terms. The empire learned it was better to have us as allies than enemies."
+
+## A History Written in Stone and Blood
+
+In the village square, Elder Hilda traced her fingers over an ancient stone monolith. Carved into its surface were scenes of battle and triumph.
+
+"This tells the story of the Battle of Broken Axe Pass," she explained to a group of wide-eyed children. "A thousand imperial soldiers entered the pass. Only ten left alive."
+
+A young girl raised her hand. "But why didn't we kill them all?"
+
+Hilda's weathered face creased in a smile. "To send a message. The Zuraldarr can't be conquered, only bargained with."
+
+## The Caravan's Path
+
+The mountain pass bustled with activity. A long line of wagons wound its way through the rocky terrain, heavily laden with goods. Zuraldarr traders, their muscles rippling beneath weather-worn clothes, guided sturdy mountain ponies with sure hands.
+
+Marta, the trade matriarch, stood at the head of the caravan. Her keen eyes scanned the treacherous path ahead, ever watchful for loose rocks or signs of bandits.
+
+A dwarven merchant, his beard braided with gold threads, approached her. "Marta! Good to see you. How's the crop this year?"
+
+"Bountiful as always, Thorin. Your people won't go hungry this winter."
+
+The dwarf nodded appreciatively. "And you'll have enough axes and picks to last you till next spring. Though I must say, this mountain path never gets easier."
+
+Marta grinned, a fierce pride in her eyes. "That's why you need us, my friend. No one knows these trails like the Zuraldarr."
+
+As if to prove her point, she barked out a series of commands. The caravan shifted formation smoothly, navigating a particularly treacherous bend in the path without breaking stride.
+
+"Impressive," Thorin muttered. "I see why the empire values your alliance."
+
+Marta's expression turned serious. "They'd better. This trade route is the lifeblood of both our peoples. Lumeshire knows we control the fastest path between their lands and [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)."
+
+As they talked, workers unloaded crates of dwarven metalwork and finely cut stones from some wagons, replacing them with sacks of grain, barrels of salted meat, and crates of fresh produce.
+
+"Your beef is particularly popular this season," Thorin said. "The mountain grass gives it a flavor our people can't resist."
+
+Marta nodded, pleased. "We'll be sure to increase the shipment next time. Now, shall we discuss the terms for those mithril tools you mentioned last season?"
+
+Their handshake was firm, a gesture of mutual respect between long-standing trading partners. As the sun began to set, casting long shadows across the mountain pass, the caravan prepared to make camp for the night. Tomorrow would bring another day of careful navigation and shrewd bargaining, the lifeblood of [Zuraldi](https://www.drusniel.com/the-zuraldarr/)'s economy flowing along these ancient mountain routes.
+
+## Feasts of the Strong
+
+[![Zuraldarr2](https://i.imgur.com/1oouZWN.jpeg)](https://i.imgur.com/1oouZWN.jpeg)
+
+The air filled with the sizzle of meat and the rich aroma of roasting beef. In the village center, a massive fire pit glowed red-hot. Above it, cuts of meat larger than a man's torso turned slowly on spits.
+
+Torben's mouth watered as he watched the village butcher, a woman with arms like tree trunks, carve thick slabs from a roasted side of beef. Each steak was the size of a shield, charred on the outside and red within.
+
+"Nothing builds strength like Zuraldarr beef," grunted the butcher, handing Torben a plate piled high with meat. "Eat up, boy. You'll need it for tomorrow's log rolling."
+
+Nearby, Elder Hilda chuckled. "In my day, we had to fell a tree before we earned our steak." But her eyes twinkled with mirth as she said it, her own plate piled high.
+
+## Witches of the Wood
+
+As night fell, the festivities grew quieter. Eyes darted to the edge of the firelight, where shadows seemed to move of their own accord. A hush fell over the gathering as a figure emerged from the darkness.
+
+Magda the Witch stood tall and lean, her gray hair wild and adorned with bones and feathers. Her eyes, sharp and knowing, swept over the crowd. Respect and fear rippled through the assembly in equal measure.
+
+Xandra, the Leadership matriarch, stepped forward. "Welcome, Magda. Will you bless our feast?"
+
+[![Witches](https://i.imgur.com/9U9eZcc.jpeg)](https://i.imgur.com/9U9eZcc.jpeg)
+
+Magda's voice rasped like dry leaves. "I'll do more than that, child. The bones speak of change on the wind. Best we prepare."
+
+She raised her gnarled staff, and the flames of the central fire turned an eerie green. In their light, shadows danced on the surrounding trees, taking shapes that made even the bravest Zuraldarr shift uneasily.
+
+As quickly as it began, it was over. The fire returned to normal, and Magda melted back into the shadows. Conversations slowly resumed, but with a nervous energy.
+
+"Witches," muttered a young warrior to his companion. "Can't live with 'em, can't live without 'em."
+
+His friend nodded sagely. "Aye. They scare the piss out of me, but I'd rather have them with us than against us."
+
+## Guardians of the Green
+
+Dawn broke over [Zuraldi](https://www.drusniel.com/the-zuraldarr/), painting the forest in hues of gold and green. Deep in the woods, where the trees grew so thick they blotted out the sky, a group of druids gathered in a natural clearing.
+
+Unlike the elves, who seemed to float through forests without leaving a trace, these Zuraldarr druids moved with purpose and power. They didn't seek to blend with nature; they meant to channel its untamed strength.
+
+Xandor, his beard now more white than gray, led the circle. His voice rumbled like distant thunder as he spoke.
+
+"The elves whisper to trees and coax flowers to bloom. But we are Zuraldarr. We don't ask nature for favors. We wrestle with it, challenge it, and earn its respect."
+
+Around him, the other druids nodded. Their hands were calloused from work, their bodies strong from constant physical challenge. Yet each wore a mantle of leaves and carried a staff that hummed with natural energy.
+
+A young druid stepped forward, pressing her hand against the trunk of an ancient oak. The tree's bark rippled at her touch, and a low groan emanated from deep within its trunk.
+
+"Good," said Xandor. "The forest knows your strength. Now, let's see you split that boulder over there. Not with your hands, mind you. With the forest's power."
+
+The young druid grinned, a fierce light in her eyes. This was Zuraldarr druidry – as much a test of will as of wisdom.
+
+## The Matriarchs' Council
+
+Night fell, and in the Great Hall, six women gathered around a circular table. Each wore a sash denoting her role: Agriculture, Defense, Trade, Justice, Spirituality, and Leadership.
+
+Anja, now wearing the sash of Defense, spoke first. "The empire's asking for more troops to guard the eastern border."
+
+Marta, the Trade matriarch, frowned. "We're already stretched thin with the increased shipments to [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)."
+
+"Perhaps," said Xandra, the Leadership matriarch, "it's time to remind Lumeshire of the terms of our agreement."
+
+Hilda, representing Spirituality, nodded sagely. "The spirits of our ancestors whisper caution. We must maintain our strength, our independence."
+
+The women debated long into the night, their voices rising and falling like the tide. When dawn broke, they emerged with a unified decision, ready to guide their people through another season.
+
+As the meeting concluded, Xandra turned to Hilda. "What of Magda's warning?"
+
+Hilda's face grew solemn. "The witch's words carry weight. I suggest we consult both her and the druids before making our final decision."
+
+Xandra nodded. In [Zuraldi](https://www.drusniel.com/the-zuraldarr/), true wisdom lay in balancing the physical strength they prized with the mystical forces that permeated their land.
+
+## Strength in Unity
+
+As the sun rose, [Zuraldi](https://www.drusniel.com/the-zuraldarr/) came alive. Men and women moved with purpose, each task a testament to their collective strength.
+
+[![Zuraldarr3](https://i.imgur.com/k8At9VD.jpeg)](https://i.imgur.com/k8At9VD.jpeg)
+
+In the training grounds, young Zuraldarr grappled and sparred under the watchful eyes of seasoned warriors. Every child, regardless of gender, learned to defend their home.
+
+"Remember," called out the instructor, "our greatest weapon isn't our strength. It's our knowledge of the land."
+
+In the fields, farmers tended crops with the same intensity others brought to battle. Their harvest would feed [Zuraldi](https://www.drusniel.com/the-zuraldarr/) and their dwarven neighbors alike, cementing bonds of trade and friendship.
+
+[![Zuraldarr4](https://i.imgur.com/lJT0cZu.jpeg)](https://i.imgur.com/lJT0cZu.jpeg)
+
+In the forests, loggers worked with precision, selectively cutting trees under the guidance of druids. They took only what was needed, ensuring the woods would shelter and provide for generations to come.
+
+--------------------
+
+
+########## The Mysteries of the Wyrmreach Dominion ##########
+
+--- 
+
+## Lore | The Mysteries of the Wyrmreach Dominion
+
+--- 
+
+[![WyrmreachMap](https://i.imgur.com/2IszP7p.png)](https://i.imgur.com/2IszP7p.png)
+
+The compass stopped making sense on the third day.
+
+Vorogarth checked it again, tilting the brass case toward what he believed was north. The needle swung lazily, then pointed behind him. Then it pointed down.
+
+He closed the case and put it away. Some tools stopped working here. You learned to stop trusting them.
+
+"Keep moving," he said. His voice sounded wrong—flattened, as if the air itself refused to carry it properly.
+
+Behind him, the survey team stumbled forward. Three scholars, two guards, and the cartographer Helvine, who had stopped speaking two days ago. She walked with her hands pressed against her temples, her eyes fixed on something none of them could see.
+
+The ground beneath their boots was gray. Not rock. Not sand. Something in between, with a texture like dried skin. It crunched faintly with each step, and Vorogarth tried not to think about what might be underneath.
+
+[![WyrmreachIntro](https://i.imgur.com/OeEFvJy.png)](https://i.imgur.com/OeEFvJy.png)
+
+"How much farther?" one of the scholars asked. Aldric. Young. Still believed maps meant something.
+
+Vorogarth didn't answer. The landmark they were seeking—a spire of black glass mentioned in the Seventeenth Expedition's records—should have been visible by now. According to the measurements.
+
+According to the measurements, they should also have crossed a river yesterday. They hadn't seen water since entering.
+
+"The spire was three leagues northeast of the bone plain," Aldric said, consulting his notes. His hands shook as he read. "We've traveled six leagues. We should be past it."
+
+"Maybe the spire moved," one of the guards muttered.
+
+No one laughed.
+
+The sky above them was the color of a bruise—deep purple fading to yellow at the edges, though there was no sun. Light came from everywhere and nowhere, casting no shadows. Vorogarth had stopped looking up after the first day, when he'd seen something in the clouds that looked back.
+
+Helvine stopped walking.
+
+Vorogarth turned. "Helvine. We need to keep moving."
+
+She didn't respond. Her hands dropped from her temples. Her eyes were wide, staring at a patch of ground to her left.
+
+"There's a door," she whispered.
+
+Vorogarth looked. He saw gray earth, cracked and dry. "There's nothing there."
+
+"There's a door," she repeated. "It's been there the whole time. We've been walking past it for hours."
+
+The other scholar, Brennis—older, supposedly experienced—stepped closer to examine the spot. He crouched, brushed his hand across the ground, then froze.
+
+"She's right," he said. His voice cracked. "There's a seam. I can feel it."
+
+Vorogarth walked over. He knelt beside Brennis and pressed his palm against the gray surface.
+
+Cold.
+
+Not cold like winter. Cold like absence. Like the ground was pulling heat from his hand and offering nothing back.
+
+His fingers found the edge. A line, straight and deliberate, cut into the earth.
+
+*That was impossible.* They had walked this path twice already, circling back when the landmarks failed. There had been no door. No seam. Nothing.
+
+"Don't open it," one of the guards said. Tomas. The veteran. His hand rested on his sword hilt, though what good a sword would do here, Vorogarth couldn't imagine.
+
+"We have to document it," Aldric said, already scribbling in his journal. "This could be significant. A structure. Evidence of—"
+
+"Evidence of what?" Tomas interrupted. "Who builds doors in places like this?"
+
+Vorogarth didn't have an answer.
+
+He gripped the edge of the seam and pulled.
+
+The ground opened silently, folding back like skin peeled from fruit. Beneath it, stairs descended into darkness—smooth, even stairs, carved with a precision that seemed obscene in this place of wrongness.
+
+Cold air rose from below, carrying a smell Vorogarth couldn't name. Not decay. Not sulfur. Something older than both.
+
+"I'll go first," he said.
+
+"No." Brennis grabbed his arm. "We should mark the location and return to the Rift. Report this. Bring a proper team."
+
+"The Rift is eight days behind us," Vorogarth said. "Maybe. If we can find it again."
+
+He looked at the stairs. He didn't want to descend. Every part of him screamed against it.
+
+But that was the mission. Document. Record. Understand.
+
+He stepped onto the first stair.
+
+The darkness didn't behave like darkness should. It didn't retreat from him; it thickened. His lantern—standard issue, blessed oil, should have burned for hours—guttered and died within three steps.
+
+He kept descending anyway.
+
+Behind him, he heard the others following. Helvine's breathing. Aldric's prayers. The scrape of Tomas's sword leaving its sheath.
+
+Twenty stairs. Thirty. The temperature dropped until Vorogarth could see his breath—except he couldn't see anything at all. The dark was absolute.
+
+Then his foot found level ground.
+
+And around him, something began to glow.
+
+Not light. Not fire. Something that made light look crude by comparison.
+
+Shapes resolved in the glow—walls of smooth black stone, covered in writing he didn't recognize. Symbols that seemed to move when he looked at them directly, settling only when viewed from the corner of his eye.
+
+Helvine walked past him, drawn toward the far wall.
+
+"Don't touch anything," Vorogarth said.
+
+She wasn't listening.
+
+Her hand pressed against the symbols. For a moment, nothing happened.
+
+Then she screamed.
+
+The sound filled the chamber, bouncing from wall to wall, multiplying until it seemed like a dozen Helvines were screaming at once. She fell backward, clutching her hand.
+
+Vorogarth caught her. Her palm was unmarked—no burn, no wound, no visible damage.
+
+But her eyes were wrong.
+
+Her left eye was still brown. Her right eye was not.
+
+"I saw it," she whispered. "I saw what's underneath. Underneath all of it. The layers. The—" She choked on the words. "We have to go. We have to go now. It knows we're here."
+
+"What knows?" Aldric demanded. "What did you see?"
+
+Helvine looked at him with her mismatched eyes. "I don't know how to describe it. It was like looking at a— a diagram of the world, but wrong. The lines were in the wrong places. Everything was connected to everything else, and the connections were *screaming*."
+
+Tomas grabbed her arm. "We're leaving. Now."
+
+No one argued.
+
+They ran for the stairs. Vorogarth counted the steps on the way up—thirty-seven. He was certain he had counted fewer going down.
+
+When they emerged, the sky had changed color. The bruise-purple had darkened to something closer to black. The light came from a different direction now.
+
+The door in the ground was gone.
+
+[![WyrmreachIntro2](https://i.imgur.com/wDRiXl0.png)](https://i.imgur.com/wDRiXl0.png)
+
+"It was here," Brennis said, circling the spot. "Right here. I felt the seam."
+
+There was no seam. Only gray earth, unbroken.
+
+Vorogarth looked at Helvine. She was staring at the sky with her wrong eyes, her lips moving silently.
+
+"Can you still see it?" he asked quietly.
+
+She nodded, once.
+
+"Can you find the way back to the Rift?"
+
+A long pause. Then: "Maybe. The paths are different now. But I think—I think something wants us to leave. I can feel it pushing."
+
+"Pushing toward what?"
+
+Helvine pointed. The direction had no meaning—wasn't north, south, east, or west. But something in Vorogarth's gut told him she was right.
+
+"We walk that way," he said.
+
+The team followed.
+
+Three days later, they stumbled through the Rift, into a world where compasses worked and shadows fell properly. Vorogarth filed his report with the Tower of the Watching Eye, leaving nothing out.
+
+The High Archivist read it twice, then placed it in the sealed archives.
+
+"This will not be shared," she said. "The information could cause panic."
+
+"What about Helvine's eyes?" Vorogarth asked.
+
+The High Archivist looked at him with an expression he couldn't read. "Helvine never returned from the expedition."
+
+Vorogarth opened his mouth to object—Helvine was in the next room, waiting to be questioned—then stopped.
+
+Something in the Archivist's tone made him understand.
+
+Helvine had returned. But whoever walked out of Wyrmreach *wearing her face* was no longer considered part of the expedition.
+
+Whatever she had seen, whatever she now saw with that wrong eye—the Tower had decided it was better not to know.
+
+Vorogarth collected his payment and left. He never filed another expedition request.
+
+Some nights, in the taverns of Erbstadt, men ask him about Wyrmreach. What it's like. What lives there. What secrets wait to be discovered.
+
+He tells them the same thing every time.
+
+"I don't know what Wyrmreach is. I only know what it isn't."
+
+They always lean closer.
+
+"It isn't a place," he says. "Places make sense. Places have rules. Wyrmreach doesn't want to be understood. It just wants you to look. And once you look—"
+
+He never finishes the sentence.
+
+He doesn't have to.
+
+--------------------
+
+
+########## Border Sign ##########
+
+--- 
+
+## Prologue | Border Sign
+
+--- 
+
+The captain's quarters smelled of damp timber and stale wax. Maps covered Aldric's desk like scars, overlapping and peeling at the corners. He didn't look up when Varian entered, nor did he acknowledge the stiff salute.
+
+*"Tell me,"* Aldric said, his finger tracing a ridgeline on the parchment.
+
+*"More sign, sir."* Varian's voice came out lower than he intended. *"Fresh. Within a league."*
+
+That got him. Aldric's head came up, eyes flinty beneath grizzled brows. Elric stepped forward with the sketch—charcoal lines on crumpled parchment—and jabbed a finger northeast of their position.
+
+*"Here. Tracks in the loam. Snapped branches."*
+
+Aldric stared at the map. His jaw worked once, twice, like he was chewing something that wouldn't break down. Against the far wall, Tormund and Brynn exchanged a look that Varian pretended not to see.
+
+*"Double the watch."* Aldric's voice cut the silence. *"Every approach patrolled. Tormund, Brynn—pull in the men from the farthest fields."*
+
+The two guards moved for the door without a word. Aldric turned back to Varian and Elric, and something shifted in his face—a loosening, or maybe just exhaustion finally showing through.
+
+*"Walk the northern line. Follow the tracks, but don't range far."* He paused. *"First sign of trouble, you turn back. We're not hunting glory out here."*
+
+*"Yes sir."*
+
+Aldric held Varian's gaze a moment longer. Whatever flickered in those hard eyes was gone before Varian could name it.
+
+---
+
+They walked the old game trails in silence. Mist curled between weathered trunks, swallowing sound. The sun rose behind them—pale, grudging light that did nothing to warm the air.
+
+Varian watched the drifting shrouds, tension building with each step. Hal and Leofric followed close behind, boys with patchy stubble and white-knuckled grips on their spears. Too young for this. But the outpost took whoever the villages could spare.
+
+The stories whispered in Varian's head. Dark legends from late-night fires. Cunning beasts who walked like men. Blood-spattered stones.
+
+Children's tales.
+
+But out here, in this hushed world of mist and shadow, those tales felt like something else entirely.
+
+---
+
+Elric froze. His knuckles went white on his spear-haft.
+
+Varian eased forward, heart thumping beneath his leathers. Elric didn't speak—just pointed with a jerk of his chin toward the loam beneath the fern-line.
+
+The prints were there. Clawed, splayed, and deep. The mud at the edges was still slick, water seeping into the depressions.
+
+[![tracks](https://i.imgur.com/4mHL1Li.png)](https://i.imgur.com/4mHL1Li.png)
+
+Varian crouched and touched one. His fingertips came away damp.
+
+*"An hour,"* Elric whispered. *"Maybe less."*
+
+Behind them, Leofric's breathing had gone ragged. Varian didn't turn around. He kept his eyes on the tracks, on the way they disappeared into the mist like a path inviting him forward.
+
+*"Back,"* he said. *"Now."*
+
+---
+
+Dusk bled across the sky as they walked back. No one spoke. Varian's shirt clung to his back—sweat gone cold.
+
+The outpost hunched ahead, a dark shape against the trees. The guards on the palisade hailed them, voices harsh with something that might have been relief.
+
+[![return](https://i.imgur.com/orP97Dj.jpeg)](https://i.imgur.com/orP97Dj.jpeg)
+
+Aldric waited in the torchlit yard. Varian made the report, tongue heavy with exhaustion. The captain listened, gaze distant, seeing something beyond the words.
+
+*"Get some rest,"* Aldric said. *"I'll want you fresh come morning."*
+
+[![review](https://i.imgur.com/mkbZDwQ.jpeg)](https://i.imgur.com/mkbZDwQ.jpeg)
+
+They trudged toward the cookfires. The smell of stew—barley and salt pork—should have made Varian's stomach growl. It didn't.
+
+*"Scouts,"* Elric said, low enough that only Varian could hear. *"Testing our lines."*
+
+Varian nodded. He glanced back at the darkness beyond the palisade, at the place where torchlight gave way to black.
+
+Nothing moved out there.
+
+That was the part that bothered him most.
+
+--------------------
+
+
+########## No Tracks ##########
+
+--- 
+
+## Prologue | No Tracks
+
+--- 
+
+Mud pulled at Varian's boots as he climbed toward the outpost. Elric followed a step behind, breathing through his nose like the air itself offended him.
+
+The girl's eyes had lodged behind his own. Not fear in the abstract. Fear with a shape. Fear that stared past him at the treeline as if the trees were a doorway.
+
+*"Sleep?"* Elric asked.
+
+*"No."*
+
+*"Same."*
+
+After that, words felt like noise you made right before something found you.
+
+Alden waited by the captain's door. Both hands on his spear. Not leaning—bracing. His face had lost its color, and that did more to Varian than any alarm bell.
+
+*"Riders,"* Alden said. *"Frontier villages. They're with the captain."*
+
+---
+
+Varian knocked once and went in because waiting felt like a luxury.
+
+Aldric stood behind the desk, hands flat on the wood. Two men in mud-spattered cloaks faced him, shoulders rounded like they'd been carrying something heavy for miles.
+
+*"...three more cattle,"* one was saying. *"Throats opened."*
+
+Aldric looked up. His expression was the one he wore before storms hit the wall.
+
+*"Varian. Elric."* Two names, clean and clipped.
+
+*"They didn't take the meat,"* Elric said, because he was fast enough to see the wrong part.
+
+The rider nodded. *"Left them where they fell."*
+
+The silence landed on Varian's shoulders like a physical weight.
+
+*"Sir."* He forced himself to say it straight. *"Village incident last night. A girl. Clawing at air. No attacker."*
+
+He didn't say how her eyes had fixed on the forest like she'd seen something leaning between the trunks.
+
+*"No tracks,"* Aldric repeated, testing the sentence for weakness.
+
+*"None. But she stared at the trees like they were standing too close."*
+
+Aldric dismissed the riders with a nod that meant: go, before fear spreads. When the door shut, he didn't show the weight. That was the point of him.
+
+*"No one crosses into [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/)."*
+
+He said it like a boundary line on a map that existed because men died past it.
+
+*"We watch. We guard. We don't go hunting."*
+
+---
+
+The sun climbed higher—a cold eye behind scudding clouds. Varian paced the village edge until his legs ached. Every shadow looked like it was waiting.
+
+By dusk he found Elric in the armory, running a whetstone along his blade.
+
+*"Quiet?"*
+
+*"So far."* Elric didn't look up. *"Feels wrong. Like a storm you can smell but can't see."*
+
+*"And when they cross first?"*
+
+*"Then we'll be ready."*
+
+---
+
+First watch they took together. The forest lay utterly still. No wind. No birdsong. Nothing but the creak of their boots and the sound of their own breathing.
+
+*"The stories,"* Elric said. *"About goblin rituals. You believe any of it?"*
+
+*"Meant to scare children."*
+
+*"But you don't?"*
+
+For a long moment Varian didn't answer. *"I believe something lives in that forest that doesn't think the way we do. Maybe the goblins serve it. Maybe it uses them. Either way, only a fool goes looking."*
+
+Elric froze. *"There."* His torch jabbed toward the treeline.
+
+Varian squinted. Movement. A flicker, there and gone.
+
+[![forest](https://i.imgur.com/JuTilc0.png)](https://i.imgur.com/JuTilc0.png)
+
+His blade slid free. They stood frozen while the night pressed close.
+
+A branch cracked.
+
+Varian spun. A shape burst from the trees—
+
+A rabbit. A terrified rabbit that scampered between the posts and vanished.
+
+Elric sagged against the wall, laughing shakily. *"Found our goblin."*
+
+Varian didn't smile. When he sheathed his sword, his hands weren't steady.
+
+---
+
+Rest proved elusive. Varian tossed on his narrow bed while shadows crawled across the ceiling. The girl's face swam behind his eyes. The old trees, their branches reaching like fingers.
+
+When sleep dragged him under, it was full of looming shapes and the thick copper stench of blood.
+
+---
+
+Grey dawn. Grey sky.
+
+Elric waited in the yard, face drawn and haggard.
+
+*"Patrol's back. They found tracks."*
+
+Through the gate, toward the treeline. A knot of men stood in tense silence. They parted as Varian approached.
+
+In the damp earth: prints, long and splayed, unmistakably inhuman.
+
+Elric crouched, tracing one with his finger. *"Half a mile along the border."*
+
+Varian stared into the forest—into those dark spaces between the trunks where anything might be watching.
+
+The men dispersed. Varian stayed where he was.
+
+He thought of the farmers who worked their fields within sight of that treeline. Brave fools, or blind ones. He'd never been able to decide.
+
+The wind shifted. For a moment, he could have sworn he smelled something underneath the pine and loam. Something wrong.
+
+Then it was gone.
+
+--------------------
+
+
+########## The Scream ##########
+
+--- 
+
+## Prologue | The Scream
+
+--- 
+
+[![watchtower](https://i.imgur.com/ZgytCdQ.jpeg)](https://i.imgur.com/ZgytCdQ.jpeg)
+
+Wind knifed through the watchtower, setting the old timbers creaking. Varian leaned against a rough post and looked down at the village below—huts clustered beneath the forest's shadow, mist coiling through muddy streets.
+
+Behind him, Elric shifted his weight. The boards squeaked underfoot. Firelight caught the lines on his face—marks of too many sleepless nights.
+
+*"Quiet,"* Elric said.
+
+*"Always is."*
+
+*"Could be worse. Heard they're battling giant hordes in the [Frostgard](https://www.drusniel.com/ice-and-iron-the-warriors-of-the-empire-of-frostgard/) passes."*
+
+Varian snorted. *"Better than guarding turnip farmers from their own shadows."*
+
+*"Who says that's all we're guarding against?"*
+
+The question hung between them. Varian wanted to dismiss it—village gossip, nursery rhymes—but the words wouldn't come. The forest watched them with a patience that made his skin prickle.
+
+---
+
+*"My uncle served in the [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) campaigns."* Elric's voice dropped. *"He told me things. Things they don't want known."*
+
+*"Such as?"*
+
+A glance over the shoulder—quick, nervous, as if the night itself might be listening.
+
+*"The [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/)i revere old gods. They use captives for rituals. Blood magic."*
+
+*"Horseshit."* The denial came automatically. But doubt crept in anyway, cold and unwelcome.
+
+*"Then why did the Empire pull back? Why leave all this land empty?"*
+
+Varian poked at the coals. The stories from his childhood surfaced unbidden—blood-soaked offering stones, monsters that walked like men.
+
+Foolishness.
+
+*"This backwater's rotted your brain,"* he growled. *"Nothing out there but—"*
+
+---
+
+A scream split the darkness.
+
+High. Terrible. The kind that reaches into your chest and squeezes.
+
+Both men froze.
+
+*"The square!"*
+
+They moved. Muscle memory took over where courage failed. Boots hammered down rickety steps. Armor clanked too loud in the silent village.
+
+The village lay shuttered and still. Only wisps of chimney smoke proved anyone was alive in there at all.
+
+*"There!"*
+
+A small figure stumbled from between two huts. A girl, twelve at most, dress torn and filthy. She lurched into the open with her arms flailing, fighting at shadows only she could see.
+
+Varian reached her first. He dropped to a crouch, close enough to catch the smell of fear rolling off her—acrid, animal.
+
+*"Are you hurt?"*
+
+Her face lifted. A mask of terror. Tear-tracks cutting through the grime. Her mouth worked but nothing came out. Then her fingers found his arm and dug in, nails biting through fabric, and she was shaking so hard he could feel it in his bones.
+
+*"You're safe."* The words rang false. *"Let's get you home."*
+
+She wouldn't move. Her eyes stayed fixed on the alley mouth, on the shadows pooling between those leaning walls.
+
+Slowly, Varian turned to look.
+
+Nothing.
+
+Just darkness. Just an empty alley.
+
+But the girl made a sound—small, wounded, more animal than human—and it cut through him worse than any shout.
+
+His grip went white-knuckled on the spear. The night pressed close, thick with something he couldn't name.
+
+Later, he would tell himself she'd seen nothing. A trick of shadow. A fever dream.
+
+But her eyes never left that alley. And when he finally turned away, leading her toward the lights of the village, the back of his neck prickled like something was watching him go.
+
+--------------------
+
+
+########## Tavern Talk ##########
+
+--- 
+
+## Prologue | Tavern Talk
+
+--- 
+
+The Rusty Axe squatted at the village's edge, its wooden walls weathered by seasons beyond counting. Varian ducked under the low doorway, Elric at his heels. Five other guards already hunched around a table near the hearth.
+
+*"No goblins yet."* Varian shrugged off his cloak. *"Maybe we'll get a quiet night."*
+
+*"Quiet."* Elric snorted. *"And I'm the emperor of [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/)."*
+
+The tavern air hung thick with sweat and sour beer. At the far end of the room, an old minstrel coaxed a mournful tune from a battered lute. Varian took a pull of ale and grimaced at its bitter bite.
+
+Across the table, Tormund leaned forward.
+
+*"You lads hear about the goblins in the east? Near [Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/)?"*
+
+*"What about them?"*
+
+*"Word is they made some kind of deal. With the orcs."*
+
+*"Goblins can barely find their own arses with both hands."* Brynn, a hulking redhead, snorted into his mug. *"You expect me to believe they're suddenly making deals?"*
+
+*"People been disappearing from villages up there."* Tormund spread his hands. *"Something's riled them up."*
+
+---
+
+*"There's more."*
+
+Elara's voice was soft but carrying. The only woman in their group, she'd proven herself twice over—with blade and bow. She had a strange skill for finding gossip that turned out to be something else.
+
+*"They say the goblins have shamans now. Witches who can call up storms and ruin crops with a word."* She glanced around the table. *"They say they kill captives for their gods. Paint their offering slabs with blood."*
+
+Silence fell heavy as a shroud.
+
+Brynn broke it with a forced laugh. *"Stories. That's all."*
+
+*"Stories got to come from somewhere,"* Tormund muttered.
+
+*"But what about the captain's orders?"* Elric spoke up. *"Double watches. No one past the village edges. He's not doing that over stories."*
+
+Brynn said nothing. The doubt on his face said enough.
+
+---
+
+Varian stared into his mug, watching firelight play on the dark surface.
+
+Old superstitions. No sensible man believed such tales.
+
+Yet.
+
+He thought of the tracks they'd found, fresh in the loam. The claw marks on tree trunks—too high for any natural beast. The eerie silence in the forest, as if the very birds and insects held their breath.
+
+He thought of the girl. Her eyes, fixed on that alley mouth. The way she'd shaken like something had reached inside her and squeezed.
+
+*"Another round,"* he called to the barkeep.
+
+The ale was bitter. But not as bitter as what lingered on his tongue.
+
+The conversation drifted to safer topics. Harvests. Sweethearts left behind. Dreams of glory.
+
+But beneath it all, the current ran dark.
+
+Outside, night pressed close. And in the depths of [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/) forest, the trees stood silent, holding their secrets like teeth holding a tongue.
+
+--------------------

@@ -20,7 +20,7 @@ TRANS = {
         'FooterMain': '**[End of Chapter {c_num}.{p_num} — continues in Chapter {n_num}.{np_num}: {next_title}]**'
     },
     'es': {
-        'Lore': 'Lore', 'Main': 'Capítulo', 'Prequel': 'Precuela', 'Prologue': 'Prólogo',
+        'Lore': 'Lore', 'Main': 'Capítulo', 'Prequel': 'Prólogo', 'Prologue': 'Prólogo',
         'Part': 'Parte',
         'Footer': '**[Fin de {current} — continúa en {next_seq}: {next_title}]**',
         'FooterMain': '**[Fin del Capítulo {c_num}.{p_num} — continúa en el Capítulo {n_num}.{np_num}: {next_title}]**'
@@ -40,41 +40,24 @@ def load_csv(filepath):
     return posts
 
 def build_main_mapping(posts):
-    # Filter Main
-    main_posts = [p for p in posts if '-M-' in p.get('canon_sequence', '')]
-    if not main_posts:
-        return {}
+    mapping = {}
+    for p in posts:
+        seq = p.get('canon_sequence')
+        chap = p.get('chapter')
+        sub = p.get('subchapter')
         
-    arcs = []
-    current_arc = None
-    
-    for p in main_posts:
-        title = p['title']
-        if ':' in title:
-            prefix = title.split(':')[0].strip()
-            suffix = title.split(':', 1)[1].strip()
-        else:
-            prefix = title.strip()
-            suffix = title.strip() # Subtitle is same as title if no colon?
-            
-        if current_arc is None or current_arc['name'] != prefix:
-            if current_arc:
-                arcs.append(current_arc)
-            current_arc = {'name': prefix, 'posts': []}
-        
-        current_arc['posts'].append({'data': p, 'subtitle': suffix})
-        
-    if current_arc:
-        arcs.append(current_arc)
-        
-    mapping = {} # seq -> {chap, part, subtitle}
-    for i, arc in enumerate(arcs, 1):
-        for j, item in enumerate(arc['posts'], 1):
-            p = item['data']
-            mapping[p['canon_sequence']] = {
-                'chap': i,
-                'part': j,
-                'subtitle': item['subtitle']
+        if seq and chap and sub and str(chap).isdigit() and str(sub).isdigit():
+            # Get subtitle from title if possible, or use full title
+            title = p.get('title', '')
+            if ':' in title:
+                subtitle = title.split(':', 1)[1].strip()
+            else:
+                subtitle = title
+                
+            mapping[seq] = {
+                'chap': int(chap),
+                'part': int(sub),
+                'subtitle': subtitle
             }
     return mapping
 

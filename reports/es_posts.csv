@@ -1,62 +1,62 @@
-path,order,publication_order,title,type,canon_phase,canon_sequence,language
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\astalor\la-magia-en-astalor\index.mdx,10001,10001,La magia en Astalor,Lore,lore,L-001,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\astalor\la-creacion-de-astalor\index.mdx,10002,10002,La Nada y el Segundo Sol,Lore,lore,L-002,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\astalor\descubriendo-las-regiones-de-astalor\index.mdx,10003,10003,Descubriendo las Regiones de Astalor,Lore,lore,L-003,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\contian\echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica\index.mdx,10004,10004,La Búsqueda de la Supremacía Mágica por la Teocracia Contiana,Lore,lore,L-004,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire\index.mdx,10005,10005,La Defensa Resiliente del Imperio Divino de Lumeshire,Lore,lore,L-005,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos\index.mdx,10006,10006,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,Lore,lore,L-006,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\the-zuraldarr\index.mdx,10007,10007,Los Zuraldarr,Lore,lore,L-007,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\wyrmreach\profundidades-oscuras-el-dominio-wymreach\index.mdx,10008,10008,Los Misterios del Dominio Wymreach,Lore,lore,L-008,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\elenoria\bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza\index.mdx,10600,10600,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,Prequel,prequel,P-001,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\frostgard\hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard\index.mdx,10601,10601,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,Prequel,prequel,P-002,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\grukmar\choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar\index.mdx,10602,10602,El Poder Indómito de las Tribus Grukmar,Prequel,prequel,P-003,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad\index.mdx,10603,10603,El Pacto del Dominio Umbra'kor con la Oscuridad,Prequel,prequel,P-004,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\la-llamada-a-zuraldi\index.mdx,10604,10604,La llamada a Zuraldi,Prequel,prequel,P-005,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\un-viaje-complicado\index.mdx,10605,10605,Un viaje complicado,Prequel,prequel,P-006,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\grukmar\gritos-en-la-niebla\index.mdx,10606,10606,Gritos en la niebla,Prequel,prequel,P-007,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\grukmar\la-marcha-de-la-desesperacion\index.mdx,10607,10607,La marcha de la Desesperación,Prequel,prequel,P-008,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\amenazas-goblin-en-el-borde-de-grukmar\index.mdx,10700,10700,Amenazas goblin en el borde con Grukmar,Prologue,prologue,LUM-R-001,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar\index.mdx,10703,10703,La búsqueda de goblins se extiende más allá del borde de Grukmar,Prologue,prologue,LUM-R-002,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\la-mirada-de-un-guardia-a-grukmar\index.mdx,10706,10706,La mirada de un guardia a Grukmar,Prologue,prologue,LUM-R-003,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\lumeshire\susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar\index.mdx,10709,10709,Las leyendas de Grukmar se cruzan en el camino de una patrulla de novatos,Prologue,prologue,LUM-R-004,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-camara-sagrada\index.mdx,11000,11000,La Cámara Sagrada,Main,main,UMB-M-001,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\espadas-sombras\index.mdx,11003,11003,Espadas y Sombras,Main,main,UMB-M-002,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-prueba-fallida-la-prueba-de-venemora\index.mdx,11006,11006,La Prueba Fallida: La Prueba de Venemora,Main,main,UMB-M-003,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\secretos-y-sombras\index.mdx,11009,11009,Secretos y Sombras,Main,main,UMB-M-004,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-prueba-fallida-la-separacion\index.mdx,11012,11012,La Prueba Fallida: La Separación,Main,main,UMB-M-005,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-prueba-fallida-sombras-en-el-salon\index.mdx,11015,11015,La Prueba Fallida: Sombras en el Salón,Main,main,UMB-M-006,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\voces-en-la-oscuridad-los-dias-vacios\index.mdx,11018,11018,Voces en la Oscuridad: Los Días Vacíos,Main,main,UMB-M-007,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\voces-en-la-oscuridad-la-voz-distante\index.mdx,11021,11021,Voces en la Oscuridad: La Voz Distante,Main,main,UMB-M-008,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\voces-en-la-oscuridad-la-semilla-de-la-duda\index.mdx,11024,11024,Voces en la Oscuridad: La Semilla de la Duda,Main,main,UMB-M-009,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\voces-en-la-oscuridad-la-decision\index.mdx,11027,11027,Voces en la Oscuridad: La Decisión,Main,main,UMB-M-010,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-mago-de-superficie-la-torre\index.mdx,11030,11030,El Mago de Superficie: La Torre,Main,main,UMB-M-011,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-mago-de-superficie-la-evaluacion\index.mdx,11033,11033,El Mago de Superficie: La Evaluación,Main,main,UMB-M-012,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-mago-de-superficie-la-primera-leccion\index.mdx,11036,11036,El Mago de Superficie: La Primera Lección,Main,main,UMB-M-013,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-mago-de-superficie-la-mencion-de-wyrmreach\index.mdx,11039,11039,El Mago de Superficie: La Mención de Wyrmreach,Main,main,UMB-M-014,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-mago-de-superficie-el-regreso\index.mdx,11042,11042,El Mago de Superficie: El Regreso,Main,main,UMB-M-015,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\conocimiento-prohibido-los-textos-antiguos\index.mdx,11045,11045,Conocimiento Prohibido: Los Textos Antiguos,Main,main,UMB-M-016,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\conocimiento-prohibido-el-poder-creciente\index.mdx,11048,11048,Conocimiento Prohibido: El Poder Creciente,Main,main,UMB-M-017,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\conocimiento-prohibido-las-senales-de-advertencia\index.mdx,11051,11051,Conocimiento Prohibido: Las Señales de Advertencia,Main,main,UMB-M-018,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\conocimiento-prohibido-la-tierra-distante\index.mdx,11054,11054,Conocimiento Prohibido: La Tierra Distante,Main,main,UMB-M-019,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\conocimiento-prohibido-la-duda\index.mdx,11057,11057,Conocimiento Prohibido: La Duda,Main,main,UMB-M-020,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-rivalidad-de-la-casa-la-tormenta-que-se-avecina\index.mdx,11060,11060,La Rivalidad de la Casa: La Tormenta que se Avecina,Main,main,UMB-M-021,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-rivalidad-de-la-casa-la-grieta\index.mdx,11063,11063,La Rivalidad de la Casa: La Grieta,Main,main,UMB-M-022,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-rivalidad-de-la-casa-la-reunion-secreta\index.mdx,11066,11066,La Rivalidad de la Casa: La Reunión Secreta,Main,main,UMB-M-023,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-rivalidad-de-la-casa-la-noche-antes\index.mdx,11069,11069,La Rivalidad de la Casa: La Noche Antes,Main,main,UMB-M-024,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\la-rivalidad-de-la-casa-la-advertencia-cortada\index.mdx,11072,11072,La Rivalidad de la Casa: La Advertencia (Cortada),Main,main,UMB-M-025,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-el-caos\index.mdx,11075,11075,Sangre en la Oscuridad: El Caos,Main,main,UMB-M-026,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-la-matanza\index.mdx,11078,11078,Sangre en la Oscuridad: La Matanza,Main,main,UMB-M-027,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-el-escape\index.mdx,11081,11081,Sangre en la Oscuridad: El Escape,Main,main,UMB-M-028,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-la-evidencia\index.mdx,11084,11084,Sangre en la Oscuridad: La Evidencia,Main,main,UMB-M-029,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-la-huida-de-shyntara\index.mdx,11087,11087,Sangre en la Oscuridad: La Huida de Shyntara,Main,main,UMB-M-030,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\sangre-en-la-oscuridad-la-victoria-hueca\index.mdx,11090,11090,Sangre en la Oscuridad: La Victoria Hueca,Main,main,UMB-M-031,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-paquete-el-instrumento-roto\index.mdx,11093,11093,El Paquete: El Instrumento Roto,Main,main,UMB-M-032,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-paquete-la-mision\index.mdx,11096,11096,El Paquete: La Misión,Main,main,UMB-M-033,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-paquete-el-artefacto\index.mdx,11099,11099,El Paquete: El Artefacto,Main,main,UMB-M-034,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-paquete-la-travesia\index.mdx,11102,11102,El Paquete: La Travesía,Main,main,UMB-M-035,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\umbrakor\el-paquete-el-nuevo-mundo\index.mdx,11105,11105,El Paquete: El Nuevo Mundo,Main,main,UMB-M-036,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\el-camino-de-zuraldi-el-despertar\index.mdx,11110,11110,El Camino de Zuraldi: El Despertar,Main,main,W1-001,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\el-camino-de-zuraldi-la-ausencia\index.mdx,11113,11113,El Camino de Zuraldi: La Ausencia,Main,main,W1-002,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\el-camino-de-zuraldi-la-duda-del-sobrino\index.mdx,11116,11116,El Camino de Zuraldi: La Duda del Sobrino,Main,main,W1-003,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\el-camino-de-zuraldi-los-seguidores\index.mdx,11119,11119,El Camino de Zuraldi: Los Seguidores,Main,main,W1-004,es
-c:\Development\workspace\GitHub\drusniel\site\content\posts\es\stonehold\el-camino-de-zuraldi-la-decision\index.mdx,11122,11122,El Camino de Zuraldi: La Decisión,Main,main,W1-005,es
+order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,subchapter,storyline
+10001,2024-01-02,La magia en Astalor,astalor,Lore,lore,L-001,false,la-magia-en-astalor,null,null,lore
+10002,2024-01-03,La Nada y el Segundo Sol,astalor,Lore,lore,L-002,false,la-creacion-de-astalor,null,null,lore
+10003,2024-01-04,Descubriendo las Regiones de Astalor,astalor,Lore,lore,L-003,false,descubriendo-las-regiones-de-astalor,null,null,lore
+10004,2024-01-05,La Búsqueda de la Supremacía Mágica por la Teocracia Contiana,contian,Lore,lore,L-004,false,echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica,null,null,lore
+10005,2024-01-06,La Defensa Resiliente del Imperio Divino de Lumeshire,lumeshire,Lore,lore,L-005,true,escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire,null,null,lore
+10006,2024-01-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,L-006,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos,null,null,lore
+10007,2024-01-08,Los Zuraldarr,lumeshire,Lore,lore,L-007,true,the-zuraldarr,null,null,lore
+10008,2024-01-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
+10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,prequel
+10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prequel,prequel,P-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prequel
+10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,P-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,prequel
+10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prequel,prequel,P-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prequel
+10604,2025-08-27,La llamada a Zuraldi,stonehold,Prequel,prequel,P-005,true,la-llamada-a-zuraldi,null,null,prequel
+10605,2025-08-28,Un viaje complicado,stonehold,Prequel,prequel,P-006,false,un-viaje-complicado,null,null,prequel
+10606,2024-08-25,Gritos en la niebla,grukmar,Prequel,prequel,P-007,false,gritos-en-la-niebla,null,null,prequel
+10607,2024-08-26,La marcha de la Desesperación,grukmar,Prequel,prequel,P-008,false,la-marcha-de-la-desesperacion,null,null,prequel
+10700,2024-11-27,Señales en la Frontera,lumeshire,Lore,lore,LUM-R-001,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,lore
+10703,2024-11-30,Sin Rastros,lumeshire,Lore,lore,LUM-R-002,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,lore
+10706,2024-12-03,El Grito,lumeshire,Lore,lore,LUM-R-003,true,la-mirada-de-un-guardia-a-grukmar,null,null,lore
+10709,2024-12-06,Charla de Taberna,lumeshire,Lore,lore,LUM-R-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,lore
+11000,2025-01-01,La Cámara Sagrada,umbrakor,Main,main,D-001-001,true,la-camara-sagrada,1,1,drusniel
+11003,2025-01-02,Espadas y Sombras,umbrakor,Main,main,D-002-001,true,espadas-sombras,2,1,drusniel
+11006,2025-01-03,La Prueba Fallida: La Prueba de Venemora,umbrakor,Main,main,D-003-001,false,la-prueba-fallida-la-prueba-de-venemora,3,1,drusniel
+11009,2025-01-04,Secretos y Sombras,umbrakor,Main,main,D-004-001,false,secretos-y-sombras,4,1,drusniel
+11012,2025-01-05,La Prueba Fallida: La Separación,umbrakor,Main,main,D-005-001,false,la-prueba-fallida-la-separacion,5,1,drusniel
+11015,2025-01-06,La Prueba Fallida: Sombras en el Salón,umbrakor,Main,main,D-005-002,false,la-prueba-fallida-sombras-en-el-salon,5,2,drusniel
+11018,2025-01-07,Voces en la Oscuridad: Los Días Vacíos,umbrakor,Main,main,D-006-001,false,voces-en-la-oscuridad-los-dias-vacios,6,1,drusniel
+11021,2025-01-08,Voces en la Oscuridad: La Voz Distante,umbrakor,Main,main,D-006-002,false,voces-en-la-oscuridad-la-voz-distante,6,2,drusniel
+11024,2025-01-09,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,Main,main,D-006-003,false,voces-en-la-oscuridad-la-semilla-de-la-duda,6,3,drusniel
+11027,2025-01-10,Voces en la Oscuridad: La Decisión,umbrakor,Main,main,D-006-004,false,voces-en-la-oscuridad-la-decision,6,4,drusniel
+11030,2025-01-11,El Mago de Superficie: La Torre,umbrakor,Main,main,D-007-001,false,el-mago-de-superficie-la-torre,7,1,drusniel
+11033,2025-01-12,El Mago de Superficie: La Evaluación,umbrakor,Main,main,D-007-002,false,el-mago-de-superficie-la-evaluacion,7,2,drusniel
+11036,2025-01-13,El Mago de Superficie: La Primera Lección,umbrakor,Main,main,D-007-003,false,el-mago-de-superficie-la-primera-leccion,7,3,drusniel
+11039,2025-01-14,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,Main,main,D-007-004,false,el-mago-de-superficie-la-mencion-de-wyrmreach,7,4,drusniel
+11042,2025-01-15,El Mago de Superficie: El Regreso,umbrakor,Main,main,D-007-005,false,el-mago-de-superficie-el-regreso,7,5,drusniel
+11045,2025-01-16,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,Main,main,D-007-006,false,conocimiento-prohibido-los-textos-antiguos,7,6,drusniel
+11048,2025-01-17,Conocimiento Prohibido: El Poder Creciente,umbrakor,Main,main,D-007-007,false,conocimiento-prohibido-el-poder-creciente,7,7,drusniel
+11051,2025-01-18,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,Main,main,D-007-008,false,conocimiento-prohibido-las-senales-de-advertencia,7,8,drusniel
+11054,2025-01-19,Conocimiento Prohibido: La Tierra Distante,umbrakor,Main,main,D-007-009,false,conocimiento-prohibido-la-tierra-distante,7,9,drusniel
+11057,2025-01-20,Conocimiento Prohibido: La Duda,umbrakor,Main,main,D-007-010,false,conocimiento-prohibido-la-duda,7,10,drusniel
+11060,2025-01-21,La Rivalidad de la Casa: La Tormenta que se Avecina,umbrakor,Main,main,D-007-011,false,la-rivalidad-de-la-casa-la-tormenta-que-se-avecina,7,11,drusniel
+11063,2025-01-22,La Rivalidad de la Casa: La Grieta,umbrakor,Main,main,D-007-012,false,la-rivalidad-de-la-casa-la-grieta,7,12,drusniel
+11066,2025-01-23,La Rivalidad de la Casa: La Reunión Secreta,umbrakor,Main,main,D-007-013,false,la-rivalidad-de-la-casa-la-reunion-secreta,7,13,drusniel
+11069,2025-01-24,La Rivalidad de la Casa: La Noche Antes,umbrakor,Main,main,D-007-014,false,la-rivalidad-de-la-casa-la-noche-antes,7,14,drusniel
+11072,2025-01-25,La Rivalidad de la Casa: La Advertencia (Cortada),umbrakor,Main,main,D-007-015,false,la-rivalidad-de-la-casa-la-advertencia-cortada,7,15,drusniel
+11075,2025-01-26,Sangre en la Oscuridad: El Caos,umbrakor,Main,main,D-007-016,false,sangre-en-la-oscuridad-el-caos,7,16,drusniel
+11078,2025-01-27,Sangre en la Oscuridad: La Matanza,umbrakor,Main,main,D-007-017,false,sangre-en-la-oscuridad-la-matanza,7,17,drusniel
+11081,2025-01-28,Sangre en la Oscuridad: El Escape,umbrakor,Main,main,D-007-018,false,sangre-en-la-oscuridad-el-escape,7,18,drusniel
+11084,2025-01-29,Sangre en la Oscuridad: La Evidencia,umbrakor,Main,main,D-007-019,false,sangre-en-la-oscuridad-la-evidencia,7,19,drusniel
+11087,2025-01-30,Sangre en la Oscuridad: La Huida de Shyntara,umbrakor,Main,main,D-007-020,false,sangre-en-la-oscuridad-la-huida-de-shyntara,7,20,drusniel
+11090,2025-01-31,Sangre en la Oscuridad: La Victoria Hueca,umbrakor,Main,main,D-007-021,false,sangre-en-la-oscuridad-la-victoria-hueca,7,21,drusniel
+11093,2025-02-01,El Paquete: El Instrumento Roto,umbrakor,Main,main,D-007-022,false,el-paquete-el-instrumento-roto,7,22,drusniel
+11096,2025-02-02,El Paquete: La Misión,umbrakor,Main,main,D-007-023,false,el-paquete-la-mision,7,23,drusniel
+11099,2025-02-03,El Paquete: El Artefacto,umbrakor,Main,main,D-007-024,false,el-paquete-el-artefacto,7,24,drusniel
+11102,2025-02-04,El Paquete: La Travesía,umbrakor,Main,main,D-007-025,false,el-paquete-la-travesia,7,25,drusniel
+11105,2025-02-05,El Paquete: El Nuevo Mundo,umbrakor,Main,main,D-007-026,false,el-paquete-el-nuevo-mundo,7,26,drusniel
+11110,2025-02-06,El Camino de Zuraldi: El Despertar,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-el-despertar,8,1,west
+11113,2025-02-07,El Camino de Zuraldi: La Ausencia,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-ausencia,8,1,west
+11116,2025-02-08,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,1,west
+11119,2025-02-09,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-los-seguidores,8,1,west
+11122,2025-02-10,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-decision,8,1,west
