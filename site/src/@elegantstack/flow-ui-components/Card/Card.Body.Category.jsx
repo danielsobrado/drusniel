@@ -18,7 +18,7 @@ const styles = {
     }
 }
 
-const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence }) => {
+const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence, pov }) => {
     const { language } = useContext(LanguageContext)
 
     // Determine secondary tag label
@@ -56,7 +56,7 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
         }
     }
 
-    if (omitCategory && !tagLabel) return null
+    if (omitCategory && !tagLabel && !pov) return null
 
     return (
         <Box css={css(styles.container)} sx={{ variant: rv(variant, 'category') }}>
@@ -82,15 +82,29 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
                     variant='tag'
                     sx={{
                         ...styles.badge,
-                        bg: 'muted', // Light grey usually
+                        bg: 'muted',
                         color: 'text',
                         fontWeight: 'normal',
-                        // Optional: make it slightly distinct from category
                         border: '1px solid',
                         borderColor: 'muted'
                     }}
                 >
                     {tagLabel}
+                </Badge>
+            )}
+
+            {pov && (
+                <Badge
+                    variant='tag'
+                    sx={{
+                        ...styles.badge,
+                        bg: 'alpha',
+                        color: 'omegaDark',
+                        fontWeight: 'normal',
+                        fontStyle: 'italic'
+                    }}
+                >
+                    {pov}
                 </Badge>
             )}
         </Box>

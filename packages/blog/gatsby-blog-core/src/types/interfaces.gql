@@ -30,6 +30,7 @@ interface Article implements Node {
   subchapter: Int
   canon_phase: String
   canon_sequence: String
+  pov: String
 }
 
 ############################################

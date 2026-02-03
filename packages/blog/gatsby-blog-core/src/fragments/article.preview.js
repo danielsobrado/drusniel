@@ -16,6 +16,7 @@ export const query = graphql`
     subchapter
     canon_phase
     canon_sequence
+    pov
     category {
       ...ArticleCategory
     }
