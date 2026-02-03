@@ -49,7 +49,9 @@ Zaelar gives him **Admin Phase II: Erase (The Null)** as a "courier tool" for cr
 **All three are false.**
 
 ### Quirk
-Compulsively counts things when stressed—steps, heartbeats, enemies. Taps thumb against each finger in sequence when truly rattled. Unaware he does it.
+**Primary:** Under stress, visually tracks physical imperfections—especially veins, cracks, or fractures in stone walls—using them as a grounding mechanism to impose order and retain control. The habit degrades as his sense of control erodes.
+**Secondary:** Taps thumb against each finger in sequence when truly rattled. Unaware he does it.
+**See:** `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md` for full behavioral rules.
 
 ### Dialogue Style
 Controlled and precise when calm. Clipped and coldly sarcastic when angry. Goes quieter when truly furious. Uses formal drow speech patterns but drops them with people he trusts. Deflects personal topics with subject changes or dry observations.
