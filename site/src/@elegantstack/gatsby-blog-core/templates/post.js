@@ -1,5 +1,5 @@
 import { graphql } from 'gatsby'
-import PostPage from '../containers/Post'
+import PostPage from '@elegantstack/gatsby-theme-flexiblog-beauty/src/containers/Post'
 
 export default PostPage
 
