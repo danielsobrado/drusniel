@@ -18,7 +18,7 @@ const styles = {
     }
 }
 
-const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase }) => {
+const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence }) => {
     const { language } = useContext(LanguageContext)
 
     // Determine secondary tag label
@@ -34,13 +34,25 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
         // Normalize phase
         const phase = String(canon_phase).trim().toLowerCase()
 
+        // Attempt to parse sequence number if available
+        let seqNum = ''
+        if (canon_sequence) {
+            // Matches P-001, L-001, LUM-R-001 etc. -> 1
+            const match = String(canon_sequence).match(/-0*(\d+)$/)
+            if (match) {
+                seqNum = ` ${match[1]}`
+            }
+        }
+
         // Map to display label
         if (phase === 'lore') {
             tagLabel = 'Lore'
         } else if (phase === 'prequel') {
-            tagLabel = language === 'es' ? 'Prólogo' : 'Prequel'
+            const label = language === 'es' ? 'Prólogo' : 'Prequel'
+            tagLabel = `${label}${seqNum}`
         } else if (phase === 'prologue') {
-            tagLabel = language === 'es' ? 'Prólogo' : 'Prologue'
+            const label = language === 'es' ? 'Prólogo' : 'Prologue'
+            tagLabel = `${label}${seqNum}`
         }
     }
 
