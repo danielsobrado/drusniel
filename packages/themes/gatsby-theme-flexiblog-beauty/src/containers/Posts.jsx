@@ -93,7 +93,6 @@ const Posts = ({ data, ...props }) => {
               limit={3}
               variant="horizontal-aside"
               imageVariant="hero"
-              omitCategory
               asNavFor={sliderRef}
               loading="eager"
             />
@@ -129,7 +128,6 @@ const Posts = ({ data, ...props }) => {
             skip={3}
             columns={[1, 2, 2, 4]}
             variant={['vertical-cover']}
-            omitCategory
             title={OurLatestAdventures}
             aside
           />

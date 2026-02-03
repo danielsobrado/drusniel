@@ -88,7 +88,6 @@ const Post = ({
                                 variant='horizontal-aside'
                                 limit={6}
                                 omitMedia
-                                omitCategory
                                 distinct
                                 aside
                             />
