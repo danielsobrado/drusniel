@@ -177,101 +177,6 @@ Thorvald poured himself another drink and tried not to count the empty seats.
 --------------------
 
 
-########## The Unruly Might of the Grukmar Tribes ##########
-
---- 
-
-## Prequel | The Unruly Might of the Grukmar Tribes
-
---- 
-
-[![Grukmar Map](https://i.imgur.com/rw6EL1Y.png)](https://i.imgur.com/rw6EL1Y.png)
-
-The goblin messenger was missing three fingers and most of one ear.
-
-Captain Morrigan studied him through the bars of the border post's holding cell. The creature had been found a mile inside Lumeshirean territory, carrying nothing but a leather pouch filled with teeth—not goblin teeth, she noted—and what appeared to be a poorly drawn map.
-
-"He claims he's a defector," Sergeant Hollis said. "Says he wants to trade information for sanctuary."
-
-"Goblins don't defect."
-
-"That's what I told him."
-
-The goblin pressed his face against the bars, grinning with what remained of his teeth. "Zikvik knows things," he said in broken Common. "Things the pinkskins want to know. Things about the deep tribes. About what moves in the bogs."
-
-Morrigan didn't step closer. Grukmar creatures were unpredictable at the best of times, and this one had the manic energy of something that had survived by being more dangerous than it looked.
-
-"What moves in the bogs?"
-
-"Ah." The goblin's grin widened. "That costs. That costs much."
-
----
-
-[![Grukmar Intro2](https://i.imgur.com/tORSDal.png)](https://i.imgur.com/tORSDal.png)
-
-> *"The goblin tribes of Grukmar are a fractious lot, their loyalties ever-shifting and their alliances as fleeting as the morning mist."*
-
-The intelligence reports said that much, at least. What they didn't explain was why the border raids had changed pattern. For decades, Grukmar incursions had been predictable: scattered goblin bands, the occasional orc warband, resource grabs during the dry season.
-
-This year was different.
-
-The raids had stopped almost entirely. Not because the tribes had made peace—the scouts still reported constant internal warfare, smoke rising from burning camps, the usual chaos. But the raids directed *outward*, toward Lumeshire's borders, had fallen to nearly zero.
-
-Command called it a victory. Morrigan called it worrying.
-
-Things didn't get quiet in Grukmar. They got quiet before something worse.
-
-"The deep tribes," she said to the goblin. "Which ones?"
-
-Zikvik's grin faded slightly. Something like fear flickered in his yellow eyes—genuine fear, not the theatrical kind goblins used for manipulation.
-
-"Not say names. Names bring attention." He lowered his voice. "Something wakes in the swamps. Something old. The warchiefs argue about it. Some say worship. Some say run. The smart ones—" He tapped the side of his skull. "The smart ones already gone."
-
-"Gone where?"
-
-"Here. There. Anywhere not *there*."
-
----
-
-Morrigan filed her report that evening. *Captured goblin claims awareness of unusual activity in Grukmar interior. Details vague. Recommend increased reconnaissance.*
-
-The response came three days later: *Reconnaissance assets currently allocated to northern theater. Maintain standard patrol schedule. Treat captured subject per protocol seven.*
-
-Protocol seven meant release at the border with a warning. Morrigan watched the goblin scramble back into the treeline, moving faster than she'd expected for something with so many missing parts.
-
-He didn't look back. Creatures that survived in Grukmar learned not to look back.
-
----
-
-[![Grukmar Intro](https://i.imgur.com/xTqK5KY.png)](https://i.imgur.com/xTqK5KY.png)
-
-> *"Beware, ye who would seek your fortune in the land of Grukmar, for the price of power is steep and the road to ruin is paved with the bones of the innocent and the damned."*
-
-The words were carved above the border post's main gate—a warning from an earlier era, when the Empire still sent expeditions into Grukmar's depths. Those expeditions had stopped a century ago. The reports were classified. The survivors didn't talk about what they'd seen.
-
-Morrigan had served on this border for six years. She'd fought goblins, tracked orc warbands, catalogued the creatures that emerged from the bogs during storm season. She thought she understood Grukmar.
-
-But lately, the patrols reported things that didn't fit the usual patterns. Orc encampments abandoned mid-meal. Goblin warrens empty except for the very old and the very young. Tracks leading deeper into the swamps—massive tracks, from things she couldn't identify.
-
-Something was moving in there. Something big enough or frightening enough to make the tribes flee toward the borders they'd raided for generations.
-
-She wrote another report. This one went further up the chain: *Recommend formal assessment of Grukmar interior activity. Unusual migration patterns suggest possible regional destabilization.*
-
-The response was the same as before. Resources allocated elsewhere. Maintain standard patrol schedule.
-
-The quiet continued.
-
-Morrigan increased the patrols anyway, on her own authority. If something was coming out of Grukmar, she wanted to see it before it reached the walls.
-
-So far, nothing had emerged. But the scouts kept finding those tracks—always heading away from the interior, always fresh, always too large to explain.
-
-Whatever was waking in the swamps, it hadn't finished waking yet.
-
-She hoped the Empire would be ready when it did. She doubted they would be.
-
---------------------
-
-
 ########## The Umbra'kor Dominion's Pact with Darkness ##########
 
 --- 
@@ -683,7 +588,7 @@ As they prepared for bed, Dulint's earlier words came back to him with new meani
 
 --- 
 
-## Prequel | The Screams in the Mist
+## The Screams in the Mist
 
 --- 
 
@@ -770,7 +675,7 @@ The last thing he saw was the silhouette of an orcish woman against the stars. H
 
 --- 
 
-## Prequel | March of Despair
+## March of Despair
 
 --- 
 

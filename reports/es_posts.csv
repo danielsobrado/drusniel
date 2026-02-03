@@ -9,16 +9,16 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10008,2024-01-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
 10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,prequel
 10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prequel,prequel,P-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prequel
-10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,P-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,prequel
+10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
 10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prequel,prequel,P-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prequel
 10604,2025-08-27,La llamada a Zuraldi,stonehold,Prequel,prequel,P-005,true,la-llamada-a-zuraldi,null,null,prequel
 10605,2025-08-28,Un viaje complicado,stonehold,Prequel,prequel,P-006,false,un-viaje-complicado,null,null,prequel
 10606,2024-08-25,Gritos en la niebla,grukmar,Prequel,prequel,P-007,false,gritos-en-la-niebla,null,null,prequel
 10607,2024-08-26,La marcha de la Desesperación,grukmar,Prequel,prequel,P-008,false,la-marcha-de-la-desesperacion,null,null,prequel
-10700,2024-11-27,Señales en la Frontera,lumeshire,Lore,lore,LUM-R-001,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,lore
-10703,2024-11-30,Sin Rastros,lumeshire,Lore,lore,LUM-R-002,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,lore
-10706,2024-12-03,El Grito,lumeshire,Lore,lore,LUM-R-003,true,la-mirada-de-un-guardia-a-grukmar,null,null,lore
-10709,2024-12-06,Charla de Taberna,lumeshire,Lore,lore,LUM-R-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,lore
+10700,2024-11-27,Señales en la Frontera,lumeshire,Prologue,prologue,LUM-R-001,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
+10703,2024-11-30,Sin Rastros,lumeshire,Prologue,prologue,LUM-R-002,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
+10706,2024-12-03,El Grito,lumeshire,Prologue,prologue,LUM-R-003,true,la-mirada-de-un-guardia-a-grukmar,null,null,prologue
+10709,2024-12-06,Charla de Taberna,lumeshire,Prologue,prologue,LUM-R-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
 11000,2025-01-01,La Cámara Sagrada,umbrakor,Main,main,D-001-001,true,la-camara-sagrada,1,1,drusniel
 11003,2025-01-02,Espadas y Sombras,umbrakor,Main,main,D-002-001,true,espadas-sombras,2,1,drusniel
 11006,2025-01-03,La Prueba Fallida: La Prueba de Venemora,umbrakor,Main,main,D-003-001,false,la-prueba-fallida-la-prueba-de-venemora,3,1,drusniel
