@@ -3,9 +3,772 @@ DRUSNIEL - PROLOGUE (EN)
 
 
 
-########## Border Sign ##########
+########## Eternal Woods: The Kingdom of Elenoria's Dance with Nature ##########
+
+## Prequel | Eternal Woods: The Kingdom of Elenoria's Dance with Nature
 
 --- 
+
+[![Elenoria Map](https://i.imgur.com/meyY8Dx.png)](https://i.imgur.com/meyY8Dx.png)
+
+The archive keeper's hands trembled as she turned the page.
+
+Faelyn had been searching the Aelindril libraries for three months. The texts she sought were old—older than the current dynasty, older than the wars with Lumeshire, older perhaps than the city itself. If they still existed at all.
+
+"You're looking in the wrong section."
+
+She didn't turn. The voice belonged to Thandril, the senior archivist, whose footsteps she'd learned to recognize by their particular silence.
+
+"The histories of the First Age are catalogued here," she said.
+
+"The *approved* histories are catalogued there." Thandril appeared beside her, his fingers tracing the spine of a leather-bound tome. "What you're looking for—assuming it exists—would be in the restricted collection. Behind the third seal."
+
+"I don't have access to the third seal."
+
+"No. You don't."
+
+[![Elenoria Intro2](https://i.imgur.com/CQjmtAe.png)](https://i.imgur.com/CQjmtAe.png)
+
+The silence between them stretched. Outside, sunlight filtered through living branches that formed the library's walls. Everything in Aelindril grew. The buildings, the bridges, the archives themselves. The elves claimed it was harmony. Faelyn had begun to suspect it was something else.
+
+"Why do you want to know about the border wards?" Thandril asked finally. "The official position is clear. They've held for two thousand years. They will hold for two thousand more."
+
+"The rangers reported anomalies last season."
+
+"Rangers always report anomalies. It's in their nature to see threats."
+
+"Three patrols went into the eastern groves. Two returned." Faelyn closed the useless book in front of her. "The third was found a week later. Their equipment was intact. Their journals were intact. Their bodies were present and unharmed. But they were—"
+
+"Empty. Yes. I read the report." Thandril's expression didn't change. "The Council attributed it to grove sickness. A known condition affecting those who wander too deep."
+
+"There's no mention of grove sickness in any text I can access."
+
+"The condition is rare. The references are... carefully preserved."
+
+Carefully hidden, she thought. But she didn't say it.
+
+---
+
+[![Elenoria Intro3](https://i.imgur.com/6g09o8u.png)](https://i.imgur.com/6g09o8u.png)
+
+> *"It is said that in the dawn of the world, the elves were already there, their eyes shining with the light of the divine and their hearts filled with the song of the universe."*
+
+The words came from the oldest hymn, sung at every festival, taught to every child. Faelyn had believed them once. She still wanted to believe them.
+
+But the archives told a different story—or rather, they told no story at all. Gaps in the records. Missing centuries. Cross-references that led to empty shelves. The history of Elenoria was old, yes. But it was also incomplete. Curated. Shaped.
+
+She returned to her assigned work: transcribing trade agreements with the southern realms. Safe texts. Approved texts. The kind that wouldn't raise questions.
+
+But at night, when the library was empty and the living walls breathed in their slow, patient rhythm, she sometimes heard whispers from the restricted sections. Sounds that might have been the wood settling. Might have been something else.
+
+The senior archivists never worked after dark.
+
+Faelyn was beginning to understand why.
+
+---
+
+[![Elenoria Intro](https://i.imgur.com/h27L1BZ.png)](https://i.imgur.com/h27L1BZ.png)
+
+Three weeks later, another patrol reported movement in the eastern groves. Not an attack—nothing so clear. Just... movement. Trees that seemed to have shifted position. Paths that no longer matched the maps.
+
+The Council convened. Faelyn wasn't invited, but she heard the outcome: the maps would be redrawn. The patrols would be reassigned to different routes. The matter was closed.
+
+She filed the updated cartography in the appropriate section and noticed, not for the first time, how many previous maps had been marked *superseded* over the centuries. Dozens of them. Hundreds. Each one showing borders that had contracted slightly, forests that had grown or shifted or simply changed.
+
+The official position remained unchanged: Elenoria endured. The ancient forests stood. The crystal streams flowed.
+
+But somewhere in the restricted archive, behind the third seal that Faelyn couldn't access, there were texts that told a different story. She was certain of it.
+
+She would probably never read them.
+
+Some knowledge, she was learning, was kept not because it was sacred, but because it was dangerous.
+
+The library walls breathed. The branches grew. And in the eastern groves, something continued to move in ways that didn't match the maps.
+
+--------------------
+
+
+########## Ice and Iron: The Warriors of the Empire of Frostgard ##########
+
+## Prequel | Ice and Iron: The Warriors of the Empire of Frostgard
+
+--- 
+
+[![Frostgard Map](https://i.imgur.com/ETqXJ23.png)](https://i.imgur.com/ETqXJ23.png)
+
+The messenger's lips had turned blue by the time he reached Jotunheim's gates.
+
+Warden Thorvald watched as two guardsmen carried the man inside, his furs stiff with ice, his beard a frozen mask. The message pouch still hung from his belt. Whatever news it carried had been important enough to ride through a three-day blizzard.
+
+"From the southern passes," one of the guardsmen said. "Found him a quarter mile out. Horse died under him."
+
+Thorvald took the pouch. The seal was Lumeshirean—the golden sun that never quite warmed anything this far north. He cracked it open and read by torchlight.
+
+*Regarding the matter of northern trade agreements and mutual defense considerations...*
+
+He stopped reading. The usual diplomatic language. The same phrases they'd sent last season, and the season before. Requests dressed as offers. Demands wearing the clothes of friendship.
+
+He folded the letter and handed it to his adjutant.
+
+"File it with the others."
+
+"The High King will want to see—"
+
+"The High King has seen a hundred letters like this one." Thorvald watched the healers carry the messenger toward the warming hall. "And a hundred messengers who nearly died bringing them."
+
+[![Frostgard Intro1](https://i.imgur.com/PyP3uLw.png)](https://i.imgur.com/PyP3uLw.png)
+
+In the great hall, the skalds were singing of the Jotun. The old songs—the ones that claimed the first Frostgardians were carved from glaciers, their hearts hard as the frozen north. Thorvald had heard the songs since childhood. He'd believed them once.
+
+Now he watched young warriors listen with shining eyes, and he wondered how many of them would survive their first real winter patrol.
+
+"The giants moved again," said Ingrid, his second. She appeared at his elbow with a rolled map. "Three sightings near the Broken Teeth. Tracks suggest at least two distinct groups."
+
+"Moving south?"
+
+"Moving. Direction unclear." She spread the map on a side table. "The scouts disagree. Halvard claims they're migrating. Sven insists they're massing."
+
+"And what do you think?"
+
+Ingrid was quiet for a moment. "I think giants don't explain their movements to us. We watch. We guess. Sometimes we guess right."
+
+Thorvald appreciated her honesty. Too many of the younger officers spoke with certainty about things they couldn't possibly know. The north had a way of punishing certainty.
+
+---
+
+A week later, another messenger arrived. This one from the eastern settlements. A village called Frosthollow had gone silent. The monthly supply caravan had found empty houses, cold hearths, no bodies.
+
+"Blizzard?" Thorvald asked.
+
+"No major storms in that region." The messenger was young, trying not to show fear. "The strangest thing—food was still on some tables. Frozen solid, but there. Like everyone just... left."
+
+"Or was taken."
+
+The messenger said nothing. Some things were easier not to name.
+
+Thorvald sent a patrol. Three weeks later, only two of the six returned. They spoke of tracks in the snow—massive, inhuman—and of sounds in the night that didn't match any creature they knew. One of them had stopped speaking entirely by the time they reached Jotunheim.
+
+The report was filed. Officially, Frosthollow was listed as *abandoned due to harsh conditions*. The actual findings were sealed in the Warden's archive, where they joined a growing collection of things the people weren't told.
+
+---
+
+[![Frostgard Intro2](https://i.imgur.com/yUPCnr5.png)](https://i.imgur.com/yUPCnr5.png)
+
+> *"The weak do not survive in Frostgard—only the strong, the cunning, and the tenacious."*
+
+Thorvald used to recite that phrase with pride. Now it felt less like wisdom and more like an excuse. The strong survived. But what about the settlements that went silent? Had they been weak, or simply unlucky?
+
+The songs never mentioned luck.
+
+That evening, another diplomatic pouch arrived from Lumeshire. This one carried a different seal—military, not trade. Thorvald read it twice, then burned it.
+
+Some offers were better left unanswered.
+
+Spring would come eventually. The passes would clear. And then they'd learn whether Lumeshire's patience had limits. Until then, Frostgard would do what it had always done: watch the snow, count the missing, and pretend the songs were true.
+
+The wind howled outside the great hall. Inside, the skalds kept singing of glory.
+
+Thorvald poured himself another drink and tried not to count the empty seats.
+
+--------------------
+
+
+########## The Umbra'kor Dominion's Pact with Darkness ##########
+
+## Prequel | The Umbra'kor Dominion's Pact with Darkness
+
+--- 
+
+[![Umbrakor Map](https://i.imgur.com/hZFWQh8.png)](https://i.imgur.com/hZFWQh8.png)
+
+The initiate's hand shook as she copied the passage.
+
+Sylaera had been transcribing temple records for six weeks. Most of the work was tedious: census figures, tribute tallies, the endless documentation of debts owed between houses. But this text was different. This text was old.
+
+*The transition from surface to depths occurred gradually. Some records suggest centuries passed between the first descent and the final abandonment of the upper world. Other sources claim the change was swift—a single generation, a single choice, a door that closed and never reopened.*
+
+She paused. The marginalia in the original manuscript contained annotations from at least three different hands, their ink faded to different shades of brown.
+
+*This contradicts the Temple account. —M.V.*
+
+*The Temple account is doctrine. Contradiction is heresy. —unsigned*
+
+*Then explain the surface artifacts in the Deepreach archives. —M.V.*
+
+The response to that final note had been scratched out. Deliberately, it seemed. The paper was torn where someone had pressed too hard.
+
+---
+
+[![Umbrakor Intro3](https://i.imgur.com/IcqGhpr.png)](https://i.imgur.com/IcqGhpr.png)
+
+> *"In darkness, we found power. In isolation, we found strength. In Venemora, we found purpose."*
+
+The proverb hung above the transcription chamber in letters of phosphorescent crystal. Sylaera had read it a thousand times. She'd believed it, once—before she started reading the source texts that the proverb supposedly summarized.
+
+The source texts didn't agree with each other. They barely agreed with themselves.
+
+Some described Venemora as a goddess encountered in the depths. Others spoke of her as something the drow brought with them from the surface—a faith that adapted to darkness rather than originating from it. A third tradition, preserved only in fragments, suggested Venemora was neither goddess nor faith but something more troubling: a presence that had been waiting in the caverns long before the first drow descended.
+
+The temple taught the first version. The others were filed in the restricted archives, available only to senior priestesses and their designated scribes.
+
+Sylaera was a designated scribe. She wasn't sure anymore whether that was a privilege or a punishment.
+
+---
+
+[![Umbrakor Intro1](https://i.imgur.com/cie6G7M.png)](https://i.imgur.com/cie6G7M.png)
+
+> *"In the game of houses, you rise or you fall. There is no middle ground."*
+
+The matriarch's words were accurate, at least. That much Sylaera had seen firsthand. Three houses had fallen in the last decade. Their members absorbed, scattered, or simply vanished. The records listed them as *dissolved by mutual consent*. The reality, she suspected, was messier.
+
+But the houses weren't her concern. The Rift was.
+
+The patrol reports had crossed her desk by accident—misfiled among temple correspondence, addressed to a priestess who'd died two months previously. Sylaera should have forwarded them to the appropriate authority. Instead, she read them.
+
+*Patrol Seven reports unusual emanations from the eastern boundary. Pattern does not match previous observations. Recommend increased monitoring.*
+
+*Patrol Seven lost contact on day forty-three. Recovery team found equipment intact. No bodies recovered. No signs of combat. Recommend investigation.*
+
+*Investigation postponed due to resource allocation. Patrol Seven listed as missing, presumed lost to environmental hazard.*
+
+Three reports. Three months apart. The pattern was familiar—she'd seen similar sequences in the older records. Patrols that encountered something unusual near the Rift. Follow-up teams that found nothing. Quiet reassignments of personnel. Questions that stopped being asked.
+
+---
+
+[![Umbrakor Intro2](https://i.imgur.com/UKv7rGV.png)](https://i.imgur.com/UKv7rGV.png)
+
+Sylaera completed her transcription and filed the original text back in the restricted archive. Her hands no longer shook. You grew accustomed to uncomfortable knowledge, she was learning. You filed it away in a part of your mind that didn't interfere with daily function.
+
+The Rift was stable. The temple assured everyone it was stable. The drow had guarded it for centuries. They would guard it for centuries more.
+
+But the patrol reports kept coming. And the restricted archive kept growing. And somewhere in the depths, beyond the last caverns where any drow traveled willingly, something continued to change in ways the official records refused to describe.
+
+> *"The Shadowblades move unseen, strike unheard, and leave no trace but the bodies of their enemies."*
+
+A comforting saying. Sylaera wondered, sometimes, whether the Shadowblades themselves believed it. Whether anyone who'd actually stood at the Rift's edge still believed in clean victories or traceless departures.
+
+She returned to her assigned work. Census figures. Tribute tallies. The endless documentation of debts.
+
+The temple bells rang the evening hour. In the transcription chamber, the phosphorescent letters continued to glow: *In darkness, we found power.*
+
+Sylaera copied the words one more time, and wondered what else they'd found.
+
+--------------------
+
+
+########## The Call to Zuraldi ##########
+
+## Prequel | The Call to Zuraldi
+
+--- 
+
+Dulint turned the strange artifact over in his hands, his thick fingers tracing its odd angles. *"Well, I'll be a goblin's uncle. Never seen anything like this in all my years."*
+
+[![Artifact](https://i.imgur.com/UYou3vy.jpeg)](https://i.imgur.com/UYou3vy.jpeg)
+
+Balin snorted, his eyes still fixed on the mysterious scroll. *"That's not saying much, considering you've passed most of those years staring at the same bit of rock."*
+
+[![Scroll](https://i.imgur.com/UhLPuZv.png)](https://i.imgur.com/UhLPuZv.png)
+
+*"Watch your tongue, youngster,"* Dulint growled, but there was no real heat in his words. *"I've forgotten more about mining than you'll ever know."*
+
+*"Aye, and about everything else too, I'd wager,"* Balin muttered under his breath.
+
+The two dwarves fell silent. Dulint's eyes glazed over, lost in thought. Balin could almost see the gears turning in the old dwarf's head.
+
+## Ancient Memories
+
+*"You know,"* Dulint said slowly, stroking his beard, *"this reminds me of the time I fought alongside the men of Lumeshire against the minotaur hordes. They had ancient writings, not unlike these-"*
+
+Balin groaned, cutting him off. *"By the Stone Father's beard, not another war story. We need to focus on what's in front of us."*
+
+Dulint huffed, offended. *"You young'uns have no respect for history. In my day-"*
+
+*"In your day, the rocks were softer and the gold grew on trees,"* Balin finished for him. *"I know, I know. But what do we do with this?"* He gestured at the artifacts.
+
+*"Well, now, hold on a minute,"* Dulint said, his eyes taking on a faraway look. *"Did I ever tell you about my great-grandfather, old Thrain Ironbeard? Now there was a dwarf who knew the value of a good secret."*
+
+Balin sighed, but Dulint pressed on, undeterred.
+
+*"Thrain, he got his hands on a map, you see. Stole it right under the nose of some sorcerer. That map led him to this very mine."* Dulint rapped his knuckles against the stone wall. *"Said the real treasure was deep down."*
+
+*"And let me guess,"* Balin interjected, *"he was never wrong?"*
+
+Dulint nodded vigorously. *"Right you are, lad! Got rich, he did. Had so many expensive rings in his beard, he clinked when he walked. Used to say the echoes of those rings would guide him to the richest veins."*
+
+[![Thrain Ironbeard](https://i.imgur.com/RlqFzFh.jpeg)](https://i.imgur.com/RlqFzFh.jpeg)
+
+*"Fascinating,"* Balin said dryly. *"But what does this have to do with our current situation?"*
+
+*"Don't you see?"* Dulint's eyes gleamed. *"If old Thrain was right about this mine, who's to say what other secrets it might hold? This artifact could be just the beginning!"*
+
+Balin's expression softened slightly. *"I suppose you have a point. But that still doesn't tell us what to do next."* He looked back at the artifacts. *"I don't know what this is, and I doubt anyone in Throngahm would know either."*
+
+## A Difficult Decision
+
+Dulint's bushy eyebrows furrowed. *"We could always ask-"*
+
+*"And I'm not sure I want to share this before we know what it is,"* Balin continued, ignoring his companion.
+
+Dulint's eyes narrowed, a cunning glint appearing. *"How do we know who we can trust? Who could help us?"*
+
+Balin fell silent, his fingers drumming against the strange artifact. After a long moment, he spoke. *"There's only one. Xandor might know."*
+
+*"Xandor?"* Dulint's eyebrows shot up. *"The druid? Bah! What does a tree-hugger know about dwarven artifacts?"*
+
+Balin shook his head. *"It's not dwarven, you old fool. Look at it! It's... another kind of craft. And Xandor, he knows things. Ancient things."*
+
+Dulint scoffed. *"Aye, like which berries give you the runs and which leaves make good te."*
+
+*"You know him and his people,"* Balin pressed on. *"They know a lot about ancient stuff and artifacts. If anyone can make sense of this, it'd be him."*
+
+## The Call to Adventure
+
+Dulint stroked his beard thoughtfully, leaving a smudge of dirt. *"Hmm. You might have a point there, lad. But how do we get it to him? The trade caravan's not due for another month."*
+
+A slow grin spread across Balin's face. *"Who says we need to wait for the caravan?"*
+
+Dulint's eyes widened. *"You can't be serious. Us? Go to [Zuraldi](https://www.drusniel.com/the-zuraldarr/)?"*
+
+*"Why not?"* Balin challenged. *"We know the way. We've been there plenty of times."*
+
+*"Aye, with a caravan! With guards! With supplies!"* Dulint sputtered.
+
+Balin waved a dismissive hand. *"Details, details. Think about it, old timer. An adventure! Isn't that what you're always going on about? Your glory days?"*
+
+Dulint's protest died on his lips. His eyes lit up. *"An adventure, you say?"*
+
+Balin nodded, pressing his advantage. *"Just think of the stories you'll have to tell when we get back. 'Dulint the Brave' they'll call you. 'Dulint the Adventurer'."*
+
+*"Ha!"* Dulint barked a laugh. *"More like 'Dulint the Fool' if this goes sideways."* But he was grinning now, caught up in the idea. *"Alright, lad. You've convinced me. When do we leave?"*
+
+Balin clapped him on the shoulder. *"First light tomorrow. We'll need to pack light, move fast. And not a word to anyone, understand?"*
+
+Dulint nodded, suddenly serious. *"Aye. This is our secret. Our adventure."*
+
+--------------------
+
+
+########## A Journey Interrupted ##########
+
+## Prequel | A Journey Interrupted
+
+--- 
+
+Dulint and Balin trudged along the winding mountain path, their packs heavy with supplies and their secret riding just as heavy between them. The sun dipped low on the horizon, painting the sky in hues of orange and purple.
+
+*"How much further, Uncle?"* Balin asked, adjusting the straps on his shoulders.
+
+[![Dulint and Balin](https://i.imgur.com/xwhhWyI.jpeg)](https://i.imgur.com/xwhhWyI.jpeg)
+
+Dulint squinted at the distant peaks. *"We'll make camp soon, lad. No point risking our necks on these trails after dark."*
+
+They found a small clearing tucked between towering pines. As Balin gathered firewood, Dulint unpacked their meager rations.
+
+The fire crackled to life, casting dancing shadows on the tree trunks. Dulint leaned back, his bones creaking in protest.
+
+*"Tell me again about the [Zuraldi](https://www.drusniel.com/the-zuraldarr/),"* Balin said, his eyes reflecting the flames. *"What are they like?"*
+
+Dulint stroked his beard, a faraway look in his eyes. *"Strong folk, the [Zuraldi](https://www.drusniel.com/the-zuraldarr/). Built like the mountains they call home. They value strength, aye, but there's a wisdom to them too. Ancient knowledge, passed down through generations."*
+
+*"And they'll help us?"* Balin's voice held a note of uncertainty.
+
+*"If anyone can make sense of what we've found, it's them,"* Dulint nodded. *"Now get some sleep. We've a long road ahead."*
+
+## Shadows in the Night
+
+The night air bit into Dulint's skin as he stood watch. His eyes strained against the darkness, searching for threats in the shadows of the towering pines. A twig snapped. His hand flew to his axe.
+
+*"Balin,"* he hissed. *"Wake up, lad."*
+
+His nephew stirred, grumbling. *"What now, old man? Another raccoon got you jumpy?"*
+
+A rough cry split the air. Not a raccoon.
+
+Balin bolted upright, sleep forgotten. *"What in the name of-"*
+
+*"Bandits,"* Dulint spat the word like a curse.
+
+They emerged from the underbrush, a writhing mass of green skin and yellowed teeth. Six, no, seven of the creatures. Curved blades glinted in the moonlight.
+
+Dulint's muscles tensed, muscle memory from decades past taking over. He hefted his axe, its weight familiar and comforting.
+
+*"Stay close, boy. And don't do anything stupid."*
+
+Balin fumbled for his pickaxe, knuckles white around the handle. *"Bit late for that, isn't it?"*
+
+The first goblin rushed Dulint. He sidestepped and swung his axe in a vicious arc. The creature dropped, dark blood spreading across the forest floor.
+
+[![Goblin](https://i.imgur.com/8msHS54.png)](https://i.imgur.com/8msHS54.png)
+
+Another charged at Balin. The young dwarf swung wildly, his pickaxe whistling through empty air. The goblin's blade sliced across his arm, drawing a pained cry.
+
+*"Balin!"* Dulint roared, cleaving through another attacker. *"Behind you!"*
+
+His nephew spun, driving the point of his pickaxe into a goblin's chest. The creature's cry cut off abruptly.
+
+Blood thudded in Dulint's ears. Two down, but more kept coming. Too many. He grabbed Balin's uninjured arm.
+
+*"Run!"*
+
+## A Desperate Escape
+
+They plunged into the forest, branches whipping at their faces. Roots threatened to trip them with every step.
+
+*"This way!"* Dulint veered left, towards a steep incline. His legs burned as they scrambled upwards, loose rocks clattering down the slope.
+
+Balin's breath came in ragged gasps. *"Uncle... I can't..."*
+
+*"You can and you will,"* Dulint growled. *"Unless you fancy becoming goblin stew."*
+
+They crested the hill, only to find a sheer drop on the other side. A dead end.
+
+Balin peered over the edge, his face pale in the moonlight. *"Now what?"*
+
+The sound of pursuit grew closer. Dulint's mind raced, weighing their options. Each one worse than the last.
+
+*"We climb down,"* he said grimly. *"Slow and steady. Like scaling the mine shafts back home."*
+
+Balin nodded, swallowing hard. They began their descent, fingers searching for purchase on the rocky face.
+
+A pebble skittered past Dulint's ear. He looked up to see goblin faces leering down at them.
+
+*"Faster!"* he barked.
+
+They half-climbed, half-slid down the cliff face. Dulint's arms burned in protest. Almost there. Just a few more-
+
+[![Running](https://i.imgur.com/4WYbYdQ.jpeg)](https://i.imgur.com/4WYbYdQ.jpeg)
+
+His foot slipped. The world tilted. He fell, taking Balin with him.
+
+They hit the ground hard. Dulint gasped for breath, blinking away spots. Above them, goblin cries of triumph echoed off the rocks.
+
+*"Uncle?"* Balin's voice sounded far away. *"Uncle, get up!"*
+
+Dulint forced himself to his feet, ignoring the pain that lanced through his body. The goblins were already halfway down the cliff.
+
+*"Run,"* he wheezed. *"Run!"*
+
+## Unexpected Friends
+
+They stumbled forward, each step an agony. Dulint's thoughts fragmented. How long had they been running? Minutes? Hours?
+
+A root caught his foot. He pitched forward, hitting the ground face-first. Dirt filled his mouth, the taste of defeat.
+
+"Uncle!" Balin's hands grasped his shoulders, trying to pull him up. "Please, we have to-"
+
+A whistling sound cut through the air. An arrow struck the tree beside them with a solid thunk.
+
+More followed, a hail of projectiles raining down around them. But not at them. At their pursuers.
+
+Goblin screams echoed through the forest, this time in pain and fear. Dulint raised his head, squinting into the darkness.
+
+Shapes moved on the ridge above. Tall, muscular figures hurling stones with deadly accuracy. The [Zuraldi](https://www.drusniel.com/the-zuraldarr/).
+
+[![Rocks](https://i.imgur.com/nzAra0J.jpeg)](https://i.imgur.com/nzAra0J.jpeg)
+
+The goblins broke, fleeing back the way they had come. Dulint sagged with relief, his forehead pressing against the cool earth.
+
+*"Kaizur!"* a voice called out. *"Are you harmed, friends?"*
+
+Balin answered, his voice shaky. *"We'll live, thanks to you."*
+
+Dulint struggled to his feet as their rescuers approached. He recognized one of the [Zuraldi](https://www.drusniel.com/the-zuraldarr/) - a burly man with a thick beard and kind eyes.
+
+*"Jokin?"* Dulint squinted, hardly daring to believe their luck. *"Is that you, old friend?"*
+
+The man's face split into a wide grin. *"Dulint, you old rock-biter! What trouble have you gotten yourself into this time?"*
+
+Balin looked between them, confusion plain on his face. *"Uncle, you know him?"*
+
+*"Aye,"* Dulint nodded. *"This is Jokin Xeberria. We've traded more times than I can count. His wife makes the best talo this side of the mountains."*
+
+Jokin clapped Dulint on the shoulder, nearly knocking him over. *"Come, friends. You look like you could use a warm fire and a cold drink. We'll talk more once you're rested."*
+
+## A New Challenge Emerges
+
+As they made their way to the [Zuraldi](https://www.drusniel.com/the-zuraldarr/) village, Balin leaned in close to Dulint. *"Uncle, what were those things? I've never seen bandits fight like that before."*
+
+Dulint's brow furrowed. *"I don't know, lad. But I aim to find out."*
+
+The [Zuraldi](https://www.drusniel.com/the-zuraldarr/) village bustled with activity despite the late hour. News of the attack spread quickly, and curious faces peered out of windows as they passed.
+
+Jokin led them to a large communal building, its walls adorned with intricate carvings. Inside, a fire crackled merrily, casting dancing shadows on the walls.
+
+[![Building](https://i.imgur.com/ns9i07b.jpeg)](https://i.imgur.com/ns9i07b.jpeg)
+
+*"Sit, sit,"* Jokin gestured to a pair of sturdy chairs. *"Maiarí will bring food and drink."*
+
+As if summoned by her name, a plump woman with a kind face appeared, bearing a tray laden with bread and steaming bowls of soup.
+
+*"Many thanks,"* Dulint said, his pronunciation clumsy but sincere. The woman beamed at him.
+
+As they ate, Dulint recounted their harrowing escape. Jokin listened intently, his expression growing more serious with each word.
+
+*"Creatures like that, here?"* he shook his head. *"It's unheard of. The last sighting of such beasts was decades ago, and even then, they never came this far north."*
+
+Balin spoke up, his mouth full of bread. *"We need to speak with Xandor. It's urgent."*
+
+Jokin's eyebrows rose. *"Xandor? I'm afraid you've missed him. He left for Rivendale to meet with some old friends. Said he'd be gone for a few weeks on important business."*
+
+Dulint and Balin exchanged glances. Rivendale - the shining jewel of Lumeshire's crown. Nothing like the mountain homes they were used to.
+
+*"How long would it take us to reach Rivendale?"* Dulint asked, already dreading the answer.
+
+Jokin stroked his beard thoughtfully. *"For you dwarves? About five days, if the weather holds. But the roads aren't safe these days, especially with those creatures about."*
+
+Balin's face lit up. *"Five days? That's not so bad, Uncle. We could-"*
+
+Dulint kicked him under the table, shooting him a warning look. *"We appreciate the information, Jokin. We'll have to consider our options."*
+
+Jokin nodded, his eyes twinkling with curiosity. *"Of course, of course. You're welcome to rest here as long as you need. But tell me, old friend, what brings you so far afield? Surely you didn't come only to chase after our wayward druid?"*
+
+Dulint shifted uncomfortably in his seat. *"It's... complicated. Let's just say we've found an artifact that needs Xandor's expertise."*
+
+*"Ah,"* Jokin smiled knowingly. *"One of those situations. Well, your secrets are safe with us. Now, finish your soup before it gets cold. We can talk more in the morning."*
+
+As Jokin left them to their meal, Balin leaned in close to Dulint. *"What do we do now, Uncle? We can't wait weeks for Xandor to return, but the roads..."*
+
+Dulint sighed, suddenly feeling every one of his years. *"We rest tonight, lad. Tomorrow, we decide if we're fool enough to chase this adventure all the way to Rivendale."*
+
+## Prophecy in Firelight
+
+As night fell over [Zuraldi](https://www.drusniel.com/the-zuraldarr/), an air of anticipation swept through the village. Dulint and Balin, still weary from their journey, found themselves caught up in a stream of people heading towards the outskirts of the settlement.
+
+*"What's going on?"* Balin whispered to his uncle.
+
+Dulint shrugged, his eyes narrowed with curiosity. *"Let's find out, lad."*
+
+They emerged into a large clearing, where hundreds of villagers had gathered in a wide circle. Torches and bonfires cast a flickering glow over the assembled crowd. At the center stood a lone figure, her presence commanding attention.
+
+The witch cut an imposing figure, draped in a dark cloak that seemed to absorb the firelight. Atop her head sat a crown of gnarled branches, silhouetted against the starry sky like the antlers of some ancient beast. Embers danced in the air around her, lending an otherworldly aura to the scene.
+
+[![Witch](https://i.imgur.com/IZAwtL8.jpeg)](https://i.imgur.com/IZAwtL8.jpeg)
+
+Silence fell as she raised her arms. When she spoke, her voice carried to every ear despite its low, melodic tone.
+
+*"Children of [Zuraldi](https://www.drusniel.com/the-zuraldarr/), heed my words. Dark clouds gather on the horizon. I have seen visions of troubled times ahead - of conflict, of struggle, of choices that will shape the fate of our land."*
+
+A murmur rippled through the crowd. Dulint felt Balin tense beside him.
+
+*"We must prepare,"* the witch continued. *"Sharpen your axes, reinforce your walls, and above all, strengthen the bonds between you. For it is in unity that we will find our greatest strength against the coming storm."*
+
+As she spoke, the fires seemed to burn brighter, casting long shadows that danced at the edges of the gathering. The witch's eyes, gleaming in the firelight, swept across the assembled villagers.
+
+*"But take heart,"* she said, her voice softening. *"For I have also seen hope - a light in the darkness, carried by unexpected hands. Watch for it, nurture it, for it may be our salvation."*
+
+With those words, she lowered her arms. A shower of sparks erupted from the central bonfire, momentarily illuminating the night sky like a cascade of stars.
+
+As the gathering began to disperse, Dulint and Balin exchanged worried glances.
+
+*"Uncle,"* Balin whispered, *"do you think she knows about-"*
+
+Dulint shook his head sharply. *"Not here, lad. I think our journey to Rivendale just became a lot more urgent."*
+
+They made their way back to Jokin's house, the witch's words echoing in their minds. The artifact in Balin's pack seemed to weigh heavier than ever, a tangible reminder of the responsibility they now carried.
+
+As they prepared for bed, Dulint's earlier words came back to him with new meaning. Tomorrow, they would indeed have to decide if they were fool enough to chase this adventure all the way to Rivendale. But now, it seemed, the stakes were higher than ever.
+
+> "In times of impending darkness, even the smallest spark of hope can ignite the courage needed to face the unknown."
+
+--------------------
+
+
+########## The Screams in the Mist ##########
+
+## The Screams in the Mist
+
+--- 
+
+Mist hung low between black trees. Varian squinted against the gloom, one hand on his sword hilt.
+
+A woman's scream shattered the stillness.
+
+He turned to Elric. His friend had gone pale.
+
+*"That a woman?"* Elric's whisper barely carried.
+
+Varian nodded, unsheathing his blade. The scrape of steel on leather sounded too loud in the oppressive quiet.
+
+*"Help! Please, someone!"*
+
+---
+
+[![Chase](https://i.imgur.com/dzGbmsn.jpg)](https://i.imgur.com/dzGbmsn.jpg)
+
+Varian moved before he could think better of it. Each footfall crushed damp leaves. A shadow flitted between trunks—there and gone.
+
+Elric grabbed his arm. *"Wait. You see that?"*
+
+Another flicker, this time to their left. Varian weighed the risks.
+
+*"Could be a trap,"* he muttered.
+
+*"We should go back. It's not our—"*
+
+*"Help me!"* Ragged. Desperate.
+
+Varian wrenched free. *"I can't leave her."*
+
+He plunged deeper into the mist. Branches clawed at his face. Behind him, Elric cursed and followed.
+
+---
+
+The screams grew louder. Varian sprinted harder, lungs burning. He burst through a tangle of bushes into a clearing.
+
+Nothing.
+
+Empty. Quiet. Only mist and the weight of unseen eyes.
+
+*"I don't—"* Elric began.
+
+The ground gave way.
+
+Varian's stomach lurched. The world spun. His sword slipped from his grasp, vanishing into darkness below.
+
+He didn't hit ground. Instead—a jarring collision with rough mesh that cinched tight around him. Net fibers bit into skin as he thrashed.
+
+*"Elric?"*
+
+A groan. The rustle of rope. *"Here. Damn it all, I'm here."*
+
+---
+
+His eyes adjusted slowly. They lay tangled together on the forest floor, the net's edges lashed to nearby trees. Varian strained against the ropes. They held fast, digging deeper with each movement.
+
+*"Told you,"* Elric grunted. *"Trap."*
+
+Varian twisted, trying to reach the knife at his belt. His arms were pinned.
+
+*"Save your strength. We're not getting out of this easily."*
+
+A chuckle drifted down from above.
+
+*"My, my."* A woman's voice—nothing like the desperate cries that had lured them here. *"What foolish little mice we've caught."*
+
+---
+
+Varian opened his mouth to answer. The world tilted sideways. His tongue felt thick and useless.
+
+*"Don't fight it, boys."* The voice was patient. Amused. *"The poison on those ropes works quickly. Sleep now. We'll have plenty of time to get acquainted when you wake."*
+
+Darkness crept in at the edges of his vision. He struggled to keep his eyes open, to think.
+
+The last thing he saw was the silhouette of an orcish woman against the stars. Her tusks glinted. She smiled down at them the way a spider smiles at flies.
+
+--------------------
+
+
+########## March of Despair ##########
+
+## March of Despair
+
+--- 
+
+Consciousness returned in fragments. First the ache in his limbs. Then rough rope scraping skin. Varian blinked—and found himself staring into a ring of grotesque faces.
+
+Goblins. A dozen at least, crowded around the net, eyes gleaming.
+
+*"Look!"* One cackled. *"The mice are awake!"*
+
+Varian twisted against the bonds. Useless.
+
+*"Let us go!"* The demand came out hoarse. Pathetic.
+
+A spear point punched through the netting and stopped an inch from his eye. He went very still.
+
+*"Quiet, meat."* The goblin's breath was foul. *"Or we start carving early."*
+
+---
+
+They hauled him from the net and his legs buckled. Before he could find footing, a reeking cloth covered his eyes. Darkness again.
+
+What followed was a nightmare of stumbling and prodding—unseen roots catching his feet, rocks biting his knees, the constant jab of spears at his back. Varian lost track of the turns. Lost track of time.
+
+[![March](https://i.imgur.com/BbOMj7c.jpeg)](https://i.imgur.com/BbOMj7c.jpeg)
+
+How long since the Rusty Axe? Hours? Days? He'd failed. That much was clear. Failed his duty, failed Elric, failed every soul he'd sworn to protect.
+
+---
+
+Rough hands tore the blindfold away. Light stabbed his eyes. He blinked, watering.
+
+A fortress took shape. Crude watchtowers along walls of sharpened logs. Orcs—massive, tusked—watched their approach with flat yellow eyes. The goblins prodded Varian and Elric through a gate that gaped like a mouth.
+
+[![Prisioners1](https://i.imgur.com/jVtsE5g.jpeg)](https://i.imgur.com/jVtsE5g.jpeg)
+
+The stench hit first: blood, smoke, and rot thick enough to taste. They were marched through winding corridors. Varian caught glimpses with each turn—cages packed with prisoners so gaunt they barely looked human, offering slabs dark with old blood, pyres crackling with green flame.
+
+---
+
+[![Prisioners2](https://i.imgur.com/pxIwYc3.jpeg)](https://i.imgur.com/pxIwYc3.jpeg)
+
+Then a grand chamber. Plush carpets. Gilded furniture. So at odds with the squalor that Varian wondered if the fumes had driven him mad.
+
+At the center, sprawled across an ornate throne, sat a figure that stopped his breath.
+
+The half-orc wore fine silks. Jewels glittered at throat and fingers. One leg draped casually over the throne's arm. When he smiled, Varian noticed his teeth had been filed to points.
+
+[![Korgath](https://i.imgur.com/wTncNup.jpeg)](https://i.imgur.com/wTncNup.jpeg)
+
+*"Welcome, gentlemen."* The voice was a purr—cultured, cold. *"I am Korgath. And you are now my honored guests."*
+
+Varian glanced at Elric. His friend's face had gone the color of old ash.
+
+---
+
+Korgath leaned forward. *"I have a proposition for you. Your freedom, in exchange for some information. Nothing onerous. Just a few details about your city's defenses."*
+
+*"Go to hell."* Elric's voice was steady, even if his hands weren't.
+
+That smile never wavered. *"Now, now. Let's not be hasty."* A gesture. Two massive orcs stepped forward, carrying instruments that caught the torchlight—cruel things, made for pain. *"I'd hate to see you suffer unnecessarily."*
+
+Another gesture. *"Separate them. We'll speak to each privately."*
+
+Guards seized Varian's arms. He struggled. Shouted. Useless. The last thing he saw before a door slammed between them was Elric's face—pale, set, meeting his eyes.
+
+---
+
+Alone with the half-orc, Varian felt his resolve crumbling.
+
+*"I'm not like the others, you know."* Korgath's voice dropped to an intimate murmur. *"Half human, after all. I understand civilization."*
+
+He gestured toward a robed figure in the shadows—a druid, by the look of him. *"My friend here has prepared a special draught. A potion. You'll forget everything. We'll leave you near your village. Safe. Sound. Your fellow guards won't come looking."*
+
+Relief flooded through Varian so powerfully his knees nearly buckled.
+
+*"But first."* Korgath's smile sharpened. *"The information. Just to ensure its accuracy."*
+
+The cages. The offering slabs. A woman's voice, screaming in the dark.
+
+*"I'll tell you."* Barely louder than a breath. *"Whatever you want to know."*
+
+---
+
+He did. Guard rotations, weak points in the walls, the secret tunnels—it all poured out while Korgath listened with that satisfied gleam, nodding, never interrupting.
+
+When Varian fell silent, Korgath clapped his hands. *"Excellent! Cooperation makes everything simpler."*
+
+They led him away. Through the closing door he glimpsed Elric being brought in, face twisted between anguish and dread.
+
+Time crawled. Varian waited in a small stone cell, alone with his fear and his shame, until the door scraped open and Elric was shoved in beside him. His friend looked pale. Defeated.
+
+Korgath appeared in the doorway. His smile had grown wider.
+
+*"And now, my friends, I believe our business is concluded."* He turned to the druid. *"They're yours now. I trust you'll find them useful."*
+
+The meaning took a moment to penetrate.
+
+Varian lunged—a hoarse shout tearing from his throat—but the guards were faster, driving him back.
+
+The last thing he saw before they shoved a hood over his head was Korgath's face. Still smiling.
+
+He'd given away everything. And it had bought them nothing at all.
+
+--------------------
+
+
+########## Border Sign ##########
 
 ## Prologue | Border Sign
 
@@ -91,8 +854,6 @@ That was the part that bothered him most.
 
 
 ########## No Tracks ##########
-
---- 
 
 ## Prologue | No Tracks
 
@@ -227,8 +988,6 @@ Then it was gone.
 
 ########## The Scream ##########
 
---- 
-
 ## Prologue | The Scream
 
 --- 
@@ -317,8 +1076,6 @@ But her eyes never left that alley. And when he finally turned away, leading her
 
 
 ########## Tavern Talk ##########
-
---- 
 
 ## Prologue | Tavern Talk
 

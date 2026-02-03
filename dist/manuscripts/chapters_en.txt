@@ -1,11 +1,9 @@
-DRUSNIEL - MAIN (EN)
+DRUSNIEL - CHAPTERS (EN)
 ========================================
 
 
 
 ########## Chapter 1.1 | The Sacred Chamber ##########
-
---- 
 
 ## Chapter 1 | Part 1
 
@@ -132,8 +130,6 @@ Drusniel shook it off and kept walking.
 
 ########## Chapter 2.1 | Swords and Shadows ##########
 
---- 
-
 ## Chapter 2 | Part 1
 
 --- 
@@ -188,8 +184,6 @@ As Shyntara melted back into the shadows of the bamboo grove, Drusniel touched t
 
 
 ########## Chapter 3.1 | The Failed Trial: The Test of Venemora ##########
-
---- 
 
 ## Chapter 3 | Part 1
 
@@ -316,8 +310,6 @@ Something had been taken.
 
 ########## Chapter 4.1 | Secrets and Shadows ##########
 
---- 
-
 ## Chapter 4 | Part 1
 
 --- 
@@ -380,8 +372,6 @@ The answers, he knew, wouldn't come easily. But Drusniel was determined to find 
 
 
 ########## Chapter 5.1 | The Failed Trial: The Separation ##########
-
---- 
 
 ## Chapter 5 | Part 1
 
@@ -485,8 +475,6 @@ Drusniel held onto those words. They were all he had left.
 
 
 ########## Chapter 5.2 | The Failed Trial: Shadows in the Hall ##########
-
---- 
 
 ## Chapter 5 | Part 2
 
@@ -610,8 +598,6 @@ The void in his chest felt larger than any of it. A hollow where something had b
 
 
 ########## Chapter 6.1 | Voices in the Dark: The Empty Days ##########
-
---- 
 
 ## Chapter 6 | Part 1
 
@@ -756,8 +742,6 @@ The voice sounded like Annariel. Felt like Annariel. Close enough that the diffe
 
 ########## Chapter 6.2 | Voices in the Dark: The Distant Voice ##########
 
---- 
-
 ## Chapter 6 | Part 2
 
 --- 
@@ -870,8 +854,6 @@ He wasn't sure yet. Not completely. But he was closer than he wanted to admit.
 
 
 ########## Chapter 6.3 | Voices in the Dark: The Seed of Doubt ##########
-
---- 
 
 ## Chapter 6 | Part 3
 
@@ -1028,8 +1010,6 @@ But the pull toward answers was stronger than the whisper of warning. And somewh
 
 ########## Chapter 6.4 | Voices in the Dark: The Decision ##########
 
---- 
-
 ## Chapter 6 | Part 4
 
 --- 
@@ -1163,8 +1143,6 @@ The tower waited.
 
 ########## Chapter 7.1 | The Surface Mage: The Tower ##########
 
---- 
-
 ## Chapter 7 | Part 1
 
 --- 
@@ -1263,8 +1241,6 @@ Drusniel reached out and placed his hand in Zaelar's palm.
 
 
 ########## Chapter 7.2 | The Surface Mage: The Assessment ##########
-
---- 
 
 ## Chapter 7 | Part 2
 
@@ -1390,8 +1366,6 @@ Zaelar smiled. The expression didn't quite reach his eyes.
 
 
 ########## Chapter 7.3 | The Surface Mage: The First Lesson ##########
-
---- 
 
 ## Chapter 7 | Part 3
 
@@ -1530,8 +1504,6 @@ Zaelar smiled. The expression was thin, controlled.
 
 ########## Chapter 7.4 | The Surface Mage: The Wyrmreach Mention ##########
 
---- 
-
 ## Chapter 7 | Part 4
 
 --- 
@@ -1638,8 +1610,6 @@ But as he walked toward the distant hillside, Zaelar's words followed him like a
 
 
 ########## Chapter 7.5 | The Surface Mage: The Return ##########
-
---- 
 
 ## Chapter 7 | Part 5
 
@@ -1776,8 +1746,6 @@ Then he would decide what to trust.
 
 ########## Chapter 7.6 | Forbidden Knowledge: The Old Texts ##########
 
---- 
-
 ## Chapter 7 | Part 6
 
 --- 
@@ -1864,8 +1832,6 @@ He tucked the page into his sleeve and continued reading.
 
 
 ########## Chapter 7.7 | Forbidden Knowledge: The Growing Power ##########
-
---- 
 
 ## Chapter 7 | Part 7
 
@@ -2002,8 +1968,6 @@ For the first time since the trial chamber, Drusniel felt like himself.
 
 ########## Chapter 7.8 | Forbidden Knowledge: The Warning Signs ##########
 
---- 
-
 ## Chapter 7 | Part 8
 
 --- 
@@ -2121,8 +2085,6 @@ Everything else was shadows.
 
 ########## Chapter 7.9 | Forbidden Knowledge: The Distant Land ##########
 
---- 
-
 ## Chapter 7 | Part 9
 
 --- 
@@ -2201,8 +2163,6 @@ That made it worse.
 
 
 ########## Chapter 7.10 | Forbidden Knowledge: The Hesitation ##########
-
---- 
 
 ## Chapter 7 | Part 10
 
@@ -2333,8 +2293,6 @@ It was a long time before he slept.
 
 ########## Chapter 7.11 | The House Rivalry: The Gathering Storm ##########
 
---- 
-
 ## Chapter 7 | Part 11
 
 --- 
@@ -2436,8 +2394,6 @@ He would be ready.
 
 ########## Chapter 7.12 | The House Rivalry: The Fracture ##########
 
---- 
-
 ## Chapter 7 | Part 12
 
 --- 
@@ -2516,8 +2472,6 @@ He would make them regret it.
 
 
 ########## Chapter 7.13 | The House Rivalry: The Secret Meeting ##########
-
---- 
 
 ## Chapter 7 | Part 13
 
@@ -2611,8 +2565,6 @@ That was all that mattered.
 
 
 ########## Chapter 7.14 | The House Rivalry: The Night Before ##########
-
---- 
 
 ## Chapter 7 | Part 14
 
@@ -2756,8 +2708,6 @@ But he hadn't. And now it was too late.
 
 
 ########## Chapter 7.15 | The House Rivalry: The Warning (Cut Short) ##########
-
---- 
 
 ## Chapter 7 | Part 15
 
@@ -2914,8 +2864,6 @@ Toward his parents' screams.
 
 ########## Chapter 7.16 | Blood in the Dark: The Chaos ##########
 
---- 
-
 ## Chapter 7 | Part 16
 
 --- 
@@ -3019,8 +2967,6 @@ He didn't look back. If he looked back, he would never move again.
 
 ########## Chapter 7.17 | Blood in the Dark: The Slaughter ##########
 
---- 
-
 ## Chapter 7 | Part 17
 
 --- 
@@ -3111,8 +3057,6 @@ Drusniel ran.
 
 
 ########## Chapter 7.18 | Blood in the Dark: The Escape ##########
-
---- 
 
 ## Chapter 7 | Part 18
 
@@ -3209,8 +3153,6 @@ And somewhere in the darkness behind him, their killers were still hunting.
 
 ########## Chapter 7.19 | Blood in the Dark: The Evidence ##########
 
---- 
-
 ## Chapter 7 | Part 19
 
 --- 
@@ -3304,8 +3246,6 @@ He tucked the dagger into his belt and kept moving.
 
 ########## Chapter 7.20 | Blood in the Dark: Shyntara's Flight ##########
 
---- 
-
 ## Chapter 7 | Part 20
 
 --- 
@@ -3398,8 +3338,6 @@ Lies were not.
 
 
 ########## Chapter 7.21 | Blood in the Dark: The Hollow Victory ##########
-
---- 
 
 ## Chapter 7 | Part 21
 
@@ -3524,8 +3462,6 @@ They would keep.
 
 ########## Chapter 7.22 | The Package: The Broken Instrument ##########
 
---- 
-
 ## Chapter 7 | Part 22
 
 --- 
@@ -3615,8 +3551,6 @@ Zaelar smiled. It almost reached his eyes.
 
 ########## Chapter 7.23 | The Package: The Mission ##########
 
---- 
-
 ## Chapter 7 | Part 23
 
 --- 
@@ -3697,8 +3631,6 @@ The bait in a trap that had been closing for years.
 
 
 ########## Chapter 7.24 | The Package: The Artifact ##########
-
---- 
 
 ## Chapter 7 | Part 24
 
@@ -3800,8 +3732,6 @@ There was nothing left to leave.
 
 
 ########## Chapter 7.25 | The Package: The Crossing ##########
-
---- 
 
 ## Chapter 7 | Part 25
 
@@ -3913,8 +3843,6 @@ He was in Wyrmreach.
 
 
 ########## Chapter 7.26 | The Package: The New World ##########
-
---- 
 
 ## Chapter 7 | Part 26
 
@@ -4097,8 +4025,6 @@ Dulint stared at the artifact. Three weeks of dormancy. Three weeks of nothing. 
 
 
 ########## Chapter 8.1 | The Road from Zuraldi: The Absence ##########
-
---- 
 
 ## Chapter 8 | Part 1
 

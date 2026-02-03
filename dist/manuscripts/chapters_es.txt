@@ -1,11 +1,9 @@
-DRUSNIEL - MAIN (ES)
+DRUSNIEL - CHAPTERS (ES)
 ========================================
 
 
 
 ########## Chapter 1.1 | La Cámara Sagrada ##########
-
---- 
 
 ## Capítulo 1 | Parte 1
 
@@ -134,8 +132,6 @@ Drusniel lo sacudió de su mente y siguió caminando.
 
 ########## Chapter 2.1 | Espadas y Sombras ##########
 
---- 
-
 ## Capítulo 2 | Parte 1
 
 --- 
@@ -168,8 +164,6 @@ Las palabras dolieron más que cualquier herida. Drusniel apartó la vista. Lo c
 
 
 ########## Chapter 3.1 | La Prueba Fallida: La Prueba de Venemora ##########
-
---- 
 
 ## Capítulo 3 | Parte 1
 
@@ -298,8 +292,6 @@ Algo había sido arrebatado.
 
 ########## Chapter 4.1 | Secretos y Sombras ##########
 
---- 
-
 ## Capítulo 4 | Parte 1
 
 --- 
@@ -366,8 +358,6 @@ Drusniel contuvo una réplica, bajando la mirada a su plato. Pero más tarde esa
 
 
 ########## Chapter 5.1 | La Prueba Fallida: La Separación ##########
-
---- 
 
 ## Capítulo 5 | Parte 1
 
@@ -473,8 +463,6 @@ Drusniel se aferró a esas palabras. Eran todo lo que le quedaba.
 
 
 ########## Chapter 5.2 | La Prueba Fallida: Sombras en el Salón ##########
-
---- 
 
 ## Capítulo 5 | Parte 2
 
@@ -600,8 +588,6 @@ El vacío en su pecho se sentía más grande que todo eso. Un hueco donde algo h
 
 
 ########## Chapter 6.1 | Voces en la Oscuridad: Los Días Vacíos ##########
-
---- 
 
 ## Capítulo 6 | Parte 1
 
@@ -748,8 +734,6 @@ La voz sonaba como Annariel. Se sentía como Annariel. Lo suficientemente cercan
 
 ########## Chapter 6.2 | Voces en la Oscuridad: La Voz Distante ##########
 
---- 
-
 ## Capítulo 6 | Parte 2
 
 --- 
@@ -864,8 +848,6 @@ No estaba seguro todavía. No completamente. Pero estaba más cerca de lo que qu
 
 
 ########## Chapter 6.3 | Voces en la Oscuridad: La Semilla de la Duda ##########
-
---- 
 
 ## Capítulo 6 | Parte 3
 
@@ -1024,8 +1006,6 @@ Pero el tirón hacia las respuestas era más fuerte que el susurro de advertenci
 
 ########## Chapter 6.4 | Voces en la Oscuridad: La Decisión ##########
 
---- 
-
 ## Capítulo 6 | Parte 4
 
 --- 
@@ -1161,8 +1141,6 @@ La torre esperaba.
 
 ########## Chapter 7.1 | El Mago de Superficie: La Torre ##########
 
---- 
-
 ## Capítulo 7 | Parte 1
 
 --- 
@@ -1263,8 +1241,6 @@ Drusniel se estiró y colocó su mano en la palma de Zaelar.
 
 
 ########## Chapter 7.2 | El Mago de Superficie: La Evaluación ##########
-
---- 
 
 ## Capítulo 7 | Parte 2
 
@@ -1392,8 +1368,6 @@ Zaelar sonrió. La expresión no alcanzó del todo sus ojos.
 
 
 ########## Chapter 7.3 | El Mago de Superficie: La Primera Lección ##########
-
---- 
 
 ## Capítulo 7 | Parte 3
 
@@ -1534,8 +1508,6 @@ Zaelar sonrió. La expresión era delgada, controlada.
 
 ########## Chapter 7.4 | El Mago de Superficie: La Mención de Wyrmreach ##########
 
---- 
-
 ## Capítulo 7 | Parte 4
 
 --- 
@@ -1644,8 +1616,6 @@ Pero mientras caminaba hacia la lejana ladera, las palabras de Zaelar lo siguier
 
 
 ########## Chapter 7.5 | El Mago de Superficie: El Regreso ##########
-
---- 
 
 ## Capítulo 7 | Parte 5
 
@@ -1784,8 +1754,6 @@ Entonces decidiría en qué confiar.
 
 ########## Chapter 7.6 | Conocimiento Prohibido: Los Textos Antiguos ##########
 
---- 
-
 ## Capítulo 7 | Parte 6
 
 --- 
@@ -1874,8 +1842,6 @@ Guardó la página en su manga y continuó leyendo.
 
 
 ########## Chapter 7.7 | Conocimiento Prohibido: El Poder Creciente ##########
-
---- 
 
 ## Capítulo 7 | Parte 7
 
@@ -2014,8 +1980,6 @@ Por primera vez desde la cámara de pruebas, Drusniel se sintió como él mismo.
 
 ########## Chapter 7.8 | Conocimiento Prohibido: Las Señales de Advertencia ##########
 
---- 
-
 ## Capítulo 7 | Parte 8
 
 --- 
@@ -2135,8 +2099,6 @@ Todo lo demás eran sombras.
 
 ########## Chapter 7.9 | Conocimiento Prohibido: La Tierra Distante ##########
 
---- 
-
 ## Capítulo 7 | Parte 9
 
 --- 
@@ -2217,8 +2179,6 @@ Eso lo hacía peor.
 
 
 ########## Chapter 7.10 | Conocimiento Prohibido: La Duda ##########
-
---- 
 
 ## Capítulo 7 | Parte 10
 
@@ -2351,8 +2311,6 @@ Pasó mucho tiempo antes de que durmiera.
 
 ########## Chapter 7.11 | La Rivalidad de la Casa: La Tormenta que se Avecina ##########
 
---- 
-
 ## Capítulo 7 | Parte 11
 
 --- 
@@ -2456,8 +2414,6 @@ Estaría listo.
 
 ########## Chapter 7.12 | La Rivalidad de la Casa: La Grieta ##########
 
---- 
-
 ## Capítulo 7 | Parte 12
 
 --- 
@@ -2538,8 +2494,6 @@ Los haría arrepentirse.
 
 
 ########## Chapter 7.13 | La Rivalidad de la Casa: La Reunión Secreta ##########
-
---- 
 
 ## Capítulo 7 | Parte 13
 
@@ -2635,8 +2589,6 @@ Eso era todo lo que importaba.
 
 
 ########## Chapter 7.14 | La Rivalidad de la Casa: La Noche Antes ##########
-
---- 
 
 ## Capítulo 7 | Parte 14
 
@@ -2782,8 +2734,6 @@ Pero no lo había hecho. Y ahora era demasiado tarde.
 
 
 ########## Chapter 7.15 | La Rivalidad de la Casa: La Advertencia (Cortada) ##########
-
---- 
 
 ## Capítulo 7 | Parte 15
 
@@ -2942,8 +2892,6 @@ Hacia los gritos de sus padres.
 
 ########## Chapter 7.16 | Sangre en la Oscuridad: El Caos ##########
 
---- 
-
 ## Capítulo 7 | Parte 16
 
 --- 
@@ -3049,8 +2997,6 @@ No miró atrás. Si miraba atrás, nunca se movería de nuevo.
 
 ########## Chapter 7.17 | Sangre en la Oscuridad: La Matanza ##########
 
---- 
-
 ## Capítulo 7 | Parte 17
 
 --- 
@@ -3143,8 +3089,6 @@ Drusniel corrió.
 
 
 ########## Chapter 7.18 | Sangre en la Oscuridad: El Escape ##########
-
---- 
 
 ## Capítulo 7 | Parte 18
 
@@ -3243,8 +3187,6 @@ Y en algún lugar en la oscuridad detrás de él, sus asesinos todavía estaban 
 
 ########## Chapter 7.19 | Sangre en la Oscuridad: La Evidencia ##########
 
---- 
-
 ## Capítulo 7 | Parte 19
 
 --- 
@@ -3340,8 +3282,6 @@ Guardó la daga en su cinturón y siguió moviéndose.
 
 ########## Chapter 7.20 | Sangre en la Oscuridad: La Huida de Shyntara ##########
 
---- 
-
 ## Capítulo 7 | Parte 20
 
 --- 
@@ -3436,8 +3376,6 @@ Las mentiras no lo eran.
 
 
 ########## Chapter 7.21 | Sangre en la Oscuridad: La Victoria Hueca ##########
-
---- 
 
 ## Capítulo 7 | Parte 21
 
@@ -3564,8 +3502,6 @@ Se mantendrían.
 
 ########## Chapter 7.22 | El Paquete: El Instrumento Roto ##########
 
---- 
-
 ## Capítulo 7 | Parte 22
 
 --- 
@@ -3657,8 +3593,6 @@ Zaelar sonrió. Casi alcanzó sus ojos.
 
 ########## Chapter 7.23 | El Paquete: La Misión ##########
 
---- 
-
 ## Capítulo 7 | Parte 23
 
 --- 
@@ -3741,8 +3675,6 @@ El cebo en una trampa que había estado cerrándose durante años.
 
 
 ########## Chapter 7.24 | El Paquete: El Artefacto ##########
-
---- 
 
 ## Capítulo 7 | Parte 24
 
@@ -3846,8 +3778,6 @@ No quedaba nada que dejar.
 
 
 ########## Chapter 7.25 | El Paquete: La Travesía ##########
-
---- 
 
 ## Capítulo 7 | Parte 25
 
@@ -3962,8 +3892,6 @@ Estaba en Wyrmreach.
 
 ########## Chapter 7.26 | El Paquete: El Nuevo Mundo ##########
 
---- 
-
 ## Capítulo 7 | Parte 26
 
 --- 
@@ -4068,8 +3996,6 @@ Por ahora.
 
 
 ########## Chapter 8.1 | El Camino de Zuraldi: El Despertar ##########
-
---- 
 
 ## Capítulo 8 | Parte 1
 

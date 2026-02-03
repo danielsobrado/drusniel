@@ -7,14 +7,14 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 6,2024-01-07,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,stonehold,Lore,lore,L-006,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos,null,null,lore
 7,2024-01-08,The Zuraldarr,lumeshire,Lore,lore,L-007,false,the-zuraldarr,null,null,lore
 8,2024-01-09,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,L-008,false,dark-depths-the-wymreach-dominion,null,null,lore
-600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prequel,prequel,P-001,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,prequel
-601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prequel,prequel,P-002,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prequel
-602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Prequel,prequel,L-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,prequel
-603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prequel,prequel,P-004,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prequel
-604,2025-08-27,The Call to Zuraldi,stonehold,Prequel,prequel,P-005,true,the-call-to-zuraldi,null,null,prequel
-605,2025-08-28,A Journey Interrupted,stonehold,Prequel,prequel,P-006,false,a-journey-interrupted,null,null,prequel
-606,2024-08-25,The Screams in the Mist,grukmar,Prequel,prequel,P-007,false,the-screams-in-the-mist,null,null,prequel
-607,2024-08-26,March of Despair,grukmar,Prequel,prequel,P-008,false,march-of-despair,null,null,prequel
+600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prologue,prologue,P-001,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,prologue
+601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prologue,prologue,P-002,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prologue
+602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Lore,lore,L-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,lore
+603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prologue,prologue,P-004,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prologue
+604,2025-08-27,The Call to Zuraldi,stonehold,Prologue,prologue,P-005,true,the-call-to-zuraldi,null,null,prologue
+605,2025-08-28,A Journey Interrupted,stonehold,Prologue,prologue,P-006,false,a-journey-interrupted,null,null,prologue
+606,2024-08-25,The Screams in the Mist,grukmar,Prologue,prologue,P-007,false,the-screams-in-the-mist,null,null,prologue
+607,2024-08-26,March of Despair,grukmar,Prologue,prologue,P-008,false,march-of-despair,null,null,prologue
 700,2024-11-27,Border Sign,lumeshire,Prologue,prologue,LUM-R-001,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil,null,null,prologue
 703,2024-11-30,No Tracks,lumeshire,Prologue,prologue,LUM-R-002,false,morning-tidings-goblin-threats-at-grukmars-edge,null,null,prologue
 706,2024-12-03,The Scream,lumeshire,Prologue,prologue,LUM-R-003,true,whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar,null,null,prologue

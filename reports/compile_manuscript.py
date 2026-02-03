@@ -85,12 +85,16 @@ def get_file_content(post, lang):
         print(f"Error reading {file_path}: {e}")
         return ""
 
-def compile_phase(posts, phase_name, lang, output_filename):
-    # Filter posts
-    filtered = [p for p in posts if p.get('canon_phase', '').lower() == phase_name.lower()]
+def compile_phase(posts, phase_names, lang, output_filename, display_name):
+    """Compile posts matching any of the phase_names into a single output file."""
+    # Filter posts - match any of the phase names
+    if isinstance(phase_names, str):
+        phase_names = [phase_names]
+    
+    filtered = [p for p in posts if p.get('canon_phase', '').lower() in [pn.lower() for pn in phase_names]]
     
     if not filtered:
-        print(f"No posts found for {phase_name} ({lang})")
+        print(f"No posts found for {display_name} ({lang})")
         return
 
     output_path = os.path.join(OUTPUT_DIR, output_filename)
@@ -98,7 +102,7 @@ def compile_phase(posts, phase_name, lang, output_filename):
     
     with open(output_path, 'w', encoding='utf-8') as outfile:
         # Title of Manuscript
-        outfile.write(f"DRUSNIEL - {phase_name.upper()} ({lang.upper()})\n")
+        outfile.write(f"DRUSNIEL - {display_name.upper()} ({lang.upper()})\n")
         outfile.write("="*40 + "\n\n")
         
         for post in filtered:
@@ -110,8 +114,9 @@ def compile_phase(posts, phase_name, lang, output_filename):
             # Header for parsed text
             title = post.get('title', 'Untitled')
             
-            # If Main, maybe add Chapter info?
-            if phase_name.lower() == 'main':
+            # If Main/Chapters, add Chapter info
+            phase = post.get('canon_phase', '').lower()
+            if phase == 'main':
                 chap = post.get('chapter')
                 sub = post.get('subchapter')
                 if chap and sub:
@@ -131,19 +136,19 @@ def main():
     ensure_output_dir()
     
     langs = ['en', 'es']
+    # Only 3 categories: lore, prologue (prequel+prologue combined), chapters
     phases = [
-        ('lore', 'lore'),
-        ('prequel', 'prequels'),
-        ('main', 'chapters'),
-        ('prologue', 'prologue')
+        (['lore'], 'lore', 'Lore'),
+        (['prequel', 'prologue'], 'prologue', 'Prologue'),
+        (['main'], 'chapters', 'Chapters'),
     ]
     
     for lang in langs:
         posts = load_posts_from_csv(lang)
         if not posts: continue
         
-        for phase_key, filename_base in phases:
-            compile_phase(posts, phase_key, lang, f"{filename_base}_{lang}.txt")
+        for phase_keys, filename_base, display_name in phases:
+            compile_phase(posts, phase_keys, lang, f"{filename_base}_{lang}.txt", display_name)
 
 if __name__ == "__main__":
     main()
