@@ -31,21 +31,39 @@ counterpart_title: "Translated Title"
 ```
 
 ### Global Chaptering Rules (LOCKED)
-1. **Global Sequence**: Chapter numbers increment once across the entire reading order, regardless of POV.
-   - Drusniel Arc: Chapters 1-7
-   - Road from Zuraldi (West): Chapter 8
-   - Riverhold (East): Chapter 9
-   - Maris: Chapter 10
+1. **Global Sequence**: Chapter numbers increment continuously across all storylines in reading order.
+   - Chapters interleave between Drusniel and West/East arcs
+   - Each chapter number is used once globally (no separate per-storyline numbering)
+   - Reading order: D1-D7 → W8 → D9 → W10 → D11 → W12 → D13 → W14...
+
+   **Current Chapter Map:**
+   | Global Ch | Storyline | Arc Title |
+   |-----------|-----------|-----------|
+   | 1-7 | drusniel | Umbra'kor Arc |
+   | 8 | west | Road from Zuraldi |
+   | 9 | drusniel | The Nightmare Sea |
+   | 10 | west | The Knot at Riverhold |
+   | 11 | drusniel | The Kind Man |
+   | 12 | west | The Grass Where She Fell |
+   | 13 | drusniel | The One Who Walks Free |
+   | 14 | west | Naming Without Explaining |
+   | 15 | drusniel | The Goblin Who Counts Costs |
+   | 16 | west | The Seer's Warning |
+   | 17 | drusniel | The Second Choice |
+   | 18 | west | Northbound |
+   | 19 | drusniel | Direction |
+
 2. **Storyline Field**: Explicitly declares the narrative arc.
-   - `drusniel`
-   - `west` (Wyrmreach/Stonehold)
-   - `east` (Astalor/Riverhold)
-   - `prologue`
-   - `lore`
-3. **Canon Sequence**: Structural identifier, not for reading order.
-   - `D-007-006` (Drusniel, Ch 7, Part 6)
-   - `W-008-001` (West, Ch 8, Part 1)
-   - `P-LUM-001` (Prologue)
+   - `drusniel` - Main protagonist POV (Wyrmreach journey)
+   - `west` - West side characters (Dulint, Balin, Aldric, Maris, Xandor)
+   - `east` - East side characters (future)
+   - `prologue` - Backstory chapters
+   - `lore` - World-building fragments
+
+3. **Canon Sequence**: Structural identifier using storyline prefix + global chapter.
+   - `D-009-001` (Drusniel, Global Ch 9, Subchapter 1)
+   - `W-008-001` (West, Global Ch 8, Subchapter 1)
+   - `P-LUM-001` (Prologue, Lumeshire)
 
 ### Path Structure
 ```
@@ -54,6 +72,8 @@ site/content/posts/es/<category>/<slug>/index.mdx
 ```
 - `<category>`: Region/arc (e.g., `umbrakor`, `stonehold`, `wyrmreach`)
 - `<slug>`: Kebab-case unique identifier
+
+Make sure the names of the chapters they never have spoilers
 
 ---
 
