@@ -21,10 +21,10 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 709,2024-12-06,Tavern Talk,lumeshire,Prologue,prologue,LUM-R-004,false,whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends,null,null,prologue
 1000,2025-01-01,The Sacred Chamber,umbrakor,Main,main,D-001-001,true,the-sacred-chamber,1,1,drusniel
 1003,2025-01-02,Swords and Shadows,umbrakor,Main,main,D-002-001,true,swords-shadows,2,1,drusniel
-1006,2025-01-03,The Failed Trial: The Test of Venemora,umbrakor,Main,main,D-003-001,false,the-failed-trial-the-test-of-venemora,3,1,drusniel
+1006,2025-01-03,The Trial: The Test of Venemora,umbrakor,Main,main,D-003-001,false,the-trial-the-test-of-venemora,3,1,drusniel
 1009,2025-01-04,Secrets and Shadows,umbrakor,Main,main,D-004-001,false,secrets-and-shadows,4,1,drusniel
-1012,2025-01-05,The Failed Trial: The Separation,umbrakor,Main,main,D-005-001,false,the-failed-trial-the-separation,5,1,drusniel
-1015,2025-01-06,The Failed Trial: Shadows in the Hall,umbrakor,Main,main,D-005-002,false,the-failed-trial-shadows-in-the-hall,5,2,drusniel
+1012,2025-01-05,The Trial: The Separation,umbrakor,Main,main,D-005-001,false,the-trial-the-separation,5,1,drusniel
+1015,2025-01-06,The Trial: Shadows in the Hall,umbrakor,Main,main,D-005-002,false,the-trial-shadows-in-the-hall,5,2,drusniel
 1018,2025-01-07,Voices in the Dark: The Empty Days,umbrakor,Main,main,D-006-001,false,voices-in-the-dark-the-empty-days,6,1,drusniel
 1021,2025-01-08,Voices in the Dark: The Distant Voice,umbrakor,Main,main,D-006-002,false,voices-in-the-dark-the-distant-voice,6,2,drusniel
 1024,2025-01-09,Voices in the Dark: The Seed of Doubt,umbrakor,Main,main,D-006-003,false,voices-in-the-dark-the-seed-of-doubt,6,3,drusniel
@@ -78,3 +78,15 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 1140,2025-02-26,The Grass Where She Fell: The Stable Image,astalor,Main,main,W-012-002,false,the-grass-where-she-fell-the-stable-image,12,2,west
 1141,2025-02-26,The Grass Where She Fell: The Disorientation,astalor,Main,main,W-012-003,false,the-grass-where-she-fell-the-disorientation,12,3,west
 1142,2025-02-26,The Grass Where She Fell: The Conduit,astalor,Main,main,W-012-004,false,the-grass-where-she-fell-the-conduit,12,4,west
+1143,2025-02-26,The Grass Where She Fell: The Choice,astalor,Main,main,W-012-005,false,the-grass-where-she-fell-the-choice,12,5,west
+1144,2025-02-26,The Grass Where She Fell: The Arrival,astalor,Main,main,W-012-006,false,the-grass-where-she-fell-the-arrival,12,6,west
+1145,2025-02-27,The One Who Walks Free: The Cage,wyrmreach,Main,main,D-013-001,false,the-one-who-walks-free-the-cage,13,1,drusniel
+1146,2025-02-27,The One Who Walks Free: The Creature,wyrmreach,Main,main,D-013-002,false,the-one-who-walks-free-the-creature,13,2,drusniel
+1147,2025-02-27,The One Who Walks Free: The Choice,wyrmreach,Main,main,D-013-003,false,the-one-who-walks-free-the-choice,13,3,drusniel
+1148,2025-02-27,The One Who Walks Free: The Escape,wyrmreach,Main,main,D-013-004,false,the-one-who-walks-free-the-escape,13,4,drusniel
+1149,2025-02-27,The One Who Walks Free: The Aftermath,wyrmreach,Main,main,D-013-005,false,the-one-who-walks-free-the-aftermath,13,5,drusniel
+1150,2025-02-28,Naming Without Explaining: The Recognition,astalor,Main,main,W-014-001,false,naming-without-explaining-the-recognition,14,1,west
+1151,2025-02-28,Naming Without Explaining: The Warning,astalor,Main,main,W-014-002,false,naming-without-explaining-the-warning,14,2,west
+1152,2025-02-28,Naming Without Explaining: The Fragments,astalor,Main,main,W-014-003,false,naming-without-explaining-the-fragments,14,3,west
+1153,2025-02-28,Naming Without Explaining: The Direction,astalor,Main,main,W-014-004,false,naming-without-explaining-the-direction,14,4,west
+1154,2025-03-01,The Goblin Who Counts Costs: The Wanderers,wyrmreach,Main,main,D-015-001,false,the-goblin-who-counts-costs-the-wanderers,15,1,drusniel

@@ -21,10 +21,10 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10709,2024-12-06,Charla de Taberna,lumeshire,Prologue,prologue,LUM-R-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
 11000,2025-01-01,La Cámara Sagrada,umbrakor,Main,main,D-001-001,true,la-camara-sagrada,1,1,drusniel
 11003,2025-01-02,Espadas y Sombras,umbrakor,Main,main,D-002-001,true,espadas-sombras,2,1,drusniel
-11006,2025-01-03,La Prueba Fallida: La Prueba de Venemora,umbrakor,Main,main,D-003-001,false,la-prueba-fallida-la-prueba-de-venemora,3,1,drusniel
+11006,2025-01-03,La Prueba: La Prueba de Venemora,umbrakor,Main,main,D-003-001,false,la-prueba-la-prueba-de-venemora,3,1,drusniel
 11009,2025-01-04,Secretos y Sombras,umbrakor,Main,main,D-004-001,false,secretos-y-sombras,4,1,drusniel
-11012,2025-01-05,La Prueba Fallida: La Separación,umbrakor,Main,main,D-005-001,false,la-prueba-fallida-la-separacion,5,1,drusniel
-11015,2025-01-06,La Prueba Fallida: Sombras en el Salón,umbrakor,Main,main,D-005-002,false,la-prueba-fallida-sombras-en-el-salon,5,2,drusniel
+11012,2025-01-05,La Prueba: La Separación,umbrakor,Main,main,D-005-001,false,la-prueba-la-separacion,5,1,drusniel
+11015,2025-01-06,La Prueba: Sombras en el Salón,umbrakor,Main,main,D-005-002,false,la-prueba-sombras-en-el-salon,5,2,drusniel
 11018,2025-01-07,Voces en la Oscuridad: Los Días Vacíos,umbrakor,Main,main,D-006-001,false,voces-en-la-oscuridad-los-dias-vacios,6,1,drusniel
 11021,2025-01-08,Voces en la Oscuridad: La Voz Distante,umbrakor,Main,main,D-006-002,false,voces-en-la-oscuridad-la-voz-distante,6,2,drusniel
 11024,2025-01-09,Voces en la Oscuridad: La Semilla de la Duda,umbrakor,Main,main,D-006-003,false,voces-en-la-oscuridad-la-semilla-de-la-duda,6,3,drusniel
@@ -74,3 +74,18 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 11136,2025-02-23,El Hombre Amable: La Tierra Extraña,wyrmreach,Main,main,D-011-002,false,el-hombre-amable-la-tierra-extrana,11,2,drusniel
 11137,2025-02-24,El Hombre Amable: Las Preguntas,wyrmreach,Main,main,D-011-003,false,el-hombre-amable-las-preguntas,11,3,drusniel
 11138,2025-02-25,El Hombre Amable: La Caravana,wyrmreach,Main,main,D-011-004,false,el-hombre-amable-la-caravana,11,4,drusniel
+11139,2025-02-26,La Hierba Donde Cayó: El Despertar,astalor,Main,main,W-012-001,false,la-hierba-donde-cayo-el-despertar,12,1,west
+11140,2025-02-26,La Hierba Donde Cayó: La Imagen Estable,astalor,Main,main,W-012-002,false,la-hierba-donde-cayo-la-imagen-estable,12,2,west
+11141,2025-02-26,La Hierba Donde Cayó: La Desorientación,astalor,Main,main,W-012-003,false,la-hierba-donde-cayo-la-desorientacion,12,3,west
+11142,2025-02-26,La Hierba Donde Cayó: El Conducto,astalor,Main,main,W-012-004,false,la-hierba-donde-cayo-el-conducto,12,4,west
+11143,2025-02-26,La Hierba Donde Cayó: La Elección,astalor,Main,main,W-012-005,false,la-hierba-donde-cayo-la-eleccion,12,5,west
+11144,2025-02-26,La Hierba Donde Cayó: La Llegada,astalor,Main,main,W-012-006,false,la-hierba-donde-cayo-la-llegada,12,6,west
+11145,2025-02-27,El Que Camina Libre: La Jaula,wyrmreach,Main,main,D-013-001,false,el-que-camina-libre-la-jaula,13,1,drusniel
+11146,2025-02-27,El Que Camina Libre: La Criatura,wyrmreach,Main,main,D-013-002,false,el-que-camina-libre-la-criatura,13,2,drusniel
+11147,2025-02-27,El Que Camina Libre: La Elección,wyrmreach,Main,main,D-013-003,false,el-que-camina-libre-la-eleccion,13,3,drusniel
+11148,2025-02-27,El Que Camina Libre: La Fuga,wyrmreach,Main,main,D-013-004,false,el-que-camina-libre-la-fuga,13,4,drusniel
+11149,2025-02-27,El Que Camina Libre: El Después,wyrmreach,Main,main,D-013-005,false,el-que-camina-libre-el-despues,13,5,drusniel
+11150,2025-02-28,Nombrar Sin Explicar: El Reconocimiento,astalor,Main,main,W-014-001,false,nombrar-sin-explicar-el-reconocimiento,14,1,west
+11151,2025-02-28,Nombrar Sin Explicar: La Advertencia,astalor,Main,main,W-014-002,false,nombrar-sin-explicar-la-advertencia,14,2,west
+11152,2025-02-28,Nombrar Sin Explicar: Los Fragmentos,astalor,Main,main,W-014-003,false,nombrar-sin-explicar-los-fragmentos,14,3,west
+11153,2025-02-28,Nombrar Sin Explicar: La Dirección,astalor,Main,main,W-014-004,false,nombrar-sin-explicar-la-direccion,14,4,west
