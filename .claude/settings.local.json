@@ -7,7 +7,8 @@
       "Bash(git push)",
       "Bash(git commit:*)",
       "Bash(\" / \"Prólogo)",
-      "Bash(\" from content headers\n- Classification now in frontmatter only, not in web excerpts\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(\" from content headers\n- Classification now in frontmatter only, not in web excerpts\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(find:*)"
     ]
   }
 }

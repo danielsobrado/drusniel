@@ -7,7 +7,7 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 6,2024-01-07,Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos,stonehold,Lore,lore,L-006,true,forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos,null,null,lore
 7,2024-01-08,The Zuraldarr,lumeshire,Lore,lore,L-007,false,the-zuraldarr,null,null,lore
 8,2024-01-09,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,L-008,false,dark-depths-the-wymreach-dominion,null,null,lore
-600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Prologue,prologue,P-001,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,prologue
+600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Lore,lore,L-009,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,lore
 601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prologue,prologue,P-002,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prologue
 602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Lore,lore,L-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,lore
 603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prologue,prologue,P-004,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prologue
@@ -60,3 +60,21 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 1116,2025-02-08,The Road from Zuraldi: The Nephew's Doubt,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-nephews-doubt,8,1,west
 1119,2025-02-09,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-followers,8,1,west
 1122,2025-02-10,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-decision,8,1,west
+1125,2025-02-12,The Nightmare Sea: The Black Water,wyrmreach,Main,main,D-009-001,false,the-nightmare-sea-the-black-water,9,1,drusniel
+1126,2025-02-13,The Nightmare Sea: The Count,wyrmreach,Main,main,D-009-002,false,the-nightmare-sea-the-count,9,2,drusniel
+1127,2025-02-14,The Nightmare Sea: The Silence,wyrmreach,Main,main,D-009-003,false,the-nightmare-sea-the-silence,9,3,drusniel
+1128,2025-02-15,The Nightmare Sea: The Depths,wyrmreach,Main,main,D-009-004,false,the-nightmare-sea-the-depths,9,4,drusniel
+1129,2025-02-16,The Nightmare Sea: Black Sand,wyrmreach,Main,main,D-009-005,false,the-nightmare-sea-black-sand,9,5,drusniel
+1130,2025-02-17,The Knot at Riverhold: The Veteran,astalor,Main,main,W-010-001,false,the-knot-at-riverhold-the-veteran,10,1,west
+1131,2025-02-18,The Knot at Riverhold: The Summons,astalor,Main,main,W-010-002,false,the-knot-at-riverhold-the-summons,10,2,west
+1132,2025-02-19,The Knot at Riverhold: The Beacon,astalor,Main,main,W-010-003,false,the-knot-at-riverhold-the-beacon,10,3,west
+1133,2025-02-20,The Knot at Riverhold: The Pull,astalor,Main,main,W-010-004,false,the-knot-at-riverhold-the-pull,10,4,west
+1134,2025-02-21,The Knot at Riverhold: The Circle,astalor,Main,main,W-010-005,false,the-knot-at-riverhold-the-circle,10,5,west
+1135,2025-02-22,The Kind Man: The Savior,wyrmreach,Main,main,D-011-001,false,the-kind-man-the-savior,11,1,drusniel
+1136,2025-02-23,The Kind Man: The Strange Land,wyrmreach,Main,main,D-011-002,false,the-kind-man-the-strange-land,11,2,drusniel
+1137,2025-02-24,The Kind Man: The Questions,wyrmreach,Main,main,D-011-003,false,the-kind-man-the-questions,11,3,drusniel
+1138,2025-02-25,The Kind Man: The Caravan,wyrmreach,Main,main,D-011-004,false,the-kind-man-the-caravan,11,4,drusniel
+1139,2025-02-26,The Grass Where She Fell: The Aftermath,astalor,Main,main,W-012-001,false,the-grass-where-she-fell-the-aftermath,12,1,west
+1140,2025-02-26,The Grass Where She Fell: The Stable Image,astalor,Main,main,W-012-002,false,the-grass-where-she-fell-the-stable-image,12,2,west
+1141,2025-02-26,The Grass Where She Fell: The Disorientation,astalor,Main,main,W-012-003,false,the-grass-where-she-fell-the-disorientation,12,3,west
+1142,2025-02-26,The Grass Where She Fell: The Conduit,astalor,Main,main,W-012-004,false,the-grass-where-she-fell-the-conduit,12,4,west

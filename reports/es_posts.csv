@@ -7,7 +7,7 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10006,2024-01-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,L-006,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos,null,null,lore
 10007,2024-01-08,Los Zuraldarr,lumeshire,Lore,lore,L-007,true,the-zuraldarr,null,null,lore
 10008,2024-01-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
-10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prologue,prologue,P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,prologue
+10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Lore,lore,L-009,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,lore
 10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prologue,prologue,P-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prologue
 10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
 10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prologue,prologue,P-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prologue
@@ -60,3 +60,17 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 11116,2025-02-08,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,1,west
 11119,2025-02-09,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-los-seguidores,8,1,west
 11122,2025-02-10,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-decision,8,1,west
+11125,2025-02-12,El Mar de Pesadillas: El Agua Negra,wyrmreach,Main,main,D-009-001,false,el-mar-de-pesadillas-el-agua-negra,9,1,drusniel
+11126,2025-02-13,El Mar de Pesadillas: La Cuenta,wyrmreach,Main,main,D-009-002,false,el-mar-de-pesadillas-la-cuenta,9,2,drusniel
+11127,2025-02-14,El Mar de Pesadillas: El Silencio,wyrmreach,Main,main,D-009-003,false,el-mar-de-pesadillas-el-silencio,9,3,drusniel
+11128,2025-02-15,El Mar de Pesadillas: Las Profundidades,wyrmreach,Main,main,D-009-004,false,el-mar-de-pesadillas-las-profundidades,9,4,drusniel
+11129,2025-02-16,El Mar de Pesadillas: Arena Negra,wyrmreach,Main,main,D-009-005,false,el-mar-de-pesadillas-arena-negra,9,5,drusniel
+11130,2025-02-17,El Nudo en Riverhold: El Veterano,astalor,Main,main,W-010-001,false,el-nudo-en-riverhold-el-veterano,10,1,west
+11131,2025-02-18,El Nudo en Riverhold: La Llamada,astalor,Main,main,W-010-002,false,el-nudo-en-riverhold-la-llamada,10,2,west
+11132,2025-02-19,El Nudo en Riverhold: El Faro,astalor,Main,main,W-010-003,false,el-nudo-en-riverhold-el-faro,10,3,west
+11133,2025-02-20,El Nudo en Riverhold: La Atracción,astalor,Main,main,W-010-004,false,el-nudo-en-riverhold-la-atraccion,10,4,west
+11134,2025-02-21,El Nudo en Riverhold: El Círculo,astalor,Main,main,W-010-005,false,el-nudo-en-riverhold-el-circulo,10,5,west
+11135,2025-02-22,El Hombre Amable: El Salvador,wyrmreach,Main,main,D-011-001,false,el-hombre-amable-el-salvador,11,1,drusniel
+11136,2025-02-23,El Hombre Amable: La Tierra Extraña,wyrmreach,Main,main,D-011-002,false,el-hombre-amable-la-tierra-extrana,11,2,drusniel
+11137,2025-02-24,El Hombre Amable: Las Preguntas,wyrmreach,Main,main,D-011-003,false,el-hombre-amable-las-preguntas,11,3,drusniel
+11138,2025-02-25,El Hombre Amable: La Caravana,wyrmreach,Main,main,D-011-004,false,el-hombre-amable-la-caravana,11,4,drusniel
