@@ -321,6 +321,22 @@ Nyxara must be POLITICAL before anything else:
 
 **DRAGON LANGUAGE PROTECTION**: She is a "lord," "lady," "ruler"—never dragon terminology.
 
+### ⚠️ NYXARA KNOWLEDGE LIMITS (LOCKED)
+
+> **Sharp, not omniscient.** Nyxara is ancient and perceptive, but she TESTS rather than states. She guesses correctly often—but not always.
+>
+> **What she knows**: Something is speaking to Drusniel. It's old. It's interested in him.
+> **What she guesses**: The Voice's nature, its name, its relationship to older powers.
+> **What she gets WRONG**: She believes the Voice is using Drusniel as a vessel. It's actually using him as a KEY. She doesn't understand the Nexus artifact's purpose.
+>
+> **How to show this in prose**:
+> - Her statements about the Voice are probes, not declarations
+> - She watches for Drusniel's reaction (fishing for confirmation)
+> - One detail she states confidently should be subtly incorrect
+> - The incorrectness is not revealed in Part 3—planted for later payoff
+
+**Example wrong guess**: "The voice wants your body. They always do." (Wrong—it wants his CHOICES, not his body. This reveals she's reasoning from pattern, not knowledge.)
+
 ### SUBCHAPTER BREAKDOWN
 
 #### 14.1 | The Borderlands
@@ -479,7 +495,7 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 
 **Character beat**: Drusniel hears himself agree and hates it. Refusal means dying in a field that isn't theirs. Acceptance means walking into a promise with no edges.
 
-**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—she knows about the voice that speaks to you. The one that asks for favors.' The guide smiled, showing too many teeth. 'She finds it fascinating.'"
+**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—there's something in your head. Isn't there?' The guide watched Drusniel's face. Hunting for a reaction. 'She thought so. Something old. Something hungry.' The guide smiled, showing too many teeth. 'She finds that... fascinating.'"
 
 ---
 
@@ -684,7 +700,9 @@ With Nyxara's guide watching, the group travels deeper into contested territory.
 
 **Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels the weight of another debt—Nyxara's. How many debts can he carry?
 
-**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in the drow's head—the voice—it has a name. Old name. Forbidden name.' The guide smiled. 'She says she's met it before. She says it still owes her something.' And then the flowers swallowed the guide whole."
+**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. They always do—the old ones.' The guide's smile widened. 'She says she's met things like it before. She says she knows how to... negotiate.' A pause. 'If you survive long enough to need her help.' And then the flowers swallowed the guide whole."
+
+**NOTE**: Nyxara's statement "it wants your body" is WRONG—planted for later. The Voice wants Drusniel's choices, not his body. She's reasoning from pattern (possession), not knowledge. This reveals she's sharp but not omniscient.
 
 ---
 
@@ -925,6 +943,29 @@ Drusniel faces a situation where his preferred choice is impossible. The Voice r
 - He cannot explain why to companions
 - His agency is compromised, not just his body
 - The pattern is clear: the Voice is training him
+
+### ⚠️ DEBT #3 TRIGGER MOMENT (LOCKED)
+
+> **Subchapter**: 17.3 | The Demand
+>
+> **The Moment**: The guardian demands one companion stay behind permanently. Drusniel's preferred choice is to fight or negotiate. The Voice offers a solution: *name Srietz as the sacrifice*. Drusniel refuses. The Voice withdraws the offer. The guardian's count reaches eight of ten.
+>
+> **The Action**: Drusniel says the words. Out loud. "Take Srietz." He doesn't mean it as real—he means it as a test, a stall. But the guardian accepts. The path opens. Srietz is NOT taken (the Voice intervenes, makes the guardian "forget" the selection). But Drusniel said it. He chose.
+>
+> **The Irreversible Change**: Srietz heard his name. Elion saw Drusniel's mouth move. The words happened. Even though the outcome was "safe," the betrayal was real. Drusniel said yes to sacrificing a companion to save himself time.
+>
+> **Observable Behavioral Change**:
+> - Drusniel cannot meet Srietz's eyes for the rest of the chapter
+> - He stops speaking in group decisions (defers to others)
+> - When asked "What did you do?", he lies: "Nothing"
+> - Elion watches him differently—not hostile, but *cautious*
+
+**Why This Works**:
+- The outcome is technically "fine"—no one died
+- But the CHOICE was made, and witnessed
+- Drusniel learned he would sell a companion to the Voice
+- The Voice learned Drusniel has a price
+- The debt is: *he now knows what he's capable of*
 
 ### SUBCHAPTER BREAKDOWN
 
