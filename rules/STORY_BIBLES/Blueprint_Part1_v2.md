@@ -1,10 +1,28 @@
-# DRUSNIEL BOOK 1: CHAPTER BLUEPRINTS v2
-## Master Reference Document (Refined)
+# DRUSNIEL BOOK 1: CHAPTER BLUEPRINTS v2 — PART 1
+## Master Reference Document (Umbra'kor Arc)
 
-**Purpose**: Scene-by-scene requirements before prose writing  
-**Structure**: 3-6 subchapters per chapter (1 blog post each, 800-1500 words)  
-**Style**: Brandon Sanderson - simple language, clear prose  
+**Scope**: Global Chapters 1–7 (Drusniel only, pre-interleaving)
+
+**Purpose**: Scene-by-scene requirements before prose writing
+**Structure**: 3-6 subchapters per chapter (1 blog post each, 800-1500 words)
+**Style**: Brandon Sanderson - simple language, clear prose
 **Canon Sources**: Nexus Artifact Bible (LOCKED), Story Bible v5, Character Bible, East Side Bible v3
+
+**Chapter Numbering (LOCKED)**:
+- ONE continuous global chapter sequence across all storylines
+- Part 1 covers Global Chapters 1-7 (all Drusniel, before West storyline begins)
+- West storyline begins at Global Chapter 8 (Part 2)
+
+**Part 1 Global Chapter Map:**
+| Global Ch | Storyline | Working Title | Arc |
+|-----------|-----------|---------------|-----|
+| 1 | drusniel | The Failed Trial | Erase sabotage |
+| 2 | drusniel | The First Messages | Zaelar manipulation begins |
+| 3 | drusniel | The Teacher | Air/water magic discovered |
+| 4 | drusniel | The Training | Wyrmreach refused |
+| 5 | drusniel | The Enemy Named | House Vrinn framed |
+| 6 | drusniel | The Massacre | Family killed |
+| 7 | drusniel | The Crossing | Artifact given, crossing begins |
 
 ---
 
@@ -23,7 +41,7 @@ Before writing ANY chapter, verify:
 - **Mind-reading practice**: RETCONNED as "empathy game"â€”pattern recognition, not telepathy. Makes Zaelar's fake feel wrong (too informed, not intimate enough)
 - **Szoravel**: Framed as mentor in Ch 7 (the lie). Drusniel doesn't know the artifact is FOR Szoravel.
 
-**THIS BLUEPRINT COVERS**: Drusniel Chapters 1-7 + East Side Chapter 0 only
+**THIS BLUEPRINT COVERS**: Global Chapters 1-7 (Drusniel only) + East Side Prologue (E0)
 
 ---
 
@@ -695,7 +713,7 @@ Drusniel meets his real enemy but sees him as salvation. First taste of forbidde
 ### ZAELAR'S INTEL SOURCE (Seed for reader curiosity)
 
 Zaelar knows too much about Drusniel:
-- His INTJ personality, his counting habit
+- His analytical personality, his counting habit
 - His insecurity about being "average"
 - The exact words that would validate him
 - The timing of his trial, its outcome
@@ -1530,7 +1548,7 @@ Family murdered. Evidence points to House Vrinn (framed by Zaelar). Drusniel esc
 | Speaker | Topic | Purpose |
 |---------|-------|---------|
 | Dying servant | "Vrinn... they came from..." (dies) | Planted testimony |
-| Drusniel (internal) | "The dagger. Vrinn insignia. But it's so... clean." | INTJ moment |
+| Drusniel (internal) | "The dagger. Vrinn insignia. But it's so... clean." | Analytical moment |
 | Drusniel (internal) | "Why is there no blood on the hilt? This looks placed." | Brief doubt |
 | Drusniel (internal) | "It doesn't matter. They killed them. They're dead because ofâ€”" | Grief override |
 | Drusniel | "I will kill every last one of them." | Rage crystallizes |
@@ -1554,7 +1572,7 @@ The Vrinn dagger must be PRISTINE:
 - Insignia polished, visible
 - Placed, not dropped
 
-**Drusniel's INTJ moment**: He notices. His analytical mind flags the anomaly:
+**Drusniel's analytical nature**: He notices. His mind flags the anomaly:
 - "Why is there no blood on the hilt?"
 - "This looks... placed."
 - A flash of doubt

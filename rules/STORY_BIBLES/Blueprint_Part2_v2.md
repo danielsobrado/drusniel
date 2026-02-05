@@ -1,9 +1,7 @@
 # DRUSNIEL BOOK 1: CHAPTER BLUEPRINTS v2 — PART 2
 ## Master Reference Document (Wyrmreach + Debt Phase)
 
-**Scope**:
-- **Drusniel Chapters 8–13**
-- **West Side Chapters 1–6**
+**Scope**: Global Chapters 8–19 (continuing from Part 1's Chapter 7)
 
 **Purpose**:
 - Scene-by-scene requirements before prose writing
@@ -13,6 +11,28 @@
 **Structure**:
 - 3–6 subchapters per chapter
 - Each subchapter = 1 blog post (800–1500 words)
+
+**Chapter Numbering (LOCKED)**:
+- ONE continuous global chapter sequence across all storylines (like Stormlight Archive)
+- Storylines interleave for reader engagement, but chapters are numbered 1, 2, 3... not D1/W1
+- This document uses **working labels** that map to global chapters
+- Final `chapter` and `canon_sequence` frontmatter values follow the global sequence
+
+**Part 2 Global Chapter Map:**
+| Global Ch | Storyline | Working Title (Blueprint) | Arc |
+|-----------|-----------|---------------------------|-----|
+| 8 | west | The Road from Zuraldi | Artifact Activation |
+| 9 | drusniel | The Nightmare Sea | DEBT #1 |
+| 10 | west | The Knot at Riverhold | Group Forms |
+| 11 | drusniel | The Kind Man | Merrik's Betrayal |
+| 12 | west | The Grass Where She Fell | Maris's Cost |
+| 13 | drusniel | The One Who Walks Free | Meets Elion |
+| 14 | west | Naming Without Explaining | Xandor's Knowledge |
+| 15 | drusniel | The Goblin Who Counts Costs | Meets Srietz |
+| 16 | west | The Seer's Warning | Dulint's Secret |
+| 17 | drusniel | The Second Choice | DEBT #2 |
+| 18 | west | Northbound | First Blood |
+| 19 | drusniel | Direction | Commitment |
 
 **Style**:
 - Brandon Sanderson — simple language, clear causality, visible costs
@@ -196,33 +216,35 @@ The betrayal should feel like "of course" not "how dare you."
 
 # TIMELINE REFERENCE (PART 2)
 
-| Chapter | Timeline | Key Events |
-|---------|----------|------------|
-| **Ch 8** | Week 10, Day 1 | Nightmare sea crossing, DEBT #1, unconscious on shore |
-| **Ch 9** | Week 10, Days 2-5 | Merrik's false kindness, drugged, betrayed |
-| **Ch 10** | Week 10, Days 6-8 | Slave caravan, meets Elion, escape |
-| **Ch 11** | Week 10, Days 9-10 | Near Vexrath's tower, meets Srietz, Coatly pursuit |
-| **Ch 12** | Week 11, Days 11-12 | Obsidian caves, DEBT #2, Elion transforms, ancient writings |
-| **Ch 13** | Week 11-12, Days 13-18 | Journey to gloomy town, information on Szoravel, departure |
-| **E1** | Week 9-10 | Dulint/Balin journey, artifact activates, pursuit begins (Road from Zuraldi) |
-| **E2** | Week 10 (parallel) | Riverhold gathering, Beacon reacts to Maris |
-| **E3** | Week 10 (parallel) | Maris's first vision—sees Drusniel drowning |
-| **E4** | Week 10-11 | Xandor names the system, warns of broadcast |
-| **E5** | Week 11 | Dulint's secret seer visit, hidden prophecy |
-| **E6** | Week 11-12 | First fragment found, hunters confirmed, departure north |
+*Global chapter numbers shown — storylines interleave for reader engagement*
 
-**SYNC POINT**: E3 (Maris's drowning vision) maps directly to D8 (Drusniel's nightmare sea crossing). Same event, different perspectives.
+| Global Ch | Storyline | Timeline | Key Events |
+|-----------|-----------|----------|------------|
+| **8** | west | Week 9-10 | The Road from Zuraldi - artifact activates, pursuit begins |
+| **9** | drusniel | Week 10, Day 1 | The Nightmare Sea - DEBT #1, unconscious on shore |
+| **10** | west | Week 10 (parallel) | The Knot at Riverhold - group forms, Beacon reacts to Maris |
+| **11** | drusniel | Week 10, Days 2-5 | The Kind Man - Merrik's false kindness, betrayed |
+| **12** | west | Week 10 (parallel) | The Grass Where She Fell - Maris's first vision (sees Drusniel drowning) |
+| **13** | drusniel | Week 10, Days 6-8 | The One Who Walks Free - slave caravan, meets Elion, escape |
+| **14** | west | Week 10-11 | Naming Without Explaining - Xandor names the system |
+| **15** | drusniel | Week 10, Days 9-10 | The Goblin Who Counts Costs - meets Srietz, Coatly pursuit |
+| **16** | west | Week 11 | The Seer's Warning - Dulint's secret prophecy |
+| **17** | drusniel | Week 11, Days 11-12 | The Second Choice - DEBT #2, Elion transforms, ancient writings |
+| **18** | west | Week 11-12 | Northbound - first combat, Balin blooded |
+| **19** | drusniel | Week 11-12, Days 13-18 | Direction - journey to gloomy town, departure toward Szoravel |
 
-**NOTE**: E1 content exists as "The Road from Zuraldi" series (E1-001 through E1-005).
+**SYNC POINT**: Global Ch 12 (Maris's drowning vision) maps to Global Ch 9 (Drusniel's nightmare sea crossing). Same event, different perspectives.
 
 ---
 
 # PART TWO: DRUSNIEL ARC (WYRMREACH)
-## Chapters 8-13 | Survival Phase
+## Global Chapters 9, 11, 13, 15, 17, 19 | Survival Phase
+*Drusniel chapters interleaved with West chapters*
 
 ---
 
-## CHAPTER 8: THE NIGHTMARE SEA
+## CHAPTER 9: THE NIGHTMARE SEA
+*Global Chapter 9 | drusniel storyline*
 
 **Timeline**: Week 10, Day 1
 **POV**: Drusniel
@@ -336,7 +358,7 @@ This is the most important scene in Part 2. Get it right.
 - The thing below doesn't attack—it's curious
 - His ears pop repeatedly—pressure changing without cause
 
-**Character beat**: Drusniel's INTJ mind tries to problem-solve. He calculates: air magic buys 30 seconds per cast. He has maybe three casts in him. That's 90 seconds. The shore is nowhere.
+**Character beat**: Drusniel's mind works the way it always does—calculating. Air magic buys 30 seconds per cast. He has maybe three casts in him. That's 90 seconds. The shore is nowhere.
 
 **The math doesn't work.** Panic follows the calculation.
 
@@ -467,7 +489,8 @@ This is the most important scene in Part 2. Get it right.
 
 ---
 
-## CHAPTER 9: THE KIND MAN
+## CHAPTER 11: THE KIND MAN
+*Global Chapter 11 | drusniel storyline*
 
 **Timeline**: Week 10, Days 2-5
 **POV**: Drusniel
@@ -639,7 +662,7 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - The camp suddenly looks different: a pen, not a shelter
 - Sound of approaching wagons in the distance
 
-**Character beat**: Drusniel's rage is cold. His INTJ mind catalogs: eleven questions (intelligence gathering), four delays (waiting for caravan), three compliments on his magic (value assessment). He saw everything. He just didn't want to see it.
+**Character beat**: Drusniel's rage is cold. His mind catalogs like it always does: eleven questions (intelligence gathering), four delays (waiting for caravan), three compliments on his magic (value assessment). He saw everything. He just didn't want to see it.
 
 **AGENCY NOTE**: Drusniel CHOSE to trust. This wasn't forced on him. He saw the signs and rationalized them away. That makes it HIS failure, which matters for his arc.
 
@@ -653,7 +676,7 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - [ ] Wyrmreach environment reinforced (alien, wrong, hostile)
 - [ ] Drusniel's magic recovering but not useful yet
 - [ ] Red flags visible to reader and character
-- [ ] Drusniel rationalizes (INTJ flaw)
+- [ ] Drusniel rationalizes (analytical mind as flaw)
 - [ ] Betrayal feels INEVITABLE, not shocking
 - [ ] Capture is logical, not dramatic
 - [ ] "Healthy cargo" language establishes slave trade norms
@@ -661,7 +684,8 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 
 ---
 
-## CHAPTER 10: THE ONE WHO WALKS FREE
+## CHAPTER 13: THE ONE WHO WALKS FREE
+*Global Chapter 13 | drusniel storyline*
 
 **Timeline**: Week 10, Days 6-8
 **POV**: Drusniel
@@ -723,7 +747,7 @@ Elion must be UNSETTLING before he's sympathetic:
 - Elion: utterly still, watching, doesn't blink enough
 - Landscape: passing crystalline formations, wrong-colored plants
 
-**Character beat**: Drusniel's counting returns—he counts guards (seven), cages (four), prisoners (eleven). He's looking for angles. The INTJ is problem-solving again.
+**Character beat**: Drusniel's counting returns—he counts guards (seven), cages (four), prisoners (eleven). He's looking for angles. The analytical mind working when everything else has failed.
 
 **Hook**: "The creature in the far cage hadn't moved in hours. It was watching him."
 
@@ -897,7 +921,8 @@ Loyalty forms in silence:
 
 ---
 
-## CHAPTER 11: THE GOBLIN WHO COUNTS COSTS
+## CHAPTER 15: THE GOBLIN WHO COUNTS COSTS
+*Global Chapter 15 | drusniel storyline*
 
 **Timeline**: Week 10, Days 9-10
 **POV**: Drusniel
@@ -1112,7 +1137,7 @@ This scene ESTABLISHES the rule:
 - **Trust decision**: Follow unexplained knowledge or wander blind?
 - **Wyrmreach navigation**: Without guidance, almost impossible
 
-**Character beat**: Drusniel's INTJ mind hates unexplained data. But he's practical. Unknown source of good intel is still good intel.
+**Character beat**: Drusniel hates unexplained data—it breaks his patterns. But he's practical. Unknown source of good intel is still good intel.
 
 **Hook**: "Things come to me." The words should have been terrifying. Instead, they felt like hope.
 
@@ -1183,7 +1208,8 @@ This prevents Srietz from being a walking solution dispenser. His value is real 
 
 ---
 
-## CHAPTER 12: THE SECOND CHOICE
+## CHAPTER 17: THE SECOND CHOICE
+*Global Chapter 17 | drusniel storyline*
 
 **Timeline**: Week 11, Days 11-12
 **POV**: Drusniel
@@ -1241,7 +1267,7 @@ The Voice knew he'd call again. It was waiting.
 - **Supply economics**: In Wyrmreach, everything costs something
 - **Cave moisture**: Drinkable water exists, barely
 
-**Character beat**: Drusniel's INTJ mind: problem, analysis, solution. But the solution requires resources they don't have.
+**Character beat**: Drusniel's mind runs its usual pattern: problem, analysis, solution. But the solution requires resources they don't have.
 
 **Hook**: "Surviving the sea, the caravan, the hunters—all of it meant nothing if they died in a cave."
 
@@ -1320,7 +1346,7 @@ This is NOT beautiful shapeshifting:
 - Smell: copper, sweat, something burning
 - Duration: long enough to be uncomfortable
 - Srietz: backs away, hands over ears
-- Drusniel: forces himself to watch (INTJ—needs data)
+- Drusniel: forces himself to watch (needs to understand)
 
 **WORLDBUILDING ELEMENTS**:
 - **Shapeshifter mechanics**: Painful, draining, limited forms
@@ -1472,7 +1498,8 @@ This is NOT beautiful shapeshifting:
 
 ---
 
-## CHAPTER 13: DIRECTION
+## CHAPTER 19: DIRECTION
+*Global Chapter 19 | drusniel storyline*
 
 **Timeline**: Week 11-12, Days 13-18
 **POV**: Drusniel
@@ -1696,7 +1723,8 @@ West Side chapters interleave with Drusniel chapters. Each East Side chapter par
 
 ---
 
-## CHAPTER 1 (WEST): THE ROAD FROM ZURALDI
+## CHAPTER 8: THE ROAD FROM ZURALDI
+*Global Chapter 8 | west storyline*
 
 **Timeline**: Week 9-10 (before D8)
 **POV**: Dulint / Balin
@@ -1711,7 +1739,8 @@ The artifact activates. Dulint makes delay choices that feel protective but accu
 
 ---
 
-## CHAPTER 2 (WEST): THE KNOT AT RIVERHOLD
+## CHAPTER 10: THE KNOT AT RIVERHOLD
+*Global Chapter 10 | west storyline*
 
 **Timeline**: Week 10 (parallel to D8)
 **POV**: Aldric
@@ -1907,7 +1936,8 @@ Aldric enters this story BROKEN:
 
 ---
 
-## CHAPTER 3 (WEST): THE GRASS WHERE SHE FELL
+## CHAPTER 12: THE GRASS WHERE SHE FELL
+*Global Chapter 12 | west storyline*
 
 **Timeline**: Week 10 (parallel to D9)
 **POV**: Maris
@@ -2184,7 +2214,8 @@ This maps to Drusniel's nightmare sea crossing (D8). Same event, different persp
 
 ---
 
-## CHAPTER 4 (WEST): NAMING WITHOUT EXPLAINING
+## CHAPTER 14: NAMING WITHOUT EXPLAINING
+*Global Chapter 14 | west storyline*
 
 **Timeline**: Week 10-11 (parallel to D10)
 **POV**: Xandor
@@ -2363,7 +2394,8 @@ Xandor knows MORE than others but NOT everything:
 
 ---
 
-## CHAPTER 5 (WEST): THE SEER'S WARNING
+## CHAPTER 16: THE SEER'S WARNING
+*Global Chapter 16 | west storyline*
 
 **Timeline**: Week 11 (parallel to D11)
 **POV**: Dulint
@@ -2592,7 +2624,8 @@ This prevents the delay engine from becoming pure chess. Dulint is human first.
 
 ---
 
-## CHAPTER 6 (WEST): NORTHBOUND
+## CHAPTER 18: NORTHBOUND
+*Global Chapter 18 | west storyline*
 
 **Timeline**: Week 11-12 (parallel to D12)
 **POV**: Balin

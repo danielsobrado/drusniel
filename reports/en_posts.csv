@@ -8,9 +8,9 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 7,2024-01-08,The Zuraldarr,lumeshire,Lore,lore,L-007,false,the-zuraldarr,null,null,lore
 8,2024-01-09,The Mysteries of the Wyrmreach Dominion,wyrmreach,Lore,lore,L-008,false,dark-depths-the-wymreach-dominion,null,null,lore
 600,2025-08-23,Eternal Woods: The Kingdom of Elenoria's Dance with Nature,elenoria,Lore,lore,L-009,false,eternal-woods-the-kingdom-of-elenoria-dance-with-nature,null,null,lore
-601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Prologue,prologue,P-002,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prologue
+601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Lore,lore,L-006,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prologue
 602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Lore,lore,L-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,lore
-603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Prologue,prologue,P-004,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prologue
+603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Lore,lore,L-007,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prologue
 604,2025-08-27,The Call to Zuraldi,stonehold,Prologue,prologue,P-005,true,the-call-to-zuraldi,null,null,prologue
 605,2025-08-28,A Journey Interrupted,stonehold,Prologue,prologue,P-006,false,a-journey-interrupted,null,null,prologue
 606,2024-08-25,The Screams in the Mist,grukmar,Prologue,prologue,P-007,false,the-screams-in-the-mist,null,null,prologue
@@ -90,3 +90,29 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 1152,2025-02-28,Naming Without Explaining: The Fragments,astalor,Main,main,W-014-003,false,naming-without-explaining-the-fragments,14,3,west
 1153,2025-02-28,Naming Without Explaining: The Direction,astalor,Main,main,W-014-004,false,naming-without-explaining-the-direction,14,4,west
 1154,2025-03-01,The Goblin Who Counts Costs: The Wanderers,wyrmreach,Main,main,D-015-001,false,the-goblin-who-counts-costs-the-wanderers,15,1,drusniel
+1155,2025-03-01,The Goblin Who Counts Costs: The Goblin,wyrmreach,Main,main,D-015-002,false,the-goblin-who-counts-costs-the-goblin,15,2,drusniel
+1156,2025-03-01,The Goblin Who Counts Costs: The Hunters,wyrmreach,Main,main,D-015-003,false,the-goblin-who-counts-costs-the-hunters,15,3,drusniel
+1157,2025-03-01,The Goblin Who Counts Costs: The Bargain,wyrmreach,Main,main,D-015-004,false,the-goblin-who-counts-costs-the-bargain,15,4,drusniel
+1158,2025-03-01,The Goblin Who Counts Costs: The Memory,wyrmreach,Main,main,D-015-005,false,the-goblin-who-counts-costs-the-memory,15,5,drusniel
+1159,2025-03-01,The Goblin Who Counts Costs: The Smoke,wyrmreach,Main,main,D-015-006,false,the-goblin-who-counts-costs-the-smoke,15,6,drusniel
+1160,2025-03-02,The Seer's Warning: The Weight,astalor,Main,main,W-016-001,false,the-seers-warning-the-weight,16,1,west
+1161,2025-03-02,The Seer's Warning: The Visit,astalor,Main,main,W-016-002,false,the-seers-warning-the-visit,16,2,west
+1162,2025-03-02,The Seer's Warning: The Route,astalor,Main,main,W-016-003,false,the-seers-warning-the-route,16,3,west
+1163,2025-03-02,The Seer's Warning: The Truth,astalor,Main,main,W-016-004,false,the-seers-warning-the-truth,16,4,west
+1164,2025-03-02,The Seer's Warning: The Departure,astalor,Main,main,W-016-005,false,the-seers-warning-the-departure,16,5,west
+1165,2025-03-04,The Second Choice: The Safe Dark,wyrmreach,Main,main,D-017-001,false,the-second-choice-the-safe-dark,17,1,drusniel
+1166,2025-03-04,The Second Choice: The Voice Returns,wyrmreach,Main,main,D-017-002,false,the-second-choice-the-voice-returns,17,2,drusniel
+1167,2025-03-04,The Second Choice: The Transformation,wyrmreach,Main,main,D-017-003,false,the-second-choice-the-transformation,17,3,drusniel
+1168,2025-03-04,The Second Choice: The Wait,wyrmreach,Main,main,D-017-004,false,the-second-choice-the-wait,17,4,drusniel
+1169,2025-03-04,The Second Choice: The Writing,wyrmreach,Main,main,D-017-005,false,the-second-choice-the-writing,17,5,drusniel
+1170,2025-03-04,The Second Choice: The Return,wyrmreach,Main,main,D-017-006,false,the-second-choice-the-return,17,6,drusniel
+1171,2025-03-06,Northbound: The Counting,astalor,Main,main,W-018-001,false,northbound-the-counting,18,1,west
+1172,2025-03-06,Northbound: The Sign,astalor,Main,main,W-018-002,false,northbound-the-sign,18,2,west
+1173,2025-03-06,Northbound: The Ambush,astalor,Main,main,W-018-003,false,northbound-the-ambush,18,3,west
+1174,2025-03-06,Northbound: The Kill,astalor,Main,main,W-018-004,false,northbound-the-kill,18,4,west
+1175,2025-03-06,Northbound: The Aftermath,astalor,Main,main,W-018-005,false,northbound-the-aftermath,18,5,west
+1176,2025-03-07,Direction: Recovery,wyrmreach,Main,main,D-019-001,false,direction-recovery,19,1,drusniel
+1177,2025-03-07,Direction: Information,wyrmreach,Main,main,D-019-002,false,direction-information,19,2,drusniel
+1178,2025-03-07,Direction: The Gloomy Town,wyrmreach,Main,main,D-019-003,false,direction-the-gloomy-town,19,3,drusniel
+1179,2025-03-07,Direction: The Night,wyrmreach,Main,main,D-019-004,false,direction-the-night,19,4,drusniel
+1180,2025-03-07,Direction: The Dawn,wyrmreach,Main,main,D-019-005,false,direction-the-dawn,19,5,drusniel

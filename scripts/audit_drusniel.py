@@ -21,13 +21,21 @@ def main():
         # Check if storyline drusniel or category umbrakor
         if "category: Umbra'kor" in content or "storyline: drusniel" in content:
             # extract chapter
-            match = re.search(r"^##\s+(?:Chapter|Cap[íi]tulo)\s+(\d+(?:\.\d+)?)\s*", content, re.MULTILINE)
-            if match:
-                chap = match.group(1)
+            header_match = re.search(r"^##\s+(?:Chapter|Cap[íi]tulo).*", content, re.MULTILINE)
+            chap = None
+            if header_match:
+                header_line = header_match.group(0)
+                m_part = re.search(r"(\d+).*?(?:Part|Parte)\s*(\d+)", header_line)
+                if m_part:
+                     chap = f"{m_part.group(1)}.{m_part.group(2)}"
+                else:
+                     m_simple = re.search(r"(\d+(?:\.\d+)?)", header_line)
+                     chap = m_simple.group(1) if m_simple else "0"
+            if chap:
                 order_match = re.search(r"order:\s+(\d+)", content)
                 order = int(order_match.group(1)) if order_match else 0
-                title_match = re.search(r"title:\s+\"(.*?)\"", content)
-                title = title_match.group(1) if title_match else "No Title"
+                title_match = re.search(r"title:\s+(?:\"(.*?)\"|(.*?))\s*$", content, re.MULTILINE)
+                title = (title_match.group(1) or title_match.group(2)) if title_match else "No Title"
                 
                 drusniel_files.append((order, chap, title, fpath))
 

@@ -52,6 +52,18 @@ counterpart_title: "Translated Title"
    | 17 | drusniel | The Second Choice |
    | 18 | west | Northbound |
    | 19 | drusniel | Direction |
+   | 20 | west | The First Fragment |
+   | 21 | drusniel | The Black Garden |
+   | 22 | west | The Fracture |
+   | 23 | drusniel | The Debt Anticipated |
+   | 24 | west | The Clear Sight |
+   | 25 | drusniel | The Approach |
+   | 26 | west | The Crack |
+   | 27 | drusniel | The Price of Passage |
+   | 28 | west | The Second Blood |
+   | 29 | drusniel | The Drow in the Tower |
+   | 30 | west | The Convergence Seeds |
+   | 31 | drusniel | The Departure |
 
 2. **Storyline Field**: Explicitly declares the narrative arc.
    - `drusniel` - Main protagonist POV (Wyrmreach journey)

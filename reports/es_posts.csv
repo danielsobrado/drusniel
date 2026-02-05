@@ -8,9 +8,9 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10007,2024-01-08,Los Zuraldarr,lumeshire,Lore,lore,L-007,true,the-zuraldarr,null,null,lore
 10008,2024-01-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,L-008,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
 10600,2025-08-23,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Lore,lore,L-009,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,lore
-10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Prologue,prologue,P-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prologue
+10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,L-006,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prologue
 10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
-10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Prologue,prologue,P-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prologue
+10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Lore,lore,L-007,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prologue
 10604,2025-08-27,La llamada a Zuraldi,stonehold,Prologue,prologue,P-005,true,la-llamada-a-zuraldi,null,null,prologue
 10605,2025-08-28,Un viaje complicado,stonehold,Prologue,prologue,P-006,false,un-viaje-complicado,null,null,prologue
 10606,2024-08-25,Gritos en la niebla,grukmar,Prologue,prologue,P-007,false,gritos-en-la-niebla,null,null,prologue
@@ -89,3 +89,30 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 11151,2025-02-28,Nombrar Sin Explicar: La Advertencia,astalor,Main,main,W-014-002,false,nombrar-sin-explicar-la-advertencia,14,2,west
 11152,2025-02-28,Nombrar Sin Explicar: Los Fragmentos,astalor,Main,main,W-014-003,false,nombrar-sin-explicar-los-fragmentos,14,3,west
 11153,2025-02-28,Nombrar Sin Explicar: La Dirección,astalor,Main,main,W-014-004,false,nombrar-sin-explicar-la-direccion,14,4,west
+11154,2025-03-01,El Goblin Que Cuenta Costos: Los Vagabundos,wyrmreach,Main,main,D-015-001,false,el-goblin-que-cuenta-costos-los-vagabundos,15,1,drusniel
+11155,2025-03-01,El Goblin Que Cuenta Costos: El Goblin,wyrmreach,Main,main,D-015-002,false,el-goblin-que-cuenta-costos-el-goblin,15,2,drusniel
+11156,2025-03-01,El Goblin Que Cuenta Costos: Los Cazadores,wyrmreach,Main,main,D-015-003,false,el-goblin-que-cuenta-costos-los-cazadores,15,3,drusniel
+11157,2025-03-01,El Goblin Que Cuenta Costos: El Trato,wyrmreach,Main,main,D-015-004,false,el-goblin-que-cuenta-costos-el-trato,15,4,drusniel
+11158,2025-03-01,El Goblin Que Cuenta Costos: El Recuerdo,wyrmreach,Main,main,D-015-005,false,el-goblin-que-cuenta-costos-el-recuerdo,15,5,drusniel
+11159,2025-03-01,El Goblin Que Cuenta Costos: El Humo,wyrmreach,Main,main,D-015-006,false,el-goblin-que-cuenta-costos-el-humo,15,6,drusniel
+11160,2025-03-02,La Advertencia del Vidente: El Peso,astalor,Main,main,W-016-001,false,la-advertencia-del-vidente-el-peso,16,1,west
+11161,2025-03-02,La Advertencia del Vidente: La Visita,astalor,Main,main,W-016-002,false,la-advertencia-del-vidente-la-visita,16,2,west
+11162,2025-03-02,La Advertencia del Vidente: La Ruta,astalor,Main,main,W-016-003,false,la-advertencia-del-vidente-la-ruta,16,3,west
+11163,2025-03-02,La Advertencia del Vidente: La Verdad,astalor,Main,main,W-016-004,false,la-advertencia-del-vidente-la-verdad,16,4,west
+11164,2025-03-02,La Advertencia del Vidente: La Partida,astalor,Main,main,W-016-005,false,la-advertencia-del-vidente-la-partida,16,5,west
+11165,2025-03-04,La Segunda Elección: La Oscuridad Segura,wyrmreach,Main,main,D-017-001,false,la-segunda-eleccion-la-oscuridad-segura,17,1,drusniel
+11166,2025-03-04,La Segunda Elección: La Voz Regresa,wyrmreach,Main,main,D-017-002,false,la-segunda-eleccion-la-voz-regresa,17,2,drusniel
+11167,2025-03-04,La Segunda Elección: La Transformación,wyrmreach,Main,main,D-017-003,false,la-segunda-eleccion-la-transformacion,17,3,drusniel
+11168,2025-03-04,La Segunda Elección: La Espera,wyrmreach,Main,main,D-017-004,false,la-segunda-eleccion-la-espera,17,4,drusniel
+11169,2025-03-04,La Segunda Elección: La Escritura,wyrmreach,Main,main,D-017-005,false,la-segunda-eleccion-la-escritura,17,5,drusniel
+11170,2025-03-04,La Segunda Elección: El Regreso,wyrmreach,Main,main,D-017-006,false,la-segunda-eleccion-el-regreso,17,6,drusniel
+11171,2025-03-06,Rumbo al Norte: El Conteo,astalor,Main,main,W-018-001,false,rumbo-al-norte-el-conteo,18,1,west
+11172,2025-03-06,Rumbo al Norte: La Señal,astalor,Main,main,W-018-002,false,rumbo-al-norte-la-senal,18,2,west
+11173,2025-03-06,Rumbo al Norte: La Emboscada,astalor,Main,main,W-018-003,false,rumbo-al-norte-la-emboscada,18,3,west
+11174,2025-03-06,Rumbo al Norte: La Muerte,astalor,Main,main,W-018-004,false,rumbo-al-norte-la-muerte,18,4,west
+11175,2025-03-06,Rumbo al Norte: Las Consecuencias,astalor,Main,main,W-018-005,false,rumbo-al-norte-las-consecuencias,18,5,west
+11176,2025-03-07,Dirección: Recuperación,wyrmreach,Main,main,D-019-001,false,direccion-recuperacion,19,1,drusniel
+11177,2025-03-07,Dirección: Información,wyrmreach,Main,main,D-019-002,false,direccion-informacion,19,2,drusniel
+11178,2025-03-07,Dirección: El Pueblo Sombrío,wyrmreach,Main,main,D-019-003,false,direccion-el-pueblo-sombrio,19,3,drusniel
+11179,2025-03-07,Dirección: La Noche,wyrmreach,Main,main,D-019-004,false,direccion-la-noche,19,4,drusniel
+11180,2025-03-07,Dirección: El Amanecer,wyrmreach,Main,main,D-019-005,false,direccion-el-amanecer,19,5,drusniel
