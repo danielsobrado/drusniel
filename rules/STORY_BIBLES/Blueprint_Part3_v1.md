@@ -28,16 +28,15 @@
 | 24 | west | The Clear Sight | (no spoilers) |
 | 25 | drusniel | The Approach | (no spoilers) |
 | 26 | west | The Crack | (no spoilers) |
-| 27 | drusniel | The Third Debt | **RENAME** - spoiler |
+| 27 | drusniel | The Counted Cost | (renamed from "The Third Debt") |
 | 28 | west | The Second Blood | (no spoilers) |
-| 29 | drusniel | The Drow in the Tower | **RENAME** - "mentor" framing |
+| 29 | drusniel | The Tower of Certainties | (renamed from "The Drow in the Tower") |
 | 30 | west | The Convergence Seeds | (no spoilers) |
 | 31 | drusniel | The Departure | (review needed) |
 
 **Title Hygiene (LOCKED)**:
-- Working titles marked **RENAME** must get non-spoiler publish titles before drafting
-- "The Third Debt" → reveals debt count (spoiler)
-- "The Mentor" → wrong framing for Szoravel (transactional, not mentor)
+- "The Third Debt" → renamed to "The Counted Cost" (behavioral, not mechanical)
+- "The Drow in the Tower" → renamed to "The Tower of Certainties" (ironic foreshadowing of error)
 
 **Style**:
 - Brandon Sanderson — simple language, clear causality, visible costs
@@ -892,9 +891,8 @@ Szoravel must feel CONTRADICTORY:
 
 ---
 
-## CHAPTER 27: THE PRICE OF PASSAGE
+## CHAPTER 27: THE COUNTED COST
 *Global Chapter 27 | drusniel storyline*
-*Working title — "The Third Debt" reveals debt count (spoiler)*
 
 **Timeline**: Week 13-14, Days 29-32
 **POV**: Drusniel
@@ -1134,9 +1132,8 @@ Drusniel faces a situation where his preferred choice is impossible. The Voice r
 
 ---
 
-## CHAPTER 29: THE DROW IN THE TOWER
+## CHAPTER 29: THE TOWER OF CERTAINTIES
 *Global Chapter 29 | drusniel storyline*
-*Working title — rename before publishing (avoid "mentor" framing)*
 
 **Timeline**: Week 14, Days 33-35
 **POV**: Drusniel
@@ -1254,28 +1251,29 @@ He must be factually wrong once in this chapter. The error should be:
 - The error seems reasonable now
 - The error will cost them later
 
+**SZORAVEL'S ERROR (LOCKED)**:
+> **Exact claim**: "Nyxara won't pursue you beyond the Thornfield border. She considers that territory beneath her interest."
+> **Reality**: Nyxara DOES pursue. The Thornfield border is exactly where she's most active—her agents patrol it.
+> **Discovery point**: Chapter 33 (Part 4) - when pursuit catches them crossing the border they thought was safe.
+> **Consequence**: Forced confrontation with Nyxara's agents when defenses are down, costs them supplies and nearly costs Srietz.
+> **Who notices**: Srietz realizes first ("Szoravel said this was safe. Szoravel was wrong."), creating doubt about all Szoravel's information.
+
+**Why this error works**:
+- Strategic, not survival (Voice doesn't correct it)
+- Reasonable mistake (information 3 months old)
+- Discovered after commitment (can't go back)
+- Costs something tangible (supplies, trust)
+- Creates doubt about Szoravel's other advice
+
 **SCENE REQUIREMENTS**:
-- Szoravel advises on next steps
-- Information includes: timing, route, or specific fact
-- ONE piece is wrong (but sounds right)
+- Szoravel advises on route and Nyxara's territory
+- Speaks with certainty ("She won't bother")
 - Drusniel accepts (no reason to doubt)
-- Error nature: NOT about survival, about strategy
-
-**POSSIBLE ERRORS** (choose one):
-- Timing: "You have more time than you think" (wrong)
-- Route: "The eastern path is faster" (incorrect)
-- Faction: "Lord X won't interfere" (they will)
-- Mechanism: "The artifact works this way" (partially wrong)
-
-**The error must**:
-- Be minor enough to be believable
-- Be discovered AFTER commitment to a path
-- NOT be Voice's domain (survival vs. strategy)
-- Show Szoravel is fallible, not omniscient
+- Error planted for future payoff
 
 **Character beat**: The advice sounded right. Drusniel had no way to verify it. He'd learn later what that cost.
 
-**Hook**: "'The northern route,' Szoravel said, 'is clear. I walked it myself, not three months past.' He sounded so certain. Drusniel would remember that certainty later, when the northern route turned out to be anything but clear. But that was later. Now, he just nodded and believed."
+**Hook**: "'Nyxara won't follow you past the Thornfield,' Szoravel said. 'She considers that territory beneath her notice. I've walked it myself.' He sounded so certain. Drusniel would remember that certainty later. But that was later. Now, he just nodded and believed."
 
 ---
 
@@ -1937,7 +1935,7 @@ The fragment's effect reaches its peak. Maris sees Drusniel clearly for the firs
 **Must establish**:
 - Stable Image at maximum clarity
 - The drowning person IS VISIBLE
-- Species confirmed (dark elf/drow)
+- Features clear (dark elf appearance—but Maris doesn't know what "drow" means)
 - His face, his fear, his humanity
 
 **SCENE REQUIREMENTS**:
@@ -1954,8 +1952,10 @@ The fragment's effect reaches its peak. Maris sees Drusniel clearly for the firs
 - Water: nightmare black, wrong physics
 - Hand: grey-dark, reaching, desperate
 - Face: VISIBLE—young, elven, terrified, determined
-- Species: drow (confirmed to reader, new to Maris)
+- Species: READER recognizes drow features; MARIS sees "dark elf, like nothing in her experience"
 - Emotion: she feels what he feels
+
+**SPECIES PROTECTION**: Maris has never seen a drow. She describes what she sees: "dark-skinned, pointed ears, white hair, grey-black skin." She does NOT use the word "drow" because she doesn't know it. The reader may infer; Maris cannot name.
 
 **Hook**: "She saw him say yes. Saw him break. Saw something inside him shatter as he agreed to betray his friend. She saw the exact moment a good man became something else. And she understood: she wasn't watching the past. She was watching right now. Across impossible distance, she was witnessing his destruction in real time."
 
@@ -2005,12 +2005,12 @@ The fragment's effect reaches its peak. Maris sees Drusniel clearly for the firs
 ### CHAPTER 9 (WEST) CHECKLIST
 - [ ] Vision pressure builds
 - [ ] Collapse sudden, dangerous
-- [ ] Drusniel seen clearly (face, features, species)
+- [ ] Drusniel seen clearly (face, features—described, NOT named as "drow")
 - [ ] SYNC with Ch 27 (Debt #3 timing)
 - [ ] Vast distance felt (barrier implied)
 - [ ] Helplessness emphasized
 - [ ] Physical cost maximum
-- [ ] Information shared with group
+- [ ] Information shared with group ("dark elf"—descriptive, not taxonomic)
 - [ ] Personal stakes established
 - [ ] Connection between artifact and person confirmed
 
@@ -2500,9 +2500,12 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 |-----------|-----------------|---------|--------------|
 | **Ch 12** | Boat, black water, hand slipping | Clear image | Grey-dark skin, long fingers |
 | **Ch 20** | Same + body visible | Clearer | Dark limbs, not human |
-| **Ch 24** | Same + FACE visible | Sharp | Drow confirmed, features clear |
-| **Ch 30** | Same + MOVEMENT | Sharp | Moving toward them |
-| **Future** | TBD | TBD | TBD |
+| **Ch 24** | Same + FACE visible | Sharp | Elven features, dark skin, white hair—but NOT named as "drow" |
+| **Ch 30** | Same + MOVEMENT | Sharp | Moving toward them, features consistent |
+| **Future** | TBD | TBD | Drow confirmation reserved for in-person meeting |
+
+**STABLE IMAGE CONSTRAINT (LOCKED)**:
+> Maris sees FEATURES but does NOT identify SPECIES. She has no frame of reference for "drow"—she's never seen one. She sees: dark elven features, grey-black skin, white hair. The READER may recognize drow; MARIS does not name it. Confirmation happens when characters meet, not through vision.
 
 ---
 
