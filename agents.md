@@ -360,6 +360,86 @@ Before publishing any lore or prequel, verify:
 
 ---
 
+## Prose Quality Rules (LOCKED)
+
+### Core Principles
+
+Professional-quality prose that avoids AI patterns and reads as human-authored fiction.
+
+### 🔴 FORBIDDEN (AI-isms to Eliminate)
+
+#### P001 — Meta/Modern Labels
+Never use out-of-world psychological or personality labels.
+```
+❌ "his INTJ mind", "INTJ habits"
+❌ "Data. Observe. Understand." (procedural lab language)
+✅ "his mind worked through the problem the way it always did"
+```
+
+#### P002 — Schematic Thinking
+Never use math/logic framing for emotional decisions.
+```
+❌ "The math is simple. The ethics are not."
+❌ "Problem: survival. Required: supplies."
+✅ Show the character weighing options through action/dialogue
+```
+
+#### P003 — Template Triads
+Avoid repetitive three-part patterns.
+```
+❌ "Still pointing. Still burning. Still screaming."
+❌ "Hours until X. Hours until Y. Hours until Z."
+✅ Vary the rhythm; break patterns with concrete action
+```
+
+#### P004 — Hedging Language
+Eliminate vague qualifiers that distance the reader.
+```
+❌ "something like peace", "something that felt almost like"
+❌ "something closer to understanding"
+✅ Commit to the emotion or cut it: "It wasn't peace. But it was close enough."
+```
+
+### 🟠 REQUIRED (Quality Standards)
+
+#### P005 — Subtext Over Statement
+Dialogue should imply themes, not state them directly.
+```
+❌ "Knowledge is weight. The more you carry, the slower you move."
+✅ Show the character struggling under knowledge through behavior
+```
+**Rule**: If a line sounds like a thesis statement, cut it or bury it in action.
+
+#### P006 — Concrete Over Generic
+Every scene needs unique sensory details, not stock descriptions.
+```
+❌ "perpetual twilight", "volcanic glass", "phosphorescent glow" (repeated)
+✅ Specific: "the ground had a heartbeat here", "veins of dull red threading through black earth"
+```
+**Rule**: No sensory phrase should appear unchanged across multiple chapters.
+
+#### P007 — Varied Rhythm
+Sentence patterns must change within and across chapters.
+```
+❌ Three short declarative openers in a row
+❌ Same em-dash construction more than twice per scene
+✅ Mix long flowing sentences with short punchy ones
+✅ Interrupt dialogue patterns with action beats
+```
+
+### Pre-Publication Prose Check
+
+Before publishing any chapter, verify:
+- [ ] No meta/psychological labels (INTJ, etc.)
+- [ ] No schematic thinking ("the math is...")
+- [ ] No template triads
+- [ ] Hedging language replaced with commitment
+- [ ] Themes shown through action, not stated in dialogue
+- [ ] Sensory details are scene-specific, not repeated
+- [ ] Sentence rhythm varies within each scene
+
+---
+
 ## Key Reference Files
 - `rules/GUIDELINES.md` - Detailed POV voice guidelines
 - `rules/WORLDBUILDING/` - Story bible and world details
