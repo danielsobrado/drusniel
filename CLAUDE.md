@@ -421,10 +421,19 @@ Every scene needs unique sensory details, not stock descriptions.
 Sentence patterns must change within and across chapters.
 ```
 ❌ Three short declarative openers in a row
-❌ Same em-dash construction more than twice per scene
 ✅ Mix long flowing sentences with short punchy ones
 ✅ Interrupt dialogue patterns with action beats
 ```
+
+#### P008 — Em-Dash Overuse
+Em-dashes are an AI tell when overused. Limit to 1-2 per scene maximum.
+```
+❌ "Not comfort—Wyrmreach didn't allow comfort—but rhythm."
+❌ Multiple em-dash constructions in same paragraph
+✅ Use commas, periods, or restructure sentences instead
+✅ Reserve em-dashes for genuine interruptions or emphasis
+```
+**Rule**: If you see more than two em-dashes in a scene, rewrite at least half using other punctuation.
 
 ### Pre-Publication Prose Check
 
@@ -436,6 +445,7 @@ Before publishing any chapter, verify:
 - [ ] Themes shown through action, not stated in dialogue
 - [ ] Sensory details are scene-specific, not repeated
 - [ ] Sentence rhythm varies within each scene
+- [ ] Em-dashes limited to 1-2 per scene
 
 ---
 
