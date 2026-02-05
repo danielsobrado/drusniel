@@ -9,7 +9,8 @@
       "Bash(\" / \"Prólogo)",
       "Bash(\" from content headers\n- Classification now in frontmatter only, not in web excerpts\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(find:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git -C \"c:/Development/workspace/GitHub/drusniel\" status --short)"
     ]
   }
 }
