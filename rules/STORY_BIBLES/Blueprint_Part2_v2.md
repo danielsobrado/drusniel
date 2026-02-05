@@ -313,7 +313,7 @@ This is the most important scene in Part 2. Get it right.
 **SCENE REQUIREMENTS**:
 - Establish artifact muting sensation (magical suffocation)
 - Show water behaving wrong (density shifts)
-- Use counting quirk, then break it (time distortion)
+- Use stone-tracing quirk, then break it (nothing to trace in water)
 
 **WORLDBUILDING ELEMENTS**:
 - **Nightmare sea**: The barrier between realms manifests as impossible water
@@ -327,7 +327,7 @@ This is the most important scene in Part 2. Get it right.
 - His own heartbeat becomes external, coming from below
 - The shore behind him is already gone—he's been swimming for seconds or hours
 
-**Character beat**: Drusniel counts strokes (quirk under stress)—but counting fails. Three happens twice. This is the first sign reality is breaking.
+**Character beat**: Drusniel tries to trace patterns in the water's surface (quirk under stress)—but there are no lines, no edges. Nothing to ground on. This is the first sign reality is breaking.
 
 **Hook**: "Something moved beneath him. Not swimming. Waiting."
 
@@ -465,7 +465,7 @@ This is the most important scene in Part 2. Get it right.
 - His body shakes—not cold, shock
 - The debt feels like a hook in his chest—not painful, present
 
-**Character beat**: Drusniel tries to count his heartbeats (quirk)—but loses count immediately. He's too far gone.
+**Character beat**: Drusniel tries to trace the cracks in the rock beneath him (quirk)—but his vision blurs. Nothing holds still. He's too far gone.
 
 **CRITICAL**: He collapses on the shore. He doesn't see who finds him. Chapter ends with him face-down in black sand, something approaching.
 
@@ -485,7 +485,7 @@ This is the most important scene in Part 2. Get it right.
 - [ ] Wyrmreach shore is ALIEN (wrong colors, wrong sky)
 - [ ] Chapter ends with unknown threat approaching
 - [ ] NO understanding gained—mystery preserved
-- [ ] Counting quirk used and broken (time distortion)
+- [ ] Stone-tracing quirk attempted and broken (nothing to trace)
 
 ---
 
@@ -588,7 +588,7 @@ When readers reach the betrayal, they should think: "Of course. He was never hid
 - Flora: crystalline growths, colors that don't exist elsewhere
 - Sound: too quiet, then sudden cries from things unseen
 
-**Character beat**: Drusniel's counting quirk returns—he counts Merrik's questions. Eleven in one conversation. Too many.
+**Character beat**: Drusniel's analytical habit returns—he catalogs Merrik's questions. Eleven in one conversation. Too many. His thumb taps against his fingers without him noticing.
 
 **Hook**: "Valuable." The word hung between them. Drusniel should have heard it differently.
 
@@ -2916,7 +2916,7 @@ Each chapter should include at least one:
 
 | Character | Speech Pattern | Quirk | Defense Mechanism |
 |-----------|---------------|-------|-------------------|
-| Drusniel | Precise, controlled | Counts things | Sarcasm when vulnerable |
+| Drusniel | Precise, controlled | Traces stone/walls | Sarcasm when vulnerable |
 | Elion | Short, concrete | Smells everything | Silence |
 | Srietz | Fast, third-person | Tests chemically | Transaction framing |
 | Aldric | Clipped, military | Checks exits | Bitterness |

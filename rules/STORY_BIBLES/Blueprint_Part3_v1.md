@@ -150,12 +150,12 @@ Ask: "Would a reader put the book down here?"
 # ABERCROMBIE STYLE GUIDANCE (LOCKED)
 
 ## Dark Humor Requirements
-- Drusniel's counting quirk should be FUNNY and SAD simultaneously
+- Drusniel's analytical habits should be FUNNY and SAD simultaneously
 - Characters should be self-aware about their failures
 - Cynical observations about survival, trust, power
 - The joke is often that things are exactly as bad as they seem
 
-**Example**: "Drusniel counted three exits. Then counted the guards. Then stopped, because counting only taught him how trapped he was."
+**Example**: "Drusniel's eyes traced the walls for fractures. Found three. Then found the guards watching him trace. Then stopped, because the grounding only reminded him how surrounded he was."
 
 ## Brutal Consequence Requirements
 - When someone gets hurt, describe it viscerally
@@ -394,7 +394,7 @@ Nyxara must be POLITICAL before anything else:
 - **Neutrality impossible**: Being here is choosing a side
 - **The game**: Who approaches first wins something
 
-**Character beat**: Drusniel counts observers (his quirk)—then loses count. The habit that used to steady him only proves how surrounded they are.
+**Character beat**: Drusniel's eyes search for edges to trace—walls, stone, anything solid. But there's only open field and watchers. No grounding. The habit that used to steady him only proves how exposed they are.
 
 **Hook**: "Elion grabbed Drusniel's arm. His grip was too tight. 'Don't move,' he whispered. 'The one on the left just signaled the others. They're not watching anymore. They're closing in.'"
 
@@ -1557,7 +1557,7 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 - Artifact: purpose partially known (delivery)
 - Destination: unclear but real
 
-**Character beat**: Drusniel counted what he carried and wished counting could lighten it. It didn't. He kept walking anyway.
+**Character beat**: Drusniel cataloged what he carried—debts, obligations, secrets—and wished the listing could lighten the load. It didn't. He kept walking anyway.
 
 **Hook**: "Three debts. One companion left. One lord with an interest in them. One artifact that might destroy or save everything. And behind them all, the Voice, laughing in the dark corners of his mind. 'Almost ready,' it whispered. 'Almost there.' Drusniel didn't ask where. He was afraid he already knew."
 

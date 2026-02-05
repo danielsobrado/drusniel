@@ -374,7 +374,7 @@ This rule applies to ALL future chapters where Erase appears. The sensation is c
 - Drusniel's nervousness (not confidenceâ€”he's doing something forbidden)
 - The weight of defying his family
 
-**Character beat**: Drusniel counts his heartbeats (quirk established)â€”anxiously, not calmly. This is the biggest risk of his life.
+**Character beat**: Drusniel traces the veins in the obsidian wall with his eyes (quirk established)—one long fracture, one thin, one branching. Grounding himself. This is the biggest risk of his life.
 
 **Hook**: "The trials commence. May Venemora find you worthy." (But will she? They've been practicing without her blessing.)
 
@@ -516,7 +516,7 @@ Reason: If readers hear "Vrinn" in Ch 1 (same chapter as Annariel's bond), they'
 - [ ] **EMPATHY GAME shown** (pattern recognition, NOT telepathyâ€”critical for Ch 22)
 - [ ] **Annariel's house kept VAGUE** (no "House Vrinn" connection yet)
 - [ ] House Vrinn threat seeded (as "enemy house," separate from Annariel)
-- [ ] Drusniel's counting quirk introduced
+- [ ] Drusniel's stone-tracing quirk introduced (see DRUSNIEL_BEHAVIORAL_TICS.md)
 - [ ] NO magic system rules explained (the absence is the mystery)
 
 ---
@@ -565,7 +565,7 @@ Drusniel's isolation and shame make him vulnerable to manipulation. "Annariel's"
 **Key internal conflict**: He knows he did everything right. So why did it fail?
 
 **Sensory isolation**: The silence where Annariel's voice should be  
-**Character beat**: He counts steps in his room (quirk under stress)  
+**Character beat**: He traces the cracks in his room's obsidian walls (quirk under stress)—the same ones he's memorized since childhood  
 **Hook**: A voice in his mind. Familiar. Impossible. "Drusniel?"
 
 #### 2.2 | The Distant Voice
@@ -638,13 +638,13 @@ The fake Annariel's flaw isn't formal phrasingâ€”it's texture:
 |------------------------------|-------------------------|
 | Drusniel taps his thumb when thinking of family (their gameâ€”read the tell) | Doesn't notice the tell, responds to wrong topic |
 | Their private phrase: "Reading you like a broken spine" (joke about Drusniel's posture) | Uses formal "I sense your distress" |
-| Annariel always called Drusniel's counting habit "your heartbeat math" | No reference, doesn't tease him about it |
+| Annariel always noticed Drusniel's wall-tracing: "You're reading the stone again" | No reference, doesn't notice the tic |
 | When one was upset, they'd play the game to prove connection still worked | Fake never initiates the game, only responds when prompted |
 
 **Example exchange** (show in prose):
 - Drusniel: "Read me." (game invitation, test)
 - Fake "Annariel": "You're worried about your family. That's natural."
-- Real Annariel would say: "You're doing your heartbeat math. Three taps. You're scared, not worried. Big difference."
+- Real Annariel would say: "You're tracing the walls again. Three fractures deep. You're scared, not worried. Big difference."
 
 The fake knows the right answer but not the right texture.
 
@@ -713,7 +713,7 @@ Drusniel meets his real enemy but sees him as salvation. First taste of forbidde
 ### ZAELAR'S INTEL SOURCE (Seed for reader curiosity)
 
 Zaelar knows too much about Drusniel:
-- His analytical personality, his counting habit
+- His analytical personality, his stone-tracing habit
 - His insecurity about being "average"
 - The exact words that would validate him
 - The timing of his trial, its outcome
