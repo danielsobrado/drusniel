@@ -61,6 +61,29 @@ def build_main_mapping(posts):
             }
     return mapping
 
+def build_chapter_part_counts(main_map):
+    counts = {}
+    for info in main_map.values():
+        chap = info.get('chap')
+        if isinstance(chap, int):
+            counts[chap] = counts.get(chap, 0) + 1
+    return counts
+
+def format_main_display(info, labels, chapter_part_counts, for_header=False):
+    chap_num = info['chap']
+    part_num = info['part']
+    part_count = chapter_part_counts.get(chap_num, 0)
+    is_single_part = part_count == 1
+
+    if for_header:
+        if is_single_part:
+            return f"{labels['Main']} {chap_num}"
+        return f"{labels['Main']} {chap_num} | {labels['Part']} {part_num}"
+
+    if is_single_part:
+        return f"{labels['Main']} {chap_num}"
+    return f"{labels['Main']} {chap_num}.{part_num}"
+
 def find_file_by_sequence(target_seq, lang):
     for root, dirs, files in os.walk(BASE_DIR):
         for file in files:
@@ -87,6 +110,7 @@ def process_language(lang):
     print(f"Processing {lang}...")
     posts = load_csv(CSV_FILES[lang])
     main_map = build_main_mapping(posts)
+    chapter_part_counts = build_chapter_part_counts(main_map)
     
         # Helper to find file (cached in main_map if possible, but let's just create a global map)
         # Note: We can create a sequence->filepath map first
@@ -146,10 +170,8 @@ def process_language(lang):
         if seq in main_map:
             # Main Post
             info = main_map[seq]
-            chap_num = info['chap']
-            part_num = info['part']
-            # Header: ## Capítulo X | Parte Y
-            header_text = f"{labels['Main']} {chap_num} | {labels['Part']} {part_num}"
+            # Header: ## Chapter X | Part Y, or ## Chapter X for single-part chapters
+            header_text = format_main_display(info, labels, chapter_part_counts, for_header=True)
         else:
             # Lore/Prequel
             p_cat_label = labels.get(p_type, p_type)
@@ -190,7 +212,7 @@ def process_language(lang):
             def get_display(s, info_map):
                 if s in info_map:
                     i = info_map[s]
-                    return f"{labels['Main']} {i['chap']}.{i['part']}"
+                    return format_main_display(i, labels, chapter_part_counts)
                 return format_id(s)
 
             # Helper to get link title

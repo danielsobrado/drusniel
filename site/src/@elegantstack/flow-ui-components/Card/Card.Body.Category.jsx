@@ -1,5 +1,5 @@
-import React, { useContext } from 'react'
-import { Link } from 'gatsby'
+import React, { useContext, useMemo } from 'react'
+import { Link, graphql, useStaticQuery } from 'gatsby'
 import { Box, Badge, css } from 'theme-ui'
 import rv from '@components/utils/buildResponsiveVariant'
 import getReadableColor from '@components/utils/getReadableColor'
@@ -18,19 +18,54 @@ const styles = {
     }
 }
 
+const chapterPartsQuery = graphql`
+    query CardBodyCategoryChapterPartsQuery {
+        allArticle(
+            filter: { private: { ne: true }, draft: { ne: true }, chapter: { ne: null } }
+        ) {
+            nodes {
+                chapter
+                language
+            }
+        }
+    }
+`
+
 const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence, pov, startHere }) => {
     const { language } = useContext(LanguageContext)
+    const chapterPartsData = useStaticQuery(chapterPartsQuery)
+    const chapterPartCounts = useMemo(() => {
+        const counts = {}
+        const nodes = chapterPartsData?.allArticle?.nodes || []
+
+        nodes.forEach(node => {
+            const chapterNumber = Number(node?.chapter)
+            if (!Number.isInteger(chapterNumber)) return
+
+            const nodeLanguage = node?.language === 'es' ? 'es' : 'en'
+            if (!counts[nodeLanguage]) {
+                counts[nodeLanguage] = {}
+            }
+            counts[nodeLanguage][chapterNumber] = (counts[nodeLanguage][chapterNumber] || 0) + 1
+        })
+
+        return counts
+    }, [chapterPartsData])
 
     // Determine secondary tag label and type for styling
     let tagLabel = null
     let tagType = null // 'chapter', 'lore', or 'prologue'
 
     if (chapter) {
-        if (subchapter) {
-            tagLabel = language === 'es' ? `Capítulo ${chapter}.${subchapter}` : `Chapter ${chapter}.${subchapter}`
-        } else {
-            tagLabel = language === 'es' ? `Capítulo ${chapter}` : `Chapter ${chapter}`
-        }
+        const chapterNumber = Number(chapter)
+        const subchapterNumber = Number(subchapter)
+        const chapterCountForLanguage = chapterPartCounts?.[language]?.[chapterNumber] || 0
+        const isSinglePartChapter = chapterCountForLanguage === 1
+        const chapterLabelPrefix = language === 'es' ? `Cap\u00edtulo ${chapterNumber}` : `Chapter ${chapterNumber}`
+        tagLabel = Number.isInteger(subchapterNumber) && !isSinglePartChapter
+            ? `${chapterLabelPrefix}.${subchapterNumber}`
+            : chapterLabelPrefix
+
         tagType = 'chapter'
     } else if (canon_phase) {
         // Normalize phase

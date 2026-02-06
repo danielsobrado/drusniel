@@ -4,12 +4,12 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 103,2024-04-04,Descubriendo las Regiones de Astalor,astalor,Lore,lore,AST-L-003,false,descubriendo-las-regiones-de-astalor,null,null,lore
 104,2024-04-05,La Búsqueda de la Supremacía Mágica por la Teocracia Contiana,contian,Lore,lore,CON-L-001,false,echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica,null,null,lore
 105,2024-04-06,La Defensa Resiliente del Imperio Divino de Lumeshire,lumeshire,Lore,lore,LUM-L-001,false,escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire,null,null,lore
-106,2024-04-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,STO-L-001,false,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos,null,null,lore
-107,2024-04-08,Los Zuraldarr,lumeshire,Lore,lore,LUM-L-002,false,the-zuraldarr,null,null,lore
+106,2024-04-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,STO-L-001,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos,null,null,lore
+107,2024-04-08,Los Zuraldarr,lumeshire,Lore,lore,LUM-L-002,true,the-zuraldarr,null,null,lore
 108,2024-04-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,WYR-L-001,false,profundidades-oscuras-el-dominio-wymreach,null,null,lore
 109,2024-04-10,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Lore,lore,ELE-L-002,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,lore
-110,2024-04-11,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,FRO-L-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,lore
-111,2024-04-12,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,GRU-L-002,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
+110,2024-04-11,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,FRO-L-002,true,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,lore
+111,2024-04-12,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,GRU-L-002,true,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
 112,2024-04-13,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Lore,lore,UMB-L-002,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,lore
 113,2024-04-14,La llamada a Zuraldi,stonehold,Prologue,prologue,P-001,true,la-llamada-a-zuraldi,null,null,prologue
 114,2024-04-15,Un viaje complicado,stonehold,Prologue,prologue,P-002,false,un-viaje-complicado,null,null,prologue

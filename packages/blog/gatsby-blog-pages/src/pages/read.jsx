@@ -7,10 +7,57 @@ import { useContext } from 'react';
 import { LanguageContext } from '@helpers-blog/useLanguageContext';
 import { StaticImage } from 'gatsby-plugin-image'
 import { Box, Flex, NavLink } from 'theme-ui'
-import { Link } from 'gatsby'
+import { Link, graphql, useStaticQuery } from 'gatsby'
+
+const chapterPartsQuery = graphql`
+  query ReadPageChapterPartCountsQuery {
+    allArticle(
+      filter: { private: { ne: true }, draft: { ne: true }, chapter: { ne: null } }
+    ) {
+      nodes {
+        chapter
+        language
+      }
+    }
+  }
+`
 
 const PageContact = props => {
   const { language } = useContext(LanguageContext);
+  const chapterPartsData = useStaticQuery(chapterPartsQuery)
+
+  const chapterPartCounts = React.useMemo(() => {
+    const counts = {}
+    const nodes = chapterPartsData?.allArticle?.nodes || []
+
+    nodes.forEach(node => {
+      const chapterNumber = Number(node?.chapter)
+      if (!Number.isInteger(chapterNumber)) return
+
+      const nodeLanguage = node?.language === 'es' ? 'es' : 'en'
+      if (!counts[nodeLanguage]) {
+        counts[nodeLanguage] = {}
+      }
+      counts[nodeLanguage][chapterNumber] = (counts[nodeLanguage][chapterNumber] || 0) + 1
+    })
+
+    return counts
+  }, [chapterPartsData])
+
+  const formatChapterLabel = (chapter, subchapter, labelLanguage) => {
+    const chapterNumber = Number(chapter)
+    const subchapterNumber = Number(subchapter)
+    const countForLanguage = chapterPartCounts?.[labelLanguage]?.[chapterNumber] || 0
+    const isSinglePartChapter = countForLanguage === 1
+    const prefix = labelLanguage === 'es' ? `Cap\u00edtulo ${chapterNumber}` : `Chapter ${chapterNumber}`
+
+    return Number.isInteger(subchapterNumber) && !isSinglePartChapter
+      ? `${prefix}.${subchapterNumber}`
+      : prefix
+  }
+
+  const chapterOneLabelEn = formatChapterLabel(1, 1, 'en')
+  const chapterOneLabelEs = formatChapterLabel(1, 1, 'es')
 
   const styles = {
     imageWrapperSimple: {
@@ -47,7 +94,7 @@ const PageContact = props => {
 
   const englishLinks = [
     { text: 'Prologue 1: The Call to Zuraldi', url: '/the-call-to-zuraldi/' },
-    { text: 'Chapter 1.1: The Sacred Chamber', url: '/the-sacred-chamber/' },
+    { text: `${chapterOneLabelEn}: The Sacred Chamber`, url: '/the-sacred-chamber/' },
     { text: 'Astalor regions', url: '/discovering-the-regions-of-astalor/' },
     { text: 'Magic in Astalor', url: '/magic-in-astalor/' },
     { text: 'Lore', url: '/en/tag/lore/' },
@@ -55,7 +102,7 @@ const PageContact = props => {
 
   const spanishLinks = [
     { text: 'Prólogo 1: La llamada a Zuraldi', url: '/la-llamada-a-zuraldi/' },
-    { text: 'Capítulo 1.1: La Cámara Sagrada', url: '/la-camara-sagrada/' },
+    { text: `${chapterOneLabelEs}: La Cámara Sagrada`, url: '/la-camara-sagrada/' },
     { text: 'Regiones de Astalor', url: '/descubriendo-las-regiones-de-astalor/' },
     { text: 'Magia en Astalor', url: '/la-magia-en-astalor/' },
     { text: 'Historia y Mitología', url: '/es/tag/historia/' },
