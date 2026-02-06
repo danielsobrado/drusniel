@@ -122,10 +122,33 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
                     variant='tag'
                     sx={{
                         ...styles.badge,
-                        ...getTagStyles()
+                        ...getTagStyles(),
+                        ...(startHere && {
+                            bg: '#2e7d32',
+                            color: '#fff',
+                            fontWeight: 'bold',
+                            border: '1px solid',
+                            borderColor: '#2e7d32'
+                        })
                     }}
                 >
-                    {tagLabel}
+                    {startHere
+                        ? `${tagLabel} · ${language === 'es' ? 'Empieza aquí' : 'Start here'}`
+                        : tagLabel}
+                </Badge>
+            )}
+
+            {!tagLabel && startHere && (
+                <Badge
+                    variant='tag'
+                    sx={{
+                        ...styles.badge,
+                        bg: '#2e7d32',
+                        color: '#fff',
+                        fontWeight: 'bold'
+                    }}
+                >
+                    {language === 'es' ? 'Empieza aquí' : 'Start here'}
                 </Badge>
             )}
 
@@ -141,22 +164,6 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
                     }}
                 >
                     {pov}
-                </Badge>
-            )}
-
-            {startHere && (
-                <Badge
-                    variant='tag'
-                    sx={{
-                        ...styles.badge,
-                        bg: '#2e7d32',
-                        color: '#fff',
-                        fontWeight: 'bold',
-                        fontSize: '0.7em',
-                        letterSpacing: '0.05em'
-                    }}
-                >
-                    {language === 'es' ? 'Empieza aquí' : 'Start here'}
                 </Badge>
             )}
         </Box>
