@@ -88,6 +88,30 @@ def process_language(lang):
     posts = load_csv(CSV_FILES[lang])
     main_map = build_main_mapping(posts)
     
+        # Helper to find file (cached in main_map if possible, but let's just create a global map)
+        # Note: We can create a sequence->filepath map first
+        
+    # --- BUILD FILE MAP FIRST ---
+    seq_to_path = {}
+    for root, dirs, files in os.walk(BASE_DIR):
+        for file in files:
+            if file.endswith('.mdx') or file.endswith('.md'):
+                filepath = os.path.join(root, file)
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        content = f.read()
+                    
+                    seq_match = re.search(r'canon_sequence:\s*([^\s]+)', content)
+                    lang_match = re.search(r'language:\s*([^\s]+)', content)
+                    
+                    if seq_match and lang_match:
+                        s = seq_match.group(1).strip()
+                        l = lang_match.group(1).strip()
+                        if l == lang:
+                            seq_to_path[s] = (filepath, content)
+                except:
+                    continue
+
     for i in range(len(posts)):
         current_post = posts[i]
         next_post = posts[i+1] if i < len(posts) - 1 else None
@@ -95,8 +119,9 @@ def process_language(lang):
         seq = current_post.get('canon_sequence')
         if not seq: continue
         
-        filepath, content = find_file_by_sequence(seq, lang)
-        if not filepath: continue
+        # FIND CURRENT FILE
+        if seq not in seq_to_path: continue
+        filepath, content = seq_to_path[seq]
             
         # Split Frontmatter
         parts = content.split('---', 2)
@@ -130,7 +155,7 @@ def process_language(lang):
             p_cat_label = labels.get(p_type, p_type)
             header_text = f"{p_cat_label} | {p_title}"
 
-        new_header_block = f"\n\n--- \n\n## {header_text}\n\n--- \n\n"
+        new_header_block = f"\n\n## {header_text}\n\n--- \n\n"
         
         # --- GENERATE NEW FOOTER ---
         new_footer = ""
@@ -138,20 +163,50 @@ def process_language(lang):
             n_seq = next_post.get('canon_sequence')
             n_title = next_post.get('title')
             
+            # CALCULATE RELATIVE LINK
+            link_path = ""
+            if n_seq in seq_to_path:
+                next_filepath, _ = seq_to_path[n_seq]
+                # Calculate relative path from current file's directory to next file
+                rel_path = os.path.relpath(next_filepath, os.path.dirname(filepath))
+                link_path = rel_path.replace('\\', '/')
+            
             # If both are Main, use nice numbering
             if seq in main_map and n_seq in main_map:
                 c_info = main_map[seq]
                 n_info = main_map[n_seq]
-                
-                # Get next subtitle (we need to resolve it from map)
                 n_subtitle = n_info['subtitle']
                 
-                ft = labels['FooterMain']
+                ft = labels['FooterMain'].replace('{next_title}', '[{next_title}](' + link_path + ')')
                 new_footer = f"\n\n{ft.format(c_num=c_info['chap'], p_num=c_info['part'], n_num=n_info['chap'], np_num=n_info['part'], next_title=n_subtitle)}"
             else:
                 # Fallback footer
-                ft = labels['Footer']
-                new_footer = f"\n\n{ft.format(current=seq, next_seq=n_seq, next_title=n_title)}"
+                ft = labels['Footer'].replace('{next_title}', '[{next_title}](' + link_path + ')')
+                
+                # Helper to format IDs nicely
+                def format_id(seq_id, type_label):
+                    final_label = type_label
+                    if seq_id.startswith('L-'):
+                        final_label = labels.get('Lore', 'Lore')
+                    elif seq_id.startswith('P-'):
+                        final_label = labels.get('Prologue', 'Prólogo')
+
+                    def strip_zeros(s):
+                        return str(int(s)) if s.isdigit() else s
+
+                    match = re.search(r'-(\d+)$', seq_id)
+                    if match:
+                        num = strip_zeros(match.group(1))
+                        return f"{final_label} {num}"
+                    return seq_id
+
+                c_label = labels.get('Lore') if seq.startswith('L-') else labels.get('Prologue', 'Prólogo')
+                n_label = labels.get('Lore') if n_seq.startswith('L-') else labels.get('Prologue', 'Prólogo')
+
+                c_friendly = format_id(seq, c_label)
+                n_friendly = format_id(n_seq, n_label)
+
+                new_footer = f"\n\n{ft.format(current=c_friendly, next_seq=n_friendly, next_title=n_title)}"
 
         # Reassemble
         new_content = f"---{frontmatter}---{new_header_block}{body}{new_footer}"

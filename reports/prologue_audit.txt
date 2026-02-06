@@ -1,0 +1,16 @@
+Sequence        | Order | Type     | Title
+------------------------------------------------------------
+ELE-P-001       | 109   | Prequel  | Eternal Woods: The Kingdom of Elenoria's Dance with Nature
+GRU-P-001       | 111   | Prequel  | The Unruly Might of the Grukmar Tribes
+STO-P-001       | 113   | Prequel  | The Call to Zuraldi
+STO-P-002       | 114   | Prequel  | A Journey Interrupted
+P-003           | 115   | Prologue | The Scream
+P-004           | 116   | Prologue | Tavern Talk
+P-005           | 117   | Prologue | Border Sign
+STO-R-001       | 117   | Prologue | The Road from Zuraldi: The Awakening
+STO-R-002       | 118   | Prologue | The Road from Zuraldi: The Absence
+GRU-P-002       | 119   | Prequel  | The Screams in the Mist
+STO-R-003       | 119   | Prologue | The Road from Zuraldi: The Nephew''s Doubt
+GRU-P-003       | 120   | Prequel  | March of Despair
+STO-R-004       | 120   | Prologue | The Road from Zuraldi: The Followers
+STO-R-005       | 121   | Prologue | The Road from Zuraldi: The Decision

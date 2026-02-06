@@ -1,0 +1,16 @@
+
+# Configurations
+BASE_DIR = r'c:\Development\workspace\GitHub\drusniel\site\content\posts'
+
+# Tasks
+# 1. Renumber Lore Items
+renumber_lore = [
+    # (Category, Sequence, NewSequence)
+    # Correct order based on publication_order: Elenoria (109) -> Frostgard (110) -> Grukmar (111) -> Umbrakor (112)
+    ('elenoria', 'L-009', 'L-001'),
+    ('frostgard', 'L-006', 'L-002'),
+    ('grukmar', 'L-003', 'L-003'), # Already 3? Check
+    ('umbrakor', 'L-004', 'L-004')  # Assume
+]
+
+# We need to find the files and update canon_sequence
