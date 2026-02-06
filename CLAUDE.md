@@ -69,13 +69,20 @@ counterpart_title: "Translated Title"
    - `drusniel` - Main protagonist POV (Wyrmreach journey)
    - `west` - West side characters (Dulint, Balin, Aldric, Maris, Xandor)
    - `east` - East side characters (future)
-   - `prologue` - Backstory chapters
+   - `prologue` - Prologue arc chapters (separate from prequel/backstory content)
    - `lore` - World-building fragments
 
 3. **Canon Sequence**: Structural identifier using storyline prefix + global chapter.
    - `D-009-001` (Drusniel, Global Ch 9, Subchapter 1)
    - `W-008-001` (West, Global Ch 8, Subchapter 1)
    - `P-LUM-001` (Prologue, Lumeshire)
+
+### Backstory Policy (LOCKED)
+- `Backstory` is a reading/UI label, not a canon type.
+- Backstories map to `canon_phase: prequel` (not `prologue`).
+- Prologues and prequels are different and must stay separate.
+- Backstories/prequels must be spoiler-safe and never reveal mainline twists in advance.
+- Current status: there are no published prequels yet.
 
 ### Path Structure
 ```
@@ -138,7 +145,7 @@ Make sure the names of the chapters they never have spoilers
 ### Main Content (1000+)
 **Voice**: Drusniel's direct experience, real-time discovery
 ### Prologue Content (700-799)
-**Voice**: Full chapter quality, backstory before main journey
+**Voice**: Full chapter quality, narrative setup before the main journey
 
 Prologues are dramatized story chapters set outside the main sequence. They follow **chapter rules**, not prequel rules.
 

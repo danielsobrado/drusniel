@@ -116,15 +116,13 @@ def compile_phase(posts, phase_names, lang, output_filename, display_name):
             
             # If Main/Chapters, add Chapter info
             phase = post.get('canon_phase', '').lower()
-            if phase == 'main':
-                chap = post.get('chapter')
-                sub = post.get('subchapter')
-                if chap and sub:
-                    header = f"Chapter {chap}.{sub} | {title}"
-                else:
-                    header = title
+            chap = post.get('chapter')
+            sub = post.get('subchapter')
+            
+            if chap and sub and chap != 'null' and sub != 'null':
+                 header = f"Chapter {chap}.{sub} | {title}"
             else:
-                header = title
+                 header = title
             
             outfile.write(f"\n\n{'#'*10} {header} {'#'*10}\n\n")
             outfile.write(cleaned)
@@ -140,7 +138,7 @@ def main():
     phases = [
         (['lore'], 'lore', 'Lore'),
         (['prequel', 'prologue'], 'prologue', 'Prologue'),
-        (['main'], 'chapters', 'Chapters'),
+        (['main', 'drusniel'], 'chapters', 'Chapters'),
     ]
     
     for lang in langs:

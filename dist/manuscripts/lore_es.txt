@@ -62,7 +62,7 @@ Cada camino ofrece poderes únicos. Pruebas únicas. Los magos deben elegir sabi
 
 La magia no es un asunto trivial. Es una fuerza de la naturaleza. Un don divino. Un arte peligroso.
 
-**[Fin de Prólogo 1 — continúa en Prólogo 2: [La Nada y el Segundo Sol](../la-creacion-de-astalor/index.mdx)]**
+**[Fin de Lore 1 — continúa en Lore 2: [La Nada y el Segundo Sol](../la-creacion-de-astalor/index.mdx)]**
 
 --------------------
 
@@ -221,7 +221,7 @@ No era verdad. Pero era estable. Y la estabilidad, en un mundo nacido de la cont
 
 *Significado: incierto.*
 
-**[Fin de Prólogo 2 — continúa en Prólogo 3: [Descubriendo las Regiones de Astalor](../descubriendo-las-regiones-de-astalor/index.mdx)]**
+**[Fin de Lore 2 — continúa en Lore 3: [Descubriendo las Regiones de Astalor](../descubriendo-las-regiones-de-astalor/index.mdx)]**
 
 --------------------
 
@@ -298,7 +298,7 @@ Los horrores que contiene Wyrmreach están más allá de la comprensión mortal.
 
 Estos son los reinos de Astalor. Cada uno único, cada uno vital para el precario equilibrio del mundo.
 
-**[Fin de Prólogo 3 — continúa en Prólogo 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](../../contian/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/index.mdx)]**
+**[Fin de Lore 3 — continúa en Lore 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](../../contian/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/index.mdx)]**
 
 --------------------
 
@@ -577,7 +577,7 @@ Esta vez, las palabras no se asentaron en su pecho como solían hacerlo.
 
 Esta vez, se sintieron delgadas.
 
-**[Fin de Prólogo 1 — continúa en Prólogo 1: [La Defensa Resiliente del Imperio Divino de Lumeshire](../../lumeshire/escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire/index.mdx)]**
+**[Fin de Lore 1 — continúa en Lore 1: [La Defensa Resiliente del Imperio Divino de Lumeshire](../../lumeshire/escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire/index.mdx)]**
 
 --------------------
 
@@ -716,7 +716,7 @@ Esta vez, no había charco.
 
 *Siempre creyó que tenía tiempo.*
 
-**[Fin de Prólogo 1 — continúa en Prólogo 1: [Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos](../../stonehold/fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos/index.mdx)]**
+**[Fin de Lore 1 — continúa en Lore 1: [Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos](../../stonehold/fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos/index.mdx)]**
 
 --------------------
 
@@ -873,7 +873,7 @@ La piedra se agrietaba donde nunca lo había hecho antes. Pero el refuerzo aguan
 
 Por ahora era todo lo que cualquiera podía prometer.
 
-**[Fin de Prólogo 1 — continúa en Prólogo 2: [Los Zuraldarr](../../lumeshire/the-zuraldarr/index.mdx)]**
+**[Fin de Lore 1 — continúa en Lore 2: [Los Zuraldarr](../../lumeshire/the-zuraldarr/index.mdx)]**
 
 --------------------
 
@@ -1020,7 +1020,7 @@ En los campos, los granjeros cuidaban las cosechas con la misma intensidad con l
 
 Y en los bosques, los leñadores trabajaban con precisión, talando árboles de forma selectiva bajo la guía de druidas. Se llevaban sólo lo necesario, asegurándose de que los bosques dieran cobijo y sustento a las generaciones venideras.
 
-**[Fin de Prólogo 2 — continúa en Prólogo 1: [Los Misterios del Dominio Wymreach](../../wyrmreach/profundidades-oscuras-el-dominio-wymreach/index.mdx)]**
+**[Fin de Lore 2 — continúa en Lore 1: [Los Misterios del Dominio Wymreach](../../wyrmreach/profundidades-oscuras-el-dominio-wymreach/index.mdx)]**
 
 --------------------
 
@@ -1221,7 +1221,94 @@ Nunca termina la frase.
 
 No tiene que hacerlo.
 
-**[Fin de Prólogo 1 — continúa en Prólogo 1: [Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza](../../elenoria/bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza/index.mdx)]**
+**[Fin de Lore 1 — continúa en Lore 2: [Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza](../../elenoria/bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza/index.mdx)]**
+
+--------------------
+
+
+########## Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza ##########
+
+## Lore | Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza
+
+--- 
+
+[![Mapa de Elenoria](https://i.imgur.com/meyY8Dx.png)](https://i.imgur.com/meyY8Dx.png)
+
+Las manos de la guardiana del archivo temblaban mientras pasaba la página.
+
+Faelyn había estado buscando en las bibliotecas de Aelindril durante tres meses. Los textos que buscaba eran antiguos—más antiguos que la dinastía actual, más antiguos que las guerras con Lumeshire, más antiguos quizás que la ciudad misma. Si es que aún existían.
+
+—Estás buscando en la sección equivocada.
+
+No se volvió. La voz pertenecía a Thandril, el archivista senior, cuyos pasos había aprendido a reconocer por su particular silencio.
+
+—Las historias de la Primera Era están catalogadas aquí —dijo ella.
+
+—Las historias *aprobadas* están catalogadas ahí. —Thandril apareció a su lado, sus dedos trazando el lomo de un tomo encuadernado en cuero—. Lo que buscas—suponiendo que exista—estaría en la colección restringida. Detrás del tercer sello.
+
+—No tengo acceso al tercer sello.
+
+—No. No lo tienes.
+
+[![Elenoria Intro2](https://i.imgur.com/CQjmtAe.png)](https://i.imgur.com/CQjmtAe.png)
+
+El silencio entre ellos se extendió. Afuera, la luz del sol se filtraba a través de ramas vivas que formaban las paredes de la biblioteca. Todo en Aelindril crecía. Los edificios, los puentes, los archivos mismos. Los elfos afirmaban que era armonía. Faelyn había comenzado a sospechar que era otra cosa.
+
+—¿Por qué quieres saber sobre las protecciones fronterizas? —preguntó Thandril finalmente—. La posición oficial es clara. Han aguantado por dos mil años. Aguantarán dos mil más.
+
+—Los guardabosques reportaron anomalías la temporada pasada.
+
+—Los guardabosques siempre reportan anomalías. Está en su naturaleza ver amenazas.
+
+—Tres patrullas entraron a los bosquecillos del este. Dos regresaron. —Faelyn cerró el libro inútil frente a ella—. La tercera fue encontrada una semana después. Su equipo estaba intacto. Sus diarios estaban intactos. Sus cuerpos estaban presentes e ilesos. Pero estaban—
+
+—Vacíos. Sí. Leí el informe. —La expresión de Thandril no cambió—. El Consejo lo atribuyó a la enfermedad del bosquecillo. Una condición conocida que afecta a quienes vagan demasiado profundo.
+
+—No hay mención de la enfermedad del bosquecillo en ningún texto al que puedo acceder.
+
+—La condición es rara. Las referencias están... cuidadosamente preservadas.
+
+Cuidadosamente ocultas, pensó ella. Pero no lo dijo.
+
+---
+
+[![Elenoria Intro3](https://i.imgur.com/6g09o8u.png)](https://i.imgur.com/6g09o8u.png)
+
+> *"Se dice que en el amanecer del mundo, los elfos ya estaban ahí, sus ojos brillando con la luz de lo divino y sus corazones llenos con la canción del universo."*
+
+Las palabras venían del himno más antiguo, cantado en cada festival, enseñado a cada niño. Faelyn las había creído una vez. Todavía quería creerlas.
+
+Pero los archivos contaban una historia diferente—o más bien, no contaban ninguna historia. Vacíos en los registros. Siglos faltantes. Referencias cruzadas que llevaban a estantes vacíos. La historia de Elenoria era antigua, sí. Pero también era incompleta. Curada. Moldeada.
+
+Volvió a su trabajo asignado: transcribir acuerdos comerciales con los reinos del sur. Textos seguros. Textos aprobados. Del tipo que no levantaría preguntas.
+
+Pero por las noches, cuando la biblioteca estaba vacía y las paredes vivas respiraban en su ritmo lento y paciente, a veces escuchaba susurros de las secciones restringidas. Sonidos que podrían haber sido la madera asentándose. Podrían haber sido otra cosa.
+
+Los archivistas senior nunca trabajaban después del anochecer.
+
+Faelyn estaba empezando a entender por qué.
+
+---
+
+[![Elenoria Intro](https://i.imgur.com/h27L1BZ.png)](https://i.imgur.com/h27L1BZ.png)
+
+Tres semanas después, otra patrulla reportó movimiento en los bosquecillos del este. No un ataque—nada tan claro. Solo... movimiento. Árboles que parecían haber cambiado de posición. Senderos que ya no coincidían con los mapas.
+
+El Consejo se reunió. Faelyn no fue invitada, pero escuchó el resultado: los mapas serían redibujados. Las patrullas serían reasignadas a diferentes rutas. El asunto estaba cerrado.
+
+Archivó la cartografía actualizada en la sección apropiada y notó, no por primera vez, cuántos mapas anteriores habían sido marcados como *reemplazados* a lo largo de los siglos. Docenas de ellos. Cientos. Cada uno mostrando fronteras que se habían contraído ligeramente, bosques que habían crecido o cambiado o simplemente se habían movido.
+
+La posición oficial permanecía sin cambios: Elenoria perduraba. Los bosques antiguos se mantenían. Los arroyos cristalinos fluían.
+
+Pero en algún lugar del archivo restringido, detrás del tercer sello al que Faelyn no podía acceder, había textos que contaban una historia diferente. Estaba segura de ello.
+
+Probablemente nunca los leería.
+
+Algún conocimiento, estaba aprendiendo, se guardaba no porque fuera sagrado, sino porque era peligroso.
+
+Las paredes de la biblioteca respiraban. Las ramas crecían. Y en los bosquecillos del este, algo continuaba moviéndose de maneras que no coincidían con los mapas.
+
+**[Fin de Lore 2 — continúa en Lore 2: [Hielo y Hierro: Los Guerreros del Imperio de Frostgard](../../frostgard/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/index.mdx)]**
 
 --------------------
 
@@ -1310,7 +1397,104 @@ El viento aullaba afuera del gran salón. Adentro, los escaldos seguían cantand
 
 Thorvald se sirvió otro trago e intentó no contar los asientos vacíos.
 
-**[Fin de Lore 2 — continúa en Prólogo 1: [El Poder Indómito de las Tribus Grukmar](../../grukmar/choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar/index.mdx)]**
+**[Fin de Lore 2 — continúa en Lore 2: [El Poder Indómito de las Tribus Grukmar](../../grukmar/choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar/index.mdx)]**
+
+--------------------
+
+
+########## El Poder Indómito de las Tribus Grukmar ##########
+
+## Lore | El Poder Indómito de las Tribus Grukmar
+
+--- 
+
+[![Mapa de Grukmar](https://i.imgur.com/rw6EL1Y.png)](https://i.imgur.com/rw6EL1Y.png)
+
+Al mensajero goblin le faltaban tres dedos y la mayor parte de una oreja.
+
+La Capitana Morrigan lo estudió a través de los barrotes de la celda del puesto fronterizo. La criatura había sido encontrada a un kilómetro dentro del territorio lumeshireano, cargando nada más que una bolsa de cuero llena de dientes—no dientes de goblin, notó—y lo que parecía ser un mapa mal dibujado.
+
+—Dice que es un desertor —dijo el Sargento Hollis—. Dice que quiere intercambiar información por santuario.
+
+—Los goblins no desertan.
+
+—Eso le dije.
+
+El goblin presionó su cara contra los barrotes, sonriendo con lo que quedaba de sus dientes.
+
+—Zikvik sabe cosas —dijo en Común quebrado—. Cosas que los pielrosa quieren saber. Cosas sobre las tribus profundas. Sobre lo que se mueve en los pantanos.
+
+Morrigan no se acercó. Las criaturas de Grukmar eran impredecibles en el mejor de los casos, y esta tenía la energía maníaca de algo que había sobrevivido siendo más peligroso de lo que parecía.
+
+—¿Qué se mueve en los pantanos?
+
+—Ah. —La sonrisa del goblin se ensanchó—. Eso cuesta. Eso cuesta mucho.
+
+---
+
+[![Grukmar Intro2](https://i.imgur.com/tORSDal.png)](https://i.imgur.com/tORSDal.png)
+
+> *"Las tribus goblin de Grukmar son un grupo pendenciero, sus lealtades siempre cambiantes y sus alianzas tan fugaces como la niebla matutina."*
+
+Los informes de inteligencia decían al menos eso. Lo que no explicaban era por qué las incursiones fronterizas habían cambiado de patrón. Durante décadas, las incursiones de Grukmar habían sido predecibles: bandas dispersas de goblins, la ocasional banda de guerra orca, agarres de recursos durante la estación seca.
+
+Este año era diferente.
+
+Las incursiones se habían detenido casi por completo. No porque las tribus hubieran hecho las paces—los exploradores aún reportaban guerra interna constante, humo elevándose de campamentos en llamas, el caos usual. Pero las incursiones dirigidas *hacia afuera*, hacia las fronteras de Lumeshire, habían caído a casi cero.
+
+El Comando lo llamaba una victoria. Morrigan lo llamaba preocupante.
+
+Las cosas no se ponían tranquilas en Grukmar. Se ponían tranquilas antes de algo peor.
+
+—Las tribus profundas —dijo ella al goblin—. ¿Cuáles?
+
+La sonrisa de Zikvik se desvaneció ligeramente. Algo como miedo parpadeó en sus ojos amarillos—miedo genuino, no del tipo teatral que los goblins usaban para manipular.
+
+—No decir nombres. Nombres traen atención. —Bajó la voz—. Algo despierta en los pantanos. Algo viejo. Los jefes de guerra discuten sobre ello. Algunos dicen adorar. Algunos dicen huir. Los listos— —Se tocó el lado del cráneo—. Los listos ya se fueron.
+
+—¿Se fueron a dónde?
+
+—Aquí. Allá. Cualquier lugar que no sea *ahí*.
+
+---
+
+Morrigan archivó su informe esa noche. *Goblin capturado afirma conocimiento de actividad inusual en el interior de Grukmar. Detalles vagos. Recomiendo reconocimiento incrementado.*
+
+La respuesta llegó tres días después: *Activos de reconocimiento actualmente asignados al teatro del norte. Mantener horario de patrulla estándar. Tratar al sujeto capturado según protocolo siete.*
+
+El protocolo siete significaba liberación en la frontera con una advertencia. Morrigan observó al goblin correr de vuelta hacia la línea de árboles, moviéndose más rápido de lo que había esperado para algo con tantas partes faltantes.
+
+No miró hacia atrás. Las criaturas que sobrevivían en Grukmar aprendían a no mirar hacia atrás.
+
+---
+
+[![Grukmar Intro](https://i.imgur.com/xTqK5KY.png)](https://i.imgur.com/xTqK5KY.png)
+
+> *"Cuidado, los que buscarían su fortuna en la tierra de Grukmar, porque el precio del poder es alto y el camino a la ruina está pavimentado con los huesos de los inocentes y los condenados."*
+
+Las palabras estaban talladas sobre la puerta principal del puesto fronterizo—una advertencia de una era anterior, cuando el Imperio aún enviaba expediciones a las profundidades de Grukmar. Esas expediciones habían cesado hace un siglo. Los informes eran clasificados. Los sobrevivientes no hablaban de lo que habían visto.
+
+Morrigan había servido en esta frontera por seis años. Había luchado contra goblins, rastreado bandas de guerra orcas, catalogado las criaturas que emergían de los pantanos durante la temporada de tormentas. Creía que entendía Grukmar.
+
+Pero últimamente, las patrullas reportaban cosas que no encajaban en los patrones usuales. Campamentos orcos abandonados a mitad de comida. Madrigueras goblin vacías excepto por los muy viejos y los muy jóvenes. Huellas que llevaban más profundo hacia los pantanos—huellas masivas, de cosas que no podía identificar.
+
+Algo se estaba moviendo ahí dentro. Algo lo suficientemente grande o aterrador para hacer que las tribus huyeran hacia las fronteras que habían asaltado por generaciones.
+
+Escribió otro informe. Este fue más arriba en la cadena: *Recomiendo evaluación formal de actividad interior de Grukmar. Patrones de migración inusuales sugieren posible desestabilización regional.*
+
+La respuesta fue la misma que antes. Recursos asignados a otro lugar. Mantener horario de patrulla estándar.
+
+La tranquilidad continuaba.
+
+Morrigan incrementó las patrullas de todos modos, bajo su propia autoridad. Si algo venía saliendo de Grukmar, quería verlo antes de que llegara a los muros.
+
+Hasta ahora, nada había emergido. Pero los exploradores seguían encontrando esas huellas—siempre alejándose del interior, siempre frescas, siempre demasiado grandes para explicar.
+
+Lo que sea que estuviera despertando en los pantanos, no había terminado de despertar todavía.
+
+Esperaba que el Imperio estuviera listo cuando lo hiciera. Dudaba que lo estuvieran.
+
+**[Fin de Lore 2 — continúa en Lore 2: [El Pacto del Dominio Umbra'kor con la Oscuridad](../../umbrakor/el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad/index.mdx)]**
 
 --------------------
 
@@ -1395,6 +1579,6 @@ Las campanas del templo tocaron la hora vespertina. En la cámara de transcripci
 
 Sylaera copió las palabras una vez más, y se preguntó qué más habían encontrado.
 
-**[Fin de Lore 4 — continúa en Prólogo 1: [La llamada a Zuraldi](../../stonehold/la-llamada-a-zuraldi/index.mdx)]**
+**[Fin de Lore 2 — continúa en Prólogo 1: [La llamada a Zuraldi](../../stonehold/la-llamada-a-zuraldi/index.mdx)]**
 
 --------------------

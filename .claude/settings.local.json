@@ -11,7 +11,13 @@
       "Bash(find:*)",
       "Bash(ls:*)",
       "Bash(git -C \"c:/Development/workspace/GitHub/drusniel\" status --short)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" status -u)",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" diff --stat)",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" log --oneline -5)",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" add reports/en_posts.csv reports/es_posts.csv tools/standardize_headers.py \"site/content/posts/\")",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" commit -m \"$\\(cat <<''EOF''\nReclassify content types, fix chronological order, and update footer generation\n\n- Reclassify 4 world-building prequels \\(Elenoria, Frostgard, Grukmar, Umbra''kor\\) as Lore\n- Reclassify 4 narrative prequels \\(Call to Zuraldi, Journey Interrupted, Screams in the Mist, March of Despair\\) as Prologue\n- Reorder Lumeshire prologues \\(P-003 to P-006\\) before Grukmar capture stories \\(P-007/P-008\\) for correct chronology\n- Fix standardize_headers.py to properly handle Lore labels and mixed Chapter/Prologue transitions\n- Set featured posts to exactly 3 per language: first Lore, first Prologue, Chapter 1.1\n- Regenerate all headers/footers with correct type labels and cross-references\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"c:\\\\Development\\\\workspace\\\\GitHub\\\\drusniel\" status --short)"
     ]
   }
 }

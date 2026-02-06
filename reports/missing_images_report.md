@@ -22,12 +22,12 @@
 
 | Chapter | Title | Category | Storyline |
 |---------|-------|----------|-----------|
-| Ch 6.4 | Voices in the Dark: The Decision | umbrakor | drusniel |
 | Ch 8.1 | The Road from Zuraldi: The Awakening | stonehold | west |
 | Ch 8.2 | The Road from Zuraldi: The Absence | stonehold | west |
-| Ch 8.3 | The Road from Zuraldi: The Nephew's Doubt | stonehold | west |
+| Ch 8.3 | The Road from Zuraldi: The Nephew''s Doubt | stonehold | west |
 | Ch 8.4 | The Road from Zuraldi: The Followers | stonehold | west |
 | Ch 8.5 | The Road from Zuraldi: The Decision | stonehold | west |
+| Ch 6.4 | Voices in the Dark: The Decision | umbrakor | drusniel |
 | Ch 9.1 | The Nightmare Sea: The Black Water | wyrmreach | drusniel |
 | Ch 9.2 | The Nightmare Sea: The Count | wyrmreach | drusniel |
 | Ch 9.3 | The Nightmare Sea: The Silence | wyrmreach | drusniel |
@@ -82,12 +82,12 @@
 ## Full Paths (for reference)
 
 ```
-content\posts\en\umbrakor\voices-in-the-dark-the-decision
 content\posts\en\stonehold\the-road-from-zuraldi-the-awakening
 content\posts\en\stonehold\the-road-from-zuraldi-the-absence
 content\posts\en\stonehold\the-road-from-zuraldi-the-nephews-doubt
 content\posts\en\stonehold\the-road-from-zuraldi-the-followers
 content\posts\en\stonehold\the-road-from-zuraldi-the-decision
+content\posts\en\umbrakor\voices-in-the-dark-the-decision
 content\posts\en\wyrmreach\the-nightmare-sea-the-black-water
 content\posts\en\wyrmreach\the-nightmare-sea-the-count
 content\posts\en\wyrmreach\the-nightmare-sea-the-silence
