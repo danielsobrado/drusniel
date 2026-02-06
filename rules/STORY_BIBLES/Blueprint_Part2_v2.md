@@ -1403,17 +1403,20 @@ This is NOT beautiful shapeshifting:
 ---
 
 #### 12.5 | The Writing
-**Scene Goal**: Ancient drow writings discovered—prophecy seeds
+**Scene Goal**: Ancient drow writings discovered—prophecy seeds AND practical movement fragments
 **Must establish**:
 - Drusniel finds ancient writings (old drow dialect he recognizes)
 - Content: fragments about "the prison realm," barrier construction
+- Content: practical movement instructions ("follow the small ones," "go fast," "jump high")
 - He can read it (learned with Annariel—callback)
-- Seeds prophecy and worldbuilding for later
+- Seeds prophecy, worldbuilding, AND future alchemy callback
 
 **SCENE REQUIREMENTS**:
 - Drusniel recognizes old drow dialect (Annariel callback)
 - Fragments plant questions, don't answer them
 - "Prison realm" and "dual nature" referenced
+- Movement fragments are practical, not mystical (survival notes from ancient drow)
+- Drusniel memorizes the movement rules as practical guidance
 - Zaelar connection uncertain (guessed, not confirmed)
 - Writings incomplete (deliberate destruction)
 
@@ -1422,22 +1425,28 @@ This is NOT beautiful shapeshifting:
 - Barrier construction—ancient, deliberate
 - Reference to "dual affinities" and crossing
 - Warning about something seeking escape
+- **Movement fragments** (practical survival notes):
+  - "Follow the small ones through the fire roads" (Scorchshell creatures)
+  - "Go fast when the heat turns—the stone breathes and closes" (timed passages)
+  - "Jump high where the stone breaks—the gaps swallow the slow" (volcanic fissures)
 - Missing/damaged sections (no complete picture)
 
 **WORLDBUILDING ELEMENTS**:
 - **Drow presence in Wyrmreach**: Ancient, predating current factions
 - **Barrier purpose**: Containment, not protection (revelation)
 - **Prophecy seeds**: "Dual nature" = air/water (Drusniel's affinity)
+- **Movement rules**: Ancient drow navigated the deep volcano zones—these are their survival notes
 - **Historical depth**: This story has been building for millennia
 - **Annariel connection**: Their studies were more relevant than he knew
 
-**PROSE NOTE**: These fragments plant questions, don't answer them:
+**PROSE NOTE**: These fragments plant questions AND practical callbacks:
 - Why were drow here before?
 - What is the barrier containing?
 - Why can "dual nature" beings cross?
 - Is Drusniel part of something ancient?
+- **Future callback (Ch 18)**: Drusniel remembers these movement rules → asks Srietz for speed/jump potions to follow them
 
-**Hook**: "The writings ended mid-sentence. Whatever came next had been deliberately destroyed."
+**Hook**: "The writings ended mid-sentence. Whatever came next had been deliberately destroyed. But Drusniel read the survival notes twice more. Follow the small ones. Go fast. Jump high. Someone had survived down there. Someone had left instructions."
 
 ---
 
@@ -1489,8 +1498,10 @@ This is NOT beautiful shapeshifting:
 - [ ] Elion transformation shown—horrifying, costly
 - [ ] Transformation cost visible: exhaustion, trembling, fever
 - [ ] Srietz backstory revealed: Vexrath's slave
-- [ ] Ancient writings discovered: prophecy seeds
+- [ ] Ancient writings discovered: prophecy seeds + movement fragments
 - [ ] "Prison realm" and "dual nature" planted
+- [ ] Movement fragments planted (follow small ones / go fast / jump high)
+- [ ] Future alchemy callback seeded (speed/jump potion support from Srietz)
 - [ ] Elion returns wrecked but successful
 - [ ] Elion asserts identity: "Just Elion"
 - [ ] Group dynamic solidified—found family forming

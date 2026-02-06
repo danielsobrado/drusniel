@@ -304,12 +304,12 @@ Magic use in contested lands draws:
 **Beat**: New World / Escalating Stakes / Nyxara Introduction
 
 ### Core Conflict
-The contested lands are not wilderness—they're controlled territory. Three lords claim this region, and Drusniel's group has entered without permission. Nyxara finds them first. She opens with a brief controlled strike, then takes control politically. That's worse than a fight—a fight they could understand.
+The contested lands are not wilderness—they're controlled territory. Three lords claim this region, and Drusniel's group has entered without permission. Nyxara's scouts mistake them for hostile trespassers and open fire. Drusniel panic-casts an air deflection. Nyxara captures them all—but she's impressed. She recruits instead of kills.
 
 ### FIRST LAW COMPLIANCE
-**Magic used to solve conflict?** NO — magic draws attention; conflict is political
-**Rules needed**: Establish contested lands visibility, multiple faction tracking
-**Status**: ✅ COMPLIANT
+**Magic used to solve conflict?** PARTIALLY — Drusniel's panic air deflection saves lives but CAUSES capture; conflict resolution is political
+**Rules needed**: Establish contested lands visibility, multiple faction tracking, magic-as-attention reinforced
+**Status**: ✅ COMPLIANT (magic creates consequence, not resolution)
 
 ### CRITICAL REFINEMENT: NYXARA'S INTRODUCTION
 
@@ -391,21 +391,21 @@ Nyxara must be POLITICAL before anything else:
 - Elion detects observers first (senses, not sight)
 - Multiple groups confirmed (different directions, different patterns)
 - Srietz identifies but can't predict ("Three lords, three agendas")
-- A short probe attack from Nyxara's scouts (arrows) tests the group
-- Attack stops on Nyxara's order; capture/negotiation begins immediately
-- Drusniel's magic is tempting but forbidden
-- Decision: keep moving, don't engage, don't cast
+- Nyxara's scouts mistake them for enemies—arrows fly
+- Drusniel panic-casts an air deflection that throws the arrow volley off target
+- Arrows stop on Nyxara's order; scouts surround and capture the group
+- The air spell confirms Drusniel as a magic user—visibility rule consequence
 
 **WORLDBUILDING ELEMENTS**:
-- **Faction scouts**: Each lord has eyes in contested territory
+- **Faction scouts**: Each lord has eyes in contested territory—shoot first, assess second
 - **Elion's senses**: He smells/feels things others can't
-- **Information economy**: They're being assessed for value
-- **Neutrality impossible**: Being here is choosing a side
-- **The game**: Who approaches first wins something
+- **Mistaken hostility**: Trespassers are assumed enemies until proven otherwise
+- **Magic visibility**: Drusniel's panic cast broadcasts his presence to ALL factions
+- **Capture, not kill**: Nyxara's order stops the arrows—she wants them alive
 
-**Character beat**: Drusniel counted exits. None. Counted approaches. Too many. Counted watchers—gave up at six. His mind cataloged threats the way it always did, sorting variables into categories that should have helped. The categories were full. The answers were empty.
+**Character beat**: Drusniel counted exits. None. Counted approaches. Too many. Then the arrows came and counting stopped. His hand moved before his mind did—wind erupted outward, scattering the volley. He stared at his own fingers. He hadn't meant to do that. Everyone had seen it.
 
-**Hook**: "Elion grabbed Drusniel's arm. His grip was too tight. 'Don't move,' he whispered. 'The one on the left just signaled the others. They're not watching anymore. They're closing in.'"
+**Hook**: "The arrows scattered like startled birds. Drusniel stood shaking, hand still raised. Then the scouts emerged from everywhere—thirty, forty—and a voice rang out: 'Hold. That one just moved the wind.' Silence. 'Bring them. All of them. Alive.'"
 
 ---
 
@@ -442,26 +442,26 @@ Nyxara must be POLITICAL before anything else:
 ---
 
 #### 14.4 | The Lady
-**Scene Goal**: Nyxara appears—ends violence, takes political control
+**Scene Goal**: Nyxara evaluates the captured group—recruits instead of kills
 **Must establish**:
-- Nyxara arrives after the probe strike, ends violence, and controls the conversation
-- She expected them (information advantage)
-- The "offer" (safe passage for... something)
+- Nyxara examines the prisoners, particularly Drusniel
+- She's visibly impressed by the air deflection and marks Drusniel as useful
+- The "offer" shifts from punishment to recruitment
 - No escape possible—this is HER territory
 
 **SCENE REQUIREMENTS**:
-- Nyxara arrives post-strike: the arrows stop because SHE ordered them to stop
+- Nyxara arrives to assess prisoners: she ordered the capture, now she evaluates
 - Physical description: elegant, controlled, commanding presence (NO inhuman hints — threat is purely social/political)
-- She knows their names (information advantage)
-- The offer: safe passage through her lands
-- The price: left unstated (ominous)
-- NO FURTHER THREAT DISPLAY—the strike proved her power, now she uses politics
+- She references the air spell directly ("A drow with air magic. How unusual.")
+- The offer: roles in her forces for Drusniel, Elion, and Srietz
+- Drusniel's panic cast is what saved them—and what trapped them
+- NO FURTHER THREAT DISPLAY—the capture proved her power, now she uses opportunity
 
 **NYXARA'S CHARACTERISTICS**:
 - Speaks softly (doesn't need volume)
 - Asks questions she knows answers to
-- Treats them as guests, not prisoners (worse)
-- Interest in Drusniel specifically (why?)
+- Treats them as recruits, not prisoners (more dangerous)
+- Interest in Drusniel specifically (the air deflection revealed rare talent)
 - References Szoravel (knows their destination)
 
 **DIALOGUE CONSTRAINTS**:
@@ -478,31 +478,31 @@ Nyxara must be POLITICAL before anything else:
 ---
 
 #### 14.5 | The Terms
-**Scene Goal**: Accept Nyxara's offer—no real choice
+**Scene Goal**: Accept Nyxara's recruitment—no real choice
 **Must establish**:
-- The terms (safe passage, guidance, supplies)
-- The unspoken cost (she wants something from Drusniel)
-- Acceptance is practical (they can't refuse)
+- The offer: roles in Nyxara's forces (protection, purpose, resources)
+- The alternative: release into lethal contested territory without protection
+- Acceptance is practical (refusal = death sentence)
 - Srietz's private warning (after Nyxara leaves)
 
 **SCENE REQUIREMENTS**:
-- Terms stated: safe passage, a guide, supplies
-- Price unstated: "A conversation when you return"
+- Recruitment offer: Drusniel as magic asset, Elion as scout, Srietz as alchemist
+- Alternative stated clearly: "Or walk away and die in the contested lands"
 - Drusniel negotiates (futilely—she holds all cards)
-- Acceptance is the only option (they'd die without it)
+- Companions included as a unit (Nyxara wants Drusniel, takes the others as package)
 - Srietz's warning after: "She collects things. People are things."
 
 **WORLDBUILDING ELEMENTS**:
-- **Nyxara's terms**: Always honored, always worse than they seem
-- **"A conversation"**: Could mean anything—that's the point
-- **The guide**: One of her people, watching them
-- **Escape impossible**: Her territory surrounds their route
-- **Srietz's knowledge**: He's heard stories, none good
+- **Nyxara's recruitment**: Not loyalty—utility; she keeps useful tools
+- **Contested lands lethality**: Without a faction, survival is measured in days
+- **The team stays together**: Drusniel's condition for accepting
+- **Escape impossible**: Leaving her means walking into two other lords' kill zones
+- **Srietz's knowledge**: He's heard stories about her recruits, none good
 
 **SRIETZ'S FAILURE BEAT** (setup):
 This acceptance is based on Srietz's assessment that Nyxara's word is reliable. If he's wrong about this, it costs them later.
 
-**Character beat**: Drusniel hears himself agree and hates it. Refusal means dying in a field that isn't theirs. Acceptance means walking into a promise with no edges.
+**Character beat**: Drusniel hears himself agree and hates it. Refusal means dying in a field that isn't theirs. Recruitment means becoming a tool for someone who collects people.
 
 **Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—there's something in your head. Isn't there?' The guide watched Drusniel's face. Hunting for a reaction. 'She thought so. Old, isn't it? And hungry.' The guide smiled, showing too many teeth. 'She finds that fascinating.'"
 
@@ -513,14 +513,14 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 - [ ] Three factions introduced by markers (Nyxara, Vorthrak, Sytherix)
 - [ ] Multiple observers confirmed (competing interest)
 - [ ] Black flowers shown (cultivated, economic, Nyxara's)
-- [ ] One opening strike occurred (scout arrows/probe), then threat shifted to political
-- [ ] Nyxara introduced—POLITICAL after opening strike
+- [ ] Arrow probe happened under mistaken hostility
+- [ ] Drusniel used panic air deflection (visibility consequence)
+- [ ] Group captured, then recruited as a unit by Nyxara
+- [ ] Nyxara impressed by air magic—marks Drusniel as useful
 - [ ] NO dragon language used
-- [ ] Nyxara's offer accepted (no real choice)
-- [ ] Price left unstated ("a conversation")
+- [ ] Recruitment accepted (refusal = death in contested lands)
 - [ ] Srietz warning plants doubt
-- [ ] Group now has a guide (watcher)
-- [ ] Magic NOT used (visibility rule respected)
+- [ ] Magic use broadcasts position to ALL factions (visibility rule enforced)
 
 ---
 

@@ -46,7 +46,7 @@
 
 | 13 | Gloomy town; route set toward Szoravel | \*\*6\*\* | Long Cold; environment reacts; Maris worsens | Both: “the land itself is hostile” |
 
-| 14 | Meets Nyxara (political danger only) | \*\*7\*\* | Jotunheim’s Silence; prophecy fragment found | Both: powerful faction contact + first “nightmare sea” confirmation |
+| 14 | Brief military contact (arrow probe) → Drusniel panic air deflection → political capture/recruitment | \*\*7\*\* | Jotunheim's Silence; prophecy fragment found | Both: powerful faction contact + first "nightmare sea" confirmation |
 
 | 15 | Wyrmreach politics; “I’d never break barrier” | \*\*8\*\* | Ice That Listens; Water stone found; cost spikes | Both: apparent progress hides greater risk |
 

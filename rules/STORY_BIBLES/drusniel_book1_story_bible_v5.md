@@ -578,7 +578,7 @@ Staggered reveals across chapters:
 
 | 12.4 | The Wait | 12 hours alone with Srietz. Srietz doubts: "He's a monster. He won't come back." Drusniel explores caves. | Ancient writings on the walls - impossible |
 
-| 12.5 | The Reading | Drusniel CAN READ the old drow dialect (learned with Annariel). Fragments of history, mentions of "the prison realm," barrier construction | "These are thousands of years old..." |
+| 12.5 | The Reading | Drusniel CAN READ the old drow dialect (learned with Annariel). Fragments of history: "the prison realm," barrier construction, AND practical movement notes — "follow the small ones," "go fast when the heat turns," "jump high where the stone breaks." Drusniel memorizes these as survival rules. | "These are thousands of years old... and someone survived down there." |
 
 | 12.6 | The Return | Elion returns WRECKED - barely standing, collapses with supplies and gems. Cost shown. Trust earned. | "You came back." - "Always." |
 
@@ -812,11 +812,11 @@ Staggered reveals across chapters:
 
 |-----|-------|---------|------------------|
 
-| 18.1 | The Memory | Drusniel recalls cave writings - mentioned creatures that traverse the depths | "Small ones... shell-backed... they move through the fire" |
+| 18.1 | The Memory | Drusniel recalls the three movement fragments from Ch 12.5 cave writings: "follow the small ones" (Scorchshells), "go fast when the heat turns" (timed passages), "jump high where the stone breaks" (volcanic fissures). He connects the ancient instructions to the creatures he's now observing. | "Follow the small ones. Go fast. Jump high. Someone left instructions." |
 
 | 18.2 | The Observation | Watches turtle-crab creatures (Scorchshells) using deep tunnels, avoiding heat | "They go where we can't follow - unless..." |
 
-| 18.3 | The Preparation | Srietz creates jump/speed potions. Elion scouts tunnel entrances. Team effort. | "This is insane." - "That's why it might work." |
+| 18.3 | The Preparation | Srietz creates speed and jump potions directly from Drusniel's remembered movement fragments ("go fast" → speed potion, "jump high" → jump potion). Elion scouts tunnel entrances. The ancient guidance becomes actionable through Srietz's alchemy. | "The old writings said go fast and jump high. Srietz can make that literal." |
 
 | 18.4 | The Descent | Drusniel enters creature tunnels alone (too small for others), navigates heat with air magic | Running through fire - following shells |
 
