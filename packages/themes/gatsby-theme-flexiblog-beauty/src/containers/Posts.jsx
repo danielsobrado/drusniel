@@ -61,13 +61,29 @@ const Posts = ({ data, ...props }) => {
     (post) => post.language === language
   );
 
-  // Filter posts.group by language
+  // Filter posts.group by language and sort by custom order
+  const categoryOrder = [
+    "Umbra'kor",
+    'Stonehold',
+    'Lumeshire',
+    'Grukmar',
+    'Wyrmreach',
+  ];
+
   const filteredPostsGroup = data.posts.group
     .map((group) => ({
       ...group,
       nodes: group.nodes.filter((post) => post.language === language),
     }))
-    .filter((group) => group.nodes.length > 0);
+    .filter((group) => group.nodes.length > 0)
+    .sort((a, b) => {
+      const indexA = categoryOrder.indexOf(a.categoryName);
+      const indexB = categoryOrder.indexOf(b.categoryName);
+      // Categories not in the list go to the end, preserving their relative order
+      const orderA = indexA === -1 ? categoryOrder.length : indexA;
+      const orderB = indexB === -1 ? categoryOrder.length : indexB;
+      return orderA - orderB;
+    });
 
   return (
     <Layout {...props}>
