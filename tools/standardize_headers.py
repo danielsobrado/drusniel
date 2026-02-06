@@ -1,7 +1,6 @@
 import os
 import csv
 import re
-import shutil
 
 # Configurations
 BASE_DIR = r'c:\Development\workspace\GitHub\drusniel\site\content\posts'
@@ -14,16 +13,22 @@ CSV_FILES = {
 
 TRANS = {
     'en': {
-        'Lore': 'Lore', 'Main': 'Chapter', 'Prequel': 'Prequel', 'Prologue': 'Prologue',
+        'Lore': 'Lore',
+        'Main': 'Chapter',
+        'Prequel': 'Prequel',
+        'Prologue': 'Prologue',
         'Part': 'Part',
-        'Footer': '**[End of {current} — continues in {next_seq}: {next_title}]**',
-        'FooterMain': '**[End of Chapter {c_num}.{p_num} — continues in Chapter {n_num}.{np_num}: {next_title}]**'
+        'Footer': '**End of {current} — continues in {next_seq}: {next_title}**',
+        'FooterMain': '**End of Chapter {c_num}.{p_num} — continues in Chapter {n_num}.{np_num}: {next_title}**'
     },
     'es': {
-        'Lore': 'Lore', 'Main': 'Capítulo', 'Prequel': 'Prólogo', 'Prologue': 'Prólogo',
+        'Lore': 'Lore',
+        'Main': 'Capítulo',
+        'Prequel': 'Prólogo',
+        'Prologue': 'Prólogo',
         'Part': 'Parte',
-        'Footer': '**[Fin de {current} — continúa en {next_seq}: {next_title}]**',
-        'FooterMain': '**[Fin del Capítulo {c_num}.{p_num} — continúa en el Capítulo {n_num}.{np_num}: {next_title}]**'
+        'Footer': '**Fin de {current} — continúa en {next_seq}: {next_title}**',
+        'FooterMain': '**Fin del Capítulo {c_num}.{p_num} — continúa en el Capítulo {n_num}.{np_num}: {next_title}**'
     }
 }
 
@@ -83,6 +88,14 @@ def format_main_display(info, labels, chapter_part_counts, for_header=False):
     if is_single_part:
         return f"{labels['Main']} {chap_num}"
     return f"{labels['Main']} {chap_num}.{part_num}"
+
+def build_relative_post_link(current_filepath, next_filepath):
+    current_dir = os.path.dirname(current_filepath)
+    next_dir = os.path.dirname(next_filepath)
+    rel_dir = os.path.relpath(next_dir, current_dir).replace('\\', '/')
+    if rel_dir == '.':
+        return './'
+    return f"{rel_dir}/"
 
 def find_file_by_sequence(target_seq, lang):
     for root, dirs, files in os.walk(BASE_DIR):
@@ -159,7 +172,12 @@ def process_language(lang):
         body = re.sub(r'^---\s*', '', body).strip()
         body = re.sub(r'^#+.*?\n', '', body).strip()
         body = re.sub(r'^---\s*', '', body).strip()
-        body = re.sub(r'\s*\*\*\[.*?\]\*\*\s*$', '', body, flags=re.DOTALL).strip()
+        body = re.sub(
+            r'\n\n\*\*(?:\[)?(?:End of|Fin de)[^\n]*\*\*\s*$',
+            '',
+            body,
+            flags=re.MULTILINE
+        ).strip()
         
         # --- GENERATE NEW HEADER ---
         p_type = current_post.get('type', 'Main')
@@ -189,9 +207,8 @@ def process_language(lang):
             link_path = ""
             if n_seq in seq_to_path:
                 next_filepath, _ = seq_to_path[n_seq]
-                # Calculate relative path from current file's directory to next file
-                rel_path = os.path.relpath(next_filepath, os.path.dirname(filepath))
-                link_path = rel_path.replace('\\', '/')
+                # Link to the generated route directory, not the source .mdx file
+                link_path = build_relative_post_link(filepath, next_filepath)
             
             # Helper to detect label from canon_sequence
             def get_seq_label(seq_id):
@@ -226,9 +243,9 @@ def process_language(lang):
             link_title = get_link_title(n_seq, main_map, n_title)
 
             if lang == 'en':
-                new_footer = f"\n\n**[End of {current_display} — continues in {next_display}: [{link_title}]({link_path})]**"
+                new_footer = f"\n\n**End of {current_display} \u2014 continues in {next_display}: [{link_title}]({link_path})**"
             else:
-                new_footer = f"\n\n**[Fin de {current_display} — continúa en {next_display}: [{link_title}]({link_path})]**"
+                new_footer = f"\n\n**Fin de {current_display} \u2014 contin\u00faa en {next_display}: [{link_title}]({link_path})**"
 
         # Reassemble
         new_content = f"---{frontmatter}---{new_header_block}{body}{new_footer}"
@@ -246,3 +263,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

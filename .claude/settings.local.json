@@ -23,7 +23,8 @@
       "Bash(do echo \"$f\")",
       "Bash(done)",
       "Bash(dir:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git status:*)"
     ]
   }
 }
