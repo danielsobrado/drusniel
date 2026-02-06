@@ -171,42 +171,42 @@ def process_language(lang):
                 rel_path = os.path.relpath(next_filepath, os.path.dirname(filepath))
                 link_path = rel_path.replace('\\', '/')
             
-            # If both are Main, use nice numbering
-            if seq in main_map and n_seq in main_map:
-                c_info = main_map[seq]
-                n_info = main_map[n_seq]
-                n_subtitle = n_info['subtitle']
-                
-                ft = labels['FooterMain'].replace('{next_title}', '[{next_title}](' + link_path + ')')
-                new_footer = f"\n\n{ft.format(c_num=c_info['chap'], p_num=c_info['part'], n_num=n_info['chap'], np_num=n_info['part'], next_title=n_subtitle)}"
+            # Helper to detect label from canon_sequence
+            def get_seq_label(seq_id):
+                if '-L-' in seq_id or seq_id.startswith('L-'):
+                    return labels.get('Lore', 'Lore')
+                return labels.get('Prologue', 'Prologue')
+
+            # Helper to format IDs nicely
+            def format_id(seq_id):
+                sl = get_seq_label(seq_id)
+                match = re.search(r'-(\d+)$', seq_id)
+                if match:
+                    num = str(int(match.group(1)))
+                    return f"{sl} {num}"
+                return seq_id
+
+            # Helper to get display name for a sequence
+            def get_display(s, info_map):
+                if s in info_map:
+                    i = info_map[s]
+                    return f"{labels['Main']} {i['chap']}.{i['part']}"
+                return format_id(s)
+
+            # Helper to get link title
+            def get_link_title(s, info_map, fallback_title):
+                if s in info_map:
+                    return info_map[s]['subtitle']
+                return fallback_title
+
+            current_display = get_display(seq, main_map)
+            next_display = get_display(n_seq, main_map)
+            link_title = get_link_title(n_seq, main_map, n_title)
+
+            if lang == 'en':
+                new_footer = f"\n\n**[End of {current_display} — continues in {next_display}: [{link_title}]({link_path})]**"
             else:
-                # Fallback footer
-                ft = labels['Footer'].replace('{next_title}', '[{next_title}](' + link_path + ')')
-                
-                # Helper to format IDs nicely
-                def format_id(seq_id, type_label):
-                    final_label = type_label
-                    if seq_id.startswith('L-'):
-                        final_label = labels.get('Lore', 'Lore')
-                    elif seq_id.startswith('P-'):
-                        final_label = labels.get('Prologue', 'Prólogo')
-
-                    def strip_zeros(s):
-                        return str(int(s)) if s.isdigit() else s
-
-                    match = re.search(r'-(\d+)$', seq_id)
-                    if match:
-                        num = strip_zeros(match.group(1))
-                        return f"{final_label} {num}"
-                    return seq_id
-
-                c_label = labels.get('Lore') if seq.startswith('L-') else labels.get('Prologue', 'Prólogo')
-                n_label = labels.get('Lore') if n_seq.startswith('L-') else labels.get('Prologue', 'Prólogo')
-
-                c_friendly = format_id(seq, c_label)
-                n_friendly = format_id(n_seq, n_label)
-
-                new_footer = f"\n\n{ft.format(current=c_friendly, next_seq=n_friendly, next_title=n_title)}"
+                new_footer = f"\n\n**[Fin de {current_display} — continúa en {next_display}: [{link_title}]({link_path})]**"
 
         # Reassemble
         new_content = f"---{frontmatter}---{new_header_block}{body}{new_footer}"

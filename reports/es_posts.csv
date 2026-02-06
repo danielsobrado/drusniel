@@ -7,23 +7,23 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 106,2024-04-07,Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos,stonehold,Lore,lore,STO-L-001,true,fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos,null,null,lore
 107,2024-04-08,Los Zuraldarr,lumeshire,Lore,lore,LUM-L-002,true,the-zuraldarr,null,null,lore
 108,2024-04-09,Los Misterios del Dominio Wymreach,wyrmreach,Lore,lore,WYR-L-001,true,profundidades-oscuras-el-dominio-wymreach,null,null,lore
-109,2024-04-10,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Prequel,prequel,ELE-P-001,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,lore
-110,2024-04-11,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,L-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,lore
-111,2024-04-12,El Poder Indómito de las Tribus Grukmar,grukmar,Prequel,prequel,GRU-P-001,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
-112,2024-04-13,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Lore,lore,L-004,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,lore
-113,2024-04-14,La llamada a Zuraldi,stonehold,Prequel,prequel,STO-P-001,true,la-llamada-a-zuraldi,null,null,prologue
-114,2024-04-15,Un viaje complicado,stonehold,Prequel,prequel,STO-P-002,false,un-viaje-complicado,null,null,prologue
+109,2024-04-10,Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza,elenoria,Lore,lore,ELE-L-002,false,bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza,null,null,lore
+110,2024-04-11,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,FRO-L-002,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,lore
+111,2024-04-12,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,GRU-L-002,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
+112,2024-04-13,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Lore,lore,UMB-L-002,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,lore
+113,2024-04-14,La llamada a Zuraldi,stonehold,Prologue,prologue,P-001,true,la-llamada-a-zuraldi,null,null,prologue
+114,2024-04-15,Un viaje complicado,stonehold,Prologue,prologue,P-002,false,un-viaje-complicado,null,null,prologue
+115,2024-04-16,El Grito,lumeshire,Prologue,prologue,P-003,true,la-mirada-de-un-guardia-a-grukmar,null,null,prologue
+116,2024-04-17,Charla de Taberna,lumeshire,Prologue,prologue,P-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
+117,2024-04-18,Señales en la Frontera,lumeshire,Prologue,prologue,P-005,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
 117,2024-04-18,El Camino de Zuraldi: El Despertar,stonehold,Prologue,prologue,STO-R-001,false,el-camino-de-zuraldi-el-despertar,8,1,west
+118,2024-04-19,Sin Rastros,lumeshire,Prologue,prologue,P-006,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
 118,2024-04-19,El Camino de Zuraldi: La Ausencia,stonehold,Prologue,prologue,STO-R-002,false,el-camino-de-zuraldi-la-ausencia,8,2,west
-119,2024-04-20,Gritos en la niebla,grukmar,Prequel,prequel,GRU-P-002,false,gritos-en-la-niebla,null,null,prologue
+119,2024-04-20,Gritos en la niebla,grukmar,Prologue,prologue,P-007,false,gritos-en-la-niebla,null,null,prologue
 119,2024-04-20,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Prologue,prologue,STO-R-003,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,3,west
-120,2024-04-21,La marcha de la Desesperación,grukmar,Prequel,prequel,GRU-P-003,false,la-marcha-de-la-desesperacion,null,null,prologue
+120,2024-04-21,La marcha de la Desesperación,grukmar,Prologue,prologue,P-008,false,la-marcha-de-la-desesperacion,null,null,prologue
 120,2024-04-21,El Camino de Zuraldi: Los Seguidores,stonehold,Prologue,prologue,STO-R-004,false,el-camino-de-zuraldi-los-seguidores,8,4,west
 121,2024-04-22,El Camino de Zuraldi: La Decisión,stonehold,Prologue,prologue,STO-R-005,false,el-camino-de-zuraldi-la-decision,8,5,west
-122,2024-04-23,El Grito,lumeshire,,drusniel,LUM-M-001,true,la-mirada-de-un-guardia-a-grukmar,null,null,prologue
-123,2024-04-24,Charla de Taberna,lumeshire,,drusniel,LUM-M-002,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
-124,2024-04-25,Señales en la Frontera,lumeshire,,drusniel,LUM-M-003,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
-125,2024-04-26,Sin Rastros,lumeshire,,drusniel,LUM-M-004,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
 126,2024-04-27,La Cámara Sagrada,umbrakor,,drusniel,UMB-M-001,true,la-camara-sagrada,1,1,drusniel
 127,2024-04-28,Espadas y Sombras,umbrakor,,drusniel,UMB-M-002,true,espadas-sombras,2,1,drusniel
 128,2024-04-29,La Prueba: La Prueba de Venemora,umbrakor,,drusniel,UMB-M-003,false,la-prueba-la-prueba-de-venemora,3,1,drusniel
