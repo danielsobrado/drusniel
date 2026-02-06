@@ -19,7 +19,7 @@
 - Final `chapter` and `canon_sequence` frontmatter values follow the global sequence
 
 **Part 3 Global Chapter Map:**
-| Global Ch | Storyline | Working Title (Blueprint) | Publish Title (TBD) |
+| Global Ch | Storyline | Working Title (Blueprint) | Publish Title (Spoiler-Safe) |
 |-----------|-----------|---------------------------|---------------------|
 | 20 | west | The First Fragment | (no spoilers) |
 | 21 | drusniel | The Black Garden | (no spoilers) |
@@ -32,7 +32,7 @@
 | 28 | west | The Second Blood | (no spoilers) |
 | 29 | drusniel | The Tower of Certainties | (renamed from "The Drow in the Tower") |
 | 30 | west | The Convergence Seeds | (no spoilers) |
-| 31 | drusniel | The Departure | (review needed) |
+| 31 | drusniel | The Departure | (no spoilers) |
 
 **Title Hygiene (LOCKED)**:
 - "The Third Debt" → renamed to "The Counted Cost" (behavioral, not mechanical)
@@ -45,10 +45,13 @@
 
 **Canon Sources (LOCKED)**:
 - Nexus Artifact Bible
-- Story Bible v5
+- Story Bible v5 (**NOTE**: Debt #3 mechanics SUPERSEDED — see below)
 - Character Bible
 - East Side Bible v3
 - Blueprint_Part2_v2.md (LOCKED continuity)
+
+**⚠️ SUPERSESSION NOTE (Debt #3)**:
+Story Bible v5 (Ch 17, line 765) defines Debt #3 as a combat power burst (surrounded → Voice offers escape power). This Blueprint supersedes that with the evolved version: Debt #3 = autonomy loss (guardian demands companion sacrifice → Voice demands Drusniel name Srietz). The Blueprint version escalates debt *type* (survival → group → autonomy) rather than repeating survival debts. Story Bible v5's debt table (line 1175) should be updated to match this Blueprint when next revised.
 
 ---
 
@@ -74,7 +77,8 @@ Before writing ANY chapter in this document, verify:
   - Political menace ONLY until Ch 24 reveal
   - Use "lord," "warlord," "ruler" language—NEVER dragon terminology
   - Black flowers are her domain, her cultivation
-  - She does NOT attack—she observes, assesses, collects
+  - She may initiate ONE controlled opening strike (scout arrows/probe), then immediately shift to political control
+  - After first contact: she observes, assesses, collects—NO further attacks
 
 - **Magic Rules (Wyrmreach)**
   - Visibility rule fully active
@@ -106,6 +110,7 @@ Before writing ANY chapter in this document, verify:
   - Must be wrong once in this phase
   - Must misjudge once
   - Loyalty deepening but still conditional
+  - **HARD LOCK**: Srietz does NOT leave/disappear in Part 3; he stays with the group with damaged trust
 
 - **Barrier/Prophecy**
   - Outcome remains ambiguous
@@ -200,7 +205,7 @@ When bad things happen, the reader should think "of course"—not "how shocking.
 ## ⚠️ LOCK 2: NYXARA IS POLITICAL, NOT PHYSICAL
 
 Nyxara in Ch 14-19 must:
-- Never attack directly
+- One direct opening strike allowed in Ch14 first contact only; no direct attacks afterward
 - Never transform
 - Never reveal dragon nature
 - Observe, assess, collect, manipulate
@@ -211,7 +216,7 @@ Her threat is POLITICAL:
 - She offers "help" with strings attached
 - Her interest in Drusniel is strategic
 
-**If Nyxara feels like a combat encounter, you broke canon.**
+**If Nyxara remains a combatant after the opening strike, you broke canon.**
 
 ---
 
@@ -245,6 +250,7 @@ Between Ch 14-19, Srietz must:
 - Be factually wrong once
 - Misjudge a situation once
 - Cause delay or loss unintentionally
+- His failure/misjudgment may cause cost, but cannot remove him from party continuity
 
 **If Srietz only solves problems, he stops feeling transactional.**
 
@@ -285,6 +291,7 @@ Magic use in contested lands draws:
 
 # PART THREE: DRUSNIEL ARC (CONTESTED LANDS)
 ## Chapters 14-19 | Entanglement Phase
+*(Internal Drusniel arc labels map to global chapters 21, 23, 25, 27, 29, 31.)*
 
 ---
 
@@ -297,7 +304,7 @@ Magic use in contested lands draws:
 **Beat**: New World / Escalating Stakes / Nyxara Introduction
 
 ### Core Conflict
-The contested lands are not wilderness—they're controlled territory. Three lords claim this region, and Drusniel's group has entered without permission. Nyxara finds them first. She doesn't attack. That's worse.
+The contested lands are not wilderness—they're controlled territory. Three lords claim this region, and Drusniel's group has entered without permission. Nyxara finds them first. She opens with a brief controlled strike, then takes control politically. That's worse than a fight—a fight they could understand.
 
 ### FIRST LAW COMPLIANCE
 **Magic used to solve conflict?** NO — magic draws attention; conflict is political
@@ -384,6 +391,8 @@ Nyxara must be POLITICAL before anything else:
 - Elion detects observers first (senses, not sight)
 - Multiple groups confirmed (different directions, different patterns)
 - Srietz identifies but can't predict ("Three lords, three agendas")
+- A short probe attack from Nyxara's scouts (arrows) tests the group
+- Attack stops on Nyxara's order; capture/negotiation begins immediately
 - Drusniel's magic is tempting but forbidden
 - Decision: keep moving, don't engage, don't cast
 
@@ -394,7 +403,7 @@ Nyxara must be POLITICAL before anything else:
 - **Neutrality impossible**: Being here is choosing a side
 - **The game**: Who approaches first wins something
 
-**Character beat**: Drusniel's eyes search for edges to trace—walls, stone, anything solid. But there's only open field and watchers. No grounding. The habit that used to steady him only proves how exposed they are.
+**Character beat**: Drusniel counted exits. None. Counted approaches. Too many. Counted watchers—gave up at six. His mind cataloged threats the way it always did, sorting variables into categories that should have helped. The categories were full. The answers were empty.
 
 **Hook**: "Elion grabbed Drusniel's arm. His grip was too tight. 'Don't move,' he whispered. 'The one on the left just signaled the others. They're not watching anymore. They're closing in.'"
 
@@ -419,7 +428,7 @@ Nyxara must be POLITICAL before anything else:
 - **Black flowers**: Nyxara's economic base, alchemical value, trade goods
 - **Cultivation signs**: Rows, spacing, tended earth
 - **Single path**: The only way through—forced route
-- **Nyxara's control**: She owns this, therefore owns passage
+- **Nyxara's control**: She owns this, so she controls passage
 - **Beauty as power**: The flowers are a statement
 
 **Sensory details**:
@@ -433,20 +442,20 @@ Nyxara must be POLITICAL before anything else:
 ---
 
 #### 14.4 | The Lady
-**Scene Goal**: Nyxara appears—political encounter, not combat
+**Scene Goal**: Nyxara appears—ends violence, takes political control
 **Must establish**:
-- Nyxara's first appearance (controlled, elegant, dangerous)
+- Nyxara arrives after the probe strike, ends violence, and controls the conversation
 - She expected them (information advantage)
 - The "offer" (safe passage for... something)
 - No escape possible—this is HER territory
 
 **SCENE REQUIREMENTS**:
-- Nyxara appears without warning (already there, waiting)
-- Physical description: elegant, controlled, inhuman without specifics
+- Nyxara arrives post-strike: the arrows stop because SHE ordered them to stop
+- Physical description: elegant, controlled, commanding presence (NO inhuman hints — threat is purely social/political)
 - She knows their names (information advantage)
 - The offer: safe passage through her lands
 - The price: left unstated (ominous)
-- NO THREAT DISPLAY—she doesn't need to threaten
+- NO FURTHER THREAT DISPLAY—the strike proved her power, now she uses politics
 
 **NYXARA'S CHARACTERISTICS**:
 - Speaks softly (doesn't need volume)
@@ -495,7 +504,7 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 
 **Character beat**: Drusniel hears himself agree and hates it. Refusal means dying in a field that isn't theirs. Acceptance means walking into a promise with no edges.
 
-**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—there's something in your head. Isn't there?' The guide watched Drusniel's face. Hunting for a reaction. 'She thought so. Something old. Something hungry.' The guide smiled, showing too many teeth. 'She finds that... fascinating.'"
+**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—there's something in your head. Isn't there?' The guide watched Drusniel's face. Hunting for a reaction. 'She thought so. Old, isn't it? And hungry.' The guide smiled, showing too many teeth. 'She finds that fascinating.'"
 
 ---
 
@@ -504,7 +513,8 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 - [ ] Three factions introduced by markers (Nyxara, Vorthrak, Sytherix)
 - [ ] Multiple observers confirmed (competing interest)
 - [ ] Black flowers shown (cultivated, economic, Nyxara's)
-- [ ] Nyxara introduced—POLITICAL, not physical threat
+- [ ] One opening strike occurred (scout arrows/probe), then threat shifted to political
+- [ ] Nyxara introduced—POLITICAL after opening strike
 - [ ] NO dragon language used
 - [ ] Nyxara's offer accepted (no real choice)
 - [ ] Price left unstated ("a conversation")
@@ -604,9 +614,9 @@ With Nyxara's guide watching, the group travels deeper into contested territory.
 - **Debt psychology**: Expecting help is dependency
 - **Survival without magic**: Possible but harder
 
-**Character beat**: The problem gets solved. Everyone is fine. But Drusniel can't stop thinking about that moment—the moment he waited for a voice that didn't come, and felt disappointed.
+**Character beat**: The problem gets solved. Everyone is fine. But Drusniel can't stop thinking about that pause where he waited for a voice that didn't come, and felt disappointed.
 
-**Hook**: "He caught himself. He'd been waiting for it. Expecting it. Like an addict counting the hours until the next dose. 'Oh,' he said aloud, to no one. 'That's what this is. That's what it's been doing.' The silence in his head felt like laughter."
+**Hook**: "He caught himself. He'd been waiting for it. Expecting it. Like an addict counting the hours until the next dose. 'Oh,' he said aloud, to no one. 'That's what this is. That's what it's been doing.' The silence in his head had teeth."
 
 ---
 
@@ -698,9 +708,9 @@ With Nyxara's guide watching, the group travels deeper into contested territory.
 - **Guide departure**: Freedom returns, but at what cost?
 - **New territory**: Different dangers, different rules
 
-**Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels the weight of another debt—Nyxara's. How many debts can he carry?
+**Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels Nyxara's debt settle alongside the others. How many can he carry?
 
-**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. They always do—the old ones.' The guide's smile widened. 'She says she's met things like it before. She says she knows how to... negotiate.' A pause. 'If you survive long enough to need her help.' And then the flowers swallowed the guide whole."
+**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. They always do, the old ones.' The guide's smile widened. 'She says she's met things like it before. She knows how to negotiate.' A pause. 'If you survive long enough to need her help.' Then the flowers swallowed the guide whole."
 
 **NOTE**: Nyxara's statement "it wants your body" is WRONG—planted for later. The Voice wants Drusniel's choices, not his body. She's reasoning from pattern (possession), not knowledge. This reveals she's sharp but not omniscient.
 
@@ -889,7 +899,7 @@ Szoravel must feel CONTRADICTORY:
 - **Approaching danger or salvation**: Unknown which
 - **Artifact response**: Warmer, more active (why?)
 
-**Character beat**: The path felt like an invitation. Or a trap. In Wyrmreach, those were often the same thing.
+**Character beat**: The path invited them forward. In Wyrmreach, invitations and traps wore the same face.
 
 **Hook**: "The path ended at a door set into black stone. No handle. No knocker. Just words carved deep: 'YOU WERE EXPECTED. YOU ARE LATE. ENTER ALONE.' Drusniel looked back at his companions. 'Wait here,' he said. The door opened before he could touch it."
 
@@ -1050,17 +1060,12 @@ Drusniel faces a situation where his preferred choice is impossible. The Voice r
 - Drusniel's capitulation: "...fine"
 - Voice complies: the solution works
 
-**POSSIBLE DEMANDS** (choose one):
-- Betray a piece of information about companions
-- Use magic in a way that damages him
-- Abandon a principle (mercy, fairness, honesty)
-- Accept a physical change or mark
-
-**The demand must**:
-- Be something Drusniel CAN do (not impossible)
-- Be something Drusniel WOULDN'T do (against character)
-- Have visible consequences (others will see)
-- Advance the Voice's unknown agenda
+**The demand** (LOCKED — see §17.3 DEBT #3 TRIGGER MOMENT above):
+- Name Srietz as sacrifice to the guardian
+- Drusniel CAN do it (words, not action)
+- Drusniel WOULDN'T do it (betrays companion trust)
+- Visible consequences: Srietz and Elion both witness
+- Advances Voice's agenda: proves Drusniel will obey
 
 **Character beat**: He said yes because the other answers were graves. The Voice didn't negotiate. It waited.
 
@@ -1151,7 +1156,7 @@ Drusniel faces a situation where his preferred choice is impossible. The Voice r
 - **Isolation**: Far from faction conflicts
 - **The door**: Closed, waiting, not welcoming
 
-**Character beat**: He'd made it. The destination Zaelar promised. The mentor who would help. Drusniel looked at the door and felt nothing like hope.
+**Character beat**: He'd made it. The destination Zaelar promised. The mentor who would help. Drusniel looked at the door and felt no relief at all.
 
 **Hook**: "The tower door opened. A drow stood in the entrance—older than Drusniel expected, eyes like chips of obsidian. 'You're Zaelar's errand,' Szoravel said. Not a question. 'You're late. And you brought the wrong companions.' His gaze settled on Srietz. 'The goblin should have been the payment. Why is he still breathing?'"
 
@@ -1245,7 +1250,7 @@ He must be factually wrong once in this chapter. The error should be:
 
 **Character beat**: Szoravel looked at him like examining a tool. Not cruel. Not kind. Just... assessing whether he'd serve the purpose.
 
-**Hook**: "'The voice in your head,' Szoravel said, settling into a chair that seemed to grow from the floor, 'did it tell you I'd be pleased to see you? It lies, you know. It always lies. But not about this. I've been waiting.' He smiled. It didn't reach his eyes. 'Zaelar and I made a wager, long ago. It seems I've won.'"
+**Hook**: "'Sit.' Szoravel didn't look up from the artifact he was examining. 'You're Zaelar's. I can tell by the way you're carrying that thing—like it's a gift instead of a leash.' He set down his tools. Looked at Drusniel for the first time. Assessed. Dismissed. 'You'll do. Barely.'"
 
 ---
 
@@ -1335,7 +1340,7 @@ He must be factually wrong once in this chapter. The error should be:
 
 **ELION MYSTERY DEEPENS**:
 - Szoravel pauses when examining Elion
-- Something like recognition, then dismissal
+- A flicker of recognition, then dismissal
 - "Interesting" is all he says
 - Elion doesn't know what Szoravel saw
 - Neither does Drusniel
@@ -1365,7 +1370,7 @@ He must be factually wrong once in this chapter. The error should be:
 - Artifact purpose: delivery mechanism (not weapon)
 - Drusniel's role: carrier chosen for affinity (air/water)
 - Barrier connection: the artifact affects it, but they can't name how yet
-- Prophecy adjacent: events align but aren't destined
+- Prophecy adjacent: events align but aren't guaranteed
 - Information incomplete: Szoravel knows some, not all
 
 **WORLDBUILDING ELEMENTS**:
@@ -1375,9 +1380,9 @@ He must be factually wrong once in this chapter. The error should be:
 - **Prophecy vs. probability**: Not fate, just likely
 - **Szoravel's role**: Receiver, not controller
 
-**Character beat**: Drusniel was a carrier. Chosen because he could cross, not because he was special. That was almost comforting. Almost.
+**Character beat**: Drusniel was a carrier. Chosen because he could cross, not because he was special. He should have found that comforting. He didn't.
 
-**Hook**: "'The barrier is failing,' Szoravel said, like discussing weather. 'Has been for centuries. Your artifact—the key—is one of the few things that might slow it down. Or speed it up.' He paused. 'Zaelar never told you which, did he? That's because he doesn't know. Neither do I. You've been carrying a bomb or a bandage for weeks. Isn't that delightful?'"
+**Hook**: "'The barrier is failing,' Szoravel said, like discussing weather. 'Has been for centuries. Your artifact, the key, is one of the few things that might slow it down. Or speed it up.' He paused. 'Zaelar never told you which, did he? That's because he doesn't know. Neither do I. You've been carrying a bomb or a bandage for weeks. Isn't that delightful?'"
 
 ---
 
@@ -1405,7 +1410,7 @@ He must be factually wrong once in this chapter. The error should be:
 
 **Character beat**: One night of safety. More than Drusniel expected. Less than he needed. Wyrmreach didn't offer comfort. Just pauses between crises.
 
-**Hook**: "In the middle of the night, Drusniel woke to find Szoravel standing over him. Again. 'I almost killed you in your sleep,' Szoravel said conversationally. 'The thing in your head—it spoke to me. We had a very interesting conversation about you.' He smiled. 'It says you're almost ready. I asked: ready for what? It laughed.' Szoravel turned to leave. 'I don't like when it laughs. It only laughs when someone's about to suffer.'"
+**Hook**: "In the middle of the night, Drusniel woke to find Szoravel standing over him. Not watching—checking. The way someone checks equipment before a journey. 'The thing in your head was active while you slept,' Szoravel said. No alarm. No concern. Just data. 'It's aware of what I am. That's inconvenient.' He turned to leave. 'Sleep. You're functional enough. We're done in the morning.'"
 
 ---
 
@@ -1459,7 +1464,7 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 - Srietz's practicality: focuses on supplies
 - Drusniel's weight: three debts, new information, uncertainty
 
-**Hook**: "Srietz was gone. His pack remained, his bedroll still warm, but the goblin himself—vanished. Then Drusniel saw the note, written in Srietz's cramped hand: 'Srietz heard what you almost did. Srietz is going. Don't follow. Don't look for Srietz. Srietz thought you were different. Srietz was wrong.'"
+**Hook**: "Srietz packed his gear without speaking. He'd moved his bedroll to the far wall during the night—as far from Drusniel as the room allowed. When Elion asked if he was ready, Srietz answered Elion. Not Drusniel. 'Srietz is ready,' he said. 'Srietz walks with the group.' A pause. 'Srietz does not walk with him.' He didn't look at Drusniel once."
 
 ---
 
@@ -1492,20 +1497,20 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 **Scene Goal**: Begin journey toward next goal
 **Must establish**:
 - Direction clear (wherever Szoravel indicated)
-- Group unified (if changed)
+- Group fractured but moving together
 - New dangers implied
 - Commitment locked
 
 **SCENE REQUIREMENTS**:
 - Departure from the hold: immediate danger return
 - Path identified: based on Szoravel's information
-- Group conversation: first real talk since Szoravel
-- Commitment acknowledged: they're doing this
+- Srietz walks with Elion, not Drusniel (physical distance = emotional distance)
+- Commitment acknowledged: they're doing this despite fracture
 - Forward momentum
 
-**Character beat**: No one suggested turning back. That option had died somewhere on the road. All that remained was forward.
+**Character beat**: No one suggested turning back. No one suggested splitting up, either. Srietz stayed. That was worse than leaving—it meant he wanted Drusniel to live with what he'd done.
 
-**Hook**: "They ran. Behind them, something vast crossed the sky—not a bird, not a cloud, something that blocked out the sun for three heartbeats as it passed overhead. Nyxara, coming to collect. Drusniel ran faster. Whatever she wanted from him, he wasn't ready to pay."
+**Hook**: "They ran. Behind them, the ground shook. Dust fell from the trees. The air changed pressure, like a door slamming in a room too large to see. Nyxara's presence, rolling over the landscape. Coming to collect. Drusniel ran faster. Whatever she wanted from him, he wasn't ready to pay."
 
 ---
 
@@ -1514,23 +1519,23 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 **Must establish**:
 - Drusniel shares some information (not all)
 - Elion's mystery discussed (Szoravel's reaction)
-- Srietz's practical concerns
-- Group solidarity despite secrets
+- Srietz present but distant (speaks to Elion, not Drusniel)
+- Group solidarity fractured but functional
 
 **SCENE REQUIREMENTS**:
 - Drusniel shares: artifact purpose (partial), next goal
 - Drusniel withholds: debts, Voice, full implications
 - Elion discussed: what did Szoravel see?
-- Srietz focuses on practical: route, supplies, dangers
-- Group accepts: they're together, even with secrets
+- Srietz contributes practical information (route, supplies) but directs answers to Elion
+- Group functions despite damaged trust
 
 **DIALOGUE CONSTRAINTS**:
 - Drusniel tells truth but not whole truth
-- Companions accept without full understanding
-- Trust based on experience, not information
-- Secrets acknowledged but not demanded
+- Srietz speaks in third person more coldly than before
+- Elion mediates without acknowledging it
+- The unspoken sits between them like a wall
 
-**Hook**: "'Srietz is gone because of you.' Elion didn't make it a question. 'Because of what you almost did.' He kept walking, didn't slow down. 'I'm still here. But I want you to know—if you ever think about trading me, I'll know. And I won't wait for you to finish the thought.'"
+**Hook**: "'Srietz has a question about the route,' the goblin said, looking at Elion. 'Srietz would like to know if the drow plans to sell anyone else along the way. So Srietz can plan accordingly.' The silence that followed lasted a mile. Elion finally spoke: 'He's still here, Drusniel. That should scare you more than if he'd left. He stayed so you'd have to look at what you did. Every day. Every mile.'"
 
 ---
 
@@ -1546,7 +1551,7 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 - Internal inventory: debts, information, changes
 - Acknowledgment: he's different than when he started
 - Forward commitment: no going back
-- Companions beside him: not alone
+- Companions beside him: damaged but present
 - Chapter ends: walking toward the next crisis
 
 **INTERNAL ACCOUNTING**:
@@ -1556,10 +1561,11 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 - Nyxara: conversation owed (undefined)
 - Artifact: purpose partially known (delivery)
 - Destination: unclear but real
+- Srietz: still here, trust broken but loyalty holding
 
-**Character beat**: Drusniel cataloged what he carried—debts, obligations, secrets—and wished the listing could lighten the load. It didn't. He kept walking anyway.
+**Character beat**: Drusniel cataloged what he carried: debts, obligations, secrets, and a companion who walked ten paces behind and wouldn't say his name. He kept walking. They all did.
 
-**Hook**: "Three debts. One companion left. One lord with an interest in them. One artifact that might destroy or save everything. And behind them all, the Voice, laughing in the dark corners of his mind. 'Almost ready,' it whispered. 'Almost there.' Drusniel didn't ask where. He was afraid he already knew."
+**Hook**: "He counted what he carried: three debts, a companion who flinched when addressed, a lord who expected payment, and an artifact he still didn't understand. Srietz walked behind them. Close enough to help. Far enough to hurt. The Voice stirred. 'Almost ready,' it whispered. 'Almost there.' Drusniel didn't ask where. He was afraid he already knew."
 
 ---
 
@@ -1567,12 +1573,13 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 - [ ] Brief safety at Szoravel's ending
 - [ ] Final transaction—transactional, not warm
 - [ ] Departure into danger
+- [ ] Srietz STAYS but trust is broken (walks apart, speaks through Elion)
 - [ ] Group processes Szoravel encounter
 - [ ] Drusniel shares partial information
 - [ ] Secrets acknowledged but accepted
 - [ ] Three debts weighed
 - [ ] Changed state internal acknowledged
-- [ ] Forward commitment locked
+- [ ] Forward commitment locked—group fractured but functional
 - [ ] Act 2 effectively closes
 
 ---
@@ -1589,7 +1596,7 @@ Leaving Szoravel's hold means committing fully to the path. The information gain
 *Global Chapter 20 | west storyline*
 
 **Timeline**: Week 12-13 (parallel to Ch 21)
-**POV**: Maris / Aldric (alternating or choose one)
+**POV**: Maris (fragment discovery centers on her seer sensitivity)
 **Word Target**: 5,000-6,000 words (5 subchapters)
 **Beat**: Discovery / Escalation / Hunters Confirmed
 
@@ -1641,26 +1648,26 @@ The first fragment must:
 #### 7.2 | The Location
 **Scene Goal**: Find the fragment's hiding place
 **Must establish**:
-- Ancient location (ruins, cave, monument)
+- Ancient location (Frostgard ice cave with pre-kingdom stonework)
 - Protection or hiding (deliberate, not accidental)
 - Fragment visible or detectable
 - Decision to retrieve
 
 **SCENE REQUIREMENTS**:
-- Location described: ancient, pre-dating current civilizations
+- Location described: Frostgard ice cave, glacial tunnels, and carved stone older than current civilizations
 - Fragment placement: hidden but findable
 - Beacon's reaction: urgent, pulling
 - Group assessment: risks and rewards
 - Decision: retrieve (they can't not)
 
 **WORLDBUILDING ELEMENTS**:
-- **Ancient sites**: Predate current kingdoms
+- **Frostgard ice cave**: Glacial chamber with pre-kingdom construction sealed in ice
 - **Nexus system age**: Older than recorded history
 - **Fragment hiding**: Someone placed it deliberately
 - **Protection decay**: Old wards, failing but present
 - **Historical depth**: This story is ancient
 
-**Hook**: "The ruins had a door. The door was open. That was wrong—Xandor said ancient sites sealed themselves. Inside, they could see light. Moving light. Someone was already in there. Someone who'd been waiting."
+**Hook**: "The ice wall had a door carved straight through it. The door was open. That was wrong - Xandor said Frostgard ward-ice sealed old sites shut. Inside, they could see light. Moving light. Someone was already in there. Someone who'd been waiting."
 
 ---
 
@@ -1692,7 +1699,7 @@ The first fragment must:
 - **System awakening**: Each piece brings the whole closer
 - **Irreversibility**: Can't put it back
 
-**Hook**: "The moment Dulint touched the fragment, Maris collapsed. Convulsing. Foam at her mouth. And the Beacon—it started to unfold, revealing something inside that was definitely not metal. Something that was looking at them. Something that blinked."
+**Hook**: "The moment Dulint touched the fragment, Maris collapsed. Convulsing. Foam at her mouth. And the Beacon—it started to unfold, revealing a surface inside that was definitely not metal. Wet. Alive. It blinked."
 
 ---
 
@@ -1746,7 +1753,7 @@ The first fragment must:
 - **Escalation**: Danger has increased
 - **Unknown enemy**: Who wants the Nexus pieces?
 
-**Hook**: "Aldric found the body at the edge of camp—a Grukmar scout, the one who'd been tracking them for days. Something had killed it. Not them. Something else. Something that had torn it apart with surgical precision and left a message carved into its chest: 'GIVE US THE BEACON.'"
+**Hook**: "Aldric found the body at the edge of camp—a Grukmar scout, the one who'd been tracking them for days. It had been killed. Not by them. Whatever did it had torn the scout apart with surgical precision and left a message carved into its chest: 'GIVE US THE BEACON.'"
 
 ---
 
@@ -1948,7 +1955,7 @@ The fragment's effect reaches its peak. Maris sees Drusniel clearly for the firs
 - Helplessness: nothing anyone can do
 - Pressure building: the vision will come
 
-**Hook**: "Maris grabbed Xandor's arm hard enough to bruise. 'Something's happening,' she gasped. 'Right now. Wherever he is—the drowning man—something terrible is happening to him right now.' Her eyes rolled back. She started to fall. 'He's paying a price,' she whispered, 'and I can feel it.'"
+**Hook**: "Maris grabbed Xandor's arm hard enough to bruise. 'Something's happening,' she gasped. 'Right now. Wherever the drowning man is, something terrible is happening to him.' Her eyes rolled back. She started to fall. 'He's paying a price,' she whispered, 'and I can feel it.'"
 
 ---
 
@@ -1967,7 +1974,7 @@ The fragment's effect reaches its peak. Maris sees Drusniel clearly for the firs
 - Vision immersion: she's somewhere else
 - Real world fades: vision dominates
 
-**Hook**: "She didn't fall. She was pulled. Something inside the vision reached out and dragged her in. She had time for one thought—'this isn't how it works, this isn't how it's EVER worked'—and then she was drowning alongside him, feeling what he felt, seeing what he saw. And what he saw was a voice in his head, demanding something terrible."
+**Hook**: "She didn't fall. She was pulled. The vision reached out and dragged her in. She had time for one thought: 'this isn't how it works, this isn't how it's EVER worked.' Then she was drowning alongside him, feeling what he felt, seeing what he saw. And what he saw was a voice in his head, demanding something terrible."
 
 ---
 
@@ -2168,7 +2175,7 @@ Balin discovers evidence of Dulint's secret—not the content, but the existence
 - Love remains: but complicated now
 - Forward: they continue, carrying the unspoken
 
-**Hook**: "'I know about the note,' Balin said quietly. 'The one in your boot. 'Balin dies fast.'' He kept walking, didn't look at his uncle. 'I know you're trying to save me. I know it's killing you.' A long pause. 'I need you to know—if dying fast means we succeed, I'll choose that. Every time.' Dulint said nothing. There was nothing to say."
+**Hook**: "'I know about the note,' Balin said quietly. 'The one in your boot. The one that says I die fast.' He kept walking, didn't look at his uncle. 'I know you're trying to save me. I know it's killing you.' A long pause. 'I need you to know: if dying fast means we succeed, I'll choose that. Every time.' Dulint said nothing. There was nothing to say."
 
 ---
 
@@ -2218,7 +2225,7 @@ The new hunters catch up. The second combat is worse than the first—not just f
 - Chaos: initial confusion
 - Aldric: takes command instinctively
 
-**Hook**: "These weren't raiders. Raiders were chaos. This was precision."
+**Hook**: "These weren't raiders. Raiders were chaos. This was precision. Then a horn sounded once, and every exit they had was already occupied."
 
 ---
 
@@ -2250,7 +2257,7 @@ The new hunters catch up. The second combat is worse than the first—not just f
 - Escape managed but barely
 
 **SCENE REQUIREMENTS**:
-- Injury: someone seriously hurt (choose: Xandor, minor character)
+- Injury: Xandor is seriously hurt
 - Escape: managed but costly
 - Pursuit paused: but not ended
 - Emotional cost: this is real now
@@ -2277,7 +2284,7 @@ The new hunters catch up. The second combat is worse than the first—not just f
 - Group solidarity: in it together now
 - Forward: only option left
 
-**Hook**: "He bound the wound and tried not to think about how close it had been. Close wasn't acceptable. Close meant next time could be worse."
+**Hook**: "He tied off the bandage and looked up. Three fires burned on the ridge above them: one for the wounded, one for the dead, one for the hunters still following."
 
 ---
 
@@ -2346,7 +2353,7 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 - Group hope: maybe help exists
 - Group fear: maybe enemy
 
-**Hook**: "The Beacon wasn't just pointing anymore. It was reaching. Like calling something that might answer."
+**Hook**: "The Beacon wasn't just pointing anymore. It was reaching. Then it jerked hard toward the northeast, and Maris dropped to one knee, blood running from her nose."
 
 ---
 
@@ -2429,7 +2436,7 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 - Group unity: despite everything, together
 - Forward: toward whatever comes next
 
-**Hook**: "Maris stopped walking. Her face had gone pale. 'Something's wrong,' she said. 'The drowning man—he's not drowning anymore.' She looked at the Beacon, then at the sky, then at nothing. 'He's coming. He's coming HERE. And he's not alone—something's chasing him. Something that makes the hunters look like children playing at violence.'"
+**Hook**: "Maris stopped walking. Her face had gone pale. 'Something's wrong,' she said. 'The drowning man—he's not drowning anymore.' She looked at the Beacon, then at the sky, then at nothing. 'He's coming. He's coming HERE. And he's not alone. What's chasing him makes the hunters look like children playing at violence.'"
 
 ---
 
@@ -2467,7 +2474,7 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 | #1 | Ch 9 | Self survival (drowning) | Physical | The Voice exists and will save him |
 | #2 | Ch 17 | Group survival (starving) | Psychological | The Voice knows what he needs |
 | #3 | Ch 27 | Mission obstacle | Autonomy | The Voice demands obedience, not just payment |
-| #4+ | Future | TBD | TBD | Debts compound, escape narrows |
+| #4+ | Future | Escalating coercion | Compounding autonomy loss | Debts compound, escape narrows |
 
 ---
 
@@ -2531,7 +2538,7 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 | Ch 12 | Familiar, expectant | Desperate, starving | Group survival |
 | Ch 15 | ABSENT (anticipation beat) | Expecting, waiting | Nothing (horror of wanting) |
 | Ch 17 | Impatient, possessive | Stuck, frustrated | Autonomy lost |
-| Future | Demanding, ownership | Dependent, trapped | TBD |
+| Future | Demanding, ownership | Dependent, trapped | Dependency deepens |
 
 ---
 
@@ -2543,7 +2550,7 @@ Maris's visions show the paths converging. The artifact's broadcast is reaching 
 | **Ch 20** | Same + body visible | Clearer | Dark limbs, not human |
 | **Ch 24** | Same + FACE visible | Sharp | Elven features, dark skin, white hair—but NOT named as "drow" |
 | **Ch 30** | Same + MOVEMENT | Sharp | Moving toward them, features consistent |
-| **Future** | TBD | TBD | Drow confirmation reserved for in-person meeting |
+| **Future** | In-person encounter | Maximum | Drow confirmation reserved for in-person meeting |
 
 **STABLE IMAGE CONSTRAINT (LOCKED)**:
 > Maris sees FEATURES but does NOT identify SPECIES. She has no frame of reference for "drow"—she's never seen one. She sees: dark elven features, grey-black skin, white hair. The READER may recognize drow; MARIS does not name it. Confirmation happens when characters meet, not through vision.
@@ -2560,6 +2567,7 @@ Before drafting ANY Part 3 chapter:
 - [ ] Dragon language ABSENT
 - [ ] Elion transformation limit respected
 - [ ] Srietz has at least one failure/error
+- [ ] Srietz remains continuously present through Ch31 (no disappearance arc)
 - [ ] Magic creates problems, not solutions
 - [ ] Companions are liabilities first
 - [ ] Szoravel is fallible (error planted)
@@ -2579,7 +2587,7 @@ If all constraints are enforced:
 - The Voice becomes demanding, not helpful
 - Szoravel provides information without resolution
 - Both arcs converge toward the same point
-- Rereads feel inevitable, not engineered
+- Rereads feel earned, not engineered
 
 **Part 3 ends with**:
 - Drusniel changed, committed, carrying three debts
