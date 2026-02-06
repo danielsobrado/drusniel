@@ -205,13 +205,13 @@ Each handoff includes:
 
 ### HANDOFF 7: D17 → E11
 
-**D17 (Blood and Ash) ends:** Volcano test mission. Drusniel retrieves black crystal flower. Multi-faction combat. His magic is mediocre, frustrating him. He consumes the flower anyway—THIRD DEBT to the Voice for survival. First corruption visible.
+**D17 (Blood and Ash) ends:** Volcano test mission. Drusniel retrieves black crystal. Multi-faction combat. His magic is mediocre, frustrating him. He uses the crystal anyway—THIRD DEBT to the Voice for survival. First corruption visible.
 
 **E11 (Sea of Knives) opens:** The group takes a ship. Storm drawn in—unnatural. Hunters at sea. Damage, not death.
 
 | Element | Content |
 |---------|---------|
-| **Reader question held** | What are the black flowers doing to Drusniel? How many debts does he owe now? |
+| **Reader question held** | What are the black crystals doing to Drusniel? How many debts does he owe now? |
 | **Opening hook promises** | East Side in immediate physical danger. The pursuit is relentless. |
 | **Tension transfer** | Drusniel's choices corrupt him → East Side's journey costs blood. |
 | **Reader experience** | "He's changing. They're bleeding. Everyone is paying." |

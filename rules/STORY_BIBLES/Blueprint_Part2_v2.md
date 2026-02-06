@@ -1444,7 +1444,7 @@ This is NOT beautiful shapeshifting:
 - What is the barrier containing?
 - Why can "dual nature" beings cross?
 - Is Drusniel part of something ancient?
-- **Future callback (Ch 18)**: Drusniel remembers these movement rules → asks Srietz for speed/jump potions to follow them
+- **Future callback (Ch 25/27)**: Drusniel remembers these movement rules → pushes Srietz for speed/jump potions in Ch 25, executes the crossing through Scorchshell tunnels in Ch 27
 
 **Hook**: "The writings ended mid-sentence. Whatever came next had been deliberately destroyed. But Drusniel read the survival notes twice more. Follow the small ones. Go fast. Jump high. Someone had survived down there. Someone had left instructions."
 
@@ -1589,7 +1589,7 @@ This is a breathing chapter after intense action. But "breathing" doesn't mean "
 
 **WORLDBUILDING ELEMENTS**:
 - **Three lords**: Nyxara, Vorthrak, Sytherix (not named yet—"the three")
-- **Contested lands**: Volcano region, black flowers, valuable resources
+- **Contested lands**: Volcano region, black crystals/stones, valuable resources
 - **Szoravel's position**: Known but mysterious, has protection
 - **Srietz's knowledge limits**: He knows survival, not politics
 - **Road dangers**: Factions, creatures, terrain
@@ -1696,7 +1696,7 @@ The chapter ends simply:
 - **Contested lands**: Visible now—volcanic, dangerous, unavoidable
 - **Three travelers**: Bound by survival, not understanding
 - **Szoravel**: Still unknown, still the goal
-- **What waits**: Nyxara, black flowers, revelations (Ch 14+)
+- **What waits**: Nyxara, black crystals, revelations (Ch 14+)
 
 **Hook**: "The contested lands spread before them. Behind them, nothing worth returning to. So they walked forward, into the fire."
 

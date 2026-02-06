@@ -118,7 +118,7 @@ Staggered reveals across chapters:
 
 | 2-3 | Found by Nyxara, proving himself, first missions, volcano zone begins | 14-17 |
 
-| 4-5 | Volcano depths, black flowers, ruins discovery, growing power addiction | 17-19 |
+| 4-5 | Volcano depths, black crystals, ruins discovery, growing power addiction | 17-19 |
 
 | 6-7 | Major faction conflicts, partial revelations, trusted position | 19-21 |
 
@@ -698,7 +698,7 @@ Staggered reveals across chapters:
 
 | 15.2 | The Politics | Learns about three lords: Vorthrak, Sytherix, Nyxara. Their territories, conflicts | "Everyone wants the same thing - out of this prison" |
 
-| 15.3 | The Volcano | First briefing about contested volcano zone - magic-enhancing crystals, black flowers | "The flowers can boost any magic. They're worth dying for." |
+| 15.3 | The Volcano | First briefing about contested volcano zone - magic-enhancing black crystals, crystal fields | "The crystals can boost any magic. They're worth dying for." |
 
 | 15.4 | The Conversation | Discussion about the barrier. Drusniel: \*\*"I'd never help them break it. I'm a drow - that barrier protects my people."\*\* | Elion's odd look - "Never say never" |
 
@@ -724,7 +724,7 @@ Staggered reveals across chapters:
 
 \*\*POV:\*\* Drusniel
 
-\*\*Core:\*\* First glimpse of volcano zone. Crystal flowers explained - regular ones boost specific elements, BLACK flowers boost any magic. Faction territories and competition.
+\*\*Core:\*\* First glimpse of volcano zone. Crystals explained - regular ones boost specific elements, BLACK crystals/stones boost any magic. Faction territories and competition.
 
 
 
@@ -734,21 +734,21 @@ Staggered reveals across chapters:
 
 | 16.1 | The Approach | Team sent to volcano zone edge, heat, danger, beauty | Volcanic glass everywhere - crystals growing from it |
 
-| 16.2 | The Regular Flowers | Srietz explains: common crystals boost one element, valuable but limited | "These are nothing compared to what's deeper" |
+| 16.2 | The Regular Crystals | Srietz explains: common crystals boost one element, valuable but limited | "These are nothing compared to what's deeper" |
 
-| 16.3 | The Black Flowers | Deep in most dangerous zones, black crystal flowers - boost ANY magic, incredibly rare | "People die for those. Armies fight over them." |
+| 16.3 | The Black Crystals | Deep in most dangerous zones, black crystals/stones - boost ANY magic, incredibly rare | "People die for those. Armies fight over them." |
 
 | 16.4 | The Competition | Witnesses faction skirmish, casualties, brutality of the contested zone | "This is just a Tuesday here" |
 
-| 16.5 | The Temptation | Drusniel sees others using crystal power - the boost is VISIBLE, dramatic | "I need to get one of those black flowers" |
+| 16.5 | The Temptation | Drusniel sees others using crystal power - the boost is VISIBLE, dramatic | "I need to get one of those black crystals" |
 
 
 
-\*\*AGENCY:\*\* Drusniel CHOOSES to pursue black flowers (his desire for power drives him)
+\*\*AGENCY:\*\* Drusniel CHOOSES to pursue black crystals (his desire for power drives him)
 
-\*\*Worldbuilding:\*\* Crystal flower mechanics, volcano zone dangers, faction conflicts
+\*\*Worldbuilding:\*\* Black crystal mechanics, volcano zone dangers, faction conflicts
 
-\*\*Foreshadowing:\*\* Black flowers = the power choice that will corrupt him
+\*\*Foreshadowing:\*\* Black crystals = the power choice that will corrupt him
 
 
 
@@ -780,13 +780,13 @@ Staggered reveals across chapters:
 
 | 17.5 | The Escape | Reunites with team, victory, but Drusniel shaken - three debts now | "Where did THAT come from?" - companions saw the power |
 
-| 17.6 | The Obsession | At camp, Drusniel stares toward deeper volcano. Regular flowers aren't enough. | "I need to go deeper. I need the BLACK ones." |
+| 17.6 | The Obsession | At camp, Drusniel stares toward deeper volcano. Regular crystals aren't enough. | "I need to go deeper. I need the BLACK ones." |
 
 
 
 \*\*AGENCY + DEBT #3:\*\* Drusniel CHOOSES third debt (desperation for power)
 
-\*\*AGENCY:\*\* Decides to pursue black flowers despite danger
+\*\*AGENCY:\*\* Decides to pursue black crystals despite danger
 
 \*\*Worldbuilding:\*\* Volcano combat, faction tactics, power scaling
 
@@ -804,7 +804,7 @@ Staggered reveals across chapters:
 
 \*\*POV:\*\* Drusniel
 
-\*\*Core:\*\* Drusniel remembers cave writings. Studies small turtle-crab creatures. Srietz provides potions. Uses creature tunnels to reach deep zone. Finds BLACK FLOWERS + ancient ruins with VYRMAUTH SYMBOLS. \*\*FIRST PARTIAL REVELATION:\*\* Prophecy predates Zaelar by centuries.
+\*\*Core:\*\* Drusniel remembers cave writings. Studies Scorchshell creatures. Srietz provides potions. Uses creature tunnels to reach deep zone. Finds BLACK CRYSTALS + ancient ruins with VYRMAUTH SYMBOLS. \*\*FIRST PARTIAL REVELATION:\*\* Prophecy predates Zaelar by centuries.
 
 
 
@@ -820,7 +820,7 @@ Staggered reveals across chapters:
 
 | 18.4 | The Descent | Drusniel enters creature tunnels alone (too small for others), navigates heat with air magic | Running through fire - following shells |
 
-| 18.5 | The Discovery | Emerges in deep chamber. BLACK CRYSTAL FLOWERS everywhere. Ancient RUINS with VYRMAUTH SYMBOLS | Prophecy carved in stone - \*\*"...from shadow's realm, one shall cross..."\*\* |
+| 18.5 | The Discovery | Emerges in deep chamber. BLACK CRYSTALS everywhere. Ancient RUINS with VYRMAUTH SYMBOLS | Prophecy carved in stone - \*\*"...from shadow's realm, one shall cross..."\*\* |
 
 | 18.6 | \*\*THE REVELATION\*\* | Drusniel reads dates - prophecy is THOUSANDS of years old. Predates Zaelar by centuries. | "He didn't invent this. He LIED." - but what does it mean? |
 
@@ -828,7 +828,7 @@ Staggered reveals across chapters:
 
 \*\*EARLY REVELATION #1:\*\* Prophecy is REAL, not Zaelar's invention. Drusniel CHOOSES denial.
 
-\*\*AGENCY:\*\* Drusniel CHOOSES to take the black flowers anyway ("I can still control this")
+\*\*AGENCY:\*\* Drusniel CHOOSES to take the black crystals anyway ("I can still control this")
 
 \*\*Worldbuilding:\*\* Scorchshells, deep volcano ecology, ancient Vyrmauth worship
 
@@ -846,7 +846,7 @@ Staggered reveals across chapters:
 
 \*\*POV:\*\* Drusniel
 
-\*\*Core:\*\* Major faction conflict. Drusniel uses black flower power - DRAMATIC improvement but physical changes begin (scale patches, eye color shift). Companions notice. He CHOOSES to continue anyway. \*\*SECOND REVELATION:\*\* Barrier magic requires specific bloodline.
+\*\*Core:\*\* Major faction conflict. Drusniel uses black crystal power - DRAMATIC improvement but physical changes begin (scale patches, eye color shift). Companions notice. He CHOOSES to continue anyway. \*\*SECOND REVELATION:\*\* Barrier magic requires specific bloodline.
 
 
 
@@ -856,11 +856,11 @@ Staggered reveals across chapters:
 
 | 19.1 | The Battle | Major faction war erupts, all three lords committing forces | "This is the big one" |
 
-| 19.2 | The Power | Drusniel uses black flower - wind magic DRAMATICALLY stronger. Turns the tide. | Companions stare - "What did you DO?" |
+| 19.2 | The Power | Drusniel uses black crystal - wind magic DRAMATICALLY stronger. Turns the tide. | Companions stare - "What did you DO?" |
 
 | 19.3 | The Cost | After battle, Drusniel examines himself - scale patches on forearm, slight eye color change | "It's nothing. Just... adaptation." |
 
-| 19.4 | The Warning | Elion confronts Drusniel: "Those flowers are changing you. Stop." Drusniel REFUSES. | "I need this power for revenge. Nothing else matters." |
+| 19.4 | The Warning | Elion confronts Drusniel: "Those crystals are changing you. Stop." Drusniel REFUSES. | "I need this power for revenge. Nothing else matters." |
 
 | 19.5 | The Intelligence | Captured enemy mentions barrier: "Requires the right bloodline. Air and water. Very rare." | Drusniel's blood runs cold - but denial: "Could be anyone" |
 
@@ -868,11 +868,11 @@ Staggered reveals across chapters:
 
 \*\*EARLY REVELATION #2:\*\* Barrier needs specific bloodline + air/water. Drusniel CHOOSES denial.
 
-\*\*AGENCY:\*\* Drusniel CHOOSES flowers over companions' warnings (active bad choice)
+\*\*AGENCY:\*\* Drusniel CHOOSES crystals over companions' warnings (active bad choice)
 
 \*\*THE POWER CHOICE:\*\* Physical changes begin - Drusniel sees them and continues
 
-\*\*Worldbuilding:\*\* Large-scale faction warfare, black flower power mechanics
+\*\*Worldbuilding:\*\* Large-scale faction warfare, black crystal power mechanics
 
 
 
@@ -1140,7 +1140,7 @@ Staggered reveals across chapters:
 
 |---------|-------|-----------------|---------------------|
 
-| 18 | First black flower | None visible yet | Doesn't notice |
+| 18 | First black crystal | None visible yet | Doesn't notice |
 
 | 19 | Battle usage | Scale patches on forearm, slight eye shift | Notices, dismisses |
 

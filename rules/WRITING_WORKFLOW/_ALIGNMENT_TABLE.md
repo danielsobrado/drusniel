@@ -50,7 +50,7 @@
 
 | 15 | Wyrmreach politics; “I’d never break barrier” | \*\*8\*\* | Ice That Listens; Water stone found; cost spikes | Both: apparent progress hides greater risk |
 
-| 16 | Volcano zone rules; black flowers exist | \*\*9\*\* | Organized enemy confirmed; Aldric vindicated | Both: conflict becomes systemic, not local |
+| 16 | Volcano zone rules; black crystals exist | \*\*9\*\* | Organized enemy confirmed; Aldric vindicated | Both: conflict becomes systemic, not local |
 
 | 17 | Volcano mission; \*\*Debt #3\*\*; obsession begins | \*\*10\*\* | Cost of Knowing; Maris collapses mid-truth | Both: power/knowledge extracted at price |
 
