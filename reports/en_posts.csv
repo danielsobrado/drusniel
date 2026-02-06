@@ -11,12 +11,12 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 601,2025-08-24,Ice and Iron: The Warriors of the Empire of Frostgard,frostgard,Lore,lore,L-006,false,ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard,null,null,prologue
 602,2025-08-25,The Unruly Might of the Grukmar Tribes,grukmar,Lore,lore,L-003,false,clash-of-clans-the-unruly-might-of-the-grukmar-tribes,null,null,lore
 603,2025-08-26,The Umbra'kor Dominion's Pact with Darkness,umbrakor,Lore,lore,L-007,false,shadows-reign-the-umbrakor-dominions-pact-with-darkness,null,null,prologue
-604,2025-08-27,The Call to Zuraldi,stonehold,Prologue,prologue,P-005,true,the-call-to-zuraldi,null,null,prologue
-605,2025-08-28,A Journey Interrupted,stonehold,Prologue,prologue,P-006,false,a-journey-interrupted,null,null,prologue
-606,2024-08-25,The Screams in the Mist,grukmar,Prologue,prologue,P-007,false,the-screams-in-the-mist,null,null,prologue
+604,2025-01-27,The Call to Zuraldi,stonehold,Prologue,prologue,P-005,true,the-call-to-zuraldi,null,null,prologue
+605,2025-01-28,A Journey Interrupted,stonehold,Prologue,prologue,P-006,false,a-journey-interrupted,null,null,prologue
+606,2024-08-25,The Screams in the Mist,grukmar,Prologue,prologue,P-009,false,the-screams-in-the-mist,null,null,prologue
 607,2024-08-26,March of Despair,grukmar,Prologue,prologue,P-008,false,march-of-despair,null,null,prologue
-700,2024-11-27,Border Sign,lumeshire,Prologue,prologue,LUM-R-001,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil,null,null,prologue
-703,2024-11-30,No Tracks,lumeshire,Prologue,prologue,LUM-R-002,false,morning-tidings-goblin-threats-at-grukmars-edge,null,null,prologue
+700,2024-11-27,Border Sign,lumeshire,Prologue,prologue,P-007,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil,null,null,prologue
+703,2024-11-30,No Tracks,lumeshire,Prologue,prologue,P-008,false,morning-tidings-goblin-threats-at-grukmars-edge,null,null,prologue
 706,2024-12-03,The Scream,lumeshire,Prologue,prologue,LUM-R-003,true,whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar,null,null,prologue
 709,2024-12-06,Tavern Talk,lumeshire,Prologue,prologue,LUM-R-004,false,whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends,null,null,prologue
 1000,2025-01-01,The Sacred Chamber,umbrakor,Main,main,D-001-001,true,the-sacred-chamber,1,1,drusniel
@@ -56,10 +56,10 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 1102,2025-02-04,The Package: The Crossing,umbrakor,Main,main,D-007-025,false,the-package-the-crossing,7,25,drusniel
 1105,2025-02-05,The Package: The New World,umbrakor,Main,main,D-007-026,false,the-package-the-new-world,7,26,drusniel
 1110,2025-02-06,The Road from Zuraldi: The Awakening,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-awakening,8,1,west
-1113,2025-02-07,The Road from Zuraldi: The Absence,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-absence,8,1,west
-1116,2025-02-08,The Road from Zuraldi: The Nephew's Doubt,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-nephews-doubt,8,1,west
-1119,2025-02-09,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-followers,8,1,west
-1122,2025-02-10,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-decision,8,1,west
+1113,2025-02-07,The Road from Zuraldi: The Absence,stonehold,Main,main,W-008-002,false,the-road-from-zuraldi-the-absence,8,2,west
+1116,2025-02-08,The Road from Zuraldi: The Nephew''s Doubt,stonehold,Main,main,W-008-003,false,the-road-from-zuraldi-the-nephews-doubt,8,3,west
+1119,2025-02-09,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-004,false,the-road-from-zuraldi-the-followers,8,4,west
+1122,2025-02-10,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-005,false,the-road-from-zuraldi-the-decision,8,5,west
 1125,2025-02-12,The Nightmare Sea: The Black Water,wyrmreach,Main,main,D-009-001,false,the-nightmare-sea-the-black-water,9,1,drusniel
 1126,2025-02-13,The Nightmare Sea: The Count,wyrmreach,Main,main,D-009-002,false,the-nightmare-sea-the-count,9,2,drusniel
 1127,2025-02-14,The Nightmare Sea: The Silence,wyrmreach,Main,main,D-009-003,false,the-nightmare-sea-the-silence,9,3,drusniel

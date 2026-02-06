@@ -903,7 +903,7 @@ A pause.
 
 Drusniel's stomach tightened. Wrong answer.
 
-The real Annariel would have said: *You're doing your heartbeat math. Three taps. You're scared, not worried. Big difference.*
+The real Annariel would have said: *You're doing your wall-tracing thing. Three lines. You're scared, not worried. Big difference.*
 
 The real Annariel knew the game. Knew the tells. Knew that three taps meant fear, four meant calculation, seven meant family. They'd invented the system together over years of practice.
 
@@ -1250,7 +1250,7 @@ Zaelar's fingers closed around Drusniel's wrist. Cool, dry, stronger than they l
 
 "Close your eyes," Zaelar said. "Breathe slowly. Try not to reach for anything—just let me observe."
 
-Drusniel closed his eyes. His heartbeat pounded in his ears. Forty-one. Forty-two. He tried to slow his breathing, tried to empty his mind, but the questions kept circling. What was Zaelar doing? What would he find? What if there was nothing to find—what if the void had swallowed everything that made Drusniel special?
+Drusniel closed his eyes. His thumb traced the seams of his robe—one, two, three, four. He tried to slow his breathing, tried to empty his mind, but the questions kept circling. What was Zaelar doing? What would he find? What if there was nothing to find—what if the void had swallowed everything that made Drusniel special?
 
 "Interesting."
 
@@ -1344,7 +1344,7 @@ Zaelar watched him with something that might have been amusement. "Patience. You
 
 "That depends on you." Zaelar moved to the shelves and retrieved a single candle, setting it on the table between them. The flame burned steady and straight. "Your anger, your frustration, your desperation—they scatter the air. Emotional disruption makes precision impossible. Before I can teach you to move anything, you must learn to be still."
 
-Stillness. Drusniel had never been good at stillness. His mind raced constantly, counting, cataloging, searching for patterns. Even now, his heartbeat drummed in his ears: seventy-three, seventy-four...
+Stillness. Drusniel had never been good at stillness. His mind raced constantly, tracing, cataloging, searching for patterns. Even now, his fingers found the grain of the wooden chair beneath him, following the lines...
 
 "I can try," he said.
 
@@ -3963,11 +3963,7 @@ For now.
 
 ########## Chapter 8.1 | The Road from Zuraldi: The Awakening ##########
 
---- 
-
-## Chapter 8.1 | Part 1
-
---- 
+# Chapter 8.1 | The Awakening
 
 The road from Zuraldi stretched through hills that had seen better centuries.
 
@@ -3985,7 +3981,7 @@ Behind him, his nephew Balin complained about everything—the dust, the heat, t
 
 "She also said the sky would weep and the mountains would remember. What does that even mean?"
 
-Dulint grunted. The boy wasn't wrong. Three weeks since they'd left Zuraldi, three weeks since the witch-woman had looked at him with those hollow eyes and said words he couldn't repeat. Three weeks of carrying a stone box that did nothing but weigh him down.
+Dulint grunted. The boy wasn't wrong. Three weeks since Balin had pulled the cube from Stonehold's ruin, and the thing had done nothing but weigh him down. And last night in Zuraldi, the witch-woman had looked at him with those hollow eyes and said words he couldn't repeat.
 
 The artifact. The cube. The thing Balin had pulled from a collapsed wall in Stonehold's deepest ruin.
 
@@ -4040,11 +4036,9 @@ Dulint stared at the artifact. Three weeks of dormancy. Three weeks of nothing. 
 --------------------
 
 
-########## Chapter 8.1 | The Road from Zuraldi: The Absence ##########
+########## Chapter 8.2 | The Road from Zuraldi: The Absence ##########
 
-## Chapter 8 | Part 1
-
---- 
+# Chapter 8.2 | The Absence
 
 They stood at the roadside for a long moment, watching the cube pulse.
 
@@ -4103,13 +4097,9 @@ He looked down at the artifact in his hands. Still warm. Still pointing. Still d
 --------------------
 
 
-########## Chapter 8.1 | The Road from Zuraldi: The Nephew's Doubt ##########
+########## Chapter 8.3 | The Road from Zuraldi: The Nephew''s Doubt ##########
 
---- 
-
-## Chapter 8.1 | Part 1
-
---- 
+# Chapter 8.3 | The Nephew's Doubt
 
 They weren't walking anymore. They were fleeing, though neither of them had used the word yet.
 
@@ -4192,13 +4182,9 @@ Dulint felt the pulse against his spine. *Thump. Thump. Thump.* It was getting f
 --------------------
 
 
-########## Chapter 8.1 | The Road from Zuraldi: The Followers ##########
+########## Chapter 8.4 | The Road from Zuraldi: The Followers ##########
 
---- 
-
-## Chapter 8.1 | Part 1
-
---- 
+# Chapter 8.4 | The Followers
 
 The afternoon sun slid toward evening, and the followers didn't fall back.
 
@@ -4257,13 +4243,9 @@ Behind them, the followers broke into a run.
 --------------------
 
 
-########## Chapter 8.1 | The Road from Zuraldi: The Decision ##########
+########## Chapter 8.5 | The Road from Zuraldi: The Decision ##########
 
---- 
-
-## Chapter 8.3 | Part 3
-
---- 
+# Chapter 8.5 | The Decision
 
 They ran until running became falling forward and catching themselves.
 
@@ -4741,7 +4723,7 @@ Drusniel didn't question it. He angled the bow toward the volcanic light and let
 
 The water's wrongness faded with each passing moment. Temperature returned—cold, properly cold, no longer the suggestion of temperature but actual sensation. The liquid flowing past the hull began to behave like water should, with physics that made sense, with resistance that could be calculated.
 
-Time stabilized. One second followed another in predictable sequence. Drusniel counted his heartbeats—one, two, three, four—and four only happened once.
+Time stabilized. One second followed another in predictable sequence. Drusniel's fingers traced the edge of the boat—one crack, two, three, four—and each one stayed where it was.
 
 Shore materialized ahead.
 
@@ -4765,7 +4747,7 @@ His hands sank into the black sand. The air tasted of sulfur and metal. Everythi
 
 *Find Szoravel*, Zaelar had said. *Simple words for an impossible task.*
 
-Drusniel tried to count his heartbeats. One, two, three—the numbers held. Time worked here. That was something.
+Drusniel's fingers traced the grain of the sand beneath him. One line, two, three—they stayed fixed. Time worked here. That was something.
 
 He tried to stand again. Failed again. His body had nothing left. The crossing had taken everything from him, and whatever bargain he'd struck hadn't included recovery. It had included survival. Nothing more.
 
@@ -5323,7 +5305,7 @@ Maris was the last to speak. She looked at the artifact, then at the people arou
 
 Behind him, the artifact continued its patient vigil. Pointing. Searching. Waiting for whatever came next.
 
-And somewhere, across distances none of them could measure, events were already in motion that would draw them all together—or tear them all apart.
+Aldric stared into the dark street and couldn't shake the sense that something out there had already noticed them.
 
 ---
 
@@ -5445,7 +5427,7 @@ Merrik pointed. The direction led toward the volcanic glow, through terrain that
 
 "You're in no condition to travel alone. And I—" He paused, something calculating flickering behind his eyes. "I have business that direction anyway. It would make sense to travel together. Safer for both of us."
 
-It was logical. Reasonable. Drusniel's exhausted body agreed with every word. But something in the back of his mind was counting again—not heartbeats this time, but questions. How many questions had Merrik asked about his abilities? About his destination? About why someone would cross the nightmare sea just to find a reclusive mage?
+It was logical. Reasonable. Drusniel's exhausted body agreed with every word. But something in the back of his mind was cataloging again—not cracks in walls this time, but questions. How many questions had Merrik asked about his abilities? About his destination? About why someone would cross the nightmare sea just to find a reclusive mage?
 
 *Twelve questions yesterday. Eleven the day before. Twenty-seven total, and only four about practical matters like food and rest.*
 
@@ -6220,9 +6202,9 @@ Drusniel filed the information away. Eastern markets meant eastern buyers, which
 
 The landscape outside his cage was strange and hostile. Black sand gave way to rock formations that shouldn't exist—twisted spires of stone that looked like frozen screams, crystal growths that caught the dim light and scattered it in wrong directions. The sky remained that constant twilight, neither day nor night, with the volcanic glow pulsing on the horizon like a distant heartbeat.
 
-*One hundred and forty-seven heartbeats since the last guard rotation. They change every two hundred, roughly.*
+*One hundred and forty-seven cracks in the cage bars since the last guard rotation. He'd traced them all twice now.*
 
-His counting was automatic now. A habit born of having nothing else to do, nowhere else to direct his analytical mind. He counted guards, counted prisoners, counted the rhythm of the wagon wheels, counted his own breaths.
+His tracing was automatic. A habit born of having nothing else to do, nowhere else to direct his analytical mind. He traced the bars, traced the grain of the wood, traced the patterns in the stone floor beneath him.
 
 And he watched the creature in the far cage.
 
@@ -6733,7 +6715,7 @@ Xandor had spent his life seeking knowledge. Now he held it, and it wasn't enoug
 
 "Rewrite." Maris spoke the word like a curse. "Whatever this system can do, it ends in something that changes everything."
 
-No one disagreed.
+No one spoke. The Beacon pulsed again.
 
 ---
 
@@ -6785,10 +6767,6 @@ No one argued. No one agreed enthusiastically. They just accepted, because accep
 North. Toward ice and ancient secrets. Away from everything familiar.
 
 The artifact pointed that direction like a compass with teeth.
-
-And somewhere in the vast system of the Nexus, something else was moving. Something that had heard the Beacon's call and was already responding.
-
-The quest had begun.
 
 ---
 
@@ -7389,7 +7367,7 @@ Every step north was a step away from them.
 
 He was trying. It was all he could do.
 
-The quest had truly begun. And Dulint carried the weight of knowing how it would end.
+And Dulint carried the weight of fearing how it might end.
 
 ---
 

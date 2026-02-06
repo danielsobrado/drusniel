@@ -897,7 +897,7 @@ Una pausa.
 
 El estómago de Drusniel se tensó. Respuesta incorrecta.
 
-El verdadero Annariel habría dicho: *Estás haciendo tu matemática de latidos. Tres golpes. Tienes miedo, no estás preocupado. Gran diferencia.*
+El verdadero Annariel habría dicho: *Estás haciendo tu cosa de trazar paredes. Tres líneas. Tienes miedo, no estás preocupado. Gran diferencia.*
 
 El verdadero Annariel conocía el juego. Conocía las señales. Sabía que tres golpes significaban miedo, cuatro significaban cálculo, siete significaban familia. Habían inventado el sistema juntos a lo largo de años de práctica.
 
@@ -4013,9 +4013,7 @@ Por ahora.
 
 ########## Chapter 8.1 | El Camino de Zuraldi: El Despertar ##########
 
-## Capítulo 8 | Parte 1
-
---- 
+# Capítulo 8.1 | El Despertar
 
 El camino desde Zuraldi se extendía a través de colinas que habían visto mejores siglos.
 
@@ -4090,13 +4088,9 @@ Dulint miró fijamente el artefacto. Tres semanas de latencia. Tres semanas de n
 --------------------
 
 
-########## Chapter 8.1 | El Camino de Zuraldi: La Ausencia ##########
+########## Chapter 8.2 | El Camino de Zuraldi: La Ausencia ##########
 
---- 
-
-## Capítulo 8.1 | Parte 1
-
---- 
+# Capítulo 8.2 | La Ausencia
 
 Permanecieron al lado del camino por un largo momento, observando pulsar el cubo.
 
@@ -4157,13 +4151,9 @@ Miró hacia abajo al artefacto en sus manos. Todavía tibio. Todavía apuntando.
 --------------------
 
 
-########## Chapter 8.1 | El Camino de Zuraldi: La Duda del Sobrino ##########
+########## Chapter 8.3 | El Camino de Zuraldi: La Duda del Sobrino ##########
 
---- 
-
-## Capítulo 8.1 | Parte 1
-
---- 
+# Capítulo 8.3 | La Duda del Sobrino
 
 Ya no caminaban. Estaban huyendo, aunque ninguno de los dos había usado la palabra todavía.
 
@@ -4248,13 +4238,9 @@ Dulint sintió el pulso contra su columna. *Tump. Tump. Tump.* Se estaba volvien
 --------------------
 
 
-########## Chapter 8.1 | El Camino de Zuraldi: Los Seguidores ##########
+########## Chapter 8.4 | El Camino de Zuraldi: Los Seguidores ##########
 
---- 
-
-## Capítulo 8.1 | Parte 1
-
---- 
+# Capítulo 8.4 | Los Seguidores
 
 El sol de la tarde se deslizaba hacia la noche, y los seguidores no retrocedían.
 
@@ -4315,13 +4301,9 @@ Detrás de ellos, los seguidores empezaron a correr.
 --------------------
 
 
-########## Chapter 8.1 | El Camino de Zuraldi: La Decisión ##########
+########## Chapter 8.5 | El Camino de Zuraldi: La Decisión ##########
 
---- 
-
-## Capítulo 8.1 | Parte 1
-
---- 
+# Capítulo 8.5 | La Decisión
 
 Corrieron.
 
@@ -4400,6 +4382,8 @@ Puso un pie delante del otro. Adelante, hacia la oscuridad, hacia lo que sea que
 Y a pesar de todo —el miedo, la edad, el peso de sesenta y tres años— caminó hacia adelante de todas formas.
 
 ---
+
+**[Fin del Capítulo 8 — continúa en el Capítulo 10: El Nudo en Riverhold]**
 
 --------------------
 
@@ -4789,7 +4773,7 @@ Drusniel no lo cuestionó. Angulo la proa hacia la luz volcánica y dejó que la
 
 Lo erróneo del agua se desvaneció con cada momento que pasaba. La temperatura regresó—frío, apropiadamente frío, ya no la sugerencia de temperatura sino sensación real. El líquido fluyendo pasando el casco comenzó a comportarse como el agua debería, con física que tenía sentido, con resistencia que podía ser calculada.
 
-El tiempo se estabilizó. Un segundo seguía a otro en secuencia predecible. Drusniel contó sus latidos—uno, dos, tres, cuatro—y el cuatro solo ocurrió una vez.
+El tiempo se estabilizó. Un segundo seguía a otro en secuencia predecible. Los dedos de Drusniel trazaron el borde del bote—una grieta, dos, tres, cuatro—y cada una permaneció donde estaba.
 
 La orilla se materializó adelante.
 
@@ -4813,7 +4797,7 @@ Sus manos se hundieron en la arena negra. El aire sabía a azufre y metal. Todo 
 
 *Encuentra a Szoravel*, había dicho Zaelar. *Palabras simples para una tarea imposible.*
 
-Drusniel intentó contar sus latidos. Uno, dos, tres—los números se mantuvieron. El tiempo funcionaba aquí. Eso era algo.
+Los dedos de Drusniel trazaron la textura de la arena bajo él. Una línea, dos, tres—permanecieron fijas. El tiempo funcionaba aquí. Eso era algo.
 
 Intentó levantarse de nuevo. Falló de nuevo. Su cuerpo no tenía nada. El cruce había tomado todo de él, y lo que fuera que el trato había hecho—real o alucinado—no había incluido recuperación. Había incluido supervivencia. Nada más.
 
@@ -5371,7 +5355,7 @@ Maris fue la última en hablar. Miró el artefacto, luego a las personas a su al
 
 Detrás de él, el artefacto continuó su vigilia paciente. Apuntando. Buscando. Esperando lo que viniera después.
 
-Y en algún lugar, a través de distancias que ninguno de ellos podía medir, eventos ya estaban en movimiento que los atraerían a todos juntos—o los desgarrarían a todos.
+Aldric miró la calle oscura y no pudo sacudirse la sensación de que algo allá afuera ya los había notado.
 
 ---
 
@@ -5493,7 +5477,7 @@ Merrik señaló. La dirección llevaba hacia el resplandor volcánico, a través
 
 —No estás en condiciones de viajar solo. Y yo— Hizo una pausa, algo calculador parpadeando detrás de sus ojos—. Tengo asuntos en esa dirección de todos modos. Tendría sentido viajar juntos. Más seguro para ambos.
 
-Era lógico. Razonable. El cuerpo exhausto de Drusniel estaba de acuerdo con cada palabra. Pero algo en el fondo de su mente estaba contando otra vez—no latidos esta vez, sino preguntas. ¿Cuántas preguntas había hecho Merrik sobre sus habilidades? ¿Sobre su destino? ¿Sobre por qué alguien cruzaría el mar de pesadillas solo para encontrar a un mago recluso?
+Era lógico. Razonable. El cuerpo exhausto de Drusniel estaba de acuerdo con cada palabra. Pero algo en el fondo de su mente estaba catalogando otra vez—no grietas en paredes esta vez, sino preguntas. ¿Cuántas preguntas había hecho Merrik sobre sus habilidades? ¿Sobre su destino? ¿Sobre por qué alguien cruzaría el mar de pesadillas solo para encontrar a un mago recluso?
 
 *Doce preguntas ayer. Once el día anterior. Veintisiete en total, y solo cuatro sobre asuntos prácticos como comida y descanso.*
 
@@ -6268,9 +6252,9 @@ Drusniel archivó la información. Mercados del este significaba compradores del
 
 El paisaje fuera de su jaula era extraño y hostil. La arena negra daba paso a formaciones rocosas que no deberían existir—agujas retorcidas de piedra que parecían gritos congelados, crecimientos de cristal que atrapaban la luz tenue y la dispersaban en direcciones equivocadas. El cielo permanecía en ese crepúsculo constante, ni día ni noche, con el resplandor volcánico pulsando en el horizonte como un latido distante.
 
-*Ciento cuarenta y siete latidos desde la última rotación de guardias. Cambian cada doscientos, aproximadamente.*
+*Ciento cuarenta y siete grietas en los barrotes de la jaula. Ya las había trazado dos veces.*
 
-Su conteo era automático ahora. Un hábito nacido de no tener nada más que hacer, ningún otro lugar donde dirigir su mente analítica. Contaba guardias, contaba prisioneros, contaba el ritmo de las ruedas del carro, contaba sus propias respiraciones.
+Su trazado era automático ahora. Un hábito nacido de no tener nada más que hacer, ningún otro lugar donde dirigir su mente analítica. Trazaba los barrotes, trazaba la veta de la madera, trazaba los patrones en el suelo de piedra debajo de él.
 
 Y observaba a la criatura en la jaula del fondo.
 
@@ -6781,7 +6765,7 @@ Xandor había pasado su vida buscando conocimiento. Ahora lo sostenía, y no era
 
 —Reescribir. —Maris pronunció la palabra como una maldición—. Lo que sea que este sistema pueda hacer, termina en algo que lo cambia todo.
 
-Nadie discrepó.
+Nadie habló. El Faro volvió a pulsar.
 
 ---
 
@@ -6833,10 +6817,6 @@ Nadie discutió. Nadie acordó con entusiasmo. Solo aceptaron, porque la aceptac
 Norte. Hacia hielo y secretos antiguos. Lejos de todo lo familiar.
 
 El artefacto apuntaba en esa dirección como una brújula con dientes.
-
-Y en algún lugar en el vasto sistema del Nexus, algo más se estaba moviendo. Algo que había escuchado la llamada del Faro y ya estaba respondiendo.
-
-La misión había comenzado.
 
 ---
 
@@ -7435,7 +7415,7 @@ Cada paso al norte era un paso alejándose de ellos.
 
 Lo estaba intentando. Era todo lo que podía hacer.
 
-La misión verdaderamente había comenzado. Y Dulint llevaba el peso de saber cómo terminaría.
+Y Dulint llevaba el peso de temer cómo podría terminar.
 
 ---
 

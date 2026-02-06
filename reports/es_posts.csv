@@ -11,12 +11,12 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 10601,2025-08-24,Hielo y Hierro: Los Guerreros del Imperio de Frostgard,frostgard,Lore,lore,L-006,false,hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard,null,null,prologue
 10602,2025-08-25,El Poder Indómito de las Tribus Grukmar,grukmar,Lore,lore,L-003,false,choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar,null,null,lore
 10603,2025-08-26,El Pacto del Dominio Umbra'kor con la Oscuridad,umbrakor,Lore,lore,L-007,false,el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad,null,null,prologue
-10604,2025-08-27,La llamada a Zuraldi,stonehold,Prologue,prologue,P-005,true,la-llamada-a-zuraldi,null,null,prologue
-10605,2025-08-28,Un viaje complicado,stonehold,Prologue,prologue,P-006,false,un-viaje-complicado,null,null,prologue
-10606,2024-08-25,Gritos en la niebla,grukmar,Prologue,prologue,P-007,false,gritos-en-la-niebla,null,null,prologue
+10604,2025-01-27,La llamada a Zuraldi,stonehold,Prologue,prologue,P-005,true,la-llamada-a-zuraldi,null,null,prologue
+10605,2025-01-28,Un viaje complicado,stonehold,Prologue,prologue,P-006,false,un-viaje-complicado,null,null,prologue
+10606,2024-08-25,Gritos en la niebla,grukmar,Prologue,prologue,P-009,false,gritos-en-la-niebla,null,null,prologue
 10607,2024-08-26,La marcha de la Desesperación,grukmar,Prologue,prologue,P-008,false,la-marcha-de-la-desesperacion,null,null,prologue
-10700,2024-11-27,Señales en la Frontera,lumeshire,Prologue,prologue,LUM-R-001,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
-10703,2024-11-30,Sin Rastros,lumeshire,Prologue,prologue,LUM-R-002,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
+10700,2024-11-27,Señales en la Frontera,lumeshire,Prologue,prologue,P-007,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
+10703,2024-11-30,Sin Rastros,lumeshire,Prologue,prologue,P-008,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
 10706,2024-12-03,El Grito,lumeshire,Prologue,prologue,LUM-R-003,true,la-mirada-de-un-guardia-a-grukmar,null,null,prologue
 10709,2024-12-06,Charla de Taberna,lumeshire,Prologue,prologue,LUM-R-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
 11000,2025-01-01,La Cámara Sagrada,umbrakor,Main,main,D-001-001,true,la-camara-sagrada,1,1,drusniel
@@ -56,10 +56,10 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 11102,2025-02-04,El Paquete: La Travesía,umbrakor,Main,main,D-007-025,false,el-paquete-la-travesia,7,25,drusniel
 11105,2025-02-05,El Paquete: El Nuevo Mundo,umbrakor,Main,main,D-007-026,false,el-paquete-el-nuevo-mundo,7,26,drusniel
 11110,2025-02-06,El Camino de Zuraldi: El Despertar,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-el-despertar,8,1,west
-11113,2025-02-07,El Camino de Zuraldi: La Ausencia,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-ausencia,8,1,west
-11116,2025-02-08,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,1,west
-11119,2025-02-09,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-los-seguidores,8,1,west
-11122,2025-02-10,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-la-decision,8,1,west
+11113,2025-02-07,El Camino de Zuraldi: La Ausencia,stonehold,Main,main,W-008-002,false,el-camino-de-zuraldi-la-ausencia,8,2,west
+11116,2025-02-08,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-003,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,3,west
+11119,2025-02-09,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-004,false,el-camino-de-zuraldi-los-seguidores,8,4,west
+11122,2025-02-10,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-005,false,el-camino-de-zuraldi-la-decision,8,5,west
 11125,2025-02-12,El Mar de Pesadillas: El Agua Negra,wyrmreach,Main,main,D-009-001,false,el-mar-de-pesadillas-el-agua-negra,9,1,drusniel
 11126,2025-02-13,El Mar de Pesadillas: La Cuenta,wyrmreach,Main,main,D-009-002,false,el-mar-de-pesadillas-la-cuenta,9,2,drusniel
 11127,2025-02-14,El Mar de Pesadillas: El Silencio,wyrmreach,Main,main,D-009-003,false,el-mar-de-pesadillas-el-silencio,9,3,drusniel
