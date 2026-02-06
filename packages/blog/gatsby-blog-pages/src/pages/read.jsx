@@ -46,14 +46,16 @@ const PageContact = props => {
   }
 
   const englishLinks = [
-    { text: 'Start the adventure here', url: '/swords-and-shadows/' },
+    { text: 'Prologue 1: The Call to Zuraldi', url: '/the-call-to-zuraldi/' },
+    { text: 'Chapter 1.1: The Sacred Chamber', url: '/the-sacred-chamber/' },
     { text: 'Astalor regions', url: '/discovering-the-regions-of-astalor/' },
     { text: 'Magic in Astalor', url: '/magic-in-astalor/' },
     { text: 'Lore', url: '/en/tag/lore/' },
   ];
 
   const spanishLinks = [
-    { text: 'Comienza la aventura aquí', url: '/espadas-y-sombras/' },
+    { text: 'Prólogo 1: La llamada a Zuraldi', url: '/la-llamada-a-zuraldi/' },
+    { text: 'Capítulo 1.1: La Cámara Sagrada', url: '/la-camara-sagrada/' },
     { text: 'Regiones de Astalor', url: '/descubriendo-las-regiones-de-astalor/' },
     { text: 'Magia en Astalor', url: '/la-magia-en-astalor/' },
     { text: 'Historia y Mitología', url: '/es/tag/historia/' },

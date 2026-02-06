@@ -51,10 +51,21 @@ const Posts = ({ data, ...props }) => {
   const categories = useBlogCategories();
   const sliderRef = React.useRef();
 
-  // Filter featured posts by language
-  const filteredFeaturedPostsNodes = featuredPosts1.nodes.filter(
-    (post) => post.language === language
-  );
+  // Filter featured posts by language and pin reading-order posts first
+  const pinnedSlugs = [
+    '/the-call-to-zuraldi',  // Prologue 1 (P-001)
+    '/the-sacred-chamber',   // Chapter 1.1
+  ];
+
+  const filteredFeaturedPostsNodes = featuredPosts1.nodes
+    .filter((post) => post.language === language)
+    .sort((a, b) => {
+      const indexA = pinnedSlugs.findIndex((s) => a.slug.endsWith(s));
+      const indexB = pinnedSlugs.findIndex((s) => b.slug.endsWith(s));
+      const orderA = indexA === -1 ? pinnedSlugs.length : indexA;
+      const orderB = indexB === -1 ? pinnedSlugs.length : indexB;
+      return orderA - orderB;
+    });
 
   // Filter recent posts by language
   const filteredRecentPostsNodes = recentPosts1.nodes.filter(
