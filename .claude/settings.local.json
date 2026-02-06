@@ -22,7 +22,8 @@
       "Bash(while read:*)",
       "Bash(do echo \"$f\")",
       "Bash(done)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }

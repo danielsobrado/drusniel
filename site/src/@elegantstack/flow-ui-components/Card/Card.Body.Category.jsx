@@ -18,7 +18,7 @@ const styles = {
     }
 }
 
-const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence, pov }) => {
+const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter, canon_phase, canon_sequence, pov, startHere }) => {
     const { language } = useContext(LanguageContext)
 
     // Determine secondary tag label and type for styling
@@ -96,7 +96,7 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
         }
     }
 
-    if (omitCategory && !tagLabel && !pov) return null
+    if (omitCategory && !tagLabel && !pov && !startHere) return null
 
     return (
         <Box css={css(styles.container)} sx={{ variant: rv(variant, 'category') }}>
@@ -141,6 +141,22 @@ const CardBodyCategory = ({ variant, category, omitCategory, chapter, subchapter
                     }}
                 >
                     {pov}
+                </Badge>
+            )}
+
+            {startHere && (
+                <Badge
+                    variant='tag'
+                    sx={{
+                        ...styles.badge,
+                        bg: '#2e7d32',
+                        color: '#fff',
+                        fontWeight: 'bold',
+                        fontSize: '0.7em',
+                        letterSpacing: '0.05em'
+                    }}
+                >
+                    {language === 'es' ? 'Empieza aquí' : 'Start here'}
                 </Badge>
             )}
         </Box>

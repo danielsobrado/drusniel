@@ -51,21 +51,29 @@ const Posts = ({ data, ...props }) => {
   const categories = useBlogCategories();
   const sliderRef = React.useRef();
 
-  // Filter featured posts by language and pin reading-order posts first
-  const pinnedSlugs = [
-    '/the-call-to-zuraldi',  // Prologue 1 (P-001)
-    '/the-sacred-chamber',   // Chapter 1.1
+  // Start-here slugs for both languages (reading entry points)
+  const startHereSlugs = [
+    'the-call-to-zuraldi',
+    'la-llamada-a-zuraldi',
+    'the-sacred-chamber',
+    'la-camara-sagrada',
   ];
+  const isStartHere = (post) =>
+    startHereSlugs.some((s) => post.slug && post.slug.includes(s));
 
-  const filteredFeaturedPostsNodes = featuredPosts1.nodes
-    .filter((post) => post.language === language)
-    .sort((a, b) => {
-      const indexA = pinnedSlugs.findIndex((s) => a.slug.endsWith(s));
-      const indexB = pinnedSlugs.findIndex((s) => b.slug.endsWith(s));
-      const orderA = indexA === -1 ? pinnedSlugs.length : indexA;
-      const orderB = indexB === -1 ? pinnedSlugs.length : indexB;
-      return orderA - orderB;
-    });
+  // Filter featured posts by language (date order from query)
+  const filteredFeaturedPostsNodes = featuredPosts1.nodes.filter(
+    (post) => post.language === language
+  );
+
+  // For "Últimas aventuras" sections: start-here posts first, then the rest
+  const heroSkip = 3;
+  const afterHero = filteredFeaturedPostsNodes.slice(heroSkip);
+  const startHereNodes = afterHero
+    .filter(isStartHere)
+    .map((p) => ({ ...p, startHere: true }));
+  const otherNodes = afterHero.filter((p) => !isStartHere(p));
+  const aventurasNodes = [...startHereNodes, ...otherNodes];
 
   // Filter recent posts by language
   const filteredRecentPostsNodes = recentPosts1.nodes.filter(
@@ -130,9 +138,8 @@ const Posts = ({ data, ...props }) => {
       <Stack>
         <Main>
           <CardList
-            nodes={filteredFeaturedPostsNodes}
+            nodes={aventurasNodes}
             limit={4}
-            skip={3}
             columns={[1, 2, 1, 2]}
             variant={['horizontal-md', 'vertical']}
             omitMedia
@@ -150,9 +157,8 @@ const Posts = ({ data, ...props }) => {
         <Box sx={{ position: `relative`, zIndex: 2 }}>
           <CardList
             key={language}
-            nodes={filteredFeaturedPostsNodes}
+            nodes={aventurasNodes}
             limit={4}
-            skip={3}
             columns={[1, 2, 2, 4]}
             variant={['vertical-cover']}
             title={OurLatestAdventures}
@@ -234,9 +240,9 @@ const Posts = ({ data, ...props }) => {
                 <Hero wide sx={{ pb: [3, 5], pt: [4, 5] }}>
                   <Box sx={{ position: `relative`, zIndex: 2 }}>
                     <CardList
-                      nodes={filteredFeaturedPostsNodes}
+                      nodes={aventurasNodes}
                       limit={2}
-                      skip={7}
+                      skip={4}
                       columns={[1, 1, 1, 2]}
                       variant={[
                         'horizontal-md',
