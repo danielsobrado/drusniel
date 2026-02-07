@@ -3,70 +3,6 @@ DRUSNIEL - LORE (ES)
 
 
 
-########## La magia en Astalor ##########
-
-## Lore | La magia en Astalor
-
---- 
-
-La magia no es algo común. Es un tesoro. Una carga. Un don concedido a unos pocos. **Los magos** caminan por un sendero precario, ejerciendo un poder tan peligroso como maravilloso.
-
-## Los Fundamentos Elementales
-
-En el núcleo de la magia hay cuatro elementos: **Agua, Fuego, Tierra** y **Aire**. Cada mago domina uno. Algunos dominan un elemento relacionado. Pero los opuestos permanecen siempre fuera de su alcance. Ningún mago domina a la vez **agua y fuego**, o **tierra y aire**. Es una ley fundamental, inflexible y absoluta.
-
-## El arte del hechizo
-
-¿Lanzar un hechizo? No es una tarea sencilla. Exige la máxima concentración. Tiempo preciso. Entonación perfecta.
-
-> "Lanzar un hechizo no es una tarea sencilla. Los magos deben concentrar sus mentes, dibujando intrincadas runas mágicas en sus pensamientos mientras pronuncian los conjuros con una sincronización y entonación precisas. Hasta el más mínimo error puede tener consecuencias desastrosas, lo que convierte la práctica de la magia en una empresa de alto riesgo".
-
-Un paso en falso puede significar el desastre. La magia no perdona. Recompensa la precisión y castiga el descuido.
-
-## El papel de la naturaleza en la magia
-
-[![MagicIntro1](https://i.imgur.com/TYv7RFn.png)](https://i.imgur.com/TYv7RFn.png)
-
-Las palabras y los pensamientos por sí solos no hacen un hechizo. Los componentes físicos son vitales. **Las hierbas y los extractos ayudan. ¿Pero las piedras? Son la verdadera llave.** Desbloquean todo el potencial de un mago.
-
-Sin embargo, estas piedras son raras: preciosas y fugaces.
-
-> " Pero no son fáciles de conseguir. Las piedras en bruto deben ser examinadas cuidadosamente, y sólo unas pocas contienen la potencia necesaria para lanzar hechizos. Una vez que se encuentra una piedra adecuada, sólo puede usarse una vez antes de que su poder se agote, convirtiéndose en polvo o rompiéndose en fragmentos inútiles".
-
-Si usas una piedra, desaparece. Convertida en polvo o en fragmentos inútiles. Esta escasez da forma al paisaje mágico de Astalor. Algunas regiones rebosan de ciertas piedras elementales. En otras, son meros mitos. Los gremios de magos se alzan, compitiendo por el control de valiosos depósitos.
-
-## Favor Divino y Magia
-
-Hay otro camino hacia el poder: el **favor de los dioses**. Mediante la devoción y la oración, los magos pueden amplificar su magia. Pero los dioses son volubles. Exigentes. Las recompensas son grandes, pero también lo son los riesgos.
-
-## El precio del poder
-
-[![MagicIntro2](https://i.imgur.com/VxUX1Ex.png)](https://i.imgur.com/VxUX1Ex.png)
-
-A medida que los magos crecen, invocar se vuelve más fácil. Más poderosos. Pero el coste nunca desaparece del todo. El uso excesivo lleva al agotamiento. A la locura. Incluso la muerte. Y la magia atrae la atención: de rivales, entidades sobrenaturales o aquellos que temen su poder.
-
-## Las Ocho Escuelas
-
-La magia en Astalor no es una cura para todo. Es una herramienta escurridiza y exigente. Existen ocho escuelas, cada una con sus propias fortalezas y desafíos:
-
-1. **Hidromancia** (Agua): El arte de fluir y adaptarse. Incluye curación, purificación y manipulación de líquidos.
-2. **Ignimancia** (Fuego): La disciplina de la pasión y la transformación. Abarca la magia de combate, la manipulación de la energía y la purificación a través de las llamas.
-3. **Geomancia** (Tierra): El estudio de la estabilidad y el crecimiento. Abarca la magia de protección, la mejora física y la manipulación de la piedra y la vida vegetal.
-4. **Ventomancia** (Aire): La práctica de la libertad y el intelecto. Incluye el control del clima, la mejora de la velocidad y la manipulación de los gases.
-5. **Necromancia**: El controvertido arte de la vida, la muerte y la no muerte. Se centra en la comunicación con los espíritus, la manipulación de la fuerza vital y la reanimación.
-6. **Hechicería**: La disciplina de desvelar verdades ocultas. Abarca la adivinación, la profecía y la obtención de conocimientos de fuentes de otro mundo.
-7. **Evocación**: La práctica de invocar lo oculto. Incluye la invocación de entidades, la creación de objetos a partir de energía mágica y el teletransporte.
-8. **Mirajismo**: El arte de falsear la realidad. Incluye la creación de experiencias sensoriales falsas, la manipulación de las percepciones y la ocultación de la verdad.
-
-Cada camino ofrece poderes únicos. Pruebas únicas. Los magos deben elegir sabiamente, porque su elección determina su destino.
-
-La magia no es un asunto trivial. Es una fuerza de la naturaleza. Un don divino. Un arte peligroso.
-
-**Fin de Lore 1 — continúa en Lore 2: [La Nada y el Segundo Sol](/la-creacion-de-astalor/)**
-
---------------------
-
-
 ########## La Nada y el Segundo Sol ##########
 
 ## Lore | La Nada y el Segundo Sol
@@ -221,84 +157,7 @@ No era verdad. Pero era estable. Y la estabilidad, en un mundo nacido de la cont
 
 *Significado: incierto.*
 
-**Fin de Lore 2 — continúa en Lore 3: [Descubriendo las Regiones de Astalor](/descubriendo-las-regiones-de-astalor/)**
-
---------------------
-
-
-########## Descubriendo las Regiones de Astalor ##########
-
-## Lore | Descubriendo las Regiones de Astalor
-
---- 
-
-[![mapa](https://i.imgur.com/xurkpWW.png)](https://i.imgur.com/xurkpWW.png)
-
-Astalor. Una tierra de contrastes y conflictos inmemoriales. Desde helados páramos a verdes bosques, desde imponentes montañas a extensas llanuras, cada región cuenta una historia única. He aquí un vistazo a los diversos reinos que conforman este mundo.
-
-## Imperio Divino Lumeshireano
-
-Vasto y variado, el [Imperio Divino Lumeshireano](https://www.drusniel.com/the-resilient-defense-of-the-lumeshirean-divine-empire/) se erige como bastión de la civilización humana. Paladines y guerreros defienden sus fronteras. Las intrigas políticas son profundas. La palabra del Divino Emperador es ley, pero incluso la ley tiene sus límites.
-
-> "El imperio está enredado en una red de maquinaciones políticas, alianzas y traiciones con la Teocracia Contiana".
-
-De norte a sur, Lumeshire se enfrenta a constantes desafíos. Las tribus Grukmar amenazan el sur. Los norteños presionan desde el norte. Sin embargo, el imperio perdura, su pueblo unido bajo un estandarte de fe y deber.
-
-## Teocracia Contiana
-
-Donde la magia y la fe se entrelazan, encontrarás la [Teocracia Contiana](https://www.drusniel.com/the-contian-theocracys-quest-for-magical-supremacy/). Torres de magos surcan el cielo. La energía arcana crepita en el aire. Aquí el conocimiento es poder, y el poder lo es todo.
-
-> "Aunque afirman ser neutrales, los contianos tienen numerosas facciones que aceptan todo tipo de alineamientos".
-
-La neutralidad de Contia es una ilusión cuidadosamente elaborada. Bajo la superficie, las facciones compiten por el control. La búsqueda de la supremacía mágica impulsa todas sus acciones. En Contia, el aliado de hoy puede ser el rival de mañana.
-
-## Imperio de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)
-
-En el helado norte, [[Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)](https://www.drusniel.com/ice-and-iron-the-unyielding-warriors-of-the-empire-of-[Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)/) se alza desafiante contra la propia naturaleza. Los norteños, guerreros bárbaros endurecidos por el hielo y de voluntad inflexible, llaman hogar a esta dura tierra. La magia rúnica fluye por sus venas. Los espíritus susurran en los aullantes vientos.
-
-> "Los confines septentrionales de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/) están plagados de gigantes, que suponen una amenaza constante para los nórdicos".
-
-Los gigantes se ciernen como una amenaza constante. Sin embargo, el pueblo de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/) permanece intacto. Sus druidas comulgan con poderes ancestrales. Sus guerreros están preparados. En [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/), la supervivencia no es sólo un objetivo, es una forma de vida.
-
-## Reino Montañoso de Stonehold
-
-Esculpido en roca viva, el [Reino Montañoso de Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/) es una maravilla del ingenio enano y gnomo. Las ciudades-fortaleza desafían las propias leyes de la arquitectura. El sonido de los martillos sobre los yunques nunca cesa.
-
-¿El mayor desafío de Stonehold? Las implacables tribus Grukmar. Sin embargo, con la determinación de los enanos y la creatividad de los gnomos, han resistido durante siglos. En Stonehold, cada piedra cuenta una historia de resistencia.
-
-## Reino de Elenoria
-
-Entre bosques ancestrales, [Elenoria](https://www.drusniel.com/eternal-woods-the-kingdom-of-elenorias-dance-with-nature/) se erige como testamento de la gracia y la sabiduría élfica. Los árboles susurran secretos de épocas pasadas. La magia fluye tan libremente como los arroyos de cristal. Aquí, naturaleza y civilización conviven en armonioso equilibrio.
-
-Los elfos de Elenoria son famosos por su arquería y su lazo con el mundo natural. Su reino es un lugar de belleza y misterio, donde el tiempo parece moverse de forma diferente.
-
-## Tribus Grukmar
-
-Encarnación del caos, las [Tribus Grukmar](https://www.drusniel.com/the-unruly-might-of-the-grukmar-tribes/) son una fuerza de pura destrucción. Orcos, goblins y criaturas demasiado viles para nombrarlas componen esta horda brutal. Viven para la batalla, para la emoción de la conquista.
-
-Los Grukmar son una amenaza constante para sus vecinos. Sus incursiones mantienen a Stonehold y Lumeshire en alerta constante. En el mundo de Astalor, los Grukmar representan el peligro siempre presente del salvajismo descontrolado.
-
-## Dominio Umbra'kor
-
-En las sombras entre reinos, el [Dominio Umbra'kor](https://www.drusniel.com/shadows-reign-the-umbrakor-dominions-pact-with-darkness/) acecha. Hogar de los elfos oscuros, es un lugar donde reinan la ambición y la oscuridad. Sirven de amortiguador entre el mundo conocido y los horrores del más allá.
-
-Los elfos oscuros de Umbra'kor son maestros de la magia siniestra. Se aventuran en el temido Wyrmreach, buscando el poder a cualquier precio. En el delicado equilibrio de Astalor, Umbra'kor es un mal necesario, pero un mal al fin y al cabo.
-
-## Dominio de Wyrmreach
-
-Más allá del mar tempestuoso yace el [Dominio de Wyrmreach](https://www.drusniel.com/the-mysteries-of-the-wymreach-dominion/).
-
-En canciones y leyendas, los viajeros susurran acerca de cosas terribles en esa tierra lejana — horrores más allá de la comprensión mortal y sombras que desafían toda descripción — pero pocos de los que viajan allí regresan para confirmar qué es verdad.
-
-Para la mayoría, sigue siendo un lugar mencionado en leyendas temerosas más que un hecho conocido.
-
-> "Sólo los elfos oscuros de Umbra'kor pueden establecer contacto con este reino abandonado".
-
-Los horrores que contiene Wyrmreach están más allá de la comprensión mortal. Es un sombrío recordatorio de la oscuridad que amenaza con consumir Astalor si alguna vez caen las barreras.
-
-Estos son los reinos de Astalor. Cada uno único, cada uno vital para el precario equilibrio del mundo.
-
-**Fin de Lore 3 — continúa en Lore 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/)**
+**Fin de Lore 2 — continúa en Lore 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/)**
 
 --------------------
 
@@ -875,154 +734,7 @@ La piedra se agrietaba donde nunca lo había hecho antes. Pero el refuerzo aguan
 
 Por ahora era todo lo que cualquiera podía prometer.
 
-**Fin de Lore 1 — continúa en Lore 2: [Los Zuraldarr](/the-zuraldarr/)**
-
---------------------
-
-
-########## Los Zuraldarr ##########
-
-## Lore | Los Zuraldarr
-
---- 
-
-[![Zuraldarr1](https://i.imgur.com/uV1xzcl.jpeg)](https://i.imgur.com/uV1xzcl.jpeg)
-
-Zuraldi se extiende por los confines del este de Lumeshire, una accidentada extensión de densos bosques y escarpadas montañas. La tierra crió a gente resistente, los Zuraldarr, cuya fuerza estaba a la altura del terreno que llamaban hogar.
-
-Anja estaba en lo alto de un acantilado, con los ojos escrutando el horizonte. Abajo, los bosques de Zuraldi se extendían como un mar verde, sólo interrumpido por el brillo de los ríos y algún que otro claro. Al este, se alzaban los picos de Stonehold, marcando la frontera con el reino enano.
-
-"¿Ves esos pasos? Señaló las estrechas brechas entre las montañas. "Nuestros antepasados los utilizaban para superar a todos los ejércitos que intentaban apoderarse de nuestras tierras".
-
-Su aprendiz, Torben, entrecerró los ojos contra el sol. "Pero ahora formamos parte de Lumeshire, ¿no?".
-
-Anja asintió. "Con nuestras condiciones. El imperio aprendió que era mejor tenernos como aliados que como enemigos".
-
-## Una Historia Escrita en Piedra y Sangre
-
-En la plaza del pueblo, la anciana Hilda pasaba los dedos sobre un antiguo monolito de piedra. En su superficie había grabadas escenas de batalla y triunfo.
-
-"Esto cuenta la historia de la Batalla del Paso del Hacha Rota", explicó a un grupo de niños con los ojos muy abiertos. "Mil soldados imperiales entraron en el paso. Sólo quedaron diez vivos".
-
-Una niña levantó la mano. "¿Pero por qué no los matamos a todos?".
-
-El rostro curtido de Hilda se arrugó en una sonrisa. "Para enviar un mensaje. A los Zuraldarr no se les puede conquistar, sólo negociar con ellos".
-
-## El paso de las caravanas
-
-El paso de montaña bullía de actividad. Una larga hilera de carromatos se abría paso a través del terreno rocoso, cargados de mercancías. Los comerciantes de Zuraldarr, con sus músculos ondulantes bajo las ropas desgastadas por la intemperie, guiaban robustos ponis de montaña con manos seguras.
-
-Marta, la matriarca de los comerciantes, iba a la cabeza de la caravana. Su aguda mirada escudriñaba el traicionero camino, siempre atenta a rocas sueltas o señales de bandidos.
-
-Un mercader enano, con la barba trenzada con hilos de oro, se acercó a ella. "¡Marta! Me alegro de verte. ¿Cómo va la cosecha este año?"
-
-"Abundante como siempre, Thorin. Tu pueblo no pasará hambre este invierno".
-
-El enano asintió agradecido. "Y tendréis suficientes hachas y picos para que os duren hasta la próxima primavera. Aunque debo decir que este camino de montaña nunca es fácil".
-
-Marta sonrió, con un orgullo feroz en los ojos. "Por eso nos necesitas, amigo mío. Nadie conoce estos senderos como los Zuraldarr".
-
-Como para demostrar lo que decía, gritó una serie de órdenes. La caravana cambió de formación con suavidad, sorteando un recodo especialmente traicionero del camino con práctica facilidad.
-
-"Impresionante", murmuró Thorin. "Ya veo por qué el imperio valora vuestra alianza".
-
-La expresión de Marta se volvió seria. "Más les vale. Esta ruta comercial es la savia de nuestros dos pueblos. Lumeshire sabe que controlamos el camino más rápido entre sus tierras y Stronehold".
-
-Mientras hablaban, los trabajadores descargaban de algunos vagones cajas de metalistería enana y piedras finamente talladas, sustituyéndolas por sacos de grano, barriles de carne salada y cajas de productos frescos.
-
-"Vuestra carne es especialmente popular esta temporada", dijo Thorin. "Algo en la hierba de la montaña le da un sabor que nuestra gente no puede resistir".
-
-Marta asintió, complacida. "Nos aseguraremos de aumentar el envío la próxima vez. Ahora, ¿discutimos los términos de esas herramientas de mithril que mencionaste la temporada pasada?".
-
-Su apretón de manos fue firme, un gesto de respeto mutuo entre socios comerciales de larga data. Cuando el sol empezó a ponerse, proyectando largas sombras a través del paso de montaña, la caravana se preparó para acampar. Mañana sería otro día de cuidadosa navegación y astutos regateos; la savia de la economía de Zuraldi fluía por estas antiguas rutas de montaña.
-
-## Las fiestas de los más fuertes
-
-[![Zuraldarr2](https://i.imgur.com/1oouZWN.jpeg)](https://i.imgur.com/1oouZWN.jpeg)
-
-El aire se llenó del chisporroteo de la carne y del rico aroma de la carne asada. En el centro de la aldea, una enorme hoguera brillaba al rojo vivo. Encima de él, cortes de carne más grandes que el torso de un hombre giraban lentamente en los espetones.
-
-A Torben se le hizo la boca agua al ver cómo la carnicera del pueblo, una mujer con brazos como troncos de árbol, trinchaba gruesos trozos de carne asada. Cada filete era del tamaño de un escudo, carbonizado por fuera y rojo por dentro.
-
-"Nada fortalece más que la carne de Zuraldarr", gruñó la carnicera, dándole a Torben un plato que se hundía bajo el peso de la carne. "Come, muchacho. La necesitarás para rodar los troncos mañana".
-
-Cerca de allí, la anciana Hilda se rió. "En mis tiempos, teníamos que talar un árbol antes de ganarnos el filete". Pero sus ojos brillaban de alegría mientras lo decía, con su propio plato lleno.
-
-## Brujas del Bosque
-
-Al caer la noche, la fiesta se hizo más silenciosa. Los ojos se desviaron hacia el borde de la hoguera, donde las sombras parecían moverse por sí solas. Un silencio se apoderó de la reunión cuando una figura emergió de la oscuridad.
-
-Magda la Bruja era alta y delgada, con el pelo canoso alborotado y adornado con huesos y plumas. Sus ojos, agudos y penetrantes, recorrieron a la multitud. El respeto y el miedo se extendieron por la asamblea a partes iguales.
-
-Xandra, la matriarca del Liderazgo, se adelantó. "Bienvenida, Magda. ¿Bendecirás nuestro banquete?"
-
-[![Witches](https://i.imgur.com/9U9eZcc.jpeg)](https://i.imgur.com/9U9eZcc.jpeg)
-
-La voz de Magda ronca como hojas secas. "Haré más que eso, niña. Los huesos hablan de cambio en el viento. Mejor nos preparamos".
-
-Levantó su nudoso bastón y las llamas del fuego central se volvieron de un verde espeluznante. A su luz, las sombras danzaban sobre los árboles circundantes, adoptando formas que hacían que hasta el más valiente Zuraldarr se inquietara.
-
-Tan rápido como empezó, terminó. El fuego volvió a la normalidad y Magda se fundió de nuevo en las sombras. Las conversaciones se reanudaron lentamente, pero con una energía nerviosa.
-
-"Brujas", murmuró un joven guerrero a su compañero. "No se puede vivir con ellas ni sin ellas".
-
-Su amigo asintió sabiamente. "Sí. Me dan mucho miedo, pero prefiero tenerlas con nosotros que contra nosotros".
-
-## Guardianes del Bosque
-
-Amaneció en Zuraldi, pintando el bosque con tonos dorados y verdes. En lo profundo del bosque, donde los árboles crecían tan espesos que borraban el cielo, un grupo de druidas se reunió en un claro natural.
-
-A diferencia de los elfos, que parecían flotar por los bosques sin dejar rastro, estos druidas de Zuraldarr se movían con determinación y poder. No buscaban mezclarse con la naturaleza, sino canalizar su fuerza bruta.
-
-Xandor, con la barba más blanca que gris, lideraba el círculo. Su voz retumbaba como un trueno lejano mientras hablaba.
-
-"Los elfos susurran a los árboles y engatusan a las flores para que florezcan. Pero nosotros somos Zuraldarr. No pedimos favores a la naturaleza. Luchamos con ella, la desafiamos y nos ganamos su respeto".
-
-A su alrededor, los otros druidas asintieron. Sus manos estaban callosas por el trabajo, sus cuerpos fuertes por el constante desafío físico. Pero todos llevaban un manto de hojas y un bastón que zumbaba con energía natural.
-
-Una joven druida se adelantó y apretó la mano contra el tronco de un viejo roble. La corteza del árbol se onduló al tocarla, y un leve gemido emanó de lo más profundo de su interior.
-
-"Bien", dijo Xandor. "El bosque conoce tu fuerza. A ver cómo partes esa roca de ahí. No con tus manos. Con el poder del bosque".
-
-La joven druida sonrió, con una luz feroz en los ojos. Así era la druidería de Zuraldarr: tanto una prueba de voluntad como de sabiduría.
-
-## El Consejo de las Matriarcas
-
-Caía la noche y, en el Gran Comedor, seis mujeres se reunían alrededor de una mesa circular. Cada una llevaba una faja que denotaba su función: Agricultura, Defensa, Comercio, Justicia, Espiritualidad y Liderazgo.
-
-Anja, que ahora llevaba la faja de Defensa, habló primero. "El imperio pide más tropas para vigilar la frontera del este".
-
-Marta, la matriarca del Comercio, frunció el ceño. "Ya estamos al límite con el aumento de los envíos a Stronehold".
-
-"Tal vez", dijo Xandra, la matriarca del Liderazgo, "sea hora de recordar a Lumeshire los términos de nuestro acuerdo".
-
-Hilda, en representación de la Espiritualidad, asintió sabiamente. "Los espíritus de nuestros antepasados susurran cautela. Debemos mantener nuestra fuerza, nuestra independencia".
-
-Las mujeres debatieron hasta bien entrada la noche, sus voces subían y bajaban como la marea. Al amanecer, salieron con una decisión unificada, listas para guiar a su pueblo a través de otra estación.
-
-Al concluir la reunión, Xandra se volvió hacia Hilda. "¿Qué hay de la advertencia de Magda?".
-
-El rostro de Hilda se volvió solemne. "Las palabras de la bruja tienen peso. Sugiero que la consultemos a ella y a los druidas antes de tomar una decisión definitiva".
-
-Xandra asintió. En Zuraldi, la verdadera sabiduría residía en equilibrar la fuerza física que apreciaban con las fuerzas místicas que impregnaban su tierra.
-
-## Fuerza en la Unidad
-
-Al salir el sol, Zuraldi cobró vida. Hombres y mujeres se movían con determinación, y cada tarea era un testimonio de su fuerza colectiva.
-
-[![Zuraldarr3](https://i.imgur.com/k8At9VD.jpeg)](https://i.imgur.com/k8At9VD.jpeg)
-
-En los campos de entrenamiento, los jóvenes Zuraldarr luchaban y combatían bajo la atenta mirada de guerreros experimentados. Todos los niños, independientemente de su sexo, aprendían a defender su hogar.
-
-"Recuerda", dijo el maestro, "nuestra mejor arma no es nuestra fuerza. Es nuestro conocimiento de la tierra".
-
-En los campos, los granjeros cuidaban las cosechas con la misma intensidad con la que otros iban a la batalla. Su cosecha alimentaría no sólo a Zuraldi, sino también a sus vecinos enanos, cimentando lazos de comercio y amistad.
-
-[![Zuraldarr4](https://i.imgur.com/lJT0cZu.jpeg)](https://i.imgur.com/lJT0cZu.jpeg)
-
-Y en los bosques, los leñadores trabajaban con precisión, talando árboles de forma selectiva bajo la guía de druidas. Se llevaban sólo lo necesario, asegurándose de que los bosques dieran cobijo y sustento a las generaciones venideras.
-
-**Fin de Lore 2 — continúa en Lore 1: [Los Misterios del Dominio Wymreach](/profundidades-oscuras-el-dominio-wymreach/)**
+**Fin de Lore 1 — continúa en Lore 1: [Los Misterios del Dominio Wymreach](/profundidades-oscuras-el-dominio-wymreach/)**
 
 --------------------
 
@@ -1580,6 +1292,294 @@ Volvió a su trabajo asignado. Cifras de censos. Balances de tributos. La docume
 Las campanas del templo tocaron la hora vespertina. En la cámara de transcripción, las letras fosforescentes continuaban brillando: *En la oscuridad encontramos poder.*
 
 Sylaera copió las palabras una vez más, y se preguntó qué más habían encontrado.
+
+**Fin de Lore 2 — continúa en Prólogo 3: [El Grito](/la-mirada-de-un-guardia-a-grukmar/)**
+
+--------------------
+
+
+########## La magia en Astalor ##########
+
+## Lore | La magia en Astalor
+
+--- 
+
+La magia no es algo común. Es un tesoro. Una carga. Un don concedido a unos pocos. **Los magos** caminan por un sendero precario, ejerciendo un poder tan peligroso como maravilloso.
+
+## Los Fundamentos Elementales
+
+En el núcleo de la magia hay cuatro elementos: **Agua, Fuego, Tierra** y **Aire**. Cada mago domina uno. Algunos dominan un elemento relacionado. Pero los opuestos permanecen siempre fuera de su alcance. Ningún mago domina a la vez **agua y fuego**, o **tierra y aire**. Es una ley fundamental, inflexible y absoluta.
+
+## El arte del hechizo
+
+¿Lanzar un hechizo? No es una tarea sencilla. Exige la máxima concentración. Tiempo preciso. Entonación perfecta.
+
+> "Lanzar un hechizo no es una tarea sencilla. Los magos deben concentrar sus mentes, dibujando intrincadas runas mágicas en sus pensamientos mientras pronuncian los conjuros con una sincronización y entonación precisas. Hasta el más mínimo error puede tener consecuencias desastrosas, lo que convierte la práctica de la magia en una empresa de alto riesgo".
+
+Un paso en falso puede significar el desastre. La magia no perdona. Recompensa la precisión y castiga el descuido.
+
+## El papel de la naturaleza en la magia
+
+[![MagicIntro1](https://i.imgur.com/TYv7RFn.png)](https://i.imgur.com/TYv7RFn.png)
+
+Las palabras y los pensamientos por sí solos no hacen un hechizo. Los componentes físicos son vitales. **Las hierbas y los extractos ayudan. ¿Pero las piedras? Son la verdadera llave.** Desbloquean todo el potencial de un mago.
+
+Sin embargo, estas piedras son raras: preciosas y fugaces.
+
+> " Pero no son fáciles de conseguir. Las piedras en bruto deben ser examinadas cuidadosamente, y sólo unas pocas contienen la potencia necesaria para lanzar hechizos. Una vez que se encuentra una piedra adecuada, sólo puede usarse una vez antes de que su poder se agote, convirtiéndose en polvo o rompiéndose en fragmentos inútiles".
+
+Si usas una piedra, desaparece. Convertida en polvo o en fragmentos inútiles. Esta escasez da forma al paisaje mágico de Astalor. Algunas regiones rebosan de ciertas piedras elementales. En otras, son meros mitos. Los gremios de magos se alzan, compitiendo por el control de valiosos depósitos.
+
+## Favor Divino y Magia
+
+Hay otro camino hacia el poder: el **favor de los dioses**. Mediante la devoción y la oración, los magos pueden amplificar su magia. Pero los dioses son volubles. Exigentes. Las recompensas son grandes, pero también lo son los riesgos.
+
+## El precio del poder
+
+[![MagicIntro2](https://i.imgur.com/VxUX1Ex.png)](https://i.imgur.com/VxUX1Ex.png)
+
+A medida que los magos crecen, invocar se vuelve más fácil. Más poderosos. Pero el coste nunca desaparece del todo. El uso excesivo lleva al agotamiento. A la locura. Incluso la muerte. Y la magia atrae la atención: de rivales, entidades sobrenaturales o aquellos que temen su poder.
+
+## Las Ocho Escuelas
+
+La magia en Astalor no es una cura para todo. Es una herramienta escurridiza y exigente. Existen ocho escuelas, cada una con sus propias fortalezas y desafíos:
+
+1. **Hidromancia** (Agua): El arte de fluir y adaptarse. Incluye curación, purificación y manipulación de líquidos.
+2. **Ignimancia** (Fuego): La disciplina de la pasión y la transformación. Abarca la magia de combate, la manipulación de la energía y la purificación a través de las llamas.
+3. **Geomancia** (Tierra): El estudio de la estabilidad y el crecimiento. Abarca la magia de protección, la mejora física y la manipulación de la piedra y la vida vegetal.
+4. **Ventomancia** (Aire): La práctica de la libertad y el intelecto. Incluye el control del clima, la mejora de la velocidad y la manipulación de los gases.
+5. **Necromancia**: El controvertido arte de la vida, la muerte y la no muerte. Se centra en la comunicación con los espíritus, la manipulación de la fuerza vital y la reanimación.
+6. **Hechicería**: La disciplina de desvelar verdades ocultas. Abarca la adivinación, la profecía y la obtención de conocimientos de fuentes de otro mundo.
+7. **Evocación**: La práctica de invocar lo oculto. Incluye la invocación de entidades, la creación de objetos a partir de energía mágica y el teletransporte.
+8. **Mirajismo**: El arte de falsear la realidad. Incluye la creación de experiencias sensoriales falsas, la manipulación de las percepciones y la ocultación de la verdad.
+
+Cada camino ofrece poderes únicos. Pruebas únicas. Los magos deben elegir sabiamente, porque su elección determina su destino.
+
+La magia no es un asunto trivial. Es una fuerza de la naturaleza. Un don divino. Un arte peligroso.
+
+**Fin de Lore 1 — continúa en Lore 3: [Descubriendo las Regiones de Astalor](/descubriendo-las-regiones-de-astalor/)**
+
+--------------------
+
+
+########## Descubriendo las Regiones de Astalor ##########
+
+## Lore | Descubriendo las Regiones de Astalor
+
+--- 
+
+[![mapa](https://i.imgur.com/xurkpWW.png)](https://i.imgur.com/xurkpWW.png)
+
+Astalor. Una tierra de contrastes y conflictos inmemoriales. Desde helados páramos a verdes bosques, desde imponentes montañas a extensas llanuras, cada región cuenta una historia única. He aquí un vistazo a los diversos reinos que conforman este mundo.
+
+## Imperio Divino Lumeshireano
+
+Vasto y variado, el [Imperio Divino Lumeshireano](https://www.drusniel.com/the-resilient-defense-of-the-lumeshirean-divine-empire/) se erige como bastión de la civilización humana. Paladines y guerreros defienden sus fronteras. Las intrigas políticas son profundas. La palabra del Divino Emperador es ley, pero incluso la ley tiene sus límites.
+
+> "El imperio está enredado en una red de maquinaciones políticas, alianzas y traiciones con la Teocracia Contiana".
+
+De norte a sur, Lumeshire se enfrenta a constantes desafíos. Las tribus Grukmar amenazan el sur. Los norteños presionan desde el norte. Sin embargo, el imperio perdura, su pueblo unido bajo un estandarte de fe y deber.
+
+## Teocracia Contiana
+
+Donde la magia y la fe se entrelazan, encontrarás la [Teocracia Contiana](https://www.drusniel.com/the-contian-theocracys-quest-for-magical-supremacy/). Torres de magos surcan el cielo. La energía arcana crepita en el aire. Aquí el conocimiento es poder, y el poder lo es todo.
+
+> "Aunque afirman ser neutrales, los contianos tienen numerosas facciones que aceptan todo tipo de alineamientos".
+
+La neutralidad de Contia es una ilusión cuidadosamente elaborada. Bajo la superficie, las facciones compiten por el control. La búsqueda de la supremacía mágica impulsa todas sus acciones. En Contia, el aliado de hoy puede ser el rival de mañana.
+
+## Imperio de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)
+
+En el helado norte, [[Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)](https://www.drusniel.com/ice-and-iron-the-unyielding-warriors-of-the-empire-of-[Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)/) se alza desafiante contra la propia naturaleza. Los norteños, guerreros bárbaros endurecidos por el hielo y de voluntad inflexible, llaman hogar a esta dura tierra. La magia rúnica fluye por sus venas. Los espíritus susurran en los aullantes vientos.
+
+> "Los confines septentrionales de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/) están plagados de gigantes, que suponen una amenaza constante para los nórdicos".
+
+Los gigantes se ciernen como una amenaza constante. Sin embargo, el pueblo de [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/) permanece intacto. Sus druidas comulgan con poderes ancestrales. Sus guerreros están preparados. En [Frostgard](https://www.drusniel.com/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/), la supervivencia no es sólo un objetivo, es una forma de vida.
+
+## Reino Montañoso de Stonehold
+
+Esculpido en roca viva, el [Reino Montañoso de Stonehold](https://www.drusniel.com/forge-and-fire-the-mountain-kingdom-of-stoneholds-stand-against-chaos/) es una maravilla del ingenio enano y gnomo. Las ciudades-fortaleza desafían las propias leyes de la arquitectura. El sonido de los martillos sobre los yunques nunca cesa.
+
+¿El mayor desafío de Stonehold? Las implacables tribus Grukmar. Sin embargo, con la determinación de los enanos y la creatividad de los gnomos, han resistido durante siglos. En Stonehold, cada piedra cuenta una historia de resistencia.
+
+## Reino de Elenoria
+
+Entre bosques ancestrales, [Elenoria](https://www.drusniel.com/eternal-woods-the-kingdom-of-elenorias-dance-with-nature/) se erige como testamento de la gracia y la sabiduría élfica. Los árboles susurran secretos de épocas pasadas. La magia fluye tan libremente como los arroyos de cristal. Aquí, naturaleza y civilización conviven en armonioso equilibrio.
+
+Los elfos de Elenoria son famosos por su arquería y su lazo con el mundo natural. Su reino es un lugar de belleza y misterio, donde el tiempo parece moverse de forma diferente.
+
+## Tribus Grukmar
+
+Encarnación del caos, las [Tribus Grukmar](https://www.drusniel.com/the-unruly-might-of-the-grukmar-tribes/) son una fuerza de pura destrucción. Orcos, goblins y criaturas demasiado viles para nombrarlas componen esta horda brutal. Viven para la batalla, para la emoción de la conquista.
+
+Los Grukmar son una amenaza constante para sus vecinos. Sus incursiones mantienen a Stonehold y Lumeshire en alerta constante. En el mundo de Astalor, los Grukmar representan el peligro siempre presente del salvajismo descontrolado.
+
+## Dominio Umbra'kor
+
+En las sombras entre reinos, el [Dominio Umbra'kor](https://www.drusniel.com/shadows-reign-the-umbrakor-dominions-pact-with-darkness/) acecha. Hogar de los elfos oscuros, es un lugar donde reinan la ambición y la oscuridad. Sirven de amortiguador entre el mundo conocido y los horrores del más allá.
+
+Los elfos oscuros de Umbra'kor son maestros de la magia siniestra. Se aventuran en el temido Wyrmreach, buscando el poder a cualquier precio. En el delicado equilibrio de Astalor, Umbra'kor es un mal necesario, pero un mal al fin y al cabo.
+
+## Dominio de Wyrmreach
+
+Más allá del mar tempestuoso yace el [Dominio de Wyrmreach](https://www.drusniel.com/the-mysteries-of-the-wymreach-dominion/).
+
+En canciones y leyendas, los viajeros susurran acerca de cosas terribles en esa tierra lejana — horrores más allá de la comprensión mortal y sombras que desafían toda descripción — pero pocos de los que viajan allí regresan para confirmar qué es verdad.
+
+Para la mayoría, sigue siendo un lugar mencionado en leyendas temerosas más que un hecho conocido.
+
+> "Sólo los elfos oscuros de Umbra'kor pueden establecer contacto con este reino abandonado".
+
+Los horrores que contiene Wyrmreach están más allá de la comprensión mortal. Es un sombrío recordatorio de la oscuridad que amenaza con consumir Astalor si alguna vez caen las barreras.
+
+Estos son los reinos de Astalor. Cada uno único, cada uno vital para el precario equilibrio del mundo.
+
+**Fin de Lore 3 — continúa en Lore 2: [Los Zuraldarr](/the-zuraldarr/)**
+
+--------------------
+
+
+########## Los Zuraldarr ##########
+
+## Lore | Los Zuraldarr
+
+--- 
+
+[![Zuraldarr1](https://i.imgur.com/uV1xzcl.jpeg)](https://i.imgur.com/uV1xzcl.jpeg)
+
+Zuraldi se extiende por los confines del este de Lumeshire, una accidentada extensión de densos bosques y escarpadas montañas. La tierra crió a gente resistente, los Zuraldarr, cuya fuerza estaba a la altura del terreno que llamaban hogar.
+
+Anja estaba en lo alto de un acantilado, con los ojos escrutando el horizonte. Abajo, los bosques de Zuraldi se extendían como un mar verde, sólo interrumpido por el brillo de los ríos y algún que otro claro. Al este, se alzaban los picos de Stonehold, marcando la frontera con el reino enano.
+
+"¿Ves esos pasos? Señaló las estrechas brechas entre las montañas. "Nuestros antepasados los utilizaban para superar a todos los ejércitos que intentaban apoderarse de nuestras tierras".
+
+Su aprendiz, Torben, entrecerró los ojos contra el sol. "Pero ahora formamos parte de Lumeshire, ¿no?".
+
+Anja asintió. "Con nuestras condiciones. El imperio aprendió que era mejor tenernos como aliados que como enemigos".
+
+## Una Historia Escrita en Piedra y Sangre
+
+En la plaza del pueblo, la anciana Hilda pasaba los dedos sobre un antiguo monolito de piedra. En su superficie había grabadas escenas de batalla y triunfo.
+
+"Esto cuenta la historia de la Batalla del Paso del Hacha Rota", explicó a un grupo de niños con los ojos muy abiertos. "Mil soldados imperiales entraron en el paso. Sólo quedaron diez vivos".
+
+Una niña levantó la mano. "¿Pero por qué no los matamos a todos?".
+
+El rostro curtido de Hilda se arrugó en una sonrisa. "Para enviar un mensaje. A los Zuraldarr no se les puede conquistar, sólo negociar con ellos".
+
+## El paso de las caravanas
+
+El paso de montaña bullía de actividad. Una larga hilera de carromatos se abría paso a través del terreno rocoso, cargados de mercancías. Los comerciantes de Zuraldarr, con sus músculos ondulantes bajo las ropas desgastadas por la intemperie, guiaban robustos ponis de montaña con manos seguras.
+
+Marta, la matriarca de los comerciantes, iba a la cabeza de la caravana. Su aguda mirada escudriñaba el traicionero camino, siempre atenta a rocas sueltas o señales de bandidos.
+
+Un mercader enano, con la barba trenzada con hilos de oro, se acercó a ella. "¡Marta! Me alegro de verte. ¿Cómo va la cosecha este año?"
+
+"Abundante como siempre, Thorin. Tu pueblo no pasará hambre este invierno".
+
+El enano asintió agradecido. "Y tendréis suficientes hachas y picos para que os duren hasta la próxima primavera. Aunque debo decir que este camino de montaña nunca es fácil".
+
+Marta sonrió, con un orgullo feroz en los ojos. "Por eso nos necesitas, amigo mío. Nadie conoce estos senderos como los Zuraldarr".
+
+Como para demostrar lo que decía, gritó una serie de órdenes. La caravana cambió de formación con suavidad, sorteando un recodo especialmente traicionero del camino con práctica facilidad.
+
+"Impresionante", murmuró Thorin. "Ya veo por qué el imperio valora vuestra alianza".
+
+La expresión de Marta se volvió seria. "Más les vale. Esta ruta comercial es la savia de nuestros dos pueblos. Lumeshire sabe que controlamos el camino más rápido entre sus tierras y Stronehold".
+
+Mientras hablaban, los trabajadores descargaban de algunos vagones cajas de metalistería enana y piedras finamente talladas, sustituyéndolas por sacos de grano, barriles de carne salada y cajas de productos frescos.
+
+"Vuestra carne es especialmente popular esta temporada", dijo Thorin. "Algo en la hierba de la montaña le da un sabor que nuestra gente no puede resistir".
+
+Marta asintió, complacida. "Nos aseguraremos de aumentar el envío la próxima vez. Ahora, ¿discutimos los términos de esas herramientas de mithril que mencionaste la temporada pasada?".
+
+Su apretón de manos fue firme, un gesto de respeto mutuo entre socios comerciales de larga data. Cuando el sol empezó a ponerse, proyectando largas sombras a través del paso de montaña, la caravana se preparó para acampar. Mañana sería otro día de cuidadosa navegación y astutos regateos; la savia de la economía de Zuraldi fluía por estas antiguas rutas de montaña.
+
+## Las fiestas de los más fuertes
+
+[![Zuraldarr2](https://i.imgur.com/1oouZWN.jpeg)](https://i.imgur.com/1oouZWN.jpeg)
+
+El aire se llenó del chisporroteo de la carne y del rico aroma de la carne asada. En el centro de la aldea, una enorme hoguera brillaba al rojo vivo. Encima de él, cortes de carne más grandes que el torso de un hombre giraban lentamente en los espetones.
+
+A Torben se le hizo la boca agua al ver cómo la carnicera del pueblo, una mujer con brazos como troncos de árbol, trinchaba gruesos trozos de carne asada. Cada filete era del tamaño de un escudo, carbonizado por fuera y rojo por dentro.
+
+"Nada fortalece más que la carne de Zuraldarr", gruñó la carnicera, dándole a Torben un plato que se hundía bajo el peso de la carne. "Come, muchacho. La necesitarás para rodar los troncos mañana".
+
+Cerca de allí, la anciana Hilda se rió. "En mis tiempos, teníamos que talar un árbol antes de ganarnos el filete". Pero sus ojos brillaban de alegría mientras lo decía, con su propio plato lleno.
+
+## Brujas del Bosque
+
+Al caer la noche, la fiesta se hizo más silenciosa. Los ojos se desviaron hacia el borde de la hoguera, donde las sombras parecían moverse por sí solas. Un silencio se apoderó de la reunión cuando una figura emergió de la oscuridad.
+
+Magda la Bruja era alta y delgada, con el pelo canoso alborotado y adornado con huesos y plumas. Sus ojos, agudos y penetrantes, recorrieron a la multitud. El respeto y el miedo se extendieron por la asamblea a partes iguales.
+
+Xandra, la matriarca del Liderazgo, se adelantó. "Bienvenida, Magda. ¿Bendecirás nuestro banquete?"
+
+[![Witches](https://i.imgur.com/9U9eZcc.jpeg)](https://i.imgur.com/9U9eZcc.jpeg)
+
+La voz de Magda ronca como hojas secas. "Haré más que eso, niña. Los huesos hablan de cambio en el viento. Mejor nos preparamos".
+
+Levantó su nudoso bastón y las llamas del fuego central se volvieron de un verde espeluznante. A su luz, las sombras danzaban sobre los árboles circundantes, adoptando formas que hacían que hasta el más valiente Zuraldarr se inquietara.
+
+Tan rápido como empezó, terminó. El fuego volvió a la normalidad y Magda se fundió de nuevo en las sombras. Las conversaciones se reanudaron lentamente, pero con una energía nerviosa.
+
+"Brujas", murmuró un joven guerrero a su compañero. "No se puede vivir con ellas ni sin ellas".
+
+Su amigo asintió sabiamente. "Sí. Me dan mucho miedo, pero prefiero tenerlas con nosotros que contra nosotros".
+
+## Guardianes del Bosque
+
+Amaneció en Zuraldi, pintando el bosque con tonos dorados y verdes. En lo profundo del bosque, donde los árboles crecían tan espesos que borraban el cielo, un grupo de druidas se reunió en un claro natural.
+
+A diferencia de los elfos, que parecían flotar por los bosques sin dejar rastro, estos druidas de Zuraldarr se movían con determinación y poder. No buscaban mezclarse con la naturaleza, sino canalizar su fuerza bruta.
+
+Xandor, con la barba más blanca que gris, lideraba el círculo. Su voz retumbaba como un trueno lejano mientras hablaba.
+
+"Los elfos susurran a los árboles y engatusan a las flores para que florezcan. Pero nosotros somos Zuraldarr. No pedimos favores a la naturaleza. Luchamos con ella, la desafiamos y nos ganamos su respeto".
+
+A su alrededor, los otros druidas asintieron. Sus manos estaban callosas por el trabajo, sus cuerpos fuertes por el constante desafío físico. Pero todos llevaban un manto de hojas y un bastón que zumbaba con energía natural.
+
+Una joven druida se adelantó y apretó la mano contra el tronco de un viejo roble. La corteza del árbol se onduló al tocarla, y un leve gemido emanó de lo más profundo de su interior.
+
+"Bien", dijo Xandor. "El bosque conoce tu fuerza. A ver cómo partes esa roca de ahí. No con tus manos. Con el poder del bosque".
+
+La joven druida sonrió, con una luz feroz en los ojos. Así era la druidería de Zuraldarr: tanto una prueba de voluntad como de sabiduría.
+
+## El Consejo de las Matriarcas
+
+Caía la noche y, en el Gran Comedor, seis mujeres se reunían alrededor de una mesa circular. Cada una llevaba una faja que denotaba su función: Agricultura, Defensa, Comercio, Justicia, Espiritualidad y Liderazgo.
+
+Anja, que ahora llevaba la faja de Defensa, habló primero. "El imperio pide más tropas para vigilar la frontera del este".
+
+Marta, la matriarca del Comercio, frunció el ceño. "Ya estamos al límite con el aumento de los envíos a Stronehold".
+
+"Tal vez", dijo Xandra, la matriarca del Liderazgo, "sea hora de recordar a Lumeshire los términos de nuestro acuerdo".
+
+Hilda, en representación de la Espiritualidad, asintió sabiamente. "Los espíritus de nuestros antepasados susurran cautela. Debemos mantener nuestra fuerza, nuestra independencia".
+
+Las mujeres debatieron hasta bien entrada la noche, sus voces subían y bajaban como la marea. Al amanecer, salieron con una decisión unificada, listas para guiar a su pueblo a través de otra estación.
+
+Al concluir la reunión, Xandra se volvió hacia Hilda. "¿Qué hay de la advertencia de Magda?".
+
+El rostro de Hilda se volvió solemne. "Las palabras de la bruja tienen peso. Sugiero que la consultemos a ella y a los druidas antes de tomar una decisión definitiva".
+
+Xandra asintió. En Zuraldi, la verdadera sabiduría residía en equilibrar la fuerza física que apreciaban con las fuerzas místicas que impregnaban su tierra.
+
+## Fuerza en la Unidad
+
+Al salir el sol, Zuraldi cobró vida. Hombres y mujeres se movían con determinación, y cada tarea era un testimonio de su fuerza colectiva.
+
+[![Zuraldarr3](https://i.imgur.com/k8At9VD.jpeg)](https://i.imgur.com/k8At9VD.jpeg)
+
+En los campos de entrenamiento, los jóvenes Zuraldarr luchaban y combatían bajo la atenta mirada de guerreros experimentados. Todos los niños, independientemente de su sexo, aprendían a defender su hogar.
+
+"Recuerda", dijo el maestro, "nuestra mejor arma no es nuestra fuerza. Es nuestro conocimiento de la tierra".
+
+En los campos, los granjeros cuidaban las cosechas con la misma intensidad con la que otros iban a la batalla. Su cosecha alimentaría no sólo a Zuraldi, sino también a sus vecinos enanos, cimentando lazos de comercio y amistad.
+
+[![Zuraldarr4](https://i.imgur.com/lJT0cZu.jpeg)](https://i.imgur.com/lJT0cZu.jpeg)
+
+Y en los bosques, los leñadores trabajaban con precisión, talando árboles de forma selectiva bajo la guía de druidas. Se llevaban sólo lo necesario, asegurándose de que los bosques dieran cobijo y sustento a las generaciones venideras.
 
 **Fin de Lore 2 — continúa en Prólogo 1: [La llamada a Zuraldi](/la-llamada-a-zuraldi/)**
 

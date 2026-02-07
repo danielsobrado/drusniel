@@ -24,7 +24,13 @@
       "Bash(done)",
       "Bash(dir:*)",
       "Bash(git checkout:*)",
-      "Bash(git status:*)"
+      "Bash(git status:*)",
+      "Bash(do)",
+      "Bash(if ! grep -q \"narrative_weight\" \"$file\")",
+      "Bash(then)",
+      "Bash(echo:*)",
+      "Bash(fi)",
+      "Bash(xargs -I {} sh -c 'echo \"\"c:\\\\\\\\Development\\\\\\\\workspace\\\\\\\\GitHub\\\\\\\\drusniel\\\\\\\\{}\"\"')"
     ]
   }
 }

@@ -125,7 +125,7 @@ Drusniel lo sacudió de su mente y siguió caminando.
 
 ---
 
-**Fin de Capítulo 1 — continúa en Capítulo 2: [Espadas y Sombras](/espadas-sombras/)**
+**Fin de Capítulo 1 — continúa en Capítulo 3: [La Prueba de Venemora](/la-prueba-la-prueba-de-venemora/)**
 
 --------------------
 
@@ -184,7 +184,7 @@ Drusniel asintió una vez, con brusquedad. Entendía la advertencia en sus palab
 
 Mientras Shyntara se fundía de vuelta en las sombras de la arboleda de bambú, Drusniel tocó la empuñadura de su espada.
 
-**Fin de Capítulo 2 — continúa en Capítulo 3: [La Prueba de Venemora](/la-prueba-la-prueba-de-venemora/)**
+**Fin de Capítulo 2 — continúa en Lore 1: [La magia en Astalor](/la-magia-en-astalor/)**
 
 --------------------
 
@@ -2346,7 +2346,7 @@ Pasó mucho tiempo antes de que durmiera.
 
 ---
 
-**Fin de Capítulo 7.10 — continúa en Capítulo 9.1: [La Tormenta que se Avecina](/la-rivalidad-de-la-casa-la-tormenta-que-se-avecina/)**
+**Fin de Capítulo 7.10 — continúa en Capítulo 9.1: [El Agua Negra](/la-rivalidad-de-la-casa-la-tormenta-que-se-avecina/)**
 
 --------------------
 
@@ -2425,7 +2425,7 @@ Dulint miró fijamente el artefacto. Tres semanas de latencia. Tres semanas de n
 
 ---
 
-**Fin de Capítulo 8.1 — continúa en Capítulo 8.2: [La Ausencia](/el-camino-de-zuraldi-la-ausencia/)**
+**Fin de Capítulo 8.1 — continúa en Capítulo 9.1: [El Agua Negra](/el-mar-de-pesadillas-el-agua-negra/)**
 
 --------------------
 
@@ -2490,7 +2490,7 @@ Miró hacia abajo al artefacto en sus manos. Tibio, apuntando, haciendo lo que f
 
 ---
 
-**Fin de Capítulo 8.2 — continúa en Capítulo 8.3: [La Duda del Sobrino](/el-camino-de-zuraldi-la-duda-del-sobrino/)**
+**Fin de Capítulo 8.2 — continúa en Capítulo 9.2: [La Cuenta](/el-mar-de-pesadillas-la-cuenta/)**
 
 --------------------
 
@@ -2579,7 +2579,7 @@ Dulint sintió el pulso contra su columna. *Tump. Tump. Tump.* Se estaba volvien
 
 ---
 
-**Fin de Capítulo 8.3 — continúa en Capítulo 8.4: [Los Seguidores](/el-camino-de-zuraldi-los-seguidores/)**
+**Fin de Capítulo 8.3 — continúa en Capítulo 9.3: [El Silencio](/el-mar-de-pesadillas-el-silencio/)**
 
 --------------------
 
@@ -2644,7 +2644,7 @@ Detrás de ellos, los seguidores empezaron a correr.
 
 ---
 
-**Fin de Capítulo 8.4 — continúa en Capítulo 8.5: [La Decisión](/el-camino-de-zuraldi-la-decision/)**
+**Fin de Capítulo 8.4 — continúa en Capítulo 9.4: [Las Profundidades](/el-mar-de-pesadillas-las-profundidades/)**
 
 --------------------
 
@@ -2732,6 +2732,8 @@ Puso un pie delante del otro. Adelante, hacia la oscuridad, hacia lo que sea que
 Y a pesar de todo —el miedo, la edad, el peso de sesenta y tres años— caminó hacia adelante de todas formas.
 
 ---
+
+**Fin de Capítulo 8.5 — continúa en Capítulo 9.5: [Arena Negra](/el-mar-de-pesadillas-arena-negra/)**
 
 --------------------
 
@@ -2947,7 +2949,7 @@ Algo se movió bajo el casco. No nadando. Rodeando. Esperando a que se debilitar
 
 *Siguiente: El Mar de Pesadillas: La Cuenta*
 
-**Fin de Capítulo 9.1 — continúa en Capítulo 9.2: [La Cuenta](/el-mar-de-pesadillas-la-cuenta/)**
+**Fin de Capítulo 9.1 — continúa en Capítulo 8.2: [La Ausencia](/el-camino-de-zuraldi-la-ausencia/)**
 
 --------------------
 
@@ -3135,7 +3137,7 @@ Remó hacia la grisura que continuaba para siempre.
 
 *Siguiente: El Mar de Pesadillas: El Silencio*
 
-**Fin de Capítulo 9.2 — continúa en Capítulo 9.3: [El Silencio](/el-mar-de-pesadillas-el-silencio/)**
+**Fin de Capítulo 9.2 — continúa en Capítulo 8.3: [La Duda del Sobrino](/el-camino-de-zuraldi-la-duda-del-sobrino/)**
 
 --------------------
 
@@ -3375,7 +3377,7 @@ La luz gris adelante cambió. No mucho. Solo lo suficiente para sugerir distanci
 
 Remó hacia ella.
 
-**Fin de Capítulo 9.3 — continúa en Capítulo 9.4: [Las Profundidades](/el-mar-de-pesadillas-las-profundidades/)**
+**Fin de Capítulo 9.3 — continúa en Capítulo 8.4: [Los Seguidores](/el-camino-de-zuraldi-los-seguidores/)**
 
 --------------------
 
@@ -3609,7 +3611,7 @@ Tenía el presentimiento de que no sería la última.
 
 *Siguiente: El Mar de Pesadillas: Arena Negra*
 
-**Fin de Capítulo 9.4 — continúa en Capítulo 9.5: [Arena Negra](/el-mar-de-pesadillas-arena-negra/)**
+**Fin de Capítulo 9.4 — continúa en Capítulo 8.5: [La Decisión](/el-camino-de-zuraldi-la-decision/)**
 
 --------------------
 
@@ -3867,7 +3869,7 @@ Esta noche, simplemente estaría agradecido de estar vivo.
 
 *Siguiente: El Hombre Amable: El Salvador*
 
-**Fin de Capítulo 9.5 — continúa en Capítulo 10.1: [El Veterano](/el-nudo-en-riverhold-el-veterano/)**
+**Fin de Capítulo 9.5 — continúa en Capítulo 10.1: [El Caos](/sangre-en-la-oscuridad-el-caos/)**
 
 --------------------
 
@@ -4938,7 +4940,7 @@ Se mantendrían.
 
 ---
 
-**Fin de Capítulo 10.6 — continúa en Capítulo 11.1: [El Instrumento Roto](/el-paquete-el-instrumento-roto/)**
+**Fin de Capítulo 10.6 — continúa en Capítulo 11.1: [El Salvador](/el-paquete-el-instrumento-roto/)**
 
 --------------------
 
@@ -5114,7 +5116,7 @@ El número se sintió significativo. Estaba demasiado cansado para entender por 
 
 *Siguiente: El Hombre Amable: La Tierra Extraña*
 
-**Fin de Capítulo 11.1 — continúa en Capítulo 11.2: [La Tierra Extraña](/el-hombre-amable-la-tierra-extrana/)**
+**Fin de Capítulo 11.1 — continúa en Capítulo 11.2: [La Tierra Extraña](/el-paquete-la-mision/)**
 
 --------------------
 
@@ -5284,7 +5286,7 @@ Y contó.
 
 *Siguiente: El Hombre Amable: Las Preguntas*
 
-**Fin de Capítulo 11.2 — continúa en Capítulo 11.3: [Las Preguntas](/el-hombre-amable-las-preguntas/)**
+**Fin de Capítulo 11.2 — continúa en Capítulo 11.3: [Las Preguntas](/el-paquete-el-artefacto/)**
 
 --------------------
 
@@ -5474,7 +5476,7 @@ La caravana había llegado temprano.
 
 *Siguiente: El Hombre Amable: La Caravana*
 
-**Fin de Capítulo 11.3 — continúa en Capítulo 11.4: [La Caravana](/el-hombre-amable-la-caravana/)**
+**Fin de Capítulo 11.3 — continúa en Capítulo 11.4: [La Caravana](/el-paquete-la-travesia/)**
 
 --------------------
 
@@ -5676,7 +5678,7 @@ La aritmética de su supervivencia se había vuelto más complicada.
 
 *Siguiente: El Que Camina Libre: La Caravana*
 
-**Fin de Capítulo 11.4 — continúa en Capítulo 12.1: [El Despertar](/la-hierba-donde-cayo-el-despertar/)**
+**Fin de Capítulo 11.4 — continúa en Capítulo 11.5: [El Nuevo Mundo](/el-paquete-el-nuevo-mundo/)**
 
 --------------------
 
@@ -5781,7 +5783,7 @@ Por ahora.
 
 ---
 
-**Fin de Capítulo 11.5 — continúa en Capítulo 9.1: [El Agua Negra](/el-mar-de-pesadillas-el-agua-negra/)**
+**Fin de Capítulo 11.5 — continúa en Capítulo 8.1: [El Despertar](/el-camino-de-zuraldi-el-despertar/)**
 
 --------------------
 
@@ -10571,7 +10573,5 @@ Y detrás de ellos, en los bosques de los que habían huido, los cazadores se re
 ---
 
 *Siguiente: La Deuda Anticipada*
-
-**Fin de Capítulo 22.5 — continúa en Capítulo 8.1: [El Despertar](/el-camino-de-zuraldi-el-despertar/)**
 
 --------------------
