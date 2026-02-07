@@ -134,11 +134,11 @@ def main():
     ensure_output_dir()
     
     langs = ['en', 'es']
-    # Only 3 categories: lore, prologue (prequel+prologue combined), chapters
+    # Only 3 categories: lore, prologue, chapters
     phases = [
         (['lore'], 'lore', 'Lore'),
-        (['prequel', 'prologue'], 'prologue', 'Prologue'),
-        (['main', 'drusniel'], 'chapters', 'Chapters'),
+        (['prologue'], 'prologue', 'Prologue'),
+        (['main'], 'chapters', 'Chapters'),
     ]
     
     for lang in langs:

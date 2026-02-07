@@ -13,8 +13,8 @@ publication_order: 11015           # Unique integer for sorting
 order: 11015                       # Same as publication_order
 chapter: 5                         # Global chapter number (reader facing)
 subchapter: 2                      # Internal split (Parte 2)
-storyline: drusniel                # drusniel | west | east | prologue | lore
-canon_phase: main                  # main | lore | prequel | prologue
+storyline: drusniel                # drusniel | west
+canon_phase: main                  # main | lore | prologue
 canon_sequence: D-005-002          # {Initial}-{Chapter}-{Subchapter}
 narrative_weight: medium           # low | medium | high
 title: "La Prueba Fallida: Sombras en el Salón"
@@ -32,7 +32,7 @@ counterpart_title: "Translated Title"
 
 ### Global Chaptering Rules (LOCKED)
 1. **Global Sequence**: Chapter numbers increment continuously across all storylines in reading order.
-   - Chapters interleave between Drusniel and West/East arcs
+   - Chapters interleave between Drusniel and West arcs
    - Each chapter number is used once globally (no separate per-storyline numbering)
    - Reading order: D1-D7 → W8 → D9 → W10 → D11 → W12 → D13 → W14...
 
@@ -68,8 +68,7 @@ counterpart_title: "Translated Title"
 2. **Storyline Field**: Explicitly declares the narrative arc.
    - `drusniel` - Main protagonist POV (Wyrmreach journey)
    - `west` - West side characters (Dulint, Balin, Aldric, Maris, Xandor)
-   - `east` - East side characters (future)
-   - `prologue` - Prologue arc chapters (separate from prequel/backstory content)
+   - `prologue` - Prologue arc chapters
    - `lore` - World-building fragments
 
 3. **Canon Sequence**: Structural identifier using storyline prefix + global chapter.
