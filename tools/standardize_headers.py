@@ -89,13 +89,20 @@ def format_main_display(info, labels, chapter_part_counts, for_header=False):
         return f"{labels['Main']} {chap_num}"
     return f"{labels['Main']} {chap_num}.{part_num}"
 
-def build_relative_post_link(current_filepath, next_filepath):
-    current_dir = os.path.dirname(current_filepath)
-    next_dir = os.path.dirname(next_filepath)
-    rel_dir = os.path.relpath(next_dir, current_dir).replace('\\', '/')
-    if rel_dir == '.':
-        return './'
-    return f"{rel_dir}/"
+def build_route_post_link(post, seq_to_path=None):
+    slug = (post.get('path') or '').strip().strip('/')
+    if slug:
+        return f"/{slug}/"
+
+    # Fallback if reports data is missing path for a row.
+    seq = (post.get('canon_sequence') or '').strip()
+    if seq and seq_to_path and seq in seq_to_path:
+        fallback_path, _ = seq_to_path[seq]
+        fallback_slug = os.path.basename(os.path.dirname(fallback_path)).strip().strip('/')
+        if fallback_slug:
+            return f"/{fallback_slug}/"
+
+    return "/"
 
 def find_file_by_sequence(target_seq, lang):
     for root, dirs, files in os.walk(BASE_DIR):
@@ -203,12 +210,8 @@ def process_language(lang):
             n_seq = next_post.get('canon_sequence')
             n_title = next_post.get('title')
             
-            # CALCULATE RELATIVE LINK
-            link_path = ""
-            if n_seq in seq_to_path:
-                next_filepath, _ = seq_to_path[n_seq]
-                # Link to the generated route directory, not the source .mdx file
-                link_path = build_relative_post_link(filepath, next_filepath)
+            # Use canonical route slugs so MDX does not rewrite links as file assets.
+            link_path = build_route_post_link(next_post, seq_to_path)
             
             # Helper to detect label from canon_sequence
             def get_seq_label(seq_id):
