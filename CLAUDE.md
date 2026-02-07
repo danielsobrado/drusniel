@@ -78,10 +78,8 @@ counterpart_title: "Translated Title"
 
 ### Backstory Policy (LOCKED)
 - `Backstory` is a reading/UI label, not a canon type.
-- Backstories map to `canon_phase: prequel` (not `prologue`).
-- Prologues and prequels are different and must stay separate.
-- Backstories/prequels must be spoiler-safe and never reveal mainline twists in advance.
-- Current status: there are no published prequels yet.
+- Backstories map to `canon_phase: prologue`.
+- Backstories must be spoiler-safe and never reveal mainline twists in advance.
 
 ### Path Structure
 ```
@@ -254,7 +252,7 @@ Before publishing, answer **YES** to all:
 
 ## PREQUEL LINT RULESET (v1.0 — ENFORCEABLE)
 
-**Scope**: `canon_phase` in {lore, prequel}
+**Scope**: `canon_phase` in {lore, prologue}
 **Goal**: Prevent premature truth, certainty, and omniscience
 
 ### 🔴 ERROR Rules (Must Fix)

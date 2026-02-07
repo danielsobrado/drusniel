@@ -93,7 +93,7 @@ Balin le dio una palmada en el hombro. *"Mañana al amanecer. Tendremos que empa
 
 Dulint asintió, repentinamente serio. *"Sí. Este es nuestro secreto. Nuestra aventura".*
 
-**Fin de Prólogo 1 — continúa en Prólogo 2: [Un viaje complicado](../un-viaje-complicado/)**
+**Fin de Prólogo 1 — continúa en Prólogo 2: [Un viaje complicado](/un-viaje-complicado/)**
 
 --------------------
 
@@ -344,7 +344,7 @@ Durante largo rato sólo estuvo la aldea asentándose: madera crujiendo, brasas 
 
 Luego, cerca del amanecer, la mochila a su lado se calentó. El zumbido llegó después. Suave. Constante. Como un latido con el que no podía discutir.
 
-**Fin de Prólogo 2 — continúa en Prólogo 3: [El Grito](../../lumeshire/la-mirada-de-un-guardia-a-grukmar/)**
+**Fin de Prólogo 2 — continúa en Prólogo 3: [El Grito](/la-mirada-de-un-guardia-a-grukmar/)**
 
 --------------------
 
@@ -435,7 +435,7 @@ Después, se diría que ella no había visto nada. Un truco de sombras. Un sueñ
 
 Pero sus ojos nunca dejaron ese callejón. Y cuando finalmente se volvió, guiándola hacia las luces de la aldea, la nuca le picaba como si algo lo observara irse.
 
-**Fin de Prólogo 3 — continúa en Prólogo 4: [Charla de Taberna](../susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar/)**
+**Fin de Prólogo 3 — continúa en Prólogo 4: [Charla de Taberna](/susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar/)**
 
 --------------------
 
@@ -506,7 +506,7 @@ Pero bajo todo eso, la corriente corría oscura.
 
 Afuera, la noche presionaba cerca. Y en las profundidades del bosque de [Grukmar](https://www.drusniel.com/el-poder-indomito-de-las-tribus-grukmar/), los árboles permanecían en silencio, guardando sus secretos como dientes guardando una lengua.
 
-**Fin de Prólogo 4 — continúa en Prólogo 5: [Señales en la Frontera](../amenazas-goblin-en-el-borde-de-grukmar/)**
+**Fin de Prólogo 4 — continúa en Prólogo 5: [Señales en la Frontera](/amenazas-goblin-en-el-borde-de-grukmar/)**
 
 --------------------
 
@@ -593,7 +593,7 @@ Nada se movía allí fuera.
 
 Esa era la parte que más le molestaba.
 
-**Fin de Prólogo 5 — continúa en Capítulo 8.1: [El Despertar](../../stonehold/el-camino-de-zuraldi-el-despertar/)**
+**Fin de Prólogo 5 — continúa en Capítulo 8.1: [El Despertar](/el-camino-de-zuraldi-el-despertar/)**
 
 --------------------
 
@@ -728,7 +728,7 @@ El viento cambió. Por un momento, habría jurado que olía algo debajo del pino
 
 Luego desapareció.
 
-**Fin de Prólogo 6 — continúa en Capítulo 8.2: [La Ausencia](../../stonehold/el-camino-de-zuraldi-la-ausencia/)**
+**Fin de Prólogo 6 — continúa en Capítulo 8.2: [La Ausencia](/el-camino-de-zuraldi-la-ausencia/)**
 
 --------------------
 
@@ -815,7 +815,7 @@ La oscuridad se deslizó por los bordes de su visión. Luchó por mantener los o
 
 Lo último que vio fue la silueta de una mujer orca contra las estrellas. Sus colmillos brillaban. Les sonreía como una araña sonríe a las moscas.
 
-**Fin de Prólogo 7 — continúa en Capítulo 8.3: [La Duda del Sobrino](../../stonehold/el-camino-de-zuraldi-la-duda-del-sobrino/)**
+**Fin de Prólogo 7 — continúa en Capítulo 8.3: [La Duda del Sobrino](/el-camino-de-zuraldi-la-duda-del-sobrino/)**
 
 --------------------
 
@@ -926,6 +926,6 @@ Lo último que vio antes de que le pusieran una capucha fue el rostro de Korgath
 
 Lo había dado todo. Y no les había comprado nada.
 
-**Fin de Prólogo 8 — continúa en Capítulo 8.4: [Los Seguidores](../../stonehold/el-camino-de-zuraldi-los-seguidores/)**
+**Fin de Prólogo 8 — continúa en Capítulo 8.4: [Los Seguidores](/el-camino-de-zuraldi-los-seguidores/)**
 
 --------------------

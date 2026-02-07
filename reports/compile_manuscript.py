@@ -97,6 +97,20 @@ def compile_phase(posts, phase_names, lang, output_filename, display_name):
         print(f"No posts found for {display_name} ({lang})")
         return
 
+    # Special sorting for Chapters to ensure narrative order (Chapter 1, 2, 3...)
+    if display_name == 'Chapters':
+        def chapter_sort_key(p):
+            try:
+                c = float(p.get('chapter', 9999))
+            except (ValueError, TypeError):
+                c = 9999
+            try:
+                s = float(p.get('subchapter', 0))
+            except (ValueError, TypeError):
+                s = 0
+            return (c, s)
+        filtered.sort(key=chapter_sort_key)
+
     output_path = os.path.join(OUTPUT_DIR, output_filename)
     print(f"Compiling {len(filtered)} posts into {output_filename}...")
     

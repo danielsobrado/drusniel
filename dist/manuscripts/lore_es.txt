@@ -62,7 +62,7 @@ Cada camino ofrece poderes únicos. Pruebas únicas. Los magos deben elegir sabi
 
 La magia no es un asunto trivial. Es una fuerza de la naturaleza. Un don divino. Un arte peligroso.
 
-**Fin de Lore 1 — continúa en Lore 2: [La Nada y el Segundo Sol](../la-creacion-de-astalor/)**
+**Fin de Lore 1 — continúa en Lore 2: [La Nada y el Segundo Sol](/la-creacion-de-astalor/)**
 
 --------------------
 
@@ -221,7 +221,7 @@ No era verdad. Pero era estable. Y la estabilidad, en un mundo nacido de la cont
 
 *Significado: incierto.*
 
-**Fin de Lore 2 — continúa en Lore 3: [Descubriendo las Regiones de Astalor](../descubriendo-las-regiones-de-astalor/)**
+**Fin de Lore 2 — continúa en Lore 3: [Descubriendo las Regiones de Astalor](/descubriendo-las-regiones-de-astalor/)**
 
 --------------------
 
@@ -298,7 +298,7 @@ Los horrores que contiene Wyrmreach están más allá de la comprensión mortal.
 
 Estos son los reinos de Astalor. Cada uno único, cada uno vital para el precario equilibrio del mundo.
 
-**Fin de Lore 3 — continúa en Lore 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](../../contian/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/)**
+**Fin de Lore 3 — continúa en Lore 1: [La Búsqueda de la Supremacía Mágica por la Teocracia Contiana](/echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica/)**
 
 --------------------
 
@@ -577,7 +577,7 @@ Esta vez, las palabras no se asentaron en su pecho como solían hacerlo.
 
 Esta vez, se sintieron delgadas.
 
-**Fin de Lore 1 — continúa en Lore 1: [La Defensa Resiliente del Imperio Divino de Lumeshire](../../lumeshire/escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire/)**
+**Fin de Lore 1 — continúa en Lore 1: [La Defensa Resiliente del Imperio Divino de Lumeshire](/escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire/)**
 
 --------------------
 
@@ -716,7 +716,7 @@ Esta vez, no había charco.
 
 *Siempre creyó que tenía tiempo.*
 
-**Fin de Lore 1 — continúa en Lore 1: [Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos](../../stonehold/fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos/)**
+**Fin de Lore 1 — continúa en Lore 1: [Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos](/fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos/)**
 
 --------------------
 
@@ -727,7 +727,7 @@ Esta vez, no había charco.
 
 --- 
 
-[![Mapa de Stonehold](https://i.imgur.com/JURYfEJ.png)](https://i.imgur.com/JURYfEJ.png)
+![Mapa de Stonehold](map.jpg)
 
 La grieta tenía trece pulgadas de largo.
 
@@ -753,7 +753,7 @@ Bragni tocó la grieta de nuevo. El frío se estaba extendiendo ahora, una fina 
 
 —Esto no es asentamiento —dijo.
 
-[![StoneholdIntro2](https://i.imgur.com/0oQxjcD.png)](https://i.imgur.com/0oQxjcD.png)
+![La Fisura](mid-01.jpg)
 
 Los planos de inspección no mostraban nada inusual. Bragni los extendió sobre el suelo de piedra de la estación del pozo y trazó las líneas con su dedo rechoncho. Los túneles se ramificaban en todas direcciones —algunos de siglos de antigüedad, algunos excavados en memoria viviente. El Pozo Seis, donde apareció la grieta, era antiguo: uno de los pasajes originales tallados por los primeros canteros, bendecidos por sacerdotes de Vondar cuando el mundo era joven.
 
@@ -847,6 +847,8 @@ La barricada se levantó en tres horas. Eficiencia enana. Vigas de hierro clavad
 
 Bragni supervisó cada paso. Cuando se colocó el sello final, presionó su mano contra él.
 
+![El Sello](mid-04.jpg)
+
 Cálido. Sólido. Seguro.
 
 Archivó su informe esa noche. *Anomalía estructural contenida. Se recomienda no excavar más allá del Pozo Seis hasta nuevo estudio. Costo estimado de reparación: mínimo. Evaluación de riesgo estimada: bajo.*
@@ -859,7 +861,7 @@ Algunas preguntas era más fácil no hacerlas.
 
 ---
 
-[![StoneholdIntro](https://i.imgur.com/KzpA3lJ.png)](https://i.imgur.com/KzpA3lJ.png)
+![Introducción a Stonehold](header.jpg)
 
 *Informe archivado. Pozo Seis sellado. Equipo de inspección reasignado.*
 
@@ -873,7 +875,7 @@ La piedra se agrietaba donde nunca lo había hecho antes. Pero el refuerzo aguan
 
 Por ahora era todo lo que cualquiera podía prometer.
 
-**Fin de Lore 1 — continúa en Lore 2: [Los Zuraldarr](../../lumeshire/the-zuraldarr/)**
+**Fin de Lore 1 — continúa en Lore 2: [Los Zuraldarr](/the-zuraldarr/)**
 
 --------------------
 
@@ -1020,7 +1022,7 @@ En los campos, los granjeros cuidaban las cosechas con la misma intensidad con l
 
 Y en los bosques, los leñadores trabajaban con precisión, talando árboles de forma selectiva bajo la guía de druidas. Se llevaban sólo lo necesario, asegurándose de que los bosques dieran cobijo y sustento a las generaciones venideras.
 
-**Fin de Lore 2 — continúa en Lore 1: [Los Misterios del Dominio Wymreach](../../wyrmreach/profundidades-oscuras-el-dominio-wymreach/)**
+**Fin de Lore 2 — continúa en Lore 1: [Los Misterios del Dominio Wymreach](/profundidades-oscuras-el-dominio-wymreach/)**
 
 --------------------
 
@@ -1221,7 +1223,7 @@ Nunca termina la frase.
 
 No tiene que hacerlo.
 
-**Fin de Lore 1 — continúa en Lore 2: [Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza](../../elenoria/bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza/)**
+**Fin de Lore 1 — continúa en Lore 2: [Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza](/bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza/)**
 
 --------------------
 
@@ -1308,7 +1310,7 @@ Algún conocimiento, estaba aprendiendo, se guardaba no porque fuera sagrado, si
 
 Las paredes de la biblioteca respiraban. Las ramas crecían. Y en los bosquecillos del este, algo continuaba moviéndose de maneras que no coincidían con los mapas.
 
-**Fin de Lore 2 — continúa en Lore 2: [Hielo y Hierro: Los Guerreros del Imperio de Frostgard](../../frostgard/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)**
+**Fin de Lore 2 — continúa en Lore 2: [Hielo y Hierro: Los Guerreros del Imperio de Frostgard](/hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard/)**
 
 --------------------
 
@@ -1397,7 +1399,7 @@ El viento aullaba afuera del gran salón. Adentro, los escaldos seguían cantand
 
 Thorvald se sirvió otro trago e intentó no contar los asientos vacíos.
 
-**Fin de Lore 2 — continúa en Lore 2: [El Poder Indómito de las Tribus Grukmar](../../grukmar/choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar/)**
+**Fin de Lore 2 — continúa en Lore 2: [El Poder Indómito de las Tribus Grukmar](/choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar/)**
 
 --------------------
 
@@ -1494,7 +1496,7 @@ Lo que sea que estuviera despertando en los pantanos, no había terminado de des
 
 Esperaba que el Imperio estuviera listo cuando lo hiciera. Dudaba que lo estuvieran.
 
-**Fin de Lore 2 — continúa en Lore 2: [El Pacto del Dominio Umbra'kor con la Oscuridad](../../umbrakor/el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad/)**
+**Fin de Lore 2 — continúa en Lore 2: [El Pacto del Dominio Umbra'kor con la Oscuridad](/el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad/)**
 
 --------------------
 
@@ -1579,6 +1581,6 @@ Las campanas del templo tocaron la hora vespertina. En la cámara de transcripci
 
 Sylaera copió las palabras una vez más, y se preguntó qué más habían encontrado.
 
-**Fin de Lore 2 — continúa en Prólogo 1: [La llamada a Zuraldi](../../stonehold/la-llamada-a-zuraldi/)**
+**Fin de Lore 2 — continúa en Prólogo 1: [La llamada a Zuraldi](/la-llamada-a-zuraldi/)**
 
 --------------------

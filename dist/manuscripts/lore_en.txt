@@ -9,15 +9,15 @@ DRUSNIEL - LORE (EN)
 
 --- 
 
-Magic isn't commonplace. It's a treasure. A burden. A gift bestowed upon few. **Mages** walk a precarious path, wielding power that's as dangerous as it is wondrous.
+Magic is rare, and those who carry it pay for the privilege. **Mages** walk a precarious path, wielding power that's as dangerous as it is wondrous.
 
 ## The Elemental Foundations
 
-At the heart of magic lie four elements: **water, fire, earth**, and **air**. Each mage masters one. Some grasp a related element. But opposites remain forever out of reach. No mage commands both **water and fire**, or **earth and air**. It's a fundamental law, unyielding and absolute.
+At the heart of magic lie four elements: **water, fire, earth**, and **air**. Each mage masters one. Some grasp a related element. But opposites remain forever out of reach. No mage commands both **water and fire**, or **earth and air**. The elements will not share a vessel with their enemy.
 
 ## The Art of Spellcasting
 
-Casting a spell? It's no simple task. It demands utmost concentration. Precise timing. Perfect intonation.
+Casting a spell demands utmost concentration, precise timing, and perfect intonation.
 
 > "Casting a spell is no simple feat. Mages must concentrate their minds, drawing intricate magical runes in their thoughts while uttering the incantations with precise timing and intonation. Even the slightest mistake can have disastrous consequences, making the practice of magic a high-risk endeavor."
 
@@ -58,11 +58,11 @@ Magic in Astalor isn't a cure-all. It's a tool: elusive, demanding. Eight school
 7. **Evocation**: The practice of calling forth the unseen. Involves summoning entities, creating objects from magical energy, and teleportation.
 8. **Miragery**: The art of bending reality. Encompasses creating false sensory experiences, manipulating perceptions, and veiling the truth.
 
-Each path offers unique powers. Unique trials. Mages must choose wisely, for their choice shapes their destiny.
+Each path carries its own rewards and its own costs. The choice shapes the mage as much as the mage shapes the magic.
 
-Magic is no trifling matter. It's a force of nature. A divine gift. A dangerous art.
+In Astalor, magic is never taken lightly. Those who wield it learn quickly that the power answers to no one.
 
-**End of Lore 1 — continues in Lore 2: [Nothingness and the Second Sun](../the-making-of-astalor/)**
+**End of Lore 1 — continues in Lore 2: [Nothingness and the Second Sun](/the-making-of-astalor/)**
 
 --------------------
 
@@ -219,7 +219,7 @@ It wasn't true. But it was stable. And stability, in a world born from contradic
 
 *Meaning: unclear.*
 
-**End of Lore 2 — continues in Lore 3: [The regions of Astalor](../the-regions-of-astalor/)**
+**End of Lore 2 — continues in Lore 3: [The regions of Astalor](/the-regions-of-astalor/)**
 
 --------------------
 
@@ -296,7 +296,7 @@ The horrors contained within Wyrmreach are beyond mortal comprehension. It stand
 
 These are the realms of Astalor. Each unique, each vital to the world's precarious balance.
 
-**End of Lore 3 — continues in Lore 1: [The Contian Theocracy's Quest for Magical Supremacy](../../contian/arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy/)**
+**End of Lore 3 — continues in Lore 1: [The Contian Theocracy's Quest for Magical Supremacy](/arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy/)**
 
 --------------------
 
@@ -575,7 +575,7 @@ This time, the words did not settle in his chest the way they usually did.
 
 This time, they felt thin.
 
-**End of Lore 1 — continues in Lore 1: [The Resilient Defense of the Lumeshirean Divine Empire](../../lumeshire/shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire/)**
+**End of Lore 1 — continues in Lore 1: [The Resilient Defense of the Lumeshirean Divine Empire](/shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire/)**
 
 --------------------
 
@@ -714,7 +714,7 @@ This time, there was no puddle.
 
 *It always believed it had time.*
 
-**End of Lore 1 — continues in Lore 1: [Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos](../../stonehold/forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos/)**
+**End of Lore 1 — continues in Lore 1: [Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos](/forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos/)**
 
 --------------------
 
@@ -725,7 +725,7 @@ This time, there was no puddle.
 
 --- 
 
-[![StoneholdMap](https://i.imgur.com/JURYfEJ.png)](https://i.imgur.com/JURYfEJ.png)
+![Stonehold Map](map.jpg)
 
 The crack was thirteen inches long.
 
@@ -749,7 +749,7 @@ Bragni touched the crack again. The cold was spreading now, a thin line of numbn
 
 "This isn't settlement," he said.
 
-[![StoneholdIntro2](https://i.imgur.com/0oQxjcD.png)](https://i.imgur.com/0oQxjcD.png)
+![The Fissure](mid-01.jpg)
 
 The survey charts showed nothing unusual. Bragni spread them across the stone floor of the shaft station and traced the lines with his stubby finger. Tunnels branched in all directions—some centuries old, some cut within living memory. The Sixth Shaft, where the crack appeared, was ancient: one of the original passages carved by the first stonemasons, blessed by priests of Vondar when the world was young.
 
@@ -835,6 +835,8 @@ The barricade went up in three hours. Dwarven efficiency. Iron beams driven into
 
 Bragni supervised every step. When the final seal was placed, he pressed his hand against it.
 
+![The Seal](mid-04.jpg)
+
 Warm. Solid. Safe.
 
 He filed his report that evening. *Structural anomaly contained. Recommend no excavation beyond Shaft Six until further study. Estimated repair cost: minimal. Estimated risk assessment: low.*
@@ -847,7 +849,7 @@ Some questions were easier not to ask.
 
 ---
 
-[![StoneholdIntro](https://i.imgur.com/KzpA3lJ.png)](https://i.imgur.com/KzpA3lJ.png)
+![Stonehold Intro](header.jpg)
 
 *Report filed. Shaft Six sealed. Survey crew reassigned.*
 
@@ -861,7 +863,7 @@ Stone cracked where it never had before. But the bracing held. For now.
 
 For now was all anyone could promise.
 
-**End of Lore 1 — continues in Lore 2: [The Zuraldarr](../../lumeshire/the-zuraldarr/)**
+**End of Lore 1 — continues in Lore 2: [The Zuraldarr](/the-zuraldarr/)**
 
 --------------------
 
@@ -1008,7 +1010,7 @@ In the fields, farmers tended crops with the same intensity others brought to ba
 
 In the forests, loggers worked with precision, selectively cutting trees under the guidance of druids. They took only what was needed, ensuring the woods would shelter and provide for generations to come.
 
-**End of Lore 2 — continues in Lore 1: [The Mysteries of the Wyrmreach Dominion](../../wyrmreach/dark-depths-the-wymreach-dominion/)**
+**End of Lore 2 — continues in Lore 1: [The Mysteries of the Wyrmreach Dominion](/dark-depths-the-wymreach-dominion/)**
 
 --------------------
 
@@ -1209,7 +1211,7 @@ He never finishes the sentence.
 
 He doesn't have to.
 
-**End of Lore 1 — continues in Lore 2: [Eternal Woods: The Kingdom of Elenoria's Dance with Nature](../../elenoria/eternal-woods-the-kingdom-of-elenoria-dance-with-nature/)**
+**End of Lore 1 — continues in Lore 2: [Eternal Woods: The Kingdom of Elenoria's Dance with Nature](/eternal-woods-the-kingdom-of-elenoria-dance-with-nature/)**
 
 --------------------
 
@@ -1296,7 +1298,7 @@ Some knowledge, she was learning, was kept not because it was sacred, but becaus
 
 The library walls breathed. The branches grew. And in the eastern groves, something continued to move in ways that didn't match the maps.
 
-**End of Lore 2 — continues in Lore 2: [Ice and Iron: The Warriors of the Empire of Frostgard](../../frostgard/ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard/)**
+**End of Lore 2 — continues in Lore 2: [Ice and Iron: The Warriors of the Empire of Frostgard](/ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard/)**
 
 --------------------
 
@@ -1383,7 +1385,7 @@ The wind howled outside the great hall. Inside, the skalds kept singing of glory
 
 Thorvald poured himself another drink and tried not to count the empty seats.
 
-**End of Lore 2 — continues in Lore 2: [The Unruly Might of the Grukmar Tribes](../../grukmar/clash-of-clans-the-unruly-might-of-the-grukmar-tribes/)**
+**End of Lore 2 — continues in Lore 2: [The Unruly Might of the Grukmar Tribes](/clash-of-clans-the-unruly-might-of-the-grukmar-tribes/)**
 
 --------------------
 
@@ -1432,7 +1434,7 @@ Things didn't get quiet in Grukmar. They got quiet before something worse.
 
 "The deep tribes," she said to the goblin. "Which ones?"
 
-Zikvik's grin faded slightly. Something like fear flickered in his yellow eyes—genuine fear, not the theatrical kind goblins used for manipulation.
+Zikvik's grin faded slightly. Fear flickered in his yellow eyes—genuine fear, not the theatrical kind goblins used for manipulation.
 
 "Not say names. Names bring attention." He lowered his voice. "Something wakes in the swamps. Something old. The warchiefs argue about it. Some say worship. Some say run. The smart ones—" He tapped the side of his skull. "The smart ones already gone."
 
@@ -1478,7 +1480,7 @@ Whatever was waking in the swamps, it hadn't finished waking yet.
 
 She hoped the Empire would be ready when it did. She doubted they would be.
 
-**End of Lore 2 — continues in Lore 2: [The Umbra'kor Dominion's Pact with Darkness](../../umbrakor/shadows-reign-the-umbrakor-dominions-pact-with-darkness/)**
+**End of Lore 2 — continues in Lore 2: [The Umbra'kor Dominion's Pact with Darkness](/shadows-reign-the-umbrakor-dominions-pact-with-darkness/)**
 
 --------------------
 
@@ -1563,6 +1565,6 @@ The temple bells rang the evening hour. In the transcription chamber, the phosph
 
 Sylaera copied the words one more time, and wondered what else they'd found.
 
-**End of Lore 2 — continues in Prologue 1: [The Call to Zuraldi](../../stonehold/the-call-to-zuraldi/)**
+**End of Lore 2 — continues in Prologue 1: [The Call to Zuraldi](/the-call-to-zuraldi/)**
 
 --------------------
