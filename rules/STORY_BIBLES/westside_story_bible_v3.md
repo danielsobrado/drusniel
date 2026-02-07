@@ -192,7 +192,7 @@ This means:
 
 \### Activation Timeline
 
-\- \*\*Prequel:\*\* Dormant during excavation and initial travel
+\- \*\*Prologue:\*\* Dormant during excavation and initial travel
 
 \- \*\*Bridge Chapter:\*\* Activates for the first time after leaving Zuraldi/Stonehold
 
@@ -212,7 +212,7 @@ This means:
 
 |-------|--------|----------|
 
-| 0 (Bridge) | Artifact activates, transition from prequel | Ch 0 |
+| 0 (Bridge) | Artifact activates, transition from prologue | Ch 0 (Global Ch 8) |
 
 | 1 | Gathering at Riverhold, seer warning, departure | Ch 1-5 |
 
@@ -664,9 +664,9 @@ Their failure comes from:
 
 
 
-\*\*Chapter 0: The Road from Zuraldi\*\*
+\*\*Chapter 0 (Global Ch 8): The Road from Zuraldi\*\*
 
-\- \*\*Purpose:\*\* Transition prequel â†’ main story
+\- \*\*Purpose:\*\* Transition prologue â†’ main story
 
 \- \*\*Beats:\*\*
 
@@ -1164,7 +1164,7 @@ When writing West Side chapters, \*\*ALWAYS\*\* enforce:
 
 
 
-\## Prequel Content (Published)
+\## Prologue Content (Published)
 
 
 
@@ -1182,7 +1182,7 @@ When writing West Side chapters, \*\*ALWAYS\*\* enforce:
 
 
 
-\*\*Bridge needed:\*\* Journey from Zuraldi â†’ Riverhold (Chapter 0)
+\*\*Bridge needed:\*\* Journey from Zuraldi â†’ Riverhold (Ch 0 / Global Ch 8)
 
 
 

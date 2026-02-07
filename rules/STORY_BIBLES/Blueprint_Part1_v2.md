@@ -2333,28 +2333,28 @@ Each chapter should include at least one instance where:
 
 # APPENDIX D: STABLE IMAGE PROGRESSION (Future Blueprint Reference)
 
-**Note**: Maris Hale does not appear until West Side Chapter 2, which parallels Drusniel Chapter 9. The Stable Image progression below is for reference when writing the NEXT blueprint (Drusniel 8-13 + West 1-5).
+**Note**: Maris Hale does not appear until Global Chapter 12 (west). The Stable Image progression below is for reference when writing the next blueprint phase.
 
-| West Ch | Drusniel Ch | What Maris Sees | Clarity Level |
-|---------|-------------|-----------------|---------------|
-| 2 | 9 | Hand + dark water + small boat | Vague (hand only, no species) |
-| 7-8 | 14-15 | Grey-dark skin, long fingers | Clearer (not human, unconfirmed) |
-| 10+ | 17+ | Faint glow beneath surface | Sharp (eyes implied, NOT stated) |
+| West (Global Ch) | Drusniel (Global Ch) | What Maris Sees | Clarity Level |
+|------------------|----------------------|-----------------|---------------|
+| 12 | 11 | Hand + dark water + small boat | Vague (hand only, no species) |
+| 22-24 | 21-23 | Grey-dark skin, long fingers | Clearer (not human, unconfirmed) |
+| 28+ | 27+ | Faint glow beneath surface | Sharp (eyes implied, NOT stated) |
 
-**Current blueprint scope**: Drusniel 1-7 + West 0 only. No Maris content yet.
+**Current blueprint scope**: Global Ch 1-7 (drusniel) + Global Ch 8 (west) only. No Maris content yet.
 
 ---
 
-## FUTURE BLUEPRINT NOTES (E2/E3 Issues to Address)
+## FUTURE BLUEPRINT NOTES (Stable Image Issues to Address)
 
 When building the next blueprint, fix these before prose:
 
-**E2 Stable Image wording**:
+**Stable Image wording**:
 - Current issue: "definitely drow" conflicts with "species unconfirmed"
 - Fix: "grey-dark skin, long fingers, not human proportions" â€” Maris is guessing, not knowing
 - Avoid: "definitely drow," "drow hand"
 
-**E3 "faint glow" issue**:
+**"Faint glow" escalation issue**:
 - Current issue: Drow eye-glow is a known trait in this world; readers will connect it
 - Fix: Make glow ambiguous: "a pale glimmer, like light caught under oil"
 - Let "lips moving" be the main escalation, not the glow
@@ -2397,9 +2397,9 @@ The reader should SUSPECT but not KNOW. The reveal must feel like betrayal, not 
 
 ---
 
-# APPENDIX F: FIRST DEBT REQUIREMENTS (Chapter 8 â€” Next Blueprint)
+# APPENDIX F: FIRST DEBT REQUIREMENTS (Chapter 9 â€” Next Blueprint)
 
-**Note**: Chapter 8 is outside this blueprint's scope, but this appendix establishes the requirements that Chapter 7's setup must enable.
+**Note**: Chapter 9 is outside this blueprint's scope, but this appendix establishes the requirements that Chapter 7's setup must enable.
 
 The First Debt must meet these criteria:
 
