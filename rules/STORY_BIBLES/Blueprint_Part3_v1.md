@@ -6,7 +6,10 @@
 **Purpose**:
 - Scene-by-scene requirements before prose writing
 - Escalate from *commitment* → *entanglement* → *convergence*
-- Introduce Nyxara, deepen Debt consequences, bridge toward climax
+- Introduce Nyxara, deepen Voice dependency, bridge toward climax
+
+**Emotional Target (LOCKED)**:
+> By the end of Part 3, the reader should believe the catastrophe is unavoidable unless something impossible happens. Both arcs close with forward momentum into disaster — not resolution, not pause, not hope. The convergence should feel like two trains on the same track, each convinced they're on the right one.
 
 **Structure**:
 - 3–6 subchapters per chapter
@@ -191,6 +194,24 @@ When bad things happen, the reader should think "of course"—not "how shocking.
 
 # PROSE EXECUTION LOCKS (PART 3)
 
+## LOCK PRIORITY (COGNITIVE LOAD MANAGEMENT)
+
+**PRIMARY LOCKS** — Must dominate scene construction. If these conflict with secondary locks, primary wins:
+1. Voice absence in Ch 27 (LOCK 1)
+2. Nyxara's leverage progression (LOCK 2 + progression table above)
+3. Voice anticipation trap (LOCK 3)
+
+**SECONDARY LOCKS** — Background enforcement. Check after scene draft, not during:
+4. Elion transformation limit (LOCK 4)
+5. Srietz failure requirement (LOCK 5)
+6. Contested lands competing attention (LOCK 6)
+7. Dragon language ban
+8. Magic visibility math
+
+**Rule**: Write scenes to serve PRIMARY locks first. Apply SECONDARY locks in revision. If a writer is stiffening under constraint, they're probably treating secondary locks as primary.
+
+---
+
 ## ⚠️ LOCK 1: VOICE ABSENCE IN CH 27
 
 **Ch 27 is NOT**:
@@ -222,6 +243,21 @@ Her threat is POLITICAL:
 - She has information they need
 - She offers "help" with strings attached
 - Her interest in Drusniel is strategic
+
+### NYXARA LEVERAGE PROGRESSION (ENFORCED)
+
+Her control must VISIBLY ESCALATE scene-to-scene. Not just tone — what she controls changes:
+
+| Phase | Chapters | What She Controls | How It Feels |
+|-------|----------|-------------------|--------------|
+| Movement | Ch 21-23 | Where they can go. Routes blocked, guided, funneled. | "We're walking where she lets us." |
+| Resources | Ch 23-25 | What they have access to. Food, shelter, crystal supply, safety. | "We eat because she feeds us." |
+| Information | Ch 25-27 | What they know. Intel about Szoravel, terrain, factions filtered through her. | "We only know what she tells us." |
+| Timing | Ch 29-31 | When they can leave. Departure delays, "one more task," strategic holds. | "We leave when she's done with us." |
+
+**If Nyxara's leverage doesn't SHIFT between chapters, she's background radiation. Fix it.**
+
+Each phase must have at least one scene where the new leverage type is demonstrated, not just implied.
 
 **If Nyxara remains a combatant after the opening strike, you broke canon.**
 
@@ -564,6 +600,25 @@ With Nyxara's guide watching, the group travels deeper into contested territory.
 - That wanting is the horror
 
 **This prevents the Voice from feeling routine.**
+
+### CRITICAL REFINEMENT: THE INTERNAL REVERSAL (ANTI-MONOTONY)
+
+**REQUIRED BEAT** (somewhere in Ch 23 — breaks the control → exposure → rationalization groove):
+
+Drusniel deliberately abandons his pattern. He's sick of counting, analyzing, tracing cracks, controlling everything. For one scene, he stops. He doesn't count threats. He doesn't trace the walls. He doesn't anticipate. He tries to just... be present.
+
+**It makes things worse.**
+
+Without his compulsive observation, he misses something: a guide's signal, a terrain shift, a faction marker. The cost is tangible — lost time, wrong turn, supplies problem. Srietz or Elion has to compensate.
+
+**Why this matters**:
+- Breaks the monotonic Drusniel internal arc (control → exposure → rationalization on repeat)
+- Proves the tics aren't neurosis — they're survival
+- Creates a scene the reader can't predict from pattern
+- Makes his RETURN to the tics feel earned, not repetitive
+- The reversal failing is more interesting than the pattern succeeding
+
+**If every Drusniel chapter reinforces the same groove, the reader starts predicting internal beats even when plot surprises them.**
 
 ### SUBCHAPTER BREAKDOWN
 
@@ -1299,6 +1354,20 @@ He must be factually wrong once in this chapter. The error should be:
 - Costs something tangible (supplies, trust)
 - Creates doubt about Szoravel's other advice
 
+### ERROR TYPE CONSTRAINT (LOCKED)
+
+Szoravel's error must concern **SEQUENCE**, not facts.
+
+He's not wrong about WHAT Nyxara is (political, territorial, crystal-based). He's wrong about **WHEN** she stops caring. He says the border is safe *after* they cross it. The reality is: the border is exactly where she's most active.
+
+**This matters because**:
+- A factual error ("she doesn't exist") is dismissible — he didn't know
+- A sequence error ("she won't reach you yet") is devastating — he knew the pieces but assembled them wrong
+- Sequence errors erode trust in ALL his other timing advice (e.g., "you have time before X happens")
+- The cost must be **irreversible by the time it's discovered**: they've already committed to the route, already lowered defenses, already spent the supplies they would have saved
+
+**If Szoravel's error is low-impact or easily worked around, he becomes omniscient with one quirk. The error must COST them.**
+
 **SCENE REQUIREMENTS**:
 - Szoravel advises on route and Nyxara's territory
 - Speaks with certainty ("She won't bother")
@@ -1777,10 +1846,23 @@ The first fragment must:
 **Beat**: Secret Strain / Group Tension
 
 ### Core Conflict
-Dulint's secret is becoming harder to keep. The fragment's effect on Maris weighs on him—is his caution helping or hurting? The group fractures slightly under the pressure of pursuit and Dulint's unexplained decisions.
+Dulint's secret is becoming harder to keep. The fragment's effect on Maris weighs on him — is his caution helping or hurting? The group fractures slightly under the pressure of pursuit and Dulint's unexplained decisions.
+
+### WEST SIDE MISREAD (REQUIRED — ANTI-COMPETENCE FIX)
+
+**Problem this solves**: The West storyline is structurally tighter than Drusniel's. If they're always "right but tragic," the reader trusts them more. That undercuts the core irony: both sides are reasonable and still fail.
+
+**REQUIRED BEAT in Ch 22**: One misread pattern. Choose one:
+- **Beacon false positive**: The fragment/Beacon gives a directional signal that they follow — it leads to a dead end or danger. A correct reading applied at the wrong time.
+- **Over-caution failure**: Dulint's slow approach specifically causes them to be in the wrong place when pursuit arrives. Not "caution is wise" — "this specific caution cost them."
+- **Timing error**: They correctly identify a threat but respond too early or too late, turning an avoidable encounter into a costly one.
+
+**The cost must change how they travel in the next chapter** (injury, lost supplies, forced route change). Not just a scare — a consequence.
+
+**If the West side only fails through external pressure and never through their own misreading, they become audience surrogates instead of flawed characters.**
 
 ### FIRST LAW COMPLIANCE
-**Magic used to solve conflict?** NO — conflict is interpersonal
+**Magic used to solve conflict?** NO — conflict is interpersonal + misread consequences
 **Rules needed**: None new (reinforcement)
 **Status**: ✅ COMPLIANT
 
@@ -2576,6 +2658,75 @@ Before drafting ANY Part 3 chapter:
 
 ---
 
+# APPENDIX D: CHAPTER GUARD RAILS ("IF YOU BREAK" NOTES)
+
+For each global chapter, the single rule that — if violated — collapses the chapter's function.
+
+### Drusniel Arc
+
+**Ch 21 — The Black Garden (Nyxara Introduction)**
+> **Guard**: Magic saves lives but causes capture; resolution is political.
+> **If broken**: Nyxara can't plausibly recruit if Drusniel "beats" her scouts cleanly. Her later pursuit reads petty, not strategic. Magic must attract MULTIPLE watchers, or the contested lands stop feeling like a pressure cooker.
+> **Fast fix**: She "helps" by owning their route, not by liking them.
+
+**Ch 23 — The Debt Anticipated**
+> **Guard**: Crisis → he waits for Voice → Voice doesn't come → he solves it worse → horror is wanting it.
+> **If broken**: The Voice becomes either routine help or absent without meaning. Ch 27's Voice silence loses punch because addiction mechanics weren't seeded.
+> **Fast fix**: The "other way" solution must cost something tangible (injury, supplies, time) so dependency is proven, not stated.
+
+**Ch 25 — The Approach**
+> **Guard**: Explicit Ch 12.5 callback convergence (Scorchshells + "small ones" + potions brewed earlier).
+> **If broken**: Chapter becomes "random obstacle course." Solo-crossing decision feels forced instead of inevitable. Srietz stops feeling useful in a costly way.
+> **Fast fix**: Potions must feel like foreseen preparation that still doesn't guarantee survival.
+
+**Ch 27 — The Price of Passage**
+> **Guard**: Voice is ABSENT in this chapter. At all.
+> **If broken**: You undo the entire Part 3 supersession. Ch 27 is explicitly defined as no debt, no bargain, no Voice — survival on skill + alchemy + observation. If the Voice helps, the volcano trial becomes another supernatural intervention, and the entity encounter loses its unique horror.
+> **Fast fix**: He can reach for the Voice like an addict — then get silence — and that silence must be worse than pain.
+
+**Ch 29 — The Tower of Certainties**
+> **Guard**: Szoravel is transactional, not warm; gives partial info; wrong about ONE thing (sequence error re: Nyxara's pursuit range).
+> **If broken**: If warm → Zaelar's "mentor" lie becomes true-ish and the pipeline dynamic collapses. If fully explanatory → mystery dies and the locked Nexus discovery approach is cheapened. If not wrong → he becomes omniscient and later failures feel like plot fiat.
+
+**Ch 31 — The Departure**
+> **Guard**: Ends with forward commitment, not resolution; questions multiply.
+> **If broken**: The reader feels a "mini-ending" which kills urgency for Part 4. Drusniel's arc becomes passive: "we'll see what happens" instead of "he's walking into it."
+> **Fast fix**: End on a decision with teeth + an immediate consequence (not travel).
+
+### West Arc
+
+**Ch 20 — The First Fragment**
+> **Guard**: Fragment creates questions, not answers.
+> **If broken**: West side becomes "lore delivery" instead of tragedy engine. Hunters escalation feels unearned because the fragment stops feeling dangerous and starts feeling useful. Maris's cost loses teeth.
+> **Fast fix**: Any "new knowledge" must be incomplete + harmful (confirms they're hunted by something worse, but not what/why).
+
+**Ch 22 — The Fracture**
+> **Guard**: Group fracture is driven by artifact pressure + misread consequences, not melodrama.
+> **If broken**: West side starts feeling like a different book (interpersonal drama instead of system-driven tragedy). Dulint's secrecy either becomes "cheap conflict" or gets exposed too early.
+> **Fast fix**: Fracture must be tied to timing + pursuit + Maris cost + the misread pattern, not "we had a talk and got mad."
+
+**Ch 24 — The Clear Sight**
+> **Guard**: Maris sees features but does NOT identify species.
+> **If broken**: You spoil the in-person reveal and cheapen later meeting tension. Maris becomes "author-aware" with genre knowledge instead of lived context.
+> **Fast fix**: Keep it sensory (white hair, dark elven features) but ban the label.
+
+**Ch 26 — The Crack**
+> **Guard**: Secret pressure rises but doesn't resolve yet.
+> **If broken**: Reveal too early = later West sprint loses its moral weight (they're no longer choosing wrong under uncertainty). Reveal too late or never pressured = the secret feels artificial.
+> **Fast fix**: "Nearly exposed" must cost trust minutes (hesitation, argument during pursuit), not a full confession.
+
+**Ch 28 — The Second Blood**
+> **Guard**: Injuries linger, losses have weight.
+> **If broken**: West side becomes an action serial where damage resets. Convergence feels less tragic because they're not paying accumulating cost like Drusniel is.
+> **Fast fix**: One injury must change how they travel in Ch 30.
+
+**Ch 30 — The Convergence Seeds**
+> **Guard**: Visions show convergence, don't cause it.
+> **If broken**: Maris becomes the driver of fate, stealing agency from both parties. The Beacon becomes a "quest GPS" which removes tragedy.
+> **Fast fix**: Every "clarity gain" from the Beacon must increase danger (nosebleeds, attention, hunter competence).
+
+---
+
 # FINAL LOCK STATEMENT
 
 If all constraints are enforced:
@@ -2589,10 +2740,12 @@ If all constraints are enforced:
 - Rereads feel earned, not engineered
 
 **Part 3 ends with**:
-- Drusniel changed, committed, carrying three debts
-- West Side aware of convergence, moving toward it
+- Drusniel changed: carrying debts, crystals, visions, and the memory of something vast in the volcano
+- The Voice's silence in Ch 27 has complicated his dependency — he survived without it, and that shifts the power dynamic
+- West Side aware of convergence, moving toward it, accumulating cost
 - Both parties heading toward each other
 - Neither knowing the full picture
+- The reader believing the catastrophe is unavoidable (emotional target achieved)
 - Act 3 ready to begin
 
 ---
