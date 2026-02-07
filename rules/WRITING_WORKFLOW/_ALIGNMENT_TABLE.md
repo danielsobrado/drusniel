@@ -2,9 +2,9 @@
 
 \*\*Goal:\*\* Keep both storylines braided with mirrored tension beats, without spoiling Nyxara or telegraphing the breach.  
 
-\*\*Rule:\*\* Drusniel has \*\*25 chapters\*\*, East Side has \*\*20\*\*.  
+\*\*Rule:\*\* Drusniel has \*\*25 chapters\*\*, West Side has \*\*20\*\*.  
 
-\*\*Method:\*\* East Side runs \*\*Ch0–20\*\* while Drusniel runs \*\*Ch1–25\*\*. Several Drusniel chapters run “solo” (no East side counterpart) to preserve pacing and avoid East-side early spoil.
+\*\*Method:\*\* West Side runs \*\*Ch0–20\*\* while Drusniel runs \*\*Ch1–25\*\*. Several Drusniel chapters run “solo” (no West side counterpart) to preserve pacing and avoid West-side early spoil.
 
 
 
@@ -12,17 +12,17 @@
 
 
 
-\## ALIGNMENT TABLE (Drusniel ↔ East Side)
+\## ALIGNMENT TABLE (Drusniel ↔ West Side)
 
 
 
-| Drusniel Ch | Drusniel Beat | East Ch | East Beat | Mirror / Link |
+| Drusniel Ch | Drusniel Beat | West Ch | West Beat | Mirror / Link |
 
 |---:|---|---:|---|---|
 
-| 1 | Failed trial, separation | — | — | Drusniel internal fall starts before East exists |
+| 1 | Failed trial, separation | — | — | Drusniel internal fall starts before West exists |
 
-| 2 | Fake mental link begins | — | — | Manipulation seeded; East not yet pulled |
+| 2 | Fake mental link begins | — | — | Manipulation seeded; West not yet pulled |
 
 | 3 | Chooses forbidden teacher | — | — | Choice → consequence engine begins |
 
@@ -30,9 +30,9 @@
 
 | 5 | House rivalry pressure | — | — | Political tension mirrors later Riverhold |
 
-| 6 | Family murdered, framed | — | — | East will later learn truth (Contian) |
+| 6 | Family murdered, framed | — | — | West will later learn truth (Contian) |
 
-| 7 | Zaelar gives mission + \*\*Null plate\*\* (retcon language), crossing prep | \*\*0\*\* | Road from Zuraldi: chassis wakes (Sense always on) | Admin-phase claimed vs chassis broadcasting begins “why now” on East |
+| 7 | Zaelar gives mission + \*\*Null plate\*\* (retcon language), crossing prep | \*\*0\*\* | Road from Zuraldi: chassis wakes (Sense always on) | Admin-phase claimed vs chassis broadcasting begins "why now" on West |
 
 | 8 | Nightmare Sea, near-death, \*\*Debt #1\*\* | \*\*1\*\* | Knot at Riverhold, Aldric + Xandor + chassis points | Both sides: “something is bigger than we think” |
 
@@ -70,9 +70,9 @@
 
 | 25 | Barrier falls; debts called; war begins | \*\*18\*\* | What They Saw: rupture visible; creatures crossing | Shared event observed from both sides |
 
-| — | — | \*\*19\*\* | Ash and Silence: Dulint confesses; fracture | East aftermath beat while Drusniel ends in catastrophe |
+| — | — | \*\*19\*\* | Ash and Silence: Dulint confesses; fracture | West aftermath beat while Drusniel ends in catastrophe |
 
-| — | — | \*\*20\*\* | Things That Follow: new pursuit; Book 2 hook | East final hook: they become target + carry leverage |
+| — | — | \*\*20\*\* | Things That Follow: new pursuit; Book 2 hook | West final hook: they become target + carry leverage |
 
 
 
@@ -88,7 +88,7 @@
 
 \- Drusniel Ch7 introduces \*\*Null phase\*\* as a “plate/shard” (Drusniel doesn’t know terms).
 
-\- East Ch0 shows the \*\*chassis Sense mode\*\* becoming obviously active.
+\- West Ch0 shows the \*\*chassis Sense mode\*\* becoming obviously active.
 
 \- The reader experiences causality through events, not lectures.
 
@@ -98,23 +98,23 @@
 
 \- Drusniel Ch14/21 must treat Nyxara as \*\*political power\*\*, not supernatural.
 
-\- The alignment keeps East chapters away from anything that could suggest “dragon.”
+\- The alignment keeps West chapters away from anything that could suggest “dragon.”
 
 
 
 \### 3) Breach not telegraphed
 
-\- East Ch14–16 are “pressure and urgency” only.
+\- West Ch14–16 are “pressure and urgency” only.
 
-\- East Ch16 (Sky Burns) carries \*shockwave\* language without claiming it’s the barrier.
+\- West Ch16 (Sky Burns) carries \*shockwave\* language without claiming it’s the barrier.
 
-\- East Ch18 is the first time the rupture is explicitly recognized.
+\- West Ch18 is the first time the rupture is explicitly recognized.
 
 
 
 \### 4) Discovery-first artifact behavior
 
-\- East learns: chassis points → water stone changes behavior → costs spike.
+\- West learns: chassis points → water stone changes behavior → costs spike.
 
 \- Drusniel learns: Null doesn’t block → it removes → crossing is near-lethal → Voice debts.
 
@@ -134,7 +134,7 @@ To keep pacing smooth, use this repeating cadence:
 
 \- \*\*Drusniel-heavy Act 1:\*\* D1–D7 mostly solo (fast fall)
 
-\- From D7 onward, alternate with East:
+\- From D7 onward, alternate with West:
 
 &nbsp; - \*\*D7 → E0 → D8 → E1 → D9 → E2\*\* … etc.
 
@@ -160,7 +160,7 @@ This keeps the last 4 entries as a \*\*cascading collapse\*\*.
 
 2\. \*\*Drusniel Ch14/21 wording:\*\* remove “not human / wrong presence” hints. Make her threat purely social/political.
 
-3\. \*\*East Ch16 wording:\*\* keep the event as light/shockwave \*\*without naming breach\*\* until Ch18.
+3\. \*\*West Ch16 wording:\*\* keep the event as light/shockwave \*\*without naming breach\*\* until Ch18.
 
 
 

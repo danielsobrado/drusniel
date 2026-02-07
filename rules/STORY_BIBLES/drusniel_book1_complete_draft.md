@@ -1,5 +1,5 @@
 # DRUSNIEL — BOOK 1: THE VOID'S EDGE
-## Complete Draft (Chapters 1-7, then East Side 0)
+## Complete Draft (Chapters 1-7, then West Side 0)
 ### Post-Audit Final Version — Canon Compliant
 
 ---
@@ -3776,7 +3776,7 @@ For now.
 
 ---
 
-# EAST SIDE — CHAPTER 0: THE ROAD FROM ZURALDI
+# WEST SIDE — CHAPTER 0: THE ROAD FROM ZURALDI
 ## (Placed after D7 per Handoff Map: Artifact wakes when Drusniel crosses barrier)
 
 ---
@@ -4154,5 +4154,5 @@ And despite everything—the fear, the age, the weight of sixty-three years—he
 
 ## WORD COUNT SUMMARY
 
-East Side Chapter 0: 4077 words
+West Side Chapter 0: 4077 words
 Drusniel Chapters 1-7: 34024 words

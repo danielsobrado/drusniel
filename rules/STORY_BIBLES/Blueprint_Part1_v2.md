@@ -6,12 +6,16 @@
 **Purpose**: Scene-by-scene requirements before prose writing
 **Structure**: 3-6 subchapters per chapter (1 blog post each, 800-1500 words)
 **Style**: Brandon Sanderson - simple language, clear prose
-**Canon Sources**: Nexus Artifact Bible (LOCKED), Story Bible v5, Character Bible, East Side Bible v3
+**Canon Sources**: Nexus Artifact Bible (LOCKED), Story Bible v5, Character Bible, West Side Bible v3
 
 **Chapter Numbering (LOCKED)**:
 - ONE continuous global chapter sequence across all storylines
 - Part 1 covers Global Chapters 1-7 (all Drusniel, before West storyline begins)
 - West storyline begins at Global Chapter 8 (Part 2)
+
+**Prologue Clarifier (LOCKED)**:
+- "The Call to Zuraldi" (P-001) and "A Journey Interrupted" (P-002) are Prologue posts (`canon_phase: prologue`) and are NOT part of the global chapter sequence (`chapter: null`).
+- "The Road from Zuraldi" is Global Chapter 8 (`storyline: west`, `canon_phase: main`) and is the first West interleave in the main story.
 
 **Part 1 Global Chapter Map:**
 | Global Ch | Storyline | Working Title | Arc |
@@ -35,7 +39,7 @@ Before writing ANY chapter, verify:
 - **Nyxara**: Does NOT appear in Ch 1-7. First appearance Ch 14. Political menace ONLY until Chapter 24 reveal.
 - **Dragon lords**: Their dragon nature must NOT be public factâ€”use "lords" language
 - **Barrier outcome**: Keep language ambiguous until the event
-- **Maris Stable Image**: Drowning drow hand + small boat (fixed anchor across visions) â€” **NOTE: Maris appears in East Ch 2, outside this blueprint's scope**
+- **Maris Stable Image**: Drowning drow hand + small boat (fixed anchor across visions) â€” **NOTE: Maris appears in West Ch 2, outside this blueprint's scope**
 - **Annariel**: ALIVE, from House Vrinn, isolated in mage training during Ch 2-7, reunites with Shyntara, sends REAL message in Ch 22
 - **House Vrinn**: Keep Annariel's affiliation VAGUE until post-massacre; let frame-job introduce Vrinn as "enemy house"
 - **Mind-reading practice**: RETCONNED as "empathy game"â€”pattern recognition, not telepathy. Makes Zaelar's fake feel wrong (too informed, not intimate enough)
@@ -94,7 +98,7 @@ Example (BAD): "Strange that the dagger was so clean. Almost as if... No. But it
 ## âš ï¸ LOCK 4: The Voice in Ch 7 Must NOT Help
 
 **Ch 7 = "I see you."**
-**Ch 8 = "Say yes or die."**
+**Ch 9 = "Say yes or die."**
 
 **Ch 7 Voice can**:
 - Notice
@@ -162,7 +166,7 @@ These are not blueprint problemsâ€”they are **execution traps**. Police the
 ## LOCK 4: The Voice in Ch 7 Must NOT Help
 
 **Ch 7 = "I see you."**
-**Ch 8 = "Say yes or die."**
+**Ch 9 = "Say yes or die."**
 
 **NO**:
 - Offers
@@ -1789,7 +1793,7 @@ The point: Zaelar appears to be in danger too, which builds false solidarity. "T
 | "Train there, become powerful, return" | I'll come back for revenge | There is no return |
 | "I went through the same journey" | Zaelar understands me | Zaelar is using me |
 
-### SZORAVEL'S DEMEANOR (LOCKED FOR Ch 8+)
+### SZORAVEL'S DEMEANOR (LOCKED FOR Ch 9+)
 
 When Drusniel meets Szoravel, the contrast with Zaelar must land immediately.
 
@@ -1810,7 +1814,7 @@ When Drusniel meets Szoravel, the contrast with Zaelar must land immediately.
 | False patience | Real impatience |
 | Calibrated sympathy | No sympathy |
 
-**Note**: Szoravel appears in Ch 8 (next blueprint). This is setup only.
+**Note**: Szoravel does not appear in Ch 1-8. This is setup only for when he first appears later.
 
 **Key manipulation**: "Revenge requires power. Wyrmreach has power that Umbra'kor forbids. Szoravel trained meâ€”he can train you. Your affinity for air and water will let you survive the crossing where others would drown. Master what he teaches, and you'll return with strength enough to make House Vrinn regret what they did."
 
@@ -1929,7 +1933,7 @@ Zaelar answers vaguely but positively. Drusniel doesn't notice the evasions.
 | Drusniel (internal) | "Zaelar said contacts would find me. Where are they?" | Lie exposed through absence |
 | Drusniel (internal) | "The artifact is pulsing. Something knows I'm here." | Danger |
 | Drusniel (internal) | "That shape in the distance. A mountain? No. It moved." | First glimpse of something vast |
-| The Voice (presence only) | (no wordsâ€”just awareness, attention, amusement) | Ch 8 setup |
+| The Voice (presence only) | (no wordsâ€”just awareness, attention, amusement) | Ch 9 setup |
 | Drusniel (internal) | "Something is watching. Something old. Somethingâ€”" | Hook |
 
 **âš ï¸ LOCK 4 APPLIES HERE: PRESENCE ONLY, NO HELP**
@@ -1952,11 +1956,11 @@ The voice in Ch 7 must be AWARENESS + INTEREST only:
 - It's amused
 - It does NOT offer help
 - It does NOT propose a bargain
-- No "I can save you"â€”that's Ch 8's territory
+- No "I can save you"â€”that's Ch 9's territory
 
 **Hook**: A presence brushes his mindâ€”not Annariel's. Something older. Deeper. Curious. It doesn't speak words. It just... notices. And somewhere in Wyrmreach, something vast turns its attention toward him.
 
-**DO NOT**: Have the voice offer anything. Ch 8 is where Drusniel is DYING and the voice offers survival. Ch 7 is just: "I see you."
+**DO NOT**: Have the voice offer anything. Ch 9 is where Drusniel is DYING and the voice offers survival. Ch 7 is just: "I see you."
 
 ### CHAPTER 7 CHECKLIST
 - [ ] Artifact rules clearly established (removes magical presence)
@@ -1974,21 +1978,21 @@ The voice in Ch 7 must be AWARENESS + INTEREST only:
 
 ---
 
-# PART TWO: EAST SIDE ARC (ASTALOR)
-## Chapter 0 Only | Parallel to Drusniel Ch 7
+# APPENDIX: WEST ARC OPENER (STONEHOLD)
+## Global Chapter 8 | Timeline parallels Drusniel Ch 7
 
-**Reading Order**: D1 â†’ D2 â†’ D3 â†’ D4 â†’ D5 â†’ D6 â†’ D7 â†’ **E0** â†’ D8...
+**Reading Order**: Ch 1-7 (drusniel) â†’ Ch 8 (west) â†’ Ch 9 (drusniel) â†’ Ch 10 (west) ...
 
-Drusniel Chapters 1-6 are SOLO (no East Side counterpart). East Side enters the narrative at Chapter 0, which parallels Drusniel Chapter 7.
+Global Chapters 1-7 are SOLO (Drusniel only). West storyline enters the main sequence at Global Chapter 8, timeline-parallel to Drusniel Chapter 7.
 
 ---
 
-## CHAPTER 0: THE ROAD FROM ZURALDI
+## CHAPTER 8: THE ROAD FROM ZURALDI
 
-**Timeline**: Month 0 (Bridge chapter)  
+**Timeline**: Week 9-10 (timeline-parallel to Ch 7)  
 **POV**: Dulint  
-**Word Target**: 4,000-5,000 words (5 subchapters)  
-**Beat**: Opening Image (East Side) / Inciting Incident  
+**Word Target**: 5,000-6,000 words (5 subchapters)  
+**Beat**: Opening Image (West storyline) / Inciting Incident  
 **Parallel**: Drusniel Ch 7 (Null plate given, crossing to Wyrmreach)
 
 ### Core Conflict
@@ -2037,7 +2041,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 ### SUBCHAPTER BREAKDOWN
 
-#### 0.1 | The Awakening
+#### 8.1 | The Awakening
 **Scene Goal**: The cube changes behavior for the first time  
 **Must establish**:
 - Dulint and Balin traveling from Zuraldi/Stonehold
@@ -2060,7 +2064,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 - **Road from Zuraldi**: Trade route, relatively safe, well-traveled
 - **Stonehold/Zuraldi history**: Where the cube was found (prior story)
 - **Cube's previous state**: Dormant, cold, unremarkable (until now)
-- **East Side geography**: Hills, forests, scattered settlements
+- **Stonehold corridor geography**: Hills, forests, scattered settlements
 - **Traveling companions**: Dulint (veteran), Balin (nephew), minimal supplies
 
 **Sensory details**:
@@ -2072,7 +2076,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 **Hook**: "It's awake."
 
-#### 0.2 | The Absence
+#### 8.2 | The Absence
 **Scene Goal**: Dulint's experience of the artifactâ€”ABSENCE, not power  
 **Must establish**:
 - Dulint doesn't feel magic emanating from it
@@ -2094,7 +2098,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 - **Artifact sensation**: Void, absence, hunger (not power or magic)
 - **Parallel construction**: Drusniel (Erase) and Dulint (Beacon) both feel ABSENCE
 - **Beacon function**: Draws things toward it, broadcasts position
-- **East Side magic understanding**: Different from Astalorâ€”folk knowledge, not academic
+- **Local magic understanding**: Folk knowledge, not academic (unlike Astalor)
 - **Dulint's war experience**: He knows when something is wrong
 
 **PARALLEL TO DRUSNIEL**: Both protagonists experience their artifacts as ABSENCE:
@@ -2105,7 +2109,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 **Hook**: Something in the distance. Movement where there shouldn't be movement.
 
-#### 0.3 | The Nephew's Doubt
+#### 8.3 | The Nephew's Doubt
 **Scene Goal**: Balin notices the change, challenges Dulint  
 **Must establish**:
 - Balin was there when they found it (he discovered it)
@@ -2144,7 +2148,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 **Hook**: Balin looks back down the road. "We're being followed."
 
-#### 0.4 | The Followers
+#### 8.4 | The Followers
 **Scene Goal**: First sign that the broadcasting has consequences  
 **Must establish**:
 - Distant figures on the road behind them
@@ -2166,7 +2170,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 **WORLDBUILDING ELEMENTS**:
 - **Grukmar organization**: Aldric warned about them (prior story), artifact hunters
 - **Beacon broadcasting**: The cube signals position to those who know how to listen
-- **East Side dangers**: Bandits, organizations, those who seek artifacts
+- **Road dangers**: Bandits, organizations, those who seek artifacts
 - **Road travel**: Exposed, limited cover, hard to hide
 - **Artifact seekers**: Multiple factions interested in ancient objects
 
@@ -2178,7 +2182,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 **Hook**: The figures are closer now. They're not hiding anymore.
 
-#### 0.5 | The Decision
+#### 8.5 | The Decision
 **Scene Goal**: Dulint chooses to continue despite the danger  
 **Must establish**:
 - They can't go back (Zuraldi is behind them)
@@ -2210,7 +2214,7 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 **Hook**: The cube grows warmer. Ahead, somewhere, someone is waiting for them. Behind, something is hunting them. And Dulint walks forward anyway.
 
-### CHAPTER 0 CHECKLIST
+### CHAPTER 8 CHECKLIST
 - [ ] Artifact transition: dormant â†’ active
 - [ ] Broadcasting behavior established (not just pointingâ€”signaling)
 - [ ] ABSENCE sensation shown (parallel to Drusniel's Erase)
@@ -2223,57 +2227,50 @@ If the cube ever feels like it's helping them, the Nexus tone is broken. It's a 
 
 ---
 
-## SYNC POINT: DRUSNIEL CH 7 â†” EAST SIDE CH 0
+## SYNC POINT: CH 7 (drusniel) â†” CH 8 (west)
 
-| Drusniel Ch 7 | East Side Ch 0 | Connection |
+| Ch 7 (Drusniel) | Ch 8 (West) | Connection |
 |---------------|----------------|------------|
 | Receives Null plate (Admin Phase II: Erase) | Chassis wakes (Sense mode activates) | Artifact system responds |
 | Feels familiar void (Erase callback) | Dulint feels ABSENCE, not power | Parallel sensation |
 | Crosses into Wyrmreach | Followers appear on the road | Both enter danger |
 | Voice notices him | Cube starts broadcasting | Something is watching |
 
-**Reader experience**: After D7, reading E0 creates the question: "Is this connected?" The answer is yes, but they won't know how until much later.
+**Reader experience**: After Ch 7, reading Ch 8 creates the question: "Is this connected?" The answer is yes, but they won't know how until much later.
 
 ---
 
-## EAST SIDE CHAPTERS 1-4: FUTURE BLUEPRINT
+## WEST STORYLINE CHAPTERS (Ch 10, 12, 14, 16) — SEE PART 2 BLUEPRINT
 
-The following chapters parallel Drusniel 8-11 and will be covered in the next blueprint phase:
+The following chapters are covered in Blueprint Part 2 and interleave with Drusniel chapters:
 
-| East Ch | Title | POV | Parallel to |
-|---------|-------|-----|-------------|
-| 1 | The Knot at Riverhold | Aldric | Drusniel Ch 8 |
-| 2 | The Grass Where She Fell | Maris | Drusniel Ch 9 |
-| 3 | The Circle Closes | Dulint | Drusniel Ch 10 |
-| 4 | The Seer's Warning | Dulint | Drusniel Ch 11 |
-
-**Note**: Maris's Stable Image (drowning hand) begins in Chapter 2. The progression I outlined earlier (E1 = hand only â†’ E2 = grey skin â†’ E3 = faint glow) should be remapped to:
-- Ch 2: First vision, hand + water only
-- Ch 7-8: Species cues emerge
-- Ch 10+: Eyes implied
-
-This will be detailed in the next blueprint covering Drusniel 8-13 + East Side 1-5.
+| Global Ch | Title | POV | Interleaves With |
+|-----------|-------|-----|------------------|
+| 10 | The Knot at Riverhold | Aldric | Ch 9 |
+| 12 | The Grass Where She Fell | Maris | Ch 11 |
+| 14 | Naming Without Explaining | Xandor | Ch 13 |
+| 16 | The Seer's Warning | Dulint | Ch 15 |
 
 ---
 
 # APPENDIX A: CROSS-TIMELINE SYNC POINTS (This Blueprint Only)
 
-| Drusniel Event | East Side Event | Sync Mechanism |
+| Drusniel Event | West Side Event | Sync Mechanism |
 |----------------|-----------------|----------------|
-| Ch 7: Receives Null plate | Ch 0: Chassis wakes (broadcasting begins) | Artifact system responds |
-| Ch 7: Crosses barrier | Ch 0: Followers appear | Both enter danger |
-| Ch 7: Voice notices him | Ch 0: Something tracks the signal | Parallel awareness |
+| Ch 7: Receives Null plate | Ch 8: Chassis wakes (broadcasting begins) | Artifact system responds |
+| Ch 7: Crosses barrier | Ch 8: Followers appear | Both enter danger |
+| Ch 7: Voice notices him | Ch 8: Something tracks the signal | Parallel awareness |
 
-**Note**: Drusniel Chapters 1-6 are SOLO. East Side enters the narrative at Chapter 0, which syncs with Drusniel Chapter 7.
+**Note**: Global Chapters 1-7 are SOLO (Drusniel only). West storyline enters at Global Chapter 8, which syncs with Drusniel Chapter 7.
 
-**Future sync points** (next blueprint, Drusniel 8-13 + East 1-5):
+**Future sync points** (see Blueprint Part 2):
 
-| Drusniel Event | East Side Event | Sync Mechanism |
+| Drusniel Event | West Side Event | Sync Mechanism |
 |----------------|-----------------|----------------|
-| Ch 8: Nightmare Sea (drowning) | Ch 2: Maris first vision (Stable Image begins) | Seer echo |
-| Ch 8: Debt #1 accepted | Ch 2: Maris collapses | Both pay a price |
-| Ch 9: Merrik betrayal | Ch 3: Circle closes, watchers | Trust is punished |
-| Ch 10: Meets Elion | Ch 4: Seer warning (Dulint hides it) | Found-family + secrets |
+| Ch 9: Nightmare Sea (drowning) | Ch 12: Maris first vision (Stable Image begins) | Seer echo |
+| Ch 9: Debt #1 accepted | Ch 12: Maris collapses | Both pay a price |
+| Ch 11: Merrik betrayal | Ch 14: Knowledge tightens (watchers/pressure) | Trust is punished |
+| Ch 13: Meets Elion | Ch 16: Seer warning (Dulint hides it) | Found-family + secrets |
 
 ---
 
@@ -2293,10 +2290,10 @@ This will be detailed in the next blueprint covering Drusniel 8-13 + East Side 1
 - **Cannot**: Breathe underwater (only extend breath), control large volumes, work easily with salt water
 - **Cost**: Dehydration, disorientation in deep water
 - **Panic rule**: Emotional state affects controlâ€”panic = loss
-- **Purpose**: Establishes why Drusniel can survive the Nightmare Sea (Ch 8)
+- **Purpose**: Establishes why Drusniel can survive the Nightmare Sea (Ch 9)
 
 ## Seer Magic (Maris) â€” FUTURE REFERENCE
-**Note**: Maris appears in East Side Chapter 2 (parallels Drusniel Ch 9), outside this blueprint's scope.
+**Note**: Maris appears in West Side Chapter 2 (parallels Drusniel Ch 9), outside this blueprint's scope.
 
 - **Triggers**: Involuntaryâ€”contact, emotion, significant places
 - **Content**: Fragments, not complete pictures
@@ -2336,15 +2333,15 @@ Each chapter should include at least one instance where:
 
 # APPENDIX D: STABLE IMAGE PROGRESSION (Future Blueprint Reference)
 
-**Note**: Maris Hale does not appear until East Side Chapter 2, which parallels Drusniel Chapter 9. The Stable Image progression below is for reference when writing the NEXT blueprint (Drusniel 8-13 + East 1-5).
+**Note**: Maris Hale does not appear until West Side Chapter 2, which parallels Drusniel Chapter 9. The Stable Image progression below is for reference when writing the NEXT blueprint (Drusniel 8-13 + West 1-5).
 
-| East Ch | Drusniel Ch | What Maris Sees | Clarity Level |
+| West Ch | Drusniel Ch | What Maris Sees | Clarity Level |
 |---------|-------------|-----------------|---------------|
 | 2 | 9 | Hand + dark water + small boat | Vague (hand only, no species) |
 | 7-8 | 14-15 | Grey-dark skin, long fingers | Clearer (not human, unconfirmed) |
 | 10+ | 17+ | Faint glow beneath surface | Sharp (eyes implied, NOT stated) |
 
-**Current blueprint scope**: Drusniel 1-7 + East 0 only. No Maris content yet.
+**Current blueprint scope**: Drusniel 1-7 + West 0 only. No Maris content yet.
 
 ---
 
@@ -2464,7 +2461,7 @@ When writing prose:
 
 **The cruel irony**: He thinks he's gaining power. He's actually being hollowed out.
 
-This throughline should echo across both Drusniel and East Side arcs. When readers finish, they should feel that the Nexus artifacts don't GIVE anything. They TAKE.
+This throughline should echo across both Drusniel and West Side arcs. When readers finish, they should feel that the Nexus artifacts don't GIVE anything. They TAKE.
 
 ---
 

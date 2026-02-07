@@ -24,7 +24,7 @@ Generate a detailed chapter outline for Chapter \[NUMBER]: "\[TITLE]"
 
 
 
-This chapter belongs to the \[DRUSNIEL/EAST SIDE] storyline.
+This chapter belongs to the \[DRUSNIEL/WEST SIDE] storyline.
 
 </task>
 

@@ -303,17 +303,17 @@ Controlled, confident, minimal. Commands sound like decisions already made. No m
 
 ---
 
-# EAST SIDE STORYLINE
+# WEST SIDE STORYLINE
 
 ---
 
-## Dulint (East Side Protagonist)
+## Dulint (West Side Protagonist)
 
 ### Physical Description
 Elderly dwarf. Thick-bodied, powerful despite age. Grey beard in rough braids. Iron-ore eyes, deep lines, cracked nails, thick callused fingers. Reinforced miner's clothing.
 
 ### Role in Story (Nexus Alignment)
-**East Side Protagonist / Burden Bearer** — carries the **Nexus Chassis (the Cube)** unknowingly. The chassis is incomplete, so **Sense mode is always active** and broadcasts unintentionally. Dulint also carries a seer's warning and hides it too long, causing delays that become fatal.
+**West Side Protagonist / Burden Bearer** — carries the **Nexus Chassis (the Cube)** unknowingly. The chassis is incomplete, so **Sense mode is always active** and broadcasts unintentionally. Dulint also carries a seer's warning and hides it too long, causing delays that become fatal.
 
 ### Personality Profiles
 - **Myers-Briggs:** ISFJ (The Defender) — Protective, traditional, carries duty as personal weight

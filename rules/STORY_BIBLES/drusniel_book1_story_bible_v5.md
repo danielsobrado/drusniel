@@ -12,7 +12,7 @@
 
 \- \*\*Drusniel Storyline:\*\* ~200-225 pages, 25 chapters
 
-\- \*\*East Side Storyline:\*\* ~175-200 pages, ~20 chapters
+\- \*\*West Side Storyline:\*\* ~175-200 pages, ~20 chapters
 
 \- \*\*Timeline:\*\* 8 months in Wyrmreach (compressed for pacing and urgency)
 
@@ -1282,7 +1282,7 @@ Staggered reveals across chapters:
 
 2\. \*\*Write Chapter 1\*\* using the beat sheet framework
 
-3\. \*\*Create East Side parallel chapter outline\*\* (20 chapters)
+3\. \*\*Create West Side parallel chapter outline\*\* (20 chapters)
 
 4\. \*\*Define ticking clock\*\* - why Month 8 specifically? What forces the timing?
 

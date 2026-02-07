@@ -1,4 +1,4 @@
-\# Drusniel Book 1 - East Side Story Bible v3
+\# Drusniel Book 1 - West Side Story Bible v3
 
 \## The Prophecy Hunters
 
@@ -102,7 +102,7 @@ Each piece has:
 
 | II. The Key | Szoravel/Nyxara | Activates barrier mechanisms (open/weaken/rewrite) | Cannot be used alone safely; burns incompatible wielders |
 
-| III. The Beacon | East Side (Dulint) | Reveals proximity to Nexus pieces, prophecy fragments, barrier loci | \*\*Broadcasts presence\*\* to attuned entities |
+| III. The Beacon | West Side (Dulint) | Reveals proximity to Nexus pieces, prophecy fragments, barrier loci | \*\*Broadcasts presence\*\* to attuned entities |
 
 | IV. The Seal | Book 2 target | Stabilizes or re-locks damaged barrier | Requires sacrifice (life, land, lineage - TBD) |
 
@@ -118,15 +118,15 @@ Each piece has:
 
 |------|---------------|---------|
 
-| Book 1 | I (Veil), II (Key), III (Beacon) | Drusniel / Nyxara / East Side |
+| Book 1 | I (Veil), II (Key), III (Beacon) | Drusniel / Nyxara / West Side |
 
-| Book 2 | III (Beacon), IV (Seal) | East Side + Drusniel alliance |
+| Book 2 | III (Beacon), IV (Seal) | West Side + Drusniel alliance |
 
 | Book 3 | All five | Endgame |
 
 
 
-\*\*Critical:\*\* When Drusniel and East Side reunite, their leverage is \*literal\*, not just moral.
+\*\*Critical:\*\* When Drusniel and West Side reunite, their leverage is \*literal\*, not just moral.
 
 
 
@@ -134,7 +134,7 @@ Each piece has:
 
 
 
-\## The Beacon â€” East Side's Artifact
+\## The Beacon â€” West Side's Artifact
 
 
 
@@ -590,7 +590,7 @@ This is NOT sleep, trance, or meditation. It is closer to:
 
 
 
-| Truth | East Side Knows | Drusniel Knows |
+| Truth | West Side Knows | Drusniel Knows |
 
 |-------|-----------------|----------------|
 
@@ -1008,7 +1008,7 @@ Maris's realization:
 
 \- Prophecy fragment mentions "four vows" / debt structure
 
-\- East Side now knows the trap's shape
+\- West Side now knows the trap's shape
 
 \- Understand Drusniel is walking into something
 
@@ -1098,7 +1098,7 @@ Maris's realization:
 
 
 
-When writing East Side chapters, \*\*ALWAYS\*\* enforce:
+When writing West Side chapters, \*\*ALWAYS\*\* enforce:
 
 
 

@@ -71,7 +71,7 @@
 | 38 | E16 | The Sky Burns |
 | 39 | E17 | The Silence |
 
-**Reader state at Act III end:** East Side feels the system change. Drusniel is about to receive full revelation. Both storylines converge on the same event from opposite sides.
+**Reader state at Act III end:** West Side feels the system change. Drusniel is about to receive full revelation. Both storylines converge on the same event from opposite sides.
 
 ---
 
@@ -87,7 +87,7 @@
 | 45 | E19 | Ash and Silence |
 | 46 | E20 | The Things That Follow |
 
-**Reader state at Book 1 end:** Tragedy complete. Both parties have the information. Neither could use it in time. War begins. Book 2 hook: East Side carries the Beacon (leverage) and becomes a target.
+**Reader state at Book 1 end:** Tragedy complete. Both parties have the information. Neither could use it in time. War begins. Book 2 hook: West Side carries the Beacon (leverage) and becomes a target.
 
 ---
 
@@ -148,7 +148,7 @@ Each handoff includes:
 | Element | Content |
 |---------|---------|
 | **Reader question held** | Can this fragile alliance survive? What is Coatly, and how close is it? |
-| **Opening hook promises** | The East Side isn't safe either. They're being tracked. |
+| **Opening hook promises** | The West Side isn't safe either. They're being tracked. |
 | **Tension transfer** | Drusniel escapes through desperation → Dulint delays through caution. |
 | **Reader experience** | "Different responses to pressure. Drusniel had no choice. Dulint is choosing the slow path." |
 
@@ -166,7 +166,7 @@ Each handoff includes:
 |---------|---------|
 | **Reader question held** | The prophecy mentions the nightmare sea—is that Drusniel? Why are giants watching? |
 | **Opening hook promises** | Drusniel, across the barrier, reads writing that shouldn't exist. Something connects these threads. |
-| **Tension transfer** | East Side finds prophecy *about* Drusniel → Cut to Drusniel finding *older* text. |
+| **Tension transfer** | West Side finds prophecy *about* Drusniel → Cut to Drusniel finding *older* text. |
 | **Reader experience** | "Who wrote this? When? Why can HE read it? This is older than anyone thought." |
 
 ---
@@ -181,7 +181,7 @@ Each handoff includes:
 |---------|---------|
 | **Reader question held** | Where is Drusniel heading? What's the gems' significance? |
 | **Opening hook promises** | Another artifact found—and the cost is immediate. |
-| **Tension transfer** | Drusniel gains resources → East Side gains artifact but pays bodily price. |
+| **Tension transfer** | Drusniel gains resources → West Side gains artifact but pays bodily price. |
 | **Reader experience** | "Progress costs something. Every gain has a price." |
 
 ---
@@ -196,7 +196,7 @@ Each handoff includes:
 |---------|---------|
 | **Reader question held** | How much time have they lost? Can Maris survive this? |
 | **Opening hook promises** | Drusniel just met someone powerful. New trajectory. Stakes jump. |
-| **Tension transfer** | East Side loses time → Drusniel gains power. Asymmetry building. |
+| **Tension transfer** | West Side loses time → Drusniel gains power. Asymmetry building. |
 | **Reader experience** | "She seems helpful. Why don't I trust her?" |
 
 ---
@@ -212,8 +212,8 @@ Each handoff includes:
 | Element | Content |
 |---------|---------|
 | **Reader question held** | What are the black crystals doing to Drusniel? How many debts does he owe now? |
-| **Opening hook promises** | East Side in immediate physical danger. The pursuit is relentless. |
-| **Tension transfer** | Drusniel's choices corrupt him → East Side's journey costs blood. |
+| **Opening hook promises** | West Side in immediate physical danger. The pursuit is relentless. |
+| **Tension transfer** | Drusniel's choices corrupt him → West Side's journey costs blood. |
 | **Reader experience** | "He's changing. They're bleeding. Everyone is paying." |
 
 ---
@@ -228,7 +228,7 @@ Each handoff includes:
 |---------|---------|
 | **Reader question held** | How much did Dulint's caution just cost them? Is it already too late? |
 | **Opening hook promises** | The prophecy is older than anyone thought. Zaelar didn't create it—he's using it. |
-| **Tension transfer** | East Side loses time through caution → Drusniel learns the trap is ancient. |
+| **Tension transfer** | West Side loses time through caution → Drusniel learns the trap is ancient. |
 | **Reader experience** | "That choice hurt. And now we learn this has been happening for centuries." |
 
 **Editorial note:** E13's final beat must land emotionally, not procedurally. End on Dulint *realizing* the cost:
@@ -248,9 +248,9 @@ Each handoff includes:
 | Element | Content |
 |---------|---------|
 | **Reader question held** | Drusniel just said he'd never help them cross. The message is sent. What happens when Szoravel responds? |
-| **Opening hook promises** | The East Side feels urgency but doesn't know why. The Beacon screams direction without context. |
-| **Tension transfer** | Drusniel's dramatic irony statement #2 → East Side's mounting frustration. |
-| **Reader experience** | "He said he'd never do it. The reader knows better. The East Side can only feel something is wrong." |
+| **Opening hook promises** | The West Side feels urgency but doesn't know why. The Beacon screams direction without context. |
+| **Tension transfer** | Drusniel's dramatic irony statement #2 → West Side's mounting frustration. |
+| **Reader experience** | "He said he'd never do it. The reader knows better. The West Side can only feel something is wrong." |
 
 ---
 
@@ -264,7 +264,7 @@ Each handoff includes:
 |---------|---------|
 | **Reader question held** | What changed? Why did everything stop? |
 | **Opening hook promises** | Everything Drusniel believed was lies. The reader finally sees him learn what they suspected. |
-| **Tension transfer** | East Side *feels* the shift → Drusniel *receives* the truth that caused it. |
+| **Tension transfer** | West Side *feels* the shift → Drusniel *receives* the truth that caused it. |
 | **Reader experience** | "The cruelest irony: both sides finally have the information. Neither can use it." |
 
 ---
@@ -280,8 +280,8 @@ Each handoff includes:
 | Element | Content |
 |---------|---------|
 | **Reader question held** | What happens now? Is there any way back? |
-| **Opening hook promises** | The East Side witnesses the catastrophe they tried to prevent. Vindication is ashes. |
-| **Tension transfer** | Drusniel's tragedy complete → East Side's failure confirmed. |
+| **Opening hook promises** | The West Side witnesses the catastrophe they tried to prevent. Vindication is ashes. |
+| **Tension transfer** | Drusniel's tragedy complete → West Side's failure confirmed. |
 | **Reader experience** | "The same moment, twice. Once as cause. Once as consequence." |
 
 ---
@@ -293,14 +293,14 @@ Each handoff includes:
 | Element | Content |
 |---------|---------|
 | **Reader question held** | The barrier is down. What now? |
-| **Opening hook promises** | (Book 2) The East Side has the third Nexus piece. That makes them leverage—and targets. |
+| **Opening hook promises** | (Book 2) The West Side has the third Nexus piece. That makes them leverage—and targets. |
 | **Reader experience** | "They failed to prevent the war. Now they might be the only ones who can end it." |
 
 ---
 
 ## READER EXPERIENCE SUMMARY
 
-| Handoff | Drusniel State | East Side State | Reader Feels |
+| Handoff | Drusniel State | West Side State | Reader Feels |
 |---------|----------------|-----------------|--------------|
 | D7→E0 | Crosses barrier, first debt | Beacon wakes | "Something noticed" |
 | E4→D8 | Survives to Wyrmreach | Dulint hides prophecy | "Both carry secrets" |
@@ -338,7 +338,7 @@ Transitions work when chapters end on **felt consequence**, not reported event:
 - ✓ "Three days. Maybe four. The safe road cost them four days they didn't have."
 
 ### Weekly Serial Considerations
-- D1-D7 runs 7 consecutive weeks before East Side appears
+- D1-D7 runs 7 consecutive weeks before West Side appears
 - Consider accelerated release (2x/week) during launch
 - Or add brief "Meanwhile..." teaser between D4-D5 (200 words max, no full chapter)
 
@@ -346,7 +346,7 @@ Transitions work when chapters end on **felt consequence**, not reported event:
 
 ## CHAPTER COUNT VERIFICATION
 
-| Act | Drusniel | East Side | Total |
+| Act | Drusniel | West Side | Total |
 |-----|----------|-----------|-------|
 | I | 7 (D1-D7) | 5 (E0-E4) | 12 |
 | II | 6 (D8-D13) | 6 (E5-E10) | 12 |

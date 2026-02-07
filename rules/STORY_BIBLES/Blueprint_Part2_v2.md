@@ -41,7 +41,7 @@
 - Nexus Artifact Bible
 - Story Bible v5
 - Character Bible
-- East Side Bible v3
+- West Side Bible v3
 
 ---
 
@@ -1723,14 +1723,14 @@ The chapter ends simply:
 **Reading Order**: D1-D7 → E0 → D8 → E1 → D9 → E2 → D10 → E3 → D11 → E4 → D12 → E5 → D13...
 
 **E0 CLASSIFICATION NOTE**:
-> E0 is a prologue and is excluded from East Side chapter numbering.
+> E0 is a prologue and is excluded from West Side chapter numbering.
 
-- E0 = East Side Prologue (covered in drusniel_chapter_blueprints_v2.md)
-- E1 = East Side Chapter 1 (this document begins here)
+- E0 = West Side Prologue (covered in drusniel_chapter_blueprints_v2.md)
+- E1 = West Side Chapter 1 (this document begins here)
 - The "0" designation indicates prologue status, not a chapter number
 - This matches D convention where prologues would be D0 if applicable
 
-West Side chapters interleave with Drusniel chapters. Each East Side chapter parallels a Drusniel chapter thematically.
+West Side chapters interleave with Drusniel chapters. Each West Side chapter parallels a Drusniel chapter thematically.
 
 ---
 
@@ -2848,7 +2848,7 @@ This chapter gives him his first real fight. After, he's not eager anymore. He's
 
 # APPENDIX A: CROSS-TIMELINE SYNC POINTS
 
-| Drusniel Event | East Side Event | Sync Mechanism |
+| Drusniel Event | West Side Event | Sync Mechanism |
 |----------------|-----------------|----------------|
 | **D8**: Nightmare sea crossing, drowning | **E2**: Maris's Stable Image—drowning hand | Same event, different perspectives |
 | **D8**: DEBT #1 accepted | **E2**: Maris collapses from vision | Both pay a price for survival |
@@ -3001,7 +3001,7 @@ This is the "false normalization" moment:
 
 ## D. INFORMATION CONTROL
 
-- [ ] Drusniel never knows what the East Side knows
+- [ ] Drusniel never knows what the West Side knows
 - [ ] Maris never explains meaning, only sensation
 - [ ] The Nexus is never framed as:
   - [ ] wanting

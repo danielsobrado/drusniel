@@ -47,7 +47,7 @@
 - Nexus Artifact Bible
 - Story Bible v5 (**NOTE**: Debt #3 mechanics SUPERSEDED — see below)
 - Character Bible
-- East Side Bible v3
+- West Side Bible v3
 - Blueprint_Part2_v2.md (LOCKED continuity)
 
 **⚠️ SUPERSESSION NOTE (Debt #3)**:

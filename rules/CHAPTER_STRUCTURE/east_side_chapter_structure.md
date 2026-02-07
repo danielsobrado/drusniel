@@ -1,4 +1,4 @@
-# EAST SIDE — BOOK 1  
+# WEST SIDE — BOOK 1  
 ## Revised Chapter Structure & Discovery Framework  
 **Canon-aligned with the locked Nexus Artifact Bible**  
 **Nyxara reveal preserved • Barrier outcome non-obvious • Discovery-first mechanics**
