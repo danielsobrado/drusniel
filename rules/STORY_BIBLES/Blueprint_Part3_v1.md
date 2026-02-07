@@ -86,6 +86,14 @@ Before writing ANY chapter in this document, verify:
   - Magic use draws COMPETING attention
   - Elion's transformation limit: once per recovery cycle (24h minimum)
 
+- **🔒 BLACK CRYSTALS — CANON FUNCTION (LOCKED)**
+  - **Wyrmreach kills those who fight it.** Not with claws — with mismatch.
+  - **Function**: Crystals do not make you stronger. They make you *less wrong* relative to the environment.
+  - **Mechanism**: They bridge the gap between "standard" physics/magic and Wyrmreach's distorted reality.
+  - **The Trap**: Use them sparingly. Each use teaches the body that Wyrmreach is normal. Once the body learns that, it stops asking whether it should be.
+  - **Dependency**: The more you use them, the more "alien" the normal world will feel later.
+  - **See Bible**: (Refer to strict mechanics above).
+
 - **The Nexus Artifact**
   - Drusniel still doesn't understand what he's carrying
   - Szoravel connection still hidden
@@ -380,14 +388,20 @@ Nyxara must be POLITICAL before anything else:
 ---
 
 #### 14.2 | The Observers
-**Scene Goal**: They're being watched—multiple factions
+**Scene Goal**: The "Worked but Failed" crystal test + Capture
 **Must establish**:
-- Signs of observation (glimpses, tracks, the feeling of eyes)
+- **The Crystal Trap**: Drusniel uses a crystal fragment (found in borderlands) to stabilize against the heat distortion.
+- **Success**: It works PERFECTLY. Breathing clears, casting improves, tremors stop.
+- **Failure**: Because the discomfort is gone, he misses a secondary environmental signal (air pressure drop/ash shift).
+- **Result**: They take the wrong route or lose time, forcing them into Nyxara's controlled zone instead of skirting it.
 - Multiple parties interested (not just one threat)
 - Srietz's knowledge limits (he knows who, not what they want)
 - Group paranoia rises
 
 **SCENE REQUIREMENTS**:
+- **Crystal Use**: Drusniel uses a collected shard. The relief is immediate and seductive. "The crystals do not make you stronger. They make you less wrong."
+- **The Missed Signal**: Because he feels "normal," he ignores the environment's warning signs.
+- **Consequence**: Srietz notices the ambush/route error too late.
 - Elion detects observers first (senses, not sight)
 - Multiple groups confirmed (different directions, different patterns)
 - Srietz identifies but can't predict ("Three lords, three agendas")
@@ -712,7 +726,14 @@ With Nyxara's guide watching, the group travels deeper into contested territory.
 - **Guide departure**: Freedom returns, but at what cost?
 - **New territory**: Different dangers, different rules
 
-**Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels Nyxara's debt settle alongside the others. How many can he carry?
+**REQUIRED DIALOGUE: NYXARA'S TERMS (DELIVERED BY GUIDE)**:
+> "Wyrmreach kills those who fight it. Not with claws — with mismatch. Your body expects rules that do not apply here. Heat lies. Distance lies. Magic resists being shaped.
+>
+> The crystals do not make you stronger. They make you less wrong.
+>
+> Use them sparingly. Each time you do, your body learns that this place is normal. And once it learns that… it stops asking whether it should be."
+
+**Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels Nyxara's debt settle alongside the others. How many can he carry? And the warning about the crystals... was it a warning, or a sales pitch?
 
 **Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. They always do, the old ones.' The guide's smile widened. 'She says she's met things like it before. She knows how to negotiate.' A pause. 'If you survive long enough to need her help.' Then the crystal field swallowed the guide whole."
 
@@ -1164,6 +1185,12 @@ The group enters the Scorchshell tunnels during an eruption breathing pause. Ins
 **POV**: Drusniel
 **Word Target**: 5,500-6,500 words (6 subchapters)
 **Beat**: Meeting the Goal / Information Costs / Dream Contact
+
+### DEPENDENCY NOTE (LOCKED)
+**Mapping Future Dependency**:
+- Drusniel notices that barrier-adjacent magic feels easier than expected.
+- He attributes this to knowledge, not adaptation.
+- **Do not reveal the truth here.** The crystals are retroactively essential.
 
 ### Core Conflict
 Szoravel is real, powerful, and transactional—not a mentor, not a villain, just someone with his own agenda. His information is valuable but incomplete. His interest in Drusniel has reasons he doesn't share. The artifact's true purpose becomes clearer. **NEW**: Szoravel reveals he's been observing Drusniel's dream-activity since the crystal chamber event. Dream/astral contact is possible—Szoravel has used it—but unreliable, costly to sanity, and cryptic. Drusniel begins dream-navigation under Szoravel's guidance: he reaches the Dreamlands briefly and receives fractured directions (the fracture-based navigation from the cosmic dread event becomes a tool, not just trauma). This plants seeds for future use of astral contact and dream-walking.
