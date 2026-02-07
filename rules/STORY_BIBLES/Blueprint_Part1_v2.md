@@ -39,7 +39,7 @@ Before writing ANY chapter, verify:
 - **Nyxara**: Does NOT appear in Ch 1-7. First appearance Ch 14. Political menace ONLY until Chapter 24 reveal.
 - **Dragon lords**: Their dragon nature must NOT be public factâ€”use "lords" language
 - **Barrier outcome**: Keep language ambiguous until the event
-- **Maris Stable Image**: Drowning drow hand + small boat (fixed anchor across visions) â€” **NOTE: Maris appears in West Ch 2, outside this blueprint's scope**
+- **Maris Stable Image**: Drowning drow hand + small boat (fixed anchor across visions) â€” **NOTE: Maris appears in Global Ch 12 (west), outside this blueprint's scope**
 - **Annariel**: ALIVE, from House Vrinn, isolated in mage training during Ch 2-7, reunites with Shyntara, sends REAL message in Ch 22
 - **House Vrinn**: Keep Annariel's affiliation VAGUE until post-massacre; let frame-job introduce Vrinn as "enemy house"
 - **Mind-reading practice**: RETCONNED as "empathy game"â€”pattern recognition, not telepathy. Makes Zaelar's fake feel wrong (too informed, not intimate enough)
@@ -2293,7 +2293,7 @@ The following chapters are covered in Blueprint Part 2 and interleave with Drusn
 - **Purpose**: Establishes why Drusniel can survive the Nightmare Sea (Ch 9)
 
 ## Seer Magic (Maris) â€” FUTURE REFERENCE
-**Note**: Maris appears in West Side Chapter 2 (parallels Drusniel Ch 9), outside this blueprint's scope.
+**Note**: Maris appears in Global Chapter 12 (west), outside this blueprint's scope.
 
 - **Triggers**: Involuntaryâ€”contact, emotion, significant places
 - **Content**: Fragments, not complete pictures
