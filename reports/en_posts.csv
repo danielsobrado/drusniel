@@ -65,69 +65,69 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 165,2024-06-05,The Nightmare Sea: The Depths,wyrmreach,Main,main,D-009-004,false,the-nightmare-sea-the-depths,9,4,drusniel
 166,2024-06-06,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-005,false,the-road-from-zuraldi-the-decision,8,5,west
 166,2024-06-06,The Nightmare Sea: Black Sand,wyrmreach,Main,main,D-009-005,false,the-nightmare-sea-black-sand,9,5,drusniel
-167,2024-06-07,The Knot at Riverhold: The Veteran,astalor,Main,main,W-010-001,false,the-knot-at-riverhold-the-veteran,10,1,west
-168,2024-06-08,The Knot at Riverhold: The Summons,astalor,Main,main,W-010-002,false,the-knot-at-riverhold-the-summons,10,2,west
-169,2024-06-09,The Knot at Riverhold: The Beacon,astalor,Main,main,W-010-003,false,the-knot-at-riverhold-the-beacon,10,3,west
-170,2024-06-10,The Knot at Riverhold: The Pull,astalor,Main,main,W-010-004,false,the-knot-at-riverhold-the-pull,10,4,west
-171,2024-06-11,The Knot at Riverhold: The Circle,astalor,Main,main,W-010-005,false,the-knot-at-riverhold-the-circle,10,5,west
+167,2024-06-07,The Knot at Riverhold: The Veteran,lumeshire,Main,main,W-010-001,false,the-knot-at-riverhold-the-veteran,10,1,west
+168,2024-06-08,The Knot at Riverhold: The Summons,lumeshire,Main,main,W-010-002,false,the-knot-at-riverhold-the-summons,10,2,west
+169,2024-06-09,The Knot at Riverhold: The Beacon,lumeshire,Main,main,W-010-003,false,the-knot-at-riverhold-the-beacon,10,3,west
+170,2024-06-10,The Knot at Riverhold: The Pull,lumeshire,Main,main,W-010-004,false,the-knot-at-riverhold-the-pull,10,4,west
+171,2024-06-11,The Knot at Riverhold: The Circle,lumeshire,Main,main,W-010-005,false,the-knot-at-riverhold-the-circle,10,5,west
 172,2024-06-12,The Kind Man: The Savior,wyrmreach,Main,main,D-011-001,false,the-kind-man-the-savior,11,1,drusniel
 173,2024-06-13,The Kind Man: The Strange Land,wyrmreach,Main,main,D-011-002,false,the-kind-man-the-strange-land,11,2,drusniel
 174,2024-06-14,The Kind Man: The Questions,wyrmreach,Main,main,D-011-003,false,the-kind-man-the-questions,11,3,drusniel
 175,2024-06-15,The Kind Man: The Caravan,wyrmreach,Main,main,D-011-004,false,the-kind-man-the-caravan,11,4,drusniel
-176,2024-06-16,The Grass Where She Fell: The Aftermath,astalor,Main,main,W-012-001,false,the-grass-where-she-fell-the-aftermath,12,1,west
-177,2024-06-17,The Grass Where She Fell: The Stable Image,astalor,Main,main,W-012-002,false,the-grass-where-she-fell-the-stable-image,12,2,west
-178,2024-06-18,The Grass Where She Fell: The Disorientation,astalor,Main,main,W-012-003,false,the-grass-where-she-fell-the-disorientation,12,3,west
-179,2024-06-19,The Grass Where She Fell: The Conduit,astalor,Main,main,W-012-004,false,the-grass-where-she-fell-the-conduit,12,4,west
-180,2024-06-20,The Grass Where She Fell: The Choice,astalor,Main,main,W-012-005,false,the-grass-where-she-fell-the-choice,12,5,west
-181,2024-06-21,The Grass Where She Fell: The Arrival,astalor,Main,main,W-012-006,false,the-grass-where-she-fell-the-arrival,12,6,west
+176,2024-06-16,The Grass Where She Fell: The Aftermath,lumeshire,Main,main,W-012-001,false,the-grass-where-she-fell-the-aftermath,12,1,west
+177,2024-06-17,The Grass Where She Fell: The Stable Image,lumeshire,Main,main,W-012-002,false,the-grass-where-she-fell-the-stable-image,12,2,west
+178,2024-06-18,The Grass Where She Fell: The Disorientation,lumeshire,Main,main,W-012-003,false,the-grass-where-she-fell-the-disorientation,12,3,west
+179,2024-06-19,The Grass Where She Fell: The Conduit,lumeshire,Main,main,W-012-004,false,the-grass-where-she-fell-the-conduit,12,4,west
+180,2024-06-20,The Grass Where She Fell: The Choice,lumeshire,Main,main,W-012-005,false,the-grass-where-she-fell-the-choice,12,5,west
+181,2024-06-21,The Grass Where She Fell: The Arrival,lumeshire,Main,main,W-012-006,false,the-grass-where-she-fell-the-arrival,12,6,west
 182,2024-06-22,The One Who Walks Free: The Cage,wyrmreach,Main,main,D-013-001,false,the-one-who-walks-free-the-cage,13,1,drusniel
 183,2024-06-23,The One Who Walks Free: The Creature,wyrmreach,Main,main,D-013-002,false,the-one-who-walks-free-the-creature,13,2,drusniel
 184,2024-06-24,The One Who Walks Free: The Choice,wyrmreach,Main,main,D-013-003,false,the-one-who-walks-free-the-choice,13,3,drusniel
 185,2024-06-25,The One Who Walks Free: The Escape,wyrmreach,Main,main,D-013-004,false,the-one-who-walks-free-the-escape,13,4,drusniel
 186,2024-06-26,The One Who Walks Free: The Aftermath,wyrmreach,Main,main,D-013-005,false,the-one-who-walks-free-the-aftermath,13,5,drusniel
-187,2024-06-27,Naming Without Explaining: The Recognition,astalor,Main,main,W-014-001,false,naming-without-explaining-the-recognition,14,1,west
-188,2024-06-28,Naming Without Explaining: The Warning,astalor,Main,main,W-014-002,false,naming-without-explaining-the-warning,14,2,west
-189,2024-06-29,Naming Without Explaining: The Fragments,astalor,Main,main,W-014-003,false,naming-without-explaining-the-fragments,14,3,west
-190,2024-06-30,Naming Without Explaining: The Direction,astalor,Main,main,W-014-004,false,naming-without-explaining-the-direction,14,4,west
+187,2024-06-27,Naming Without Explaining: The Recognition,lumeshire,Main,main,W-014-001,false,naming-without-explaining-the-recognition,14,1,west
+188,2024-06-28,Naming Without Explaining: The Warning,lumeshire,Main,main,W-014-002,false,naming-without-explaining-the-warning,14,2,west
+189,2024-06-29,Naming Without Explaining: The Fragments,lumeshire,Main,main,W-014-003,false,naming-without-explaining-the-fragments,14,3,west
+190,2024-06-30,Naming Without Explaining: The Direction,lumeshire,Main,main,W-014-004,false,naming-without-explaining-the-direction,14,4,west
 191,2024-07-01,The Goblin Who Counts Costs: The Wanderers,wyrmreach,Main,main,D-015-001,false,the-goblin-who-counts-costs-the-wanderers,15,1,drusniel
 192,2024-07-02,The Goblin Who Counts Costs: The Goblin,wyrmreach,Main,main,D-015-002,false,the-goblin-who-counts-costs-the-goblin,15,2,drusniel
 193,2024-07-03,The Goblin Who Counts Costs: The Hunters,wyrmreach,Main,main,D-015-003,false,the-goblin-who-counts-costs-the-hunters,15,3,drusniel
 194,2024-07-04,The Goblin Who Counts Costs: The Bargain,wyrmreach,Main,main,D-015-004,false,the-goblin-who-counts-costs-the-bargain,15,4,drusniel
 195,2024-07-05,The Goblin Who Counts Costs: The Memory,wyrmreach,Main,main,D-015-005,false,the-goblin-who-counts-costs-the-memory,15,5,drusniel
 196,2024-07-06,The Goblin Who Counts Costs: The Smoke,wyrmreach,Main,main,D-015-006,false,the-goblin-who-counts-costs-the-smoke,15,6,drusniel
-197,2024-07-07,The Seer's Warning: The Weight,astalor,Main,main,W-016-001,false,the-seers-warning-the-weight,16,1,west
-198,2024-07-08,The Seer's Warning: The Visit,astalor,Main,main,W-016-002,false,the-seers-warning-the-visit,16,2,west
-199,2024-07-09,The Seer's Warning: The Route,astalor,Main,main,W-016-003,false,the-seers-warning-the-route,16,3,west
-200,2024-07-10,The Seer's Warning: The Truth,astalor,Main,main,W-016-004,false,the-seers-warning-the-truth,16,4,west
-201,2024-07-11,The Seer's Warning: The Departure,astalor,Main,main,W-016-005,false,the-seers-warning-the-departure,16,5,west
+197,2024-07-07,The Seer's Warning: The Weight,lumeshire,Main,main,W-016-001,false,the-seers-warning-the-weight,16,1,west
+198,2024-07-08,The Seer's Warning: The Visit,lumeshire,Main,main,W-016-002,false,the-seers-warning-the-visit,16,2,west
+199,2024-07-09,The Seer's Warning: The Route,lumeshire,Main,main,W-016-003,false,the-seers-warning-the-route,16,3,west
+200,2024-07-10,The Seer's Warning: The Truth,lumeshire,Main,main,W-016-004,false,the-seers-warning-the-truth,16,4,west
+201,2024-07-11,The Seer's Warning: The Departure,lumeshire,Main,main,W-016-005,false,the-seers-warning-the-departure,16,5,west
 202,2024-07-12,The Second Choice: The Safe Dark,wyrmreach,Main,main,D-017-001,false,the-second-choice-the-safe-dark,17,1,drusniel
 203,2024-07-13,The Second Choice: The Voice Returns,wyrmreach,Main,main,D-017-002,false,the-second-choice-the-voice-returns,17,2,drusniel
 204,2024-07-14,The Second Choice: The Transformation,wyrmreach,Main,main,D-017-003,false,the-second-choice-the-transformation,17,3,drusniel
 205,2024-07-15,The Second Choice: The Wait,wyrmreach,Main,main,D-017-004,false,the-second-choice-the-wait,17,4,drusniel
 206,2024-07-16,The Second Choice: The Writing,wyrmreach,Main,main,D-017-005,false,the-second-choice-the-writing,17,5,drusniel
 207,2024-07-17,The Second Choice: The Return,wyrmreach,Main,main,D-017-006,false,the-second-choice-the-return,17,6,drusniel
-208,2024-07-18,Northbound: The Counting,astalor,Main,main,W-018-001,false,northbound-the-counting,18,1,west
-209,2024-07-19,Northbound: The Sign,astalor,Main,main,W-018-002,false,northbound-the-sign,18,2,west
-210,2024-07-20,Northbound: The Ambush,astalor,Main,main,W-018-003,false,northbound-the-ambush,18,3,west
-211,2024-07-21,Northbound: The Kill,astalor,Main,main,W-018-004,false,northbound-the-kill,18,4,west
-212,2024-07-22,Northbound: The Aftermath,astalor,Main,main,W-018-005,false,northbound-the-aftermath,18,5,west
+208,2024-07-18,Northbound: The Counting,lumeshire,Main,main,W-018-001,false,northbound-the-counting,18,1,west
+209,2024-07-19,Northbound: The Sign,lumeshire,Main,main,W-018-002,false,northbound-the-sign,18,2,west
+210,2024-07-20,Northbound: The Ambush,lumeshire,Main,main,W-018-003,false,northbound-the-ambush,18,3,west
+211,2024-07-21,Northbound: The Kill,lumeshire,Main,main,W-018-004,false,northbound-the-kill,18,4,west
+212,2024-07-22,Northbound: The Aftermath,lumeshire,Main,main,W-018-005,false,northbound-the-aftermath,18,5,west
 213,2024-07-23,Direction: Recovery,wyrmreach,Main,main,D-019-001,false,direction-recovery,19,1,drusniel
 214,2024-07-24,Direction: Information,wyrmreach,Main,main,D-019-002,false,direction-information,19,2,drusniel
 215,2024-07-25,Direction: The Gloomy Town,wyrmreach,Main,main,D-019-003,false,direction-the-gloomy-town,19,3,drusniel
 216,2024-07-26,Direction: The Night,wyrmreach,Main,main,D-019-004,false,direction-the-night,19,4,drusniel
 217,2024-07-27,Direction: The Dawn,wyrmreach,Main,main,D-019-005,false,direction-the-dawn,19,5,drusniel
-218,2024-07-28,The First Fragment: The Search,astalor,Main,main,W-020-001,false,the-first-fragment-the-search,20,1,west
-219,2024-07-29,The First Fragment: The Location,astalor,Main,main,W-020-002,false,the-first-fragment-the-location,20,2,west
-220,2024-07-30,The First Fragment: The Fragment,astalor,Main,main,W-020-003,false,the-first-fragment-the-fragment,20,3,west
-221,2024-07-31,The First Fragment: The Vision,astalor,Main,main,W-020-004,false,the-first-fragment-the-vision,20,4,west
-222,2024-08-01,The First Fragment: The Hunters,astalor,Main,main,W-020-005,false,the-first-fragment-the-hunters,20,5,west
+218,2024-07-28,The First Fragment: The Search,frostgard,Main,main,W-020-001,false,the-first-fragment-the-search,20,1,west
+219,2024-07-29,The First Fragment: The Location,frostgard,Main,main,W-020-002,false,the-first-fragment-the-location,20,2,west
+220,2024-07-30,The First Fragment: The Fragment,frostgard,Main,main,W-020-003,false,the-first-fragment-the-fragment,20,3,west
+221,2024-07-31,The First Fragment: The Vision,frostgard,Main,main,W-020-004,false,the-first-fragment-the-vision,20,4,west
+222,2024-08-01,The First Fragment: The Hunters,frostgard,Main,main,W-020-005,false,the-first-fragment-the-hunters,20,5,west
 223,2024-08-02,The Black Garden: The Borderlands,wyrmreach,Main,main,D-021-001,false,the-black-garden-the-borderlands,21,1,drusniel
 224,2024-08-03,The Black Garden: The Observers,wyrmreach,Main,main,D-021-002,false,the-black-garden-the-observers,21,2,drusniel
 225,2024-08-04,The Black Garden: The Garden,wyrmreach,Main,main,D-021-003,false,the-black-garden-the-garden,21,3,drusniel
 226,2024-08-05,The Black Garden: The Lady,wyrmreach,Main,main,D-021-004,false,the-black-garden-the-lady,21,4,drusniel
 227,2024-08-06,The Black Garden: The Terms,wyrmreach,Main,main,D-021-005,false,the-black-garden-the-terms,21,5,drusniel
-228,2024-08-07,The Fracture: The Pressure,astalor,Main,main,W-022-001,false,the-fracture-the-pressure,22,1,west
-229,2024-08-08,The Fracture: The Challenge,astalor,Main,main,W-022-002,false,the-fracture-the-challenge,22,2,west
-230,2024-08-09,The Fracture: The Vision Toll,astalor,Main,main,W-022-003,false,the-fracture-the-vision-toll,22,3,west
-231,2024-08-10,The Fracture: The Near-Confession,astalor,Main,main,W-022-004,false,the-fracture-the-near-confession,22,4,west
-232,2024-08-11,The Fracture: The Compromise,astalor,Main,main,W-022-005,false,the-fracture-the-compromise,22,5,west
+228,2024-08-07,The Fracture: The Pressure,frostgard,Main,main,W-022-001,false,the-fracture-the-pressure,22,1,west
+229,2024-08-08,The Fracture: The Challenge,frostgard,Main,main,W-022-002,false,the-fracture-the-challenge,22,2,west
+230,2024-08-09,The Fracture: The Vision Toll,frostgard,Main,main,W-022-003,false,the-fracture-the-vision-toll,22,3,west
+231,2024-08-10,The Fracture: The Near-Confession,frostgard,Main,main,W-022-004,false,the-fracture-the-near-confession,22,4,west
+232,2024-08-11,The Fracture: The Compromise,frostgard,Main,main,W-022-005,false,the-fracture-the-compromise,22,5,west

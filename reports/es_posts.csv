@@ -65,69 +65,69 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 1165,2024-06-05,El Mar de Pesadillas: Las Profundidades,wyrmreach,Main,main,D-009-004,false,el-mar-de-pesadillas-las-profundidades,9,4,drusniel
 1166,2024-06-06,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-005,false,el-camino-de-zuraldi-la-decision,8,5,west
 1166,2024-06-06,El Mar de Pesadillas: Arena Negra,wyrmreach,Main,main,D-009-005,false,el-mar-de-pesadillas-arena-negra,9,5,drusniel
-1167,2024-06-07,El Nudo en Riverhold: El Veterano,astalor,Main,main,W-010-001,false,el-nudo-en-riverhold-el-veterano,10,1,west
-1168,2024-06-08,El Nudo en Riverhold: La Llamada,astalor,Main,main,W-010-002,false,el-nudo-en-riverhold-la-llamada,10,2,west
-1169,2024-06-09,El Nudo en Riverhold: El Faro,astalor,Main,main,W-010-003,false,el-nudo-en-riverhold-el-faro,10,3,west
-1170,2024-06-10,El Nudo en Riverhold: La Atracción,astalor,Main,main,W-010-004,false,el-nudo-en-riverhold-la-atraccion,10,4,west
-1171,2024-06-11,El Nudo en Riverhold: El Círculo,astalor,Main,main,W-010-005,false,el-nudo-en-riverhold-el-circulo,10,5,west
+1167,2024-06-07,El Nudo en Riverhold: El Veterano,lumeshire,Main,main,W-010-001,false,el-nudo-en-riverhold-el-veterano,10,1,west
+1168,2024-06-08,El Nudo en Riverhold: La Llamada,lumeshire,Main,main,W-010-002,false,el-nudo-en-riverhold-la-llamada,10,2,west
+1169,2024-06-09,El Nudo en Riverhold: El Faro,lumeshire,Main,main,W-010-003,false,el-nudo-en-riverhold-el-faro,10,3,west
+1170,2024-06-10,El Nudo en Riverhold: La Atracción,lumeshire,Main,main,W-010-004,false,el-nudo-en-riverhold-la-atraccion,10,4,west
+1171,2024-06-11,El Nudo en Riverhold: El Círculo,lumeshire,Main,main,W-010-005,false,el-nudo-en-riverhold-el-circulo,10,5,west
 1172,2024-06-12,El Hombre Amable: El Salvador,wyrmreach,Main,main,D-011-001,false,el-hombre-amable-el-salvador,11,1,drusniel
 1173,2024-06-13,El Hombre Amable: La Tierra Extraña,wyrmreach,Main,main,D-011-002,false,el-hombre-amable-la-tierra-extrana,11,2,drusniel
 1174,2024-06-14,El Hombre Amable: Las Preguntas,wyrmreach,Main,main,D-011-003,false,el-hombre-amable-las-preguntas,11,3,drusniel
 1175,2024-06-15,El Hombre Amable: La Caravana,wyrmreach,Main,main,D-011-004,false,el-hombre-amable-la-caravana,11,4,drusniel
-1176,2024-06-16,La Hierba Donde Cayó: El Despertar,astalor,Main,main,W-012-001,false,la-hierba-donde-cayo-el-despertar,12,1,west
-1177,2024-06-17,La Hierba Donde Cayó: La Imagen Estable,astalor,Main,main,W-012-002,false,la-hierba-donde-cayo-la-imagen-estable,12,2,west
-1178,2024-06-18,La Hierba Donde Cayó: La Desorientación,astalor,Main,main,W-012-003,false,la-hierba-donde-cayo-la-desorientacion,12,3,west
-1179,2024-06-19,La Hierba Donde Cayó: El Conducto,astalor,Main,main,W-012-004,false,la-hierba-donde-cayo-el-conducto,12,4,west
-1180,2024-06-20,La Hierba Donde Cayó: La Elección,astalor,Main,main,W-012-005,false,la-hierba-donde-cayo-la-eleccion,12,5,west
-1181,2024-06-21,La Hierba Donde Cayó: La Llegada,astalor,Main,main,W-012-006,false,la-hierba-donde-cayo-la-llegada,12,6,west
+1176,2024-06-16,La Hierba Donde Cayó: El Despertar,lumeshire,Main,main,W-012-001,false,la-hierba-donde-cayo-el-despertar,12,1,west
+1177,2024-06-17,La Hierba Donde Cayó: La Imagen Estable,lumeshire,Main,main,W-012-002,false,la-hierba-donde-cayo-la-imagen-estable,12,2,west
+1178,2024-06-18,La Hierba Donde Cayó: La Desorientación,lumeshire,Main,main,W-012-003,false,la-hierba-donde-cayo-la-desorientacion,12,3,west
+1179,2024-06-19,La Hierba Donde Cayó: El Conducto,lumeshire,Main,main,W-012-004,false,la-hierba-donde-cayo-el-conducto,12,4,west
+1180,2024-06-20,La Hierba Donde Cayó: La Elección,lumeshire,Main,main,W-012-005,false,la-hierba-donde-cayo-la-eleccion,12,5,west
+1181,2024-06-21,La Hierba Donde Cayó: La Llegada,lumeshire,Main,main,W-012-006,false,la-hierba-donde-cayo-la-llegada,12,6,west
 1182,2024-06-22,El Que Camina Libre: La Jaula,wyrmreach,Main,main,D-013-001,false,el-que-camina-libre-la-jaula,13,1,drusniel
 1183,2024-06-23,El Que Camina Libre: La Criatura,wyrmreach,Main,main,D-013-002,false,el-que-camina-libre-la-criatura,13,2,drusniel
 1184,2024-06-24,El Que Camina Libre: La Elección,wyrmreach,Main,main,D-013-003,false,el-que-camina-libre-la-eleccion,13,3,drusniel
 1185,2024-06-25,El Que Camina Libre: La Fuga,wyrmreach,Main,main,D-013-004,false,el-que-camina-libre-la-fuga,13,4,drusniel
 1186,2024-06-26,El Que Camina Libre: El Después,wyrmreach,Main,main,D-013-005,false,el-que-camina-libre-el-despues,13,5,drusniel
-1187,2024-06-27,Nombrar Sin Explicar: El Reconocimiento,astalor,Main,main,W-014-001,false,nombrar-sin-explicar-el-reconocimiento,14,1,west
-1188,2024-06-28,Nombrar Sin Explicar: La Advertencia,astalor,Main,main,W-014-002,false,nombrar-sin-explicar-la-advertencia,14,2,west
-1189,2024-06-29,Nombrar Sin Explicar: Los Fragmentos,astalor,Main,main,W-014-003,false,nombrar-sin-explicar-los-fragmentos,14,3,west
-1190,2024-06-30,Nombrar Sin Explicar: La Dirección,astalor,Main,main,W-014-004,false,nombrar-sin-explicar-la-direccion,14,4,west
+1187,2024-06-27,Nombrar Sin Explicar: El Reconocimiento,lumeshire,Main,main,W-014-001,false,nombrar-sin-explicar-el-reconocimiento,14,1,west
+1188,2024-06-28,Nombrar Sin Explicar: La Advertencia,lumeshire,Main,main,W-014-002,false,nombrar-sin-explicar-la-advertencia,14,2,west
+1189,2024-06-29,Nombrar Sin Explicar: Los Fragmentos,lumeshire,Main,main,W-014-003,false,nombrar-sin-explicar-los-fragmentos,14,3,west
+1190,2024-06-30,Nombrar Sin Explicar: La Dirección,lumeshire,Main,main,W-014-004,false,nombrar-sin-explicar-la-direccion,14,4,west
 1191,2024-07-01,El Goblin Que Cuenta Costos: Los Vagabundos,wyrmreach,Main,main,D-015-001,false,el-goblin-que-cuenta-costos-los-vagabundos,15,1,drusniel
 1192,2024-07-02,El Goblin Que Cuenta Costos: El Goblin,wyrmreach,Main,main,D-015-002,false,el-goblin-que-cuenta-costos-el-goblin,15,2,drusniel
 1193,2024-07-03,El Goblin Que Cuenta Costos: Los Cazadores,wyrmreach,Main,main,D-015-003,false,el-goblin-que-cuenta-costos-los-cazadores,15,3,drusniel
 1194,2024-07-04,El Goblin Que Cuenta Costos: El Trato,wyrmreach,Main,main,D-015-004,false,el-goblin-que-cuenta-costos-el-trato,15,4,drusniel
 1195,2024-07-05,El Goblin Que Cuenta Costos: El Recuerdo,wyrmreach,Main,main,D-015-005,false,el-goblin-que-cuenta-costos-el-recuerdo,15,5,drusniel
 1196,2024-07-06,El Goblin Que Cuenta Costos: El Humo,wyrmreach,Main,main,D-015-006,false,el-goblin-que-cuenta-costos-el-humo,15,6,drusniel
-1197,2024-07-07,La Advertencia del Vidente: El Peso,astalor,Main,main,W-016-001,false,la-advertencia-del-vidente-el-peso,16,1,west
-1198,2024-07-08,La Advertencia del Vidente: La Visita,astalor,Main,main,W-016-002,false,la-advertencia-del-vidente-la-visita,16,2,west
-1199,2024-07-09,La Advertencia del Vidente: La Ruta,astalor,Main,main,W-016-003,false,la-advertencia-del-vidente-la-ruta,16,3,west
-1200,2024-07-10,La Advertencia del Vidente: La Verdad,astalor,Main,main,W-016-004,false,la-advertencia-del-vidente-la-verdad,16,4,west
-1201,2024-07-11,La Advertencia del Vidente: La Partida,astalor,Main,main,W-016-005,false,la-advertencia-del-vidente-la-partida,16,5,west
+1197,2024-07-07,La Advertencia del Vidente: El Peso,lumeshire,Main,main,W-016-001,false,la-advertencia-del-vidente-el-peso,16,1,west
+1198,2024-07-08,La Advertencia del Vidente: La Visita,lumeshire,Main,main,W-016-002,false,la-advertencia-del-vidente-la-visita,16,2,west
+1199,2024-07-09,La Advertencia del Vidente: La Ruta,lumeshire,Main,main,W-016-003,false,la-advertencia-del-vidente-la-ruta,16,3,west
+1200,2024-07-10,La Advertencia del Vidente: La Verdad,lumeshire,Main,main,W-016-004,false,la-advertencia-del-vidente-la-verdad,16,4,west
+1201,2024-07-11,La Advertencia del Vidente: La Partida,lumeshire,Main,main,W-016-005,false,la-advertencia-del-vidente-la-partida,16,5,west
 1202,2024-07-12,La Segunda Elección: La Oscuridad Segura,wyrmreach,Main,main,D-017-001,false,la-segunda-eleccion-la-oscuridad-segura,17,1,drusniel
 1203,2024-07-13,La Segunda Elección: La Voz Regresa,wyrmreach,Main,main,D-017-002,false,la-segunda-eleccion-la-voz-regresa,17,2,drusniel
 1204,2024-07-14,La Segunda Elección: La Transformación,wyrmreach,Main,main,D-017-003,false,la-segunda-eleccion-la-transformacion,17,3,drusniel
 1205,2024-07-15,La Segunda Elección: La Espera,wyrmreach,Main,main,D-017-004,false,la-segunda-eleccion-la-espera,17,4,drusniel
 1206,2024-07-16,La Segunda Elección: La Escritura,wyrmreach,Main,main,D-017-005,false,la-segunda-eleccion-la-escritura,17,5,drusniel
 1207,2024-07-17,La Segunda Elección: El Regreso,wyrmreach,Main,main,D-017-006,false,la-segunda-eleccion-el-regreso,17,6,drusniel
-1208,2024-07-18,Rumbo al Norte: El Conteo,astalor,Main,main,W-018-001,false,rumbo-al-norte-el-conteo,18,1,west
-1209,2024-07-19,Rumbo al Norte: La Señal,astalor,Main,main,W-018-002,false,rumbo-al-norte-la-senal,18,2,west
-1210,2024-07-20,Rumbo al Norte: La Emboscada,astalor,Main,main,W-018-003,false,rumbo-al-norte-la-emboscada,18,3,west
-1211,2024-07-21,Rumbo al Norte: La Muerte,astalor,Main,main,W-018-004,false,rumbo-al-norte-la-muerte,18,4,west
-1212,2024-07-22,Rumbo al Norte: Las Consecuencias,astalor,Main,main,W-018-005,false,rumbo-al-norte-las-consecuencias,18,5,west
+1208,2024-07-18,Rumbo al Norte: El Conteo,lumeshire,Main,main,W-018-001,false,rumbo-al-norte-el-conteo,18,1,west
+1209,2024-07-19,Rumbo al Norte: La Señal,lumeshire,Main,main,W-018-002,false,rumbo-al-norte-la-senal,18,2,west
+1210,2024-07-20,Rumbo al Norte: La Emboscada,lumeshire,Main,main,W-018-003,false,rumbo-al-norte-la-emboscada,18,3,west
+1211,2024-07-21,Rumbo al Norte: La Muerte,lumeshire,Main,main,W-018-004,false,rumbo-al-norte-la-muerte,18,4,west
+1212,2024-07-22,Rumbo al Norte: Las Consecuencias,lumeshire,Main,main,W-018-005,false,rumbo-al-norte-las-consecuencias,18,5,west
 1213,2024-07-23,Dirección: Recuperación,wyrmreach,Main,main,D-019-001,false,direccion-recuperacion,19,1,drusniel
 1214,2024-07-24,Dirección: Información,wyrmreach,Main,main,D-019-002,false,direccion-informacion,19,2,drusniel
 1215,2024-07-25,Dirección: El Pueblo Sombrío,wyrmreach,Main,main,D-019-003,false,direccion-el-pueblo-sombrio,19,3,drusniel
 1216,2024-07-26,Dirección: La Noche,wyrmreach,Main,main,D-019-004,false,direccion-la-noche,19,4,drusniel
 1217,2024-07-27,Dirección: El Amanecer,wyrmreach,Main,main,D-019-005,false,direccion-el-amanecer,19,5,drusniel
-1218,2024-07-28,El Primer Fragmento: La Búsqueda,astalor,Main,main,W-020-001,false,el-primer-fragmento-la-busqueda,20,1,west
-1219,2024-07-29,El Primer Fragmento: La Ubicación,astalor,Main,main,W-020-002,false,el-primer-fragmento-la-ubicacion,20,2,west
-1220,2024-07-30,El Primer Fragmento: El Fragmento,astalor,Main,main,W-020-003,false,el-primer-fragmento-el-fragmento,20,3,west
-1221,2024-07-31,El Primer Fragmento: La Visión,astalor,Main,main,W-020-004,false,el-primer-fragmento-la-vision,20,4,west
-1222,2024-08-01,El Primer Fragmento: Los Cazadores,astalor,Main,main,W-020-005,false,el-primer-fragmento-los-cazadores,20,5,west
+1218,2024-07-28,El Primer Fragmento: La Búsqueda,frostgard,Main,main,W-020-001,false,el-primer-fragmento-la-busqueda,20,1,west
+1219,2024-07-29,El Primer Fragmento: La Ubicación,frostgard,Main,main,W-020-002,false,el-primer-fragmento-la-ubicacion,20,2,west
+1220,2024-07-30,El Primer Fragmento: El Fragmento,frostgard,Main,main,W-020-003,false,el-primer-fragmento-el-fragmento,20,3,west
+1221,2024-07-31,El Primer Fragmento: La Visión,frostgard,Main,main,W-020-004,false,el-primer-fragmento-la-vision,20,4,west
+1222,2024-08-01,El Primer Fragmento: Los Cazadores,frostgard,Main,main,W-020-005,false,el-primer-fragmento-los-cazadores,20,5,west
 1223,2024-08-02,El Jardín Negro: Las Tierras Fronterizas,wyrmreach,Main,main,D-021-001,false,el-jardin-negro-las-tierras-fronterizas,21,1,drusniel
 1224,2024-08-03,El Jardín Negro: Los Observadores,wyrmreach,Main,main,D-021-002,false,el-jardin-negro-los-observadores,21,2,drusniel
 1225,2024-08-04,El Jardín Negro: El Jardín,wyrmreach,Main,main,D-021-003,false,el-jardin-negro-el-jardin,21,3,drusniel
 1226,2024-08-05,El Jardín Negro: La Dama,wyrmreach,Main,main,D-021-004,false,el-jardin-negro-la-dama,21,4,drusniel
 1227,2024-08-06,El Jardín Negro: Los Términos,wyrmreach,Main,main,D-021-005,false,el-jardin-negro-los-terminos,21,5,drusniel
-1228,2024-08-07,La Fractura: La Presión,astalor,Main,main,W-022-001,false,la-fractura-la-presion,22,1,west
-1229,2024-08-08,La Fractura: El Desafío,astalor,Main,main,W-022-002,false,la-fractura-el-desafio,22,2,west
-1230,2024-08-09,La Fractura: El Precio de las Visiones,astalor,Main,main,W-022-003,false,la-fractura-el-precio-de-las-visiones,22,3,west
-1231,2024-08-10,La Fractura: La Casi Confesión,astalor,Main,main,W-022-004,false,la-fractura-la-casi-confesion,22,4,west
-1232,2024-08-11,La Fractura: El Compromiso,astalor,Main,main,W-022-005,false,la-fractura-el-compromiso,22,5,west
+1228,2024-08-07,La Fractura: La Presión,frostgard,Main,main,W-022-001,false,la-fractura-la-presion,22,1,west
+1229,2024-08-08,La Fractura: El Desafío,frostgard,Main,main,W-022-002,false,la-fractura-el-desafio,22,2,west
+1230,2024-08-09,La Fractura: El Precio de las Visiones,frostgard,Main,main,W-022-003,false,la-fractura-el-precio-de-las-visiones,22,3,west
+1231,2024-08-10,La Fractura: La Casi Confesión,frostgard,Main,main,W-022-004,false,la-fractura-la-casi-confesion,22,4,west
+1232,2024-08-11,La Fractura: El Compromiso,frostgard,Main,main,W-022-005,false,la-fractura-el-compromiso,22,5,west
