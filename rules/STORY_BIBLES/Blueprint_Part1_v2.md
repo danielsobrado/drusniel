@@ -41,7 +41,7 @@ Before writing ANY chapter, verify:
 - **Mind-reading practice**: RETCONNED as "empathy game"â€”pattern recognition, not telepathy. Makes Zaelar's fake feel wrong (too informed, not intimate enough)
 - **Szoravel**: Framed as mentor in Ch 7 (the lie). Drusniel doesn't know the artifact is FOR Szoravel.
 
-**THIS BLUEPRINT COVERS**: Global Chapters 1-7 (Drusniel only) + East Side Prologue (E0)
+**THIS BLUEPRINT COVERS**: Global Chapters 1-7 (Drusniel only) + West Side Bridge (Ch 8)
 
 ---
 
@@ -204,7 +204,7 @@ The dialogue tables show WHO speaks about WHAT for WHAT PURPOSE. The exact words
 
 ---
 
-# TIMELINE REFERENCE (Chapters 1-7 + E0)
+# TIMELINE REFERENCE (Chapters 1-7 + Ch 8)
 
 | Chapter | Timeline | Key Events |
 |---------|----------|------------|
@@ -215,7 +215,7 @@ The dialogue tables show WHO speaks about WHAT for WHAT PURPOSE. The exact words
 | **Ch 5** | Weeks 6-8 | House Vrinn named as enemy, tension peaks |
 | **Ch 6** | Week 9 | Family massacre, pristine dagger found |
 | **Ch 7** | Week 9-10 | Zaelar mission, artifact given, crossing to Wyrmreach |
-| **E0** | Week 9-10 (parallel) | Cube activates, followers appear |
+| **Ch 8** | Week 9-10 (parallel) | Cube activates, followers appear |
 
 **Total Drusniel Arc Ch 1-7**: Approximately 10 weeks (2.5 months)
 

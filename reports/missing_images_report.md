@@ -1,37 +1,37 @@
 # Missing Header Images Report
 
 **Total chapters with images:** 61
-**Total chapters missing images:** 56
+**Total chapters missing images:** 71
 
 ## Summary by Type
 
 | Type | Missing |
 |------|---------|
-| Main | 56 |
+| Main | 71 |
 
 ## Summary by Category
 
 | Category | Missing |
 |----------|---------|
-| astalor | 25 |
+| astalor | 35 |
 | stonehold | 5 |
 | umbrakor | 1 |
-| wyrmreach | 25 |
+| wyrmreach | 30 |
 
 ## Main Chapters Missing Images
 
 | Chapter | Title | Category | Storyline |
 |---------|-------|----------|-----------|
-| Ch 8.1 | The Road from Zuraldi: The Awakening | stonehold | west |
-| Ch 8.2 | The Road from Zuraldi: The Absence | stonehold | west |
-| Ch 8.3 | The Road from Zuraldi: The Nephew''s Doubt | stonehold | west |
-| Ch 8.4 | The Road from Zuraldi: The Followers | stonehold | west |
-| Ch 8.5 | The Road from Zuraldi: The Decision | stonehold | west |
 | Ch 6.4 | Voices in the Dark: The Decision | umbrakor | drusniel |
+| Ch 8.1 | The Road from Zuraldi: The Awakening | stonehold | west |
 | Ch 9.1 | The Nightmare Sea: The Black Water | wyrmreach | drusniel |
+| Ch 8.2 | The Road from Zuraldi: The Absence | stonehold | west |
 | Ch 9.2 | The Nightmare Sea: The Count | wyrmreach | drusniel |
+| Ch 8.3 | The Road from Zuraldi: The Nephew''s Doubt | stonehold | west |
 | Ch 9.3 | The Nightmare Sea: The Silence | wyrmreach | drusniel |
+| Ch 8.4 | The Road from Zuraldi: The Followers | stonehold | west |
 | Ch 9.4 | The Nightmare Sea: The Depths | wyrmreach | drusniel |
+| Ch 8.5 | The Road from Zuraldi: The Decision | stonehold | west |
 | Ch 9.5 | The Nightmare Sea: Black Sand | wyrmreach | drusniel |
 | Ch 10.1 | The Knot at Riverhold: The Veteran | astalor | west |
 | Ch 10.2 | The Knot at Riverhold: The Summons | astalor | west |
@@ -78,20 +78,35 @@
 | Ch 19.3 | Direction: The Gloomy Town | wyrmreach | drusniel |
 | Ch 19.4 | Direction: The Night | wyrmreach | drusniel |
 | Ch 19.5 | Direction: The Dawn | wyrmreach | drusniel |
+| Ch 20.1 | The First Fragment: The Search | astalor | west |
+| Ch 20.2 | The First Fragment: The Location | astalor | west |
+| Ch 20.3 | The First Fragment: The Fragment | astalor | west |
+| Ch 20.4 | The First Fragment: The Vision | astalor | west |
+| Ch 20.5 | The First Fragment: The Hunters | astalor | west |
+| Ch 21.1 | The Black Garden: The Borderlands | wyrmreach | drusniel |
+| Ch 21.2 | The Black Garden: The Observers | wyrmreach | drusniel |
+| Ch 21.3 | The Black Garden: The Garden | wyrmreach | drusniel |
+| Ch 21.4 | The Black Garden: The Lady | wyrmreach | drusniel |
+| Ch 21.5 | The Black Garden: The Terms | wyrmreach | drusniel |
+| Ch 22.1 | The Fracture: The Pressure | astalor | west |
+| Ch 22.2 | The Fracture: The Challenge | astalor | west |
+| Ch 22.3 | The Fracture: The Vision Toll | astalor | west |
+| Ch 22.4 | The Fracture: The Near-Confession | astalor | west |
+| Ch 22.5 | The Fracture: The Compromise | astalor | west |
 
 ## Full Paths (for reference)
 
 ```
-content\posts\en\stonehold\the-road-from-zuraldi-the-awakening
-content\posts\en\stonehold\the-road-from-zuraldi-the-absence
-content\posts\en\stonehold\the-road-from-zuraldi-the-nephews-doubt
-content\posts\en\stonehold\the-road-from-zuraldi-the-followers
-content\posts\en\stonehold\the-road-from-zuraldi-the-decision
 content\posts\en\umbrakor\voices-in-the-dark-the-decision
+content\posts\en\stonehold\the-road-from-zuraldi-the-awakening
 content\posts\en\wyrmreach\the-nightmare-sea-the-black-water
+content\posts\en\stonehold\the-road-from-zuraldi-the-absence
 content\posts\en\wyrmreach\the-nightmare-sea-the-count
+content\posts\en\stonehold\the-road-from-zuraldi-the-nephews-doubt
 content\posts\en\wyrmreach\the-nightmare-sea-the-silence
+content\posts\en\stonehold\the-road-from-zuraldi-the-followers
 content\posts\en\wyrmreach\the-nightmare-sea-the-depths
+content\posts\en\stonehold\the-road-from-zuraldi-the-decision
 content\posts\en\wyrmreach\the-nightmare-sea-black-sand
 content\posts\en\astalor\the-knot-at-riverhold-the-veteran
 content\posts\en\astalor\the-knot-at-riverhold-the-summons
@@ -138,4 +153,19 @@ content\posts\en\wyrmreach\direction-information
 content\posts\en\wyrmreach\direction-the-gloomy-town
 content\posts\en\wyrmreach\direction-the-night
 content\posts\en\wyrmreach\direction-the-dawn
+content\posts\en\astalor\the-first-fragment-the-search
+content\posts\en\astalor\the-first-fragment-the-location
+content\posts\en\astalor\the-first-fragment-the-fragment
+content\posts\en\astalor\the-first-fragment-the-vision
+content\posts\en\astalor\the-first-fragment-the-hunters
+content\posts\en\wyrmreach\the-black-garden-the-borderlands
+content\posts\en\wyrmreach\the-black-garden-the-observers
+content\posts\en\wyrmreach\the-black-garden-the-garden
+content\posts\en\wyrmreach\the-black-garden-the-lady
+content\posts\en\wyrmreach\the-black-garden-the-terms
+content\posts\en\astalor\the-fracture-the-pressure
+content\posts\en\astalor\the-fracture-the-challenge
+content\posts\en\astalor\the-fracture-the-vision-toll
+content\posts\en\astalor\the-fracture-the-near-confession
+content\posts\en\astalor\the-fracture-the-compromise
 ```

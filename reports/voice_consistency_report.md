@@ -1,27 +1,23 @@
 # Voice Consistency Report
 
-- Generated: 2026-02-06 01:12 UTC
-- Scanned: 234 posts (`reports/en_posts.csv` + `reports/es_posts.csv`)
+- Generated: 2026-02-07 07:48 UTC
+- Scanned: 264 posts (`reports/en_posts.csv` + `reports/es_posts.csv`)
 - Rules used: `rules/GUIDELINES.md`, `rules/CHARACTERS/characters_complete.md`, `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`, `rules/CHARACTERS/ZAELAR_and_SZORAVEL.md`
 
 ## Summary
 
-- High severity: 10
+- High severity: 6
 - Medium severity: 26
 - Errors: 0
 
 ## High Severity Findings
 
 - `site\content\posts\en\contian\arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy\index.mdx:9` — L002 design intent (`en` / `lore` / `arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy`) — built to
-- `site\content\posts\en\wyrmreach\the-nightmare-sea-the-depths\index.mdx:33` — Drusniel tic: heartbeat counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-nightmare-sea-the-depths`) — counted his heartbeats
-- `site\content\posts\en\wyrmreach\the-kind-man-the-strange-land\index.mdx:31` — Drusniel tic: heartbeat counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-kind-man-the-strange-land`) — counting again—not heartbeats
-- `site\content\posts\en\astalor\the-grass-where-she-fell-the-aftermath\index.mdx:25` — Drusniel tic: heartbeat counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-grass-where-she-fell-the-aftermath`) — counting heartbeats
-- `site\content\posts\en\wyrmreach\the-one-who-walks-free-the-cage\index.mdx:27` — Drusniel tic: breath counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-one-who-walks-free-the-cage`) — counted the rhythm of the wagon wheels, counted his own breaths
-- `site\content\posts\en\wyrmreach\direction-the-night\index.mdx:15` — Drusniel tic: breath counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `direction-the-night`) — counting under his breath
-- `site\content\posts\es\wyrmreach\el-mar-de-pesadillas-las-profundidades\index.mdx:31` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `el-mar-de-pesadillas-las-profundidades`) — contó sus latidos
-- `site\content\posts\es\wyrmreach\el-mar-de-pesadillas-las-profundidades\index.mdx:55` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `el-mar-de-pesadillas-las-profundidades`) — contar sus latidos
-- `site\content\posts\es\wyrmreach\el-hombre-amable-la-tierra-extrana\index.mdx:31` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `el-hombre-amable-la-tierra-extrana`) — contando otra vez—no latidos
-- `site\content\posts\es\astalor\la-hierba-donde-cayo-el-despertar\index.mdx:25` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `la-hierba-donde-cayo-el-despertar`) — contando latidos
+- `site\content\posts\en\astalor\the-grass-where-she-fell-the-aftermath\index.mdx:27` — Drusniel tic: heartbeat counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-grass-where-she-fell-the-aftermath`) — counting heartbeats
+- `site\content\posts\en\wyrmreach\direction-the-night\index.mdx:17` — Drusniel tic: breath counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `direction-the-night`) — counting under his breath
+- `site\content\posts\en\astalor\the-first-fragment-the-hunters\index.mdx:11` — Drusniel tic: heartbeat counting (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`en` / `main` / `the-first-fragment-the-hunters`) — counted heartbeats
+- `site\content\posts\es\astalor\la-hierba-donde-cayo-el-despertar\index.mdx:27` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `la-hierba-donde-cayo-el-despertar`) — contando latidos
+- `site\content\posts\es\astalor\el-primer-fragmento-los-cazadores\index.mdx:11` — Drusniel tic: counting heartbeats (es) (review vs `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`) (`es` / `main` / `el-primer-fragmento-los-cazadores`) — contó latidos
 
 ## Medium Severity Findings
 
@@ -30,26 +26,26 @@
 - `site\content\posts\en\astalor\the-regions-of-astalor\index.mdx:67` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `the-regions-of-astalor`)
 - `site\content\posts\en\contian\arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy\index.mdx:269` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `arcane-echelons-the-contian-theocracy-quest-for-magical-supremacy`)
 - `site\content\posts\en\lumeshire\shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire\index.mdx:129` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `shields-up-the-resilient-defense-of-the-lumeshirean-divine-empire`)
-- `site\content\posts\en\stonehold\forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos\index.mdx:137` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos`)
+- `site\content\posts\en\stonehold\forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos\index.mdx:139` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `forge-and-fire-the-mountain-kingdom-of-stonehold-stand-against-chaos`)
 - `site\content\posts\en\lumeshire\the-zuraldarr\index.mdx:137` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `the-zuraldarr`)
 - `site\content\posts\en\wyrmreach\dark-depths-the-wymreach-dominion\index.mdx:191` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `dark-depths-the-wymreach-dominion`)
 - `site\content\posts\en\elenoria\eternal-woods-the-kingdom-of-elenoria-dance-with-nature\index.mdx:77` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `eternal-woods-the-kingdom-of-elenoria-dance-with-nature`)
 - `site\content\posts\en\frostgard\ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard\index.mdx:77` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `ice-and-Iron-the-unyielding-warriors-of-the-empire-of-frostgard`)
-- `site\content\posts\en\grukmar\clash-of-clans-the-unruly-might-of-the-grukmar-tribes\index.mdx:86` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `clash-of-clans-the-unruly-might-of-the-grukmar-tribes`)
+- `site\content\posts\en\grukmar\clash-of-clans-the-unruly-might-of-the-grukmar-tribes\index.mdx:85` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `clash-of-clans-the-unruly-might-of-the-grukmar-tribes`)
 - `site\content\posts\en\umbrakor\shadows-reign-the-umbrakor-dominions-pact-with-darkness\index.mdx:75` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`en` / `lore` / `shadows-reign-the-umbrakor-dominions-pact-with-darkness`)
-- `site\content\posts\en\astalor\the-grass-where-she-fell-the-disorientation\index.mdx:39` — omniscient: none of them knew (`en` / `main` / `the-grass-where-she-fell-the-disorientation`) — None of them knew
-- `site\content\posts\es\astalor\la-magia-en-astalor\index.mdx:54` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `la-magia-en-astalor`)
+- `site\content\posts\en\astalor\the-grass-where-she-fell-the-disorientation\index.mdx:41` — omniscient: none of them knew (`en` / `main` / `the-grass-where-she-fell-the-disorientation`) — None of them knew
 - `site\content\posts\es\astalor\la-creacion-de-astalor\index.mdx:149` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `la-creacion-de-astalor`)
-- `site\content\posts\es\astalor\descubriendo-las-regiones-de-astalor\index.mdx:67` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `descubriendo-las-regiones-de-astalor`)
 - `site\content\posts\es\contian\echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica\index.mdx:269` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `echelones-arcanos-la-busqueda-de-la-teocracia-contiana-por-la-supremacia-magica`)
 - `site\content\posts\es\lumeshire\escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire\index.mdx:129` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `escudos-arriba-la-defensa-resiliente-del-imperio-divino-de-lumeshire`)
-- `site\content\posts\es\stonehold\fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos\index.mdx:147` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos`)
-- `site\content\posts\es\lumeshire\the-zuraldarr\index.mdx:137` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `the-zuraldarr`)
+- `site\content\posts\es\stonehold\fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos\index.mdx:149` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `fragua-y-fuego-la-postura-del-reino-montanoso-de-stonehold-contra-el-caos`)
 - `site\content\posts\es\wyrmreach\profundidades-oscuras-el-dominio-wymreach\index.mdx:191` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `profundidades-oscuras-el-dominio-wymreach`)
 - `site\content\posts\es\elenoria\bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza\index.mdx:77` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `bosques-eternos-la-danza-del-reino-de-elenoria-con-la-naturaleza`)
 - `site\content\posts\es\frostgard\hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard\index.mdx:79` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `hielo-y-hierro-los-guerreros-inquebrantables-del-imperio-de-frostgard`)
-- `site\content\posts\es\grukmar\choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar\index.mdx:88` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar`)
+- `site\content\posts\es\grukmar\choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar\index.mdx:87` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `choque-de-clanes-el-poder-indomito-de-las-tribus-grukmar`)
 - `site\content\posts\es\umbrakor\el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad\index.mdx:75` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `el-reinado-de-las-sombras-el-Pacto-del-dominio-Umbrakor-con-la-oscuridad`)
+- `site\content\posts\es\astalor\la-magia-en-astalor\index.mdx:54` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `la-magia-en-astalor`)
+- `site\content\posts\es\astalor\descubriendo-las-regiones-de-astalor\index.mdx:67` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `descubriendo-las-regiones-de-astalor`)
+- `site\content\posts\es\lumeshire\the-zuraldarr\index.mdx:137` — Lore/Prequel ending may be too clean (no uncertainty marker detected in final paragraph). (`es` / `lore` / `the-zuraldarr`)
 - `rules\CHARACTERS\ZAELAR_and_SZORAVEL.md:1` — Zaelar dialogue contains procedural/handler markers (risk of Szoravel voice bleed). (`en` / `` / ``)
 
 ## Errors
@@ -100,8 +96,8 @@
 ## Per-POV Stats (heuristic)
 
 - **Aldric** (`en`) — posts: 5, avg dialogue words: 10.8, qualifier rate: 0.0039
-- **Drusniel** (`en`) — posts: 91, avg dialogue words: 8.4, qualifier rate: 0.0041
-  - Stone-tracing hits per post (count): min=0, max=2, avg=0.11
+- **Drusniel** (`en`) — posts: 106, avg dialogue words: 8.6, qualifier rate: 0.0042
+  - Stone-tracing hits per post (count): min=0, max=2, avg=0.10
   - Drusniel tic lock reference: `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`
 - **Faelyn** (`en`) — posts: 1, avg dialogue words: 12.0, qualifier rate: 0.0000
 - **Groktar** (`en`) — posts: 1, avg dialogue words: 8.5, qualifier rate: 0.0000
@@ -115,7 +111,7 @@
 - **Vorogarth** (`en`) — posts: 1, avg dialogue words: 7.1, qualifier rate: 0.0161
 - **Ymirgard** (`en`) — posts: 1, avg dialogue words: 7.9, qualifier rate: 0.0070
 - **Aldric** (`es`) — posts: 5, avg dialogue words: 23.7, qualifier rate: 0.0027
-- **Drusniel** (`es`) — posts: 91, avg dialogue words: 19.2, qualifier rate: 0.0021
+- **Drusniel** (`es`) — posts: 106, avg dialogue words: 19.2, qualifier rate: 0.0022
   - Stone-tracing hits per post (count): min=0, max=2, avg=0.12
   - Drusniel tic lock reference: `rules/CHARACTERS/DRUSNIEL_BEHAVIORAL_TICS.md`
 - **Faelyn** (`es`) — posts: 1, avg dialogue words: 16.9, qualifier rate: 0.0000
