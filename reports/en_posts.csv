@@ -16,14 +16,9 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 115,2024-04-16,The Scream,lumeshire,Prologue,prologue,P-003,false,whispers-at-the-frontier-a-novice-guards-glimpse-into-grukmar,null,null,prologue
 116,2024-04-17,Tavern Talk,lumeshire,Prologue,prologue,P-004,false,whispers-of-the-past-a-tenderfoot-patrols-brush-with-grukmars-legends,null,null,prologue
 117,2024-04-18,Border Sign,lumeshire,Prologue,prologue,P-005,false,a-captains-counsel-the-quest-for-goblin-tracks-beyond-grukmars-veil,null,null,prologue
-117,2024-04-18,The Road from Zuraldi: The Awakening,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-awakening,8,1,west
 118,2024-04-19,No Tracks,lumeshire,Prologue,prologue,P-006,false,morning-tidings-goblin-threats-at-grukmars-edge,null,null,prologue
-118,2024-04-19,The Road from Zuraldi: The Absence,stonehold,Main,main,W-008-002,false,the-road-from-zuraldi-the-absence,8,2,west
 119,2024-04-20,The Screams in the Mist,grukmar,Prologue,prologue,P-007,false,the-screams-in-the-mist,null,null,prologue
-119,2024-04-20,The Road from Zuraldi: The Nephew''s Doubt,stonehold,Main,main,W-008-003,false,the-road-from-zuraldi-the-nephews-doubt,8,3,west
 120,2024-04-21,March of Despair,grukmar,Prologue,prologue,P-008,false,march-of-despair,null,null,prologue
-120,2024-04-21,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-004,false,the-road-from-zuraldi-the-followers,8,4,west
-121,2024-04-22,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-005,false,the-road-from-zuraldi-the-decision,8,5,west
 126,2024-04-27,The Sacred Chamber,umbrakor,Main,main,UMB-M-001,true,the-sacred-chamber,1,1,drusniel
 127,2024-04-28,Swords and Shadows,umbrakor,Main,main,UMB-M-002,false,swords-shadows,2,1,drusniel
 128,2024-04-29,The Trial: The Test of Venemora,umbrakor,Main,main,UMB-M-003,false,the-trial-the-test-of-venemora,3,1,drusniel
@@ -39,11 +34,11 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 138,2024-05-09,The Surface Mage: The First Lesson,umbrakor,Main,main,UMB-M-013,false,the-surface-mage-the-first-lesson,7,3,drusniel
 139,2024-05-10,The Surface Mage: The Wyrmreach Mention,umbrakor,Main,main,UMB-M-014,false,the-surface-mage-the-wyrmreach-mention,7,4,drusniel
 140,2024-05-11,The Surface Mage: The Return,umbrakor,Main,main,UMB-M-015,false,the-surface-mage-the-return,7,5,drusniel
-141,2024-05-12,Forbidden Knowledge: The Old Texts,umbrakor,Main,main,UMB-M-016,false,forbidden-knowledge-the-old-texts,8,1,drusniel
-142,2024-05-13,Forbidden Knowledge: The Growing Power,umbrakor,Main,main,UMB-M-017,false,forbidden-knowledge-the-growing-power,8,2,drusniel
-143,2024-05-14,Forbidden Knowledge: The Warning Signs,umbrakor,Main,main,UMB-M-018,false,forbidden-knowledge-the-warning-signs,8,3,drusniel
-144,2024-05-15,Forbidden Knowledge: The Distant Land,umbrakor,Main,main,UMB-M-019,false,forbidden-knowledge-the-distant-land,8,4,drusniel
-145,2024-05-16,Forbidden Knowledge: The Hesitation,umbrakor,Main,main,UMB-M-020,false,forbidden-knowledge-the-hesitation,8,5,drusniel
+141,2024-05-12,Forbidden Knowledge: The Old Texts,umbrakor,Main,main,UMB-M-016,false,forbidden-knowledge-the-old-texts,7,6,drusniel
+142,2024-05-13,Forbidden Knowledge: The Growing Power,umbrakor,Main,main,UMB-M-017,false,forbidden-knowledge-the-growing-power,7,7,drusniel
+143,2024-05-14,Forbidden Knowledge: The Warning Signs,umbrakor,Main,main,UMB-M-018,false,forbidden-knowledge-the-warning-signs,7,8,drusniel
+144,2024-05-15,Forbidden Knowledge: The Distant Land,umbrakor,Main,main,UMB-M-019,false,forbidden-knowledge-the-distant-land,7,9,drusniel
+145,2024-05-16,Forbidden Knowledge: The Hesitation,umbrakor,Main,main,UMB-M-020,false,forbidden-knowledge-the-hesitation,7,10,drusniel
 146,2024-05-17,The House Rivalry: The Gathering Storm,umbrakor,Main,main,UMB-M-021,false,the-house-rivalry-the-gathering-storm,9,1,drusniel
 147,2024-05-18,The House Rivalry: The Fracture,umbrakor,Main,main,UMB-M-022,false,the-house-rivalry-the-fracture,9,2,drusniel
 148,2024-05-19,The House Rivalry: The Secret Meeting,umbrakor,Main,main,UMB-M-023,false,the-house-rivalry-the-secret-meeting,9,3,drusniel
@@ -60,10 +55,15 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 159,2024-05-30,The Package: The Artifact,umbrakor,Main,main,UMB-M-034,false,the-package-the-artifact,11,3,drusniel
 160,2024-05-31,The Package: The Crossing,umbrakor,Main,main,UMB-M-035,false,the-package-the-crossing,11,4,drusniel
 161,2024-06-01,The Package: The New World,umbrakor,Main,main,UMB-M-036,false,the-package-the-new-world,11,5,drusniel
+162,2024-06-02,The Road from Zuraldi: The Awakening,stonehold,Main,main,W-008-001,false,the-road-from-zuraldi-the-awakening,8,1,west
 162,2024-06-02,The Nightmare Sea: The Black Water,wyrmreach,Main,main,WYR-M-001,false,the-nightmare-sea-the-black-water,9,1,drusniel
+163,2024-06-03,The Road from Zuraldi: The Absence,stonehold,Main,main,W-008-002,false,the-road-from-zuraldi-the-absence,8,2,west
 163,2024-06-03,The Nightmare Sea: The Count,wyrmreach,Main,main,WYR-M-002,false,the-nightmare-sea-the-count,9,2,drusniel
+164,2024-06-04,The Road from Zuraldi: The Nephew''s Doubt,stonehold,Main,main,W-008-003,false,the-road-from-zuraldi-the-nephews-doubt,8,3,west
 164,2024-06-04,The Nightmare Sea: The Silence,wyrmreach,Main,main,WYR-M-003,false,the-nightmare-sea-the-silence,9,3,drusniel
+165,2024-06-05,The Road from Zuraldi: The Followers,stonehold,Main,main,W-008-004,false,the-road-from-zuraldi-the-followers,8,4,west
 165,2024-06-05,The Nightmare Sea: The Depths,wyrmreach,Main,main,WYR-M-004,false,the-nightmare-sea-the-depths,9,4,drusniel
+166,2024-06-06,The Road from Zuraldi: The Decision,stonehold,Main,main,W-008-005,false,the-road-from-zuraldi-the-decision,8,5,west
 166,2024-06-06,The Nightmare Sea: Black Sand,wyrmreach,Main,main,WYR-M-005,false,the-nightmare-sea-black-sand,9,5,drusniel
 167,2024-06-07,The Knot at Riverhold: The Veteran,astalor,Main,main,AST-M-001,false,the-knot-at-riverhold-the-veteran,10,1,west
 168,2024-06-08,The Knot at Riverhold: The Summons,astalor,Main,main,AST-M-002,false,the-knot-at-riverhold-the-summons,10,2,west

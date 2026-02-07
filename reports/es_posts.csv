@@ -16,14 +16,9 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 115,2024-04-16,El Grito,lumeshire,Prologue,prologue,P-003,false,la-mirada-de-un-guardia-a-grukmar,null,null,prologue
 116,2024-04-17,Charla de Taberna,lumeshire,Prologue,prologue,P-004,false,susurros-del-pasado-el-roce-de-una-patrulla-de-novatos-con-las-leyendas-de-grukmar,null,null,prologue
 117,2024-04-18,Señales en la Frontera,lumeshire,Prologue,prologue,P-005,false,amenazas-goblin-en-el-borde-de-grukmar,null,null,prologue
-117,2024-04-18,El Camino de Zuraldi: El Despertar,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-el-despertar,8,1,west
 118,2024-04-19,Sin Rastros,lumeshire,Prologue,prologue,P-006,false,el-consejo-de-un-capitan-la-busqueda-de-goblins-se-extiende-mas-alla-del-borde-de-grukmar,null,null,prologue
-118,2024-04-19,El Camino de Zuraldi: La Ausencia,stonehold,Main,main,W-008-002,false,el-camino-de-zuraldi-la-ausencia,8,2,west
 119,2024-04-20,Gritos en la niebla,grukmar,Prologue,prologue,P-007,false,gritos-en-la-niebla,null,null,prologue
-119,2024-04-20,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-003,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,3,west
 120,2024-04-21,La marcha de la Desesperación,grukmar,Prologue,prologue,P-008,false,la-marcha-de-la-desesperacion,null,null,prologue
-120,2024-04-21,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-004,false,el-camino-de-zuraldi-los-seguidores,8,4,west
-121,2024-04-22,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-005,false,el-camino-de-zuraldi-la-decision,8,5,west
 126,2024-04-27,La Cámara Sagrada,umbrakor,Main,main,UMB-M-001,true,la-camara-sagrada,1,1,drusniel
 127,2024-04-28,Espadas y Sombras,umbrakor,Main,main,UMB-M-002,false,espadas-sombras,2,1,drusniel
 128,2024-04-29,La Prueba: La Prueba de Venemora,umbrakor,Main,main,UMB-M-003,false,la-prueba-la-prueba-de-venemora,3,1,drusniel
@@ -39,11 +34,11 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 138,2024-05-09,El Mago de Superficie: La Primera Lección,umbrakor,Main,main,UMB-M-013,false,el-mago-de-superficie-la-primera-leccion,7,3,drusniel
 139,2024-05-10,El Mago de Superficie: La Mención de Wyrmreach,umbrakor,Main,main,UMB-M-014,false,el-mago-de-superficie-la-mencion-de-wyrmreach,7,4,drusniel
 140,2024-05-11,El Mago de Superficie: El Regreso,umbrakor,Main,main,UMB-M-015,false,el-mago-de-superficie-el-regreso,7,5,drusniel
-141,2024-05-12,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,Main,main,UMB-M-016,false,conocimiento-prohibido-los-textos-antiguos,8,1,drusniel
-142,2024-05-13,Conocimiento Prohibido: El Poder Creciente,umbrakor,Main,main,UMB-M-017,false,conocimiento-prohibido-el-poder-creciente,8,2,drusniel
-143,2024-05-14,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,Main,main,UMB-M-018,false,conocimiento-prohibido-las-senales-de-advertencia,8,3,drusniel
-144,2024-05-15,Conocimiento Prohibido: La Tierra Distante,umbrakor,Main,main,UMB-M-019,false,conocimiento-prohibido-la-tierra-distante,8,4,drusniel
-145,2024-05-16,Conocimiento Prohibido: La Duda,umbrakor,Main,main,UMB-M-020,false,conocimiento-prohibido-la-duda,8,5,drusniel
+141,2024-05-12,Conocimiento Prohibido: Los Textos Antiguos,umbrakor,Main,main,UMB-M-016,false,conocimiento-prohibido-los-textos-antiguos,7,6,drusniel
+142,2024-05-13,Conocimiento Prohibido: El Poder Creciente,umbrakor,Main,main,UMB-M-017,false,conocimiento-prohibido-el-poder-creciente,7,7,drusniel
+143,2024-05-14,Conocimiento Prohibido: Las Señales de Advertencia,umbrakor,Main,main,UMB-M-018,false,conocimiento-prohibido-las-senales-de-advertencia,7,8,drusniel
+144,2024-05-15,Conocimiento Prohibido: La Tierra Distante,umbrakor,Main,main,UMB-M-019,false,conocimiento-prohibido-la-tierra-distante,7,9,drusniel
+145,2024-05-16,Conocimiento Prohibido: La Duda,umbrakor,Main,main,UMB-M-020,false,conocimiento-prohibido-la-duda,7,10,drusniel
 146,2024-05-17,La Rivalidad de la Casa: La Tormenta que se Avecina,umbrakor,Main,main,UMB-M-021,false,la-rivalidad-de-la-casa-la-tormenta-que-se-avecina,9,1,drusniel
 147,2024-05-18,La Rivalidad de la Casa: La Grieta,umbrakor,Main,main,UMB-M-022,false,la-rivalidad-de-la-casa-la-grieta,9,2,drusniel
 148,2024-05-19,La Rivalidad de la Casa: La Reunión Secreta,umbrakor,Main,main,UMB-M-023,false,la-rivalidad-de-la-casa-la-reunion-secreta,9,3,drusniel
@@ -131,3 +126,8 @@ order,date,title,category,type,canon_phase,canon_sequence,featured,path,chapter,
 230,2024-08-09,La Fractura: El Precio de las Visiones,astalor,Main,main,AST-M-033,false,la-fractura-el-precio-de-las-visiones,22,3,west
 231,2024-08-10,La Fractura: La Casi Confesión,astalor,Main,main,AST-M-034,false,la-fractura-la-casi-confesion,22,4,west
 232,2024-08-11,La Fractura: El Compromiso,astalor,Main,main,AST-M-035,false,la-fractura-el-compromiso,22,5,west
+10162,2024-06-02,El Camino de Zuraldi: El Despertar,stonehold,Main,main,W-008-001,false,el-camino-de-zuraldi-el-despertar,8,1,west
+10163,2024-06-03,El Camino de Zuraldi: La Ausencia,stonehold,Main,main,W-008-002,false,el-camino-de-zuraldi-la-ausencia,8,2,west
+10164,2024-06-04,El Camino de Zuraldi: La Duda del Sobrino,stonehold,Main,main,W-008-003,false,el-camino-de-zuraldi-la-duda-del-sobrino,8,3,west
+10165,2024-06-05,El Camino de Zuraldi: Los Seguidores,stonehold,Main,main,W-008-004,false,el-camino-de-zuraldi-los-seguidores,8,4,west
+10166,2024-06-06,El Camino de Zuraldi: La Decisión,stonehold,Main,main,W-008-005,false,el-camino-de-zuraldi-la-decision,8,5,west
