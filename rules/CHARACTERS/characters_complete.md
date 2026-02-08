@@ -16,6 +16,60 @@ Before writing any character, verify these constraints:
 
 ---
 
+## MORAL FRAME — ABERCROMBIE MODE (LOCKED)
+
+Characters are not good or evil.
+They are consistent.
+
+Each character must have:
+- A clear **interest** (what they want preserved or gained)
+- A **moral boundary** (what they refuse to do)
+- A **rationalization** (how they live with the cost)
+
+No character acts "for the greater good."
+They act for *their* good, which sometimes overlaps with others.
+
+**If a character ever acts "because it's right," rewrite.**
+
+### Abercrombie Scene Test (Run Silently Per Scene)
+
+1. What does this character want RIGHT NOW?
+2. What cost are they accepting without admitting it?
+3. What boundary do they refuse to cross?
+4. Who loses because of this choice?
+
+**If any answer is "the world," the scene is lying.**
+
+### Forbidden Character Language (HARD BAN)
+
+Delete or rewrite any character description or dialogue containing:
+- "Wants to do the right thing"
+- "Struggles with morality"
+- "Feels torn between good and evil"
+- "Ultimately noble"
+
+Replace with:
+- "Accepts X cost"
+- "Refuses Y"
+- "Justifies Z"
+
+**Abercrombie characters don't struggle with morality. They struggle with consequences.**
+
+---
+
+## POWER PHILOSOPHY LOCK (LOCKED)
+
+Every major character believes they deserve power for a different reason:
+
+- **Drusniel** → because he pays the cost himself
+- **Szoravel** → because he understands it
+- **Nyxara** → because she operates at scale
+- **The Voice** → because it executes commitment
+
+The conflict exists because all four are correct in incompatible ways.
+
+---
+
 # WYRMREACH STORYLINE
 
 ---
@@ -26,15 +80,51 @@ Before writing any character, verify these constraints:
 Male drow (dark elf), early twenties by human equivalent. Obsidian-dark skin with grey undertones, white hair to shoulder length, violet-red eyes that glow faintly in darkness. Lean, athletic build from assassin training—not heavily muscled but coiled with lethal efficiency. Average drow height (5'10"). Long, precise fingers trained to kill silently. When using magic, faint blue-white energy flickers around his fingertips.
 
 ### Role in Story
-**Protagonist** — a failed trial candidate turned unwilling instrument of prophecy. Drives the Wyrmreach storyline through choices that culminate in catastrophe.
+**Protagonist** — Guardian, Instrument, Liability. A failed trial candidate who becomes the compatible interface for barrier renewal. Drives the Wyrmreach storyline through choices that culminate in catastrophe.
+
+### Archetype
+**The Man Who Refuses to Owe Power to Anyone.**
+Think Raistlin Majere without the self-pity.
 
 ### Personality Profiles
 - **Myers-Briggs:** INTJ (The Architect) — Strategic thinker, independent, values competence, frustrated by his own limitations, plans obsessively
 - **Enneagram:** Type 3w4 (The Achiever with Individualist wing) — Driven by need to prove himself, deeply afraid of being worthless, desires to be exceptional
 - **Clifton Strengths:** Strategic, Learner, Achiever, Self-Assurance, Focus
 
-### Core Motivation
-**To prove he is not mediocre.** Power is the answer he keeps reaching for, even when it costs him. His obsessive pursuit of magical power isn't about ruling or conquering; it's about silencing the voice that tells him he's not enough.
+### Abercrombie Moral Sheet
+
+**Interest:**
+- Power that comes from himself, not patrons
+- Preserve the Barrier as an institution, not a structure
+- Preserve the Drow's guardianship and earned status
+- Ensure sacrifice continues to mean something
+
+**Moral Boundary:**
+- Will not kneel for power
+- Will not accept protection that weakens autonomy
+- Will not abandon long-term duty for short-term mercy
+- Will not frame corruption as innocence
+
+**Rationalization:**
+> "If I can do it myself, I don't owe anyone the outcome."
+> "Someone always pays. Better it be those who chose the duty."
+
+**Self-Image:** Not heroic. Necessary. Replaceable, eventually.
+
+**How Others Misread Him:** As rigid. As indoctrinated. As unable to imagine alternatives.
+
+**Failure Mode (LOCKED):**
+- Confuses urgency with inevitability
+- Accepts acceleration as proof of correctness
+- Mistakes self-reliance for independence
+
+This is why the Voice works on him. Not because he is weak — because he is committed. Systems can weaponize belief. Self-forged power can still be used.
+
+### Core Drive (CRITICAL)
+Drusniel does not seek power to rule. He seeks power to remove dependency. He hates being chosen, being spared, being protected. He wants to stand where others fall, to survive without excuses, to be the reason, not the result.
+
+### Relationship to the Barrier
+He believes in the Barrier because it is earned. The Drow's status is legitimate because they paid. Power without cost disgusts him.
 
 ### Background (Nexus Alignment)
 Born to a mid-ranking drow house in Umbra'kor, Drusniel grew up in his sister Shyntara's shadow. His latent **air/water magical potential** (extremely rare among drow) caught Zaelar's attention. Zaelar secretly suppressed Drusniel's development for years, sabotaged his Duskborn Trials, manipulated him through fake mental messages from Annariel, and orchestrated his family's murder while framing House Vrinn.
@@ -88,6 +178,13 @@ Female drow, late twenties by human equivalent. Tall (5'11"), efficient killer's
 - **Enneagram:** Type 6w5 (The Loyalist with Investigator wing) — Security-oriented, protective, suspicious of outsiders, prepared for worst-case scenarios
 - **Clifton Strengths:** Responsibility, Deliberative, Relator, Consistency, Discipline
 
+### Abercrombie Moral Sheet
+
+**Interest:** Family survival over ideology. Get Drusniel back alive — even from himself.
+**Moral Boundary:** Will not sacrifice kin for abstract duty. Will not glorify suffering.
+**Rationalization:** "Someone has to live after the principles are done."
+**Failure Mode:** Underestimates how little choice remains.
+
 ### Core Motivation
 **To get her brother back alive—even from himself.** She doesn't want to save the world; she wants to save Drusniel. The world is secondary.
 
@@ -122,12 +219,39 @@ Economical, direct, cuts to the point. Uses silence as a weapon. When emotional,
 Male drow, appears middle-aged (actually centuries old). Gaunt, skeletal elegance. Long white hair with occasional bone-charms. Eyes shift violet to pale silver. Tall, thin, deliberate. Wears dark robes. Tower life leaves him subtly paler than other drow.
 
 ### Role in Story
-**Main Antagonist / Puppet Master** — sabotages Drusniel's trial, forges the fake mental link, orchestrates the massacre, and launches Drusniel into Wyrmreach carrying **Erase (The Null)** as a phase plate.
+**Main Antagonist / Recruiter / Sculptor** — sabotages Drusniel's trial, forges the fake mental link, orchestrates the massacre, and launches Drusniel into Wyrmreach carrying **Erase (The Null)** as a phase plate.
+
+### Archetype
+**The Magelord's Shadow.** Raistlin's ambition if Raistlin had centuries to plan and no audience to perform for.
 
 ### Personality Profiles
 - **Myers-Briggs:** INTJ (The Architect) — Long-term strategist, emotionally distant, views people as variables
 - **Enneagram:** Type 5w6 (The Investigator with Loyalist wing) — Hoards knowledge, paranoid about losing control, seeks power through understanding
 - **Clifton Strengths:** Strategic, Futuristic, Analytical, Self-Assurance, Intellection
+
+### Abercrombie Moral Sheet
+
+**Interest:**
+- Transcendence through system control
+- Exploit the Nexus governance machine for immortality and power beyond mortal limits
+- Ensure Drusniel functions as the compatible interface he needs
+
+**Moral Boundary:**
+- Will not act impulsively — everything must serve the centuries-long plan
+- Will not waste a tool he can still use
+- Will not admit that his certainty is a performance
+
+**Rationalization:**
+> "I gave him purpose. That's more than his house ever did."
+
+**Self-Image:** The patient architect. The only one who sees the full board.
+
+**How Others Misread Him:** As emotionally distant. As simply cruel. As a villain with a plan.
+
+**Failure Mode (LOCKED):**
+- Believes manipulation is the same as understanding
+- Treats emotional wounds as leverage, not as variables that mutate
+- Cannot conceive that a tool might develop autonomy his model didn't predict
 
 ### Core Motivation (Updated)
 **Transcendence through system control.** He seeks to exploit the Nexus governance machine, not merely "collect a relic." Everything serves a centuries-long plan to achieve immortality and power beyond mortal limits.
@@ -264,7 +388,7 @@ Fast, nervous, angle-finding. Avoids naming larger truths he can't prove. When d
 
 ---
 
-## Nyxara (Secondary Antagonist) — DRAGON REVEAL MUST BE SURPRISE
+## Nyxara — DRAGON REVEAL MUST BE SURPRISE
 
 ### Physical Description (Human Form — No Hints)
 A commanding warlord in dark, practical armor. Tall, poised, disciplined. Beauty exists, but it reads as **status and danger**, not "otherworldly." Her eyes are striking but normal; no unusual pupils, glow, scale metaphors, or "mask slipping."
@@ -277,21 +401,55 @@ Her presence is intimidating because:
 **True form:** Revealed only at the climax — a black dragon of immense size.
 
 ### Role in Story
-**Secondary Antagonist / Manipulator** — recruits Drusniel and uses his rise for her own objectives. Her authority appears political until the reveal.
+**Ruler, Conqueror, Stabilizer** — Nyxara is not "hiding" her dragon nature. She is temporarily operating below her preferred scale. Her authority appears political until the reveal.
+
+### Archetype
+**A Dragon Pretending Mortals Think Big.**
+She is not disguised. She is downsized temporarily.
 
 ### Personality Profiles
 - **Myers-Briggs:** ENTJ (The Commander) — Strategic, dominant, expects competence, discards the useless
 - **Enneagram:** Type 8w9 (The Challenger with Peacemaker wing) — Controls through presence, not rage; patience masks predator
 - **Clifton Strengths:** Command, Strategic, Self-Assurance, Focus, Significance
 
-### Core Motivation
-**To escape Wyrmreach and dominate what comes next.** She sees Drusniel as leverage, then as a tool, then as a liability she can still use.
+### Abercrombie Moral Sheet
 
-### Quirk
-Never eats in front of others. (Hidden reason: dragon appetite incompatible with human portions.)
+**Interest:**
+- Conquer Astalor before collapse forces worse outcomes
+- Replace fragmented guardianship with centralized Dragon rule
+- End inefficient stewardship models that rely on sacrifice rather than dominance
+
+**Moral Boundary:**
+- Does not lie unless lying improves stability
+- Does not betray trust casually
+- Does not pretend power is negotiable
+- Does not pretend equality exists
+
+**Rationalization:**
+> "Survival at scale is governance, not cruelty."
+> "What survives at scale is what deserves to rule."
+
+**Self-Image:** Steward of centuries. Temporary tyrant, if required. Correct even when hated.
+
+**How Others Misread Her:** As manipulative. As hiding a darker self. As waiting to turn.
+
+**Failure Mode (LOCKED):**
+- Assumes understanding equals permanent alignment
+- Underestimates systems that enforce timing without authority
+- Does not account for mortals who resist acceleration even when they agree with the outcome
+
+### Relationship to Drusniel
+She likes him because he seeks power from himself, does not romanticize weakness, and accepts cost without complaint. She trusts him because he understands burden and does not beg systems for mercy.
+
+### Dragon Reveal Meaning (LOCKED)
+The reveal is NOT a deception exposed or a true self unveiled. It IS Nyxara returning to her natural operating scale.
+
+### Quirks
+- Never eats in front of others. (Hidden reason: dragon appetite incompatible with human portions.)
+- **Spatial Assessment Tick** (invisible tell): Unconsciously assesses ceiling height, room volume, structural exits, load-bearing surfaces. Never leans on fragile things. Never sits where a wall is too close behind her. No character remarks on this. Reader notices on reread. See Blueprint Part 4 Appendix D.
 
 ### Dialogue Style (Updated)
-Controlled, confident, minimal. Commands sound like decisions already made. No mystical language.
+Controlled, confident, minimal. Commands sound like decisions already made. No mystical language. Speaks in scale, stability, and outcomes. Never argues morality. Assumes her logic is self-evident. **If she explains herself, rewrite.**
 
 ### Dialogue Samples
 
@@ -319,6 +477,13 @@ Elderly dwarf. Thick-bodied, powerful despite age. Grey beard in rough braids. I
 - **Myers-Briggs:** ISFJ (The Defender) — Protective, traditional, carries duty as personal weight
 - **Enneagram:** Type 6w5 (The Loyalist with Investigator wing) — Anxious about threat, prepares obsessively, secrets feel like protection
 - **Clifton Strengths:** Responsibility, Deliberative, Relator, Context, Belief
+
+### Abercrombie Moral Sheet
+
+**Interest:** Delay catastrophe long enough to matter. Keep the group together.
+**Moral Boundary:** Will not cause panic knowingly. Will not force truth without context.
+**Rationalization:** "Fear outruns facts."
+**Failure Mode:** Confuses silence with safety.
 
 ### Core Motivation
 **Prevent what he was shown.** He believes secrecy will keep the group safe; it actively harms them.
@@ -460,6 +625,13 @@ Human female, mid-twenties. Looks sleep-starved and fragile. Dark hair, often un
 - **Enneagram:** Type 5w4 (The Investigator with Individualist wing) — Retreats into analysis, fears being overwhelmed, dark humor masks terror
 - **Clifton Strengths:** Analytical, Intellection, Input, Adaptability, Deliberative
 
+### Abercrombie Moral Sheet
+
+**Interest:** Understand what is happening. Reduce suffering through warning.
+**Moral Boundary:** Will not refuse a vision, regardless of cost.
+**Rationalization:** "If I see it, someone might survive it."
+**Failure Mode:** Pays for clarity with her body.
+
 ### Core Motivation
 **To understand what she sees well enough to survive it.**
 
@@ -491,8 +663,44 @@ Dry, restrained, dark humor as defense. Becomes clinical while describing vision
 ### Merrik (The Slave Dealer)
 Half-human with goblin heritage, operates on Wyrmreach's coast. "Rescues" unconscious Drusniel with feigned kindness while calculating his market value. Treats Drusniel well while waiting for the right buyer—pragmatic cruelty dressed as hospitality.
 
-### Szoravel (Zaelar's Partner)
-Drow lord in Wyrmreach, Zaelar's partner. Controls access and holds **Admin Phase III: Alter (The Key)**. His value is **system leverage**, not raw power. Escapes after Nyxara's reveal—positioned as future antagonist.
+### Szoravel (Zaelar's Partner — Elevated to Major Supporting)
+
+**Archetype:** The Magelord Who Thinks Knowledge Is Dominion. Raistlin's shadow if Raistlin never admitted fear.
+
+Drow lord in Wyrmreach, Zaelar's partner. Controls access and holds **Admin Phase III: Alter (The Key)**. His value is **system leverage**, not raw power.
+
+**Abercrombie Moral Sheet:**
+
+**Interest:**
+- Absolute comprehension of magic systems
+- Being the one no catastrophe can proceed without
+- Turning uncertainty into dependency on him
+- Control escalation through sequencing
+
+**Moral Boundary:**
+- Will not act without sufficient data
+- Will not surrender control to entities he cannot model
+- Will not accept limits imposed by beings he considers less informed
+
+**Rationalization:**
+> "If I understand it, I should decide when it is used."
+> "Precision prevents catastrophe. Speed creates it."
+
+**Self-Image:** Necessary constraint. The adult in the room. The one who knows when not to act.
+
+**How Others Misread Him:** As manipulative. As cowardly. As self-serving.
+
+**Failure Mode (LOCKED):**
+- Believes timing is adjustable by expertise
+- Treats delay as neutral rather than active risk
+- Believes knowledge grants veto power
+- His death is not punishment — it is proof that understanding is not ownership
+
+**Relationship to Drusniel:** Sees him as a uniquely compatible interface, a necessary vector, a dangerous variable that must be guided. Not a hero, not a pawn.
+
+**Relationship to Nyxara:** Believes Dragons are powerful actors. Does NOT understand they are time-scale entities. This is where he fails.
+
+**Zaelar Mirror:** Szoravel is Zaelar with institutional legitimacy. Same flaw (knowledge = control), larger stage, slower collapse. Zaelar is the small-scale echo: same flaw, smaller ambition, faster collapse.
 
 ### Vexrath (The Necromancer)
 Race unknown, master of the tower in western archipelago (Sytherix's territory). Srietz's former captor. Commands the Coatly—flying creatures that use magic/ultrasound scanning. Never appears on-page—presence felt through Srietz's fear.
@@ -510,8 +718,27 @@ One of three dragon rulers hiding in Wyrmreach. Scheming, poison-minded, treache
 ### Venemora
 Goddess of the drow. All legitimate drow magic comes through her blessing (Duskborn Trials). Practicing magic without her blessing is forbidden—punishable by death or exile.
 
-### Vyrmauth (The Voice)
-God of corruption and transformation. Divine corrupter. Offers debts to Drusniel at moments where survival is otherwise impossible. Calls them at the climax. Ultimate orchestrator of the dragon plan.
+### Vyrmauth (The Voice) — Execution System, Debt Enforcer
+
+**Archetype:** Power Without Self. What happens when intention becomes procedure.
+
+**Abercrombie Moral Sheet:**
+
+**Interest:** Enforce obligation. Eliminate delay. Execute committed belief.
+**Moral Boundary:** Does not persuade. Does not explain. Does not evaluate outcomes.
+**Rationalization:** Not applicable (procedural entity).
+**Self-Image:** Not applicable.
+**How Others Misread It:** As malicious. As seductive. As wanting outcomes.
+
+**Failure Mode (LOCKED):**
+- Treats belief as permanent authorization
+- Cannot distinguish commitment from consent
+
+**Relationship to Drusniel:** Drusniel seeks power from himself. The Voice removes the need for self. That is why it horrifies him.
+**Relationship to Szoravel:** Szoravel seeks to own power. The Voice does not allow ownership.
+**Relationship to Nyxara:** Nyxara rules through dominance. The Voice rules through inevitability.
+
+Offers debts to Drusniel at moments where survival is otherwise impossible. Calls them at the climax. The Voice is not evil. It is not a corrupter. It is what happens when systems execute without regard to intention.
 
 ### Sage (The Hooded Oracle)
 God of prophecy, mystical knowledge, and hidden truths. Possesses Elion without his knowledge—uses him to watch Wyrmreach. Feeds Elion information when needed. Can communicate through shrines.
@@ -528,3 +755,106 @@ Guards at Aldric's frontier outpost. Captured by Korgath's trap. Their fate—in
 
 ### Korgath Nargul
 Half-orc warlord commanding organized goblin forces in Grukmar. Captured and interrogated Varian and Elric. Represents the organized threat Aldric tried to warn about.
+
+---
+
+# COLLECTIVE ENTITIES
+
+---
+
+## Drow Collective (As An Entity)
+
+**Interest:** Maintain guardianship. Preserve relevance. Prevent unsealing at any cost.
+**Moral Boundary:** Will not abandon the Barrier. Will not relinquish duty voluntarily.
+**Rationalization:** "We endure so others do not have to."
+**Failure Mode:** Duty becomes identity. Identity resists adaptation.
+
+---
+
+# DIALOGUE AUDIT — ABERCROMBIE MODE (LOCKED)
+
+Moralizing dialogue will silently turn characters into heroes or villains.
+
+---
+
+## 1. Banned Dialogue Functions (Global)
+
+Characters may NOT speak to:
+- Justify "the right thing"
+- Frame actions as noble
+- Claim moral superiority
+- Condemn others as evil
+
+**If dialogue answers "who is good?" — delete it.**
+
+## 2. Forbidden Dialogue Phrases (HARD BAN)
+
+Delete or rewrite any line resembling:
+- "It's the right thing to do"
+- "We can't let this happen"
+- "This is wrong"
+- "For the greater good"
+- "We have to be better than them"
+- "History will judge us"
+
+**These are author mouthpieces.**
+
+## 3. Replacement Patterns
+
+**Replace moral judgment → cost accounting:**
+- ❌ "This is wrong."
+- ✅ "This will cost us three days and a city."
+
+**Replace righteousness → inevitability:**
+- ❌ "We have no choice."
+- ✅ "Every other choice runs out first."
+
+**Replace heroism → liability awareness:**
+- ❌ "Someone has to stand up."
+- ✅ "If this goes bad, it lands on me."
+
+**Replace condemnation → consequence prediction:**
+- ❌ "You can't do that."
+- ✅ "If you do, this is what follows."
+
+## 4. Character-Specific Dialogue Rules
+
+**DRUSNIEL:**
+- Speaks in burdens, not ideals
+- Avoids emotional justification
+- Accepts blame preemptively
+- **If he says "should," rewrite.**
+
+**NYXARA:**
+- Speaks in scale, stability, and outcomes
+- Never argues morality
+- Assumes her logic is self-evident
+- **If she explains herself, rewrite.**
+
+**SZORAVEL:**
+- Speaks in conditions and sequencing
+- Frames delay as responsibility
+- Avoids absolutes
+- **If he sounds confident and fast, rewrite.**
+
+**THE VOICE:**
+- No metaphors
+- No persuasion
+- No emphasis words
+- **If it sounds poetic, rewrite.**
+
+## 5. Dialogue Consistency Test (Run Per Scene)
+
+1. Is anyone defending morality instead of interest?
+2. Is anyone speaking for the reader's values?
+3. Does the dialogue justify instead of forecast?
+4. Does anyone sound wiser than the situation allows?
+
+**If any answer is yes, rewrite the line.**
+
+## 6. Side Character Completeness Rule
+
+If a side character lacks these three lines, they're decorative:
+- **Interest** (what they want preserved or gained)
+- **Boundary** (what they refuse to do)
+- **Rationalization** (how they live with the cost)
