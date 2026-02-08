@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Advertencia del Vidente: La Verdad
 Language: es
-Canon Sequence: AST-M-019
+Canon Sequence: W-016-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: dulint-maris-campfire.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Two figures by a dying fire. The vast darkness surrounds them. . Lighting: Fading embers casting long shadows.
+prompt:Photorealistic night camp scene, Dulint on first watch beside a small dying fire while Maris emerges from the darkness and sits next to him without invitation, their faces lit by ember glow with deep surrounding blackness, faint blue pulse from the Beacon nearby, quiet tension in posture and eye contact, cinematic realism. [Face_Reference: Dulint, Maris]
 
 2. filename: beacon-glows-in-pack.jpg
 role: mid_01 (placed after sentence "El Faro pulsaba cerca, su suave brillo")
-prompt:Photorealistic Atmospheric detail. The light of the Beacon spilling out from a pack, illuminating the snow/ground around it. It looks alien. Camera: Ground level.
+prompt:Photorealistic ground-level detail of the Beacon's soft blue glow spilling from a partially closed pack near the fire, illuminating frost, dirt and fabric fibers, subtle heat shimmer at the pack seam, realistic light falloff into surrounding darkness, grounded dark fantasy realism.
 
 3. filename: maris-sees-vision.jpg
 role: mid_02 (placed after sentence "Veo fuego, admitió finalmente.")
-prompt:Photorealistic Visionary reflection. Close up on Dulint's eye. Reflected in it is NOT the campfire, but a burning city (Stonehold). Maris's hand is visible touching his shoulder? No, just the eye reflection. Lighting: Orange glow of the vision. [Face_Reference: Dulint]
+prompt:Photorealistic close portrait of Dulint as he admits he sees fire, eyes reflecting not the campfire but a distant city burning as if recalled from memory, warm orange reflection against cold night skin tones, soot and ember particles drifting, Maris slightly out of focus beside him listening, intimate cinematic realism. [Face_Reference: Dulint, Maris]
 
 4. filename: dulint-hides-truth.jpg
 role: mid_03 (placed after sentence "No puedo controlar lo que sé. Pero puedo controlar cómo afecta a los otros.")
-prompt:Photorealistic Character shadow beat. Dulint's face is half in shadow, looking down. He looks aged and weary. The burden is heavy. Camera: High angle looking down. [Face_Reference: Dulint]
+prompt:Photorealistic medium close shot of Dulint half in shadow, looking down as he decides to keep the warning from the others, ember light catching one side of his face while the rest falls into darkness, weathered skin and tired eyes, hands clasped tight, quiet dread in expression, cinematic realism. [Face_Reference: Dulint]
 
 5. filename: maris-watches-dulint.jpg
 role: mid_04 (placed after sentence "Ella lo miró como si supiera que había más.")
-prompt:Photorealistic Separation beat. Maris walking away from the fire back to her tent. Dulint remains seated, back to us. The distance between them feels significant. Camera: Wide shot from behind Dulint. [Face_Reference: Maris, Dulint]
+prompt:Photorealistic wide shot from behind Dulint as Maris stands and walks away into the dark toward her tent, the small fire nearly out, Dulint remaining seated and still, the distance between them emphasized by empty space and shadow, realistic night haze and minimal light, cinematic realism. [Face_Reference: Dulint, Maris]

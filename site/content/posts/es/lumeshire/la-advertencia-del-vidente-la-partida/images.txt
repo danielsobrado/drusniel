@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Advertencia del Vidente: La Partida
 Language: es
-Canon Sequence: AST-M-020
+Canon Sequence: W-016-005
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: group-leaves-riverhold.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The moment of crossing the threshold (gate or bridge) out of the city. The group is crossing over. . Lighting: High contrast shadow of the gate.
+prompt:Photorealistic dawn in the inn courtyard, the group gathered with packs loaded and weapons checked: Dulint at the center shouldering the pack that carries the Beacon's faint heat, Aldric in old military kit scanning for threats, Xandor careful with a special carrier strapped to his gear, Maris pale but steady, Balin young and eager despite fear; cool morning light with long shadows, realistic fatigue and determination on faces, cinematic realism. [Face_Reference: Dulint, Aldric, Xandor, Maris, Balin]
 
 2. filename: xandor-plants-pack.jpg
 role: mid_01 (placed after sentence "Xandor tenía sus plantas aseguradas en un transportador especial")
-prompt:Photorealistic Object detail. Close up on the strange plants peeking out of Xandor's pack. They look alien or magical. Camera: Macro. [Face_Reference: Xandor]
+prompt:Photorealistic macro detail of Xandor's special plant carrier secured to his pack, strange hardy leaves and stems protected by woven straps and padding, old labels and ties suggesting decades of care, morning dew on leather and fabric, shallow depth of field, grounded realism.
 
 3. filename: beacon-warmth.jpg
 role: mid_02 (placed after sentence "El Faro pulsaba en la mochila de Dulint")
-prompt:Photorealistic Reaction beat. Dulint adjusting his pack strap, grimacing slightly at the heat/weight. Camera: Close up on face/shoulder. [Face_Reference: Dulint]
+prompt:Photorealistic close shot of Dulint adjusting a shoulder strap as the Beacon's warmth presses through the pack against his back, subtle grimace and tight eyes, breath visible in morning air, scuffed strap fibers and worn metal buckles in detail, cinematic realism. [Face_Reference: Dulint]
 
 4. filename: maris-steady.jpg
 role: mid_03 (placed after sentence "Maris se veía pálida pero firme")
-prompt:Photorealistic Character portrait. Maris tying her hair back or checking a weapon. She looks ready for war, despite her frailty. Camera: Low angle hero shot. [Face_Reference: Maris]
+prompt:Photorealistic portrait of Maris in the courtyard, pale but steady, tying her hair back with hands that tremble only slightly, eyes fixed forward with stubborn resolve, muted dawn light flattening color in her face, realistic clothing wear and travel dirt, intimate cinematic realism. [Face_Reference: Maris]
 
 5. filename: dulint-final-look-back.jpg
 role: mid_04 (placed after sentence "Dulint miró atrás una vez mientras los muros de Riverhold se encogían")
-prompt:Photorealistic Environmental scale. Dulint is a tiny figure in the foreground, looking back at the massive, distant city walls of Riverhold. The scale emphasizes leaving civilization. Camera: Wide landscape. [Face_Reference: Dulint]
+prompt:Photorealistic wide shot on the road out of Riverhold, Dulint walking north then turning for one last look back at the shrinking city walls in the distance, the group continuing ahead, dawn haze softening the skyline, the feeling of leaving civilization behind, grounded cinematic realism.  [Face_Reference: Dulint]
