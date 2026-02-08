@@ -83,3 +83,6 @@ incoming/
 articles/*
 images.txt
 rules/WRITING_WORKFLOW/AI_TELL_LINT_CHECKLIST.md
+*.pyc
+tools/image_assistant/*
+tools/*.py
