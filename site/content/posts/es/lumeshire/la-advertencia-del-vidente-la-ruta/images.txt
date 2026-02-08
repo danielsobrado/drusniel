@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: aldric-traces-lines.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Close up on the map. Aldric's gloved hand tracing the "fast route" in red ink (metaphorically). The map texture is worn. . [Face_Reference: Aldric]
+prompt:Photorealistic strategic dawn scene around a campaign table, Aldric tracing two routes on a worn map with a gloved finger while Dulint, Balin, Xandor and Maris stand around in tense silence, candle stubs and travel gear on the table, mixed warm lamplight and cold morning light from a side window, crisp map texture and realistic facial tension, cinematic overhead-angled framing. [Face_Reference: Aldric, Dulint, Balin, Xandor, Maris]
 
 2. filename: grukmar-patrol-sign.jpg
 role: mid_01 (placed after sentence "Hemos visto las señales. Están organizados.")
-prompt:Photorealistic Atmospheric detail. A Goblin/Grukmar totem hanging from a tree branch, silhouetted against a grey sky. Smoke rises in the distance. Camera: Low angle looking up at the totem.
+prompt:Photorealistic forest warning detail, crude Grukmar totem and claw-marked territory sign hanging from a dead branch, damp bark, wind-blown ash, distant smoke plume and dark treeline, low-angle composition under a heavy overcast sky, gritty textures and natural atmospheric depth.
 
 3. filename: dulint-remembers-seer.jpg
 role: mid_02 (placed after sentence "Pero la voz de la vidente resonaba en su mente. Lentamente.")
-prompt:Photorealistic Symbolic portrait. Dulint's face reflected in a pool of water or a shiny surface. The reflection is slightly distorted, as if seen through "time" or "vision". Lighting: Rippled light. [Face_Reference: Dulint]
+prompt:Photorealistic introspective portrait of Dulint paused beside the table, face reflected in a shallow basin of water with subtle distortion from ripples, eyes focused and burdened, room lights ghosting across the reflection, shallow depth of field with background figures blurred, realistic skin, beard detail and quiet emotional weight. [Face_Reference: Dulint]
 
 4. filename: balin-eager.jpg
 role: mid_03 (placed after sentence "El rostro de su sobrino estaba ansioso, queriendo moverse")
-prompt:Photorealistic Action potential. Close up on Balin's boots as he shifts weight, or his hand gripping a weapon hilt tight. The energy of "wanting to go". Camera: Macro on nervous energy. [Face_Reference: Balin]
+prompt:Photorealistic medium close portrait of Balin prepared to move, one hand tightening a strap and the other near weapon grip, shoulders forward, eager expression with controlled impatience, morning light defining cheekbones and armor scuffs, visible breath in cold air near doorway, high-detail realism with grounded textures. [Face_Reference: Balin]
 
 5. filename: dulint-makes-decision.jpg
 role: mid_04 (placed after sentence "Tomamos la ruta lenta, dijo Dulint.")
-prompt:Photorealistic Group reaction. View from behind Dulint as he announces the decision. We see the faces of Aldric (angry/tight), Balin (disappointed), Xandor (neutral). Dulint is an anchor in the foreground. [Face_Reference: Dulint, Aldric, Balin, Xandor]
+prompt:Photorealistic group decision moment, Dulint in foreground pointing firmly to the slower valley route on the map, Aldric facing him with restrained frustration, Balin disappointed, Xandor neutral and observant, Maris pale and silent in background, practical interior lighting, clear facial storytelling and natural body language, cinematic two-plane composition. [Face_Reference: Dulint, Aldric, Balin, Xandor, Maris]

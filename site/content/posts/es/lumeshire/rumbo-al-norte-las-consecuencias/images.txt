@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: camp-after-battle.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The small camp in the rocks. The light is fading fast. The group looks isolated in a vast wilderness. .
+prompt:Photorealistic twilight camp in rocky highland terrain after combat, Dulint, Aldric, Balin, Maris and Xandor gathered around a dim fire with battered gear and exhausted postures, blood-stained bandages and muddy ground, the artifact emitting a faint blue pulse from the center, wind pushing smoke sideways, wide cinematic frame with readable faces and realistic fatigue. [Face_Reference: Dulint, Aldric, Balin, Maris, Xandor]
 
 2. filename: dulint-broken.jpg
 role: mid_01 (placed after sentence "No estoy bien. No he estado bien desde Stonehold.")
-prompt:Photorealistic Emotional portrait. Dulint's face, illuminated by faint starlight. Tears or sweat in his beard. He looks broken. . [Face_Reference: Dulint]
+prompt:Photorealistic intimate night portrait of Dulint lit by weak fire and cold starlight, cracked skin, damp beard, heavy eyes, jaw trembling as he admits he is not well, shallow depth of field isolating his face from dark camp background, fine facial texture and emotional realism. [Face_Reference: Dulint]
 
 3. filename: maris-isolation.jpg
 role: mid_02 (placed after sentence "Maris se sentó aparte de los demás")
-prompt:Photorealistic Symbolic distance. Maris sitting on a rock, separated from the group by a gap of darkness. She looks like a statue. . [Face_Reference: Maris]
+prompt:Photorealistic medium-long shot of Maris sitting alone on a rock away from the group, knees drawn in, face turned slightly down, dark gap between her and the campfire, distant figures blurred behind her, cold night palette with one weak warm light source, textured stone and fabric realism. [Face_Reference: Maris]
 
 4. filename: balin-phantom-blood.jpg
 role: mid_03 (placed after sentence "Balin miró sus manos. Manchadas, a pesar del agua")
-prompt:Photorealistic Hallucination detail. Balin's hands. They are dripping with phantom blood (maybe just shadow/light trick, but it looks like blood). His face is out of focus in the background. . [Face_Reference: Balin]
+prompt:Photorealistic close shot of Balin staring at his hands as dark red smears seem to persist under flickering firelight, water droplets on skin, knuckles tense, his face blurred in the background with a shocked thousand-yard stare, gritty tactile detail and psychologically unsettling realism. [Face_Reference: Balin]
 
 5. filename: broken-survivors.jpg
 role: mid_04 (placed after sentence "Eran una colección de personas rotas")
-prompt:Photorealistic Atmosphere beat. The group huddled together as night falls completely. The stars are cold and indifferent above. The artifact gives off a faint, eerie pulse of light. .
+prompt:Photorealistic closing group composition at full night, survivors huddled near embers under a vast cold sky, each face carrying different exhaustion and grief, the artifact pulsing faintly through packs and casting intermittent blue accents, surrounding darkness dense and watchful, grounded dark fantasy realism with natural lighting and layered depth. [Face_Reference: Dulint, Aldric, Balin, Maris, Xandor]

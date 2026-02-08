@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: maris-tells-vision.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Maris's hands on the table, white-knuckled. The Cube's light casts blue highlights on her skin. . [Face_Reference: Maris]
+prompt:Photorealistic dark fantasy interior at night, medium close shot of Maris leaning over a rough wooden table with tense shoulders and pale exhausted face, both hands planted with white knuckles, blue pulse light from the Cube painting cold highlights across her skin and the map edges, candle flames flickering in warm contrast, shallow depth of field, detailed wood grain, wax drips, fabric texture, cinematic realism. [Face_Reference: Maris]
 
 2. filename: drowning-hand-detail.jpg
 role: mid_01 (placed after sentence "piel gris-oscura y dedos largos")
-prompt:Photorealistic Submerged. View from UNDER the water looking up at the hand breaking the surface. Distorted view of the world above. .
+prompt:Photorealistic underwater perspective from below the surface of black heavy water, a long gray hand with thin fingers breaking upward toward a small boat silhouette, refracted moonlight, suspended particles and ripples warping the world above, oppressive atmosphere, physically plausible water distortion, high-detail dark fantasy realism.
 
 3. filename: aldric-maris-connection.jpg
 role: mid_02 (placed after sentence "Algo cambió en su expresión—no confianza, no todavía")
-prompt:Photorealistic Recognition. Close up on Maris's face as she realizes he believes her. A subtle softening of her guarded expression. . [Face_Reference: Maris]
+prompt:Photorealistic emotional close portrait of Maris in three-quarter view as her guarded expression softens for the first time, damp eyes and tense jaw relaxing slightly, background figures and candles blurred, cool blue edge light from the Cube mixed with warm candle key light, skin pores and fine hair visible, intimate cinematic framing. [Face_Reference: Maris]
 
 4. filename: the-agreement.jpg
 role: mid_03 (placed after sentence "Nos quedamos juntos")
-prompt:Photorealistic The Pact. Five shadows cast on the floor, radiating out from the central light of the Cube. They look like spokes of a wheel. .
+prompt:Photorealistic overhead floor composition inside the room, five distinct shadows cast outward from a single bright blue source at center, shadows shaped by different stances and gear silhouettes, worn planks, scattered dirt and candle drips, strong radial composition like wheel spokes, moody low-key lighting, grounded dark fantasy realism.
 
 5. filename: vigil-at-window.jpg
 role: mid_04 (placed after sentence "algo allá afuera ya los había notado")
-prompt:Photorealistic Enemy gaze. A view from a dark alleyway looking UP at the lighted window where Aldric stands. We are the watcher. . [Face_Reference: Aldric]
+prompt:Photorealistic exterior night view from a narrow alley in deep shadow, camera looking up toward a lit upper window where Aldric stands alert and partially turned, hand near belt and face tense, wet stone walls, faint mist, one warm window as the only clear light source, voyeuristic composition with threatening negative space. [Face_Reference: Aldric]

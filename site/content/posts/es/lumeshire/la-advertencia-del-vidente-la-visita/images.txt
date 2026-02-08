@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: dulint-approaches-cave.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Establishing shot. View from inside the cave looking out at Dulint approaching. He is a silhouette against the bright snow/sky. . Lighting: High contrast silhouette. [Face_Reference: Dulint]
+prompt:Photorealistic mountain dawn scene near the tree line, Dulint climbing a narrow icy path toward a dark cave entrance, breath visible in freezing air, layered snow and rock textures, steep drop beside the trail, pale sun behind clouds, cloak and gear moving with wind, wide cinematic composition with strong depth and realistic cold atmosphere. [Face_Reference: Dulint]
 
 2. filename: seer-waiting.jpg
 role: mid_01 (placed after sentence "Ella estaba esperando cuando llegó, como si hubiera sabido que venía.")
-prompt:Photorealistic Character detail. Close up on the Seer's hands warming over the small fire. They are ancient, bone-thin. Dulint is out of focus in the background. Camera: Macro on hands. [Face_Reference: Dulint]
+prompt:Photorealistic cave threshold scene, the Seer seated near a small fire with fragile posture and weathered face, hands extended to the flame, Dulint entering from outside as a darker figure against bright snow, smoke drifting between them, rough stone walls with frost and soot marks, intimate medium shot, firelight versus cold daylight contrast. [Face_Reference: Seer, Dulint]
 
 3. filename: dulint-hears-failure.jpg
 role: mid_02 (placed after sentence "Las palabras golpearon como un golpe físico.")
-prompt:Photorealistic Reaction beat. Dulint stepping back, hand on the cave wall for support. His body language reads as struck. Camera: Full body shot showing stance. Lighting: Long shadows. [Face_Reference: Dulint]
+prompt:Photorealistic reaction shot inside the cave, Dulint staggered one step back with one hand braced on stone, eyes wide and jaw tight in shock, the Seer softly out of focus in foreground, harsh side light carving facial tension, ash and dust suspended in air, realistic skin and fabric detail, cinematic 85mm portrait style. [Face_Reference: Dulint]
 
 4. filename: seer-warns-slowly.jpg
 role: mid_03 (placed after sentence "Lentamente. Una palabra. La dijo como si contuviera todo.")
-prompt:Photorealistic Symbolic atmosphere. The smoke from the fire forming vague shapes (or just drifting heavily) between the Seer and Dulint. The Seer is looking through the smoke. Camera: Artistic/Atmospheric. [Face_Reference: Dulint]
+prompt:Photorealistic close portrait of the Seer speaking in a low whisper, lined face lit by fire from below, pale eyes fixed past Dulint, smoke ribbons crossing frame, deep shadow background, high micro-contrast in skin texture and wrinkles, claustrophobic framing that emphasizes prophetic severity. [Face_Reference: Seer]
 
 5. filename: dulint-leaves-burdened.jpg
 role: mid_04 (placed after sentence "Dejó la cueva con conocimiento que no podía compartir")
-prompt:Photorealistic Closing symbolic beat. Footprints in the snow leading away from the cave. Dulint is far in the distance, small in the frame. The mountains loom over him. . Camera: Ground level focus on tracks. [Face_Reference: Dulint]
+prompt:Photorealistic late-day mountain descent, Dulint walking away from the cave with bowed head and heavy posture, footprints cutting through fresh snow, distant ridgelines fading into cold haze, long shadows, muted blue-gray color palette, medium-long shot where his expression is still readable, melancholic cinematic realism. [Face_Reference: Dulint]

@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Primer Fragmento: El Fragmento
-Language: en
+Language: es
 Canon Sequence: W-020-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: dulint-touching-fragment.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Dulint and the fragment fusing for a second. Light bridging his hands and the stone. . [Face_Reference: Dulint]
+prompt:Photorealistic frozen chamber interior with Dulint gripping the fragment on an ancient pedestal, white-blue light bridging between his hands and the stone, carved runes in ice walls glowing faintly, frost vapor in the air, Aldric and Balin blurred in defensive stance behind him, high-detail crystal and metal textures, cinematic dark fantasy realism. [Face_Reference: Dulint]
 
 2. filename: beacon-alive.jpg
 role: mid_01 (placed after sentence "Metal vivo.")
-prompt:Hatching. The Beacon looking like an egg cracking open, revealing light inside. . photorealistic dark fantasy realism
+prompt:Photorealistic macro close-up of the Beacon surface splitting along thin seam lines like a living shell, faint internal movement visible through narrow openings, wet-organic sheen against cold metal, blue bioluminescent pulse, condensation beads and micro-scratches, ominous laboratory-like clarity in an icy environment.
 
 3. filename: maris-collapse.jpg
 role: mid_02 (placed after sentence "Corte de cuerdas.")
-prompt:Puppet Strings. Maris depicted as a puppet with her strings cut, collapsing. . photorealistic dark fantasy realism [Face_Reference: Maris]
+prompt:Photorealistic action portrait of Maris collapsing to stone as if suddenly disconnected, Balin kneeling beside her and gripping her shoulders, blood at the corner of her mouth, panic in his expression, fragmented ice chamber background, directional side light and motion freeze, realistic anatomy and emotional intensity. [Face_Reference: Maris, Balin]
 
 4. filename: fragment-pack.jpg
 role: mid_03 (placed after sentence "Dos soles.")
-prompt:Twin Suns. The inside of the pack glowing like it holds two small suns. . photorealistic dark fantasy realism [Face_Reference: Dulint]
+prompt:Photorealistic close interior shot of an open travel pack containing the Beacon and fragment touching, both objects pulsing in synchronized light that floods the leather interior, fine stitching, frost dust, worn straps, nearby gloves and metal clasps reflecting blue glow, tactile detail and physically plausible light behavior.
 
 5. filename: fleeing-cave.jpg
 role: mid_04 (placed after sentence "La huida.")
-prompt:Avalanche. The mountain behind them visualized as an avalanche starting (metaphorical danger). . photorealistic dark fantasy realism [Face_Reference: Maris, Dulint, Balin, Aldric, Xandor]
+prompt:Photorealistic high-tension escape at cave mouth in snowstorm conditions, Dulint leading while Aldric, Balin, Maris and Xandor rush out with gear, collapsing ice and rock behind them, airborne snow and debris, urgent body language, readable strained faces, cold desaturated palette with strong directional wind, cinematic realism. [Face_Reference: Dulint, Aldric, Balin, Maris, Xandor]
