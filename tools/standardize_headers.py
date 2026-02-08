@@ -89,10 +89,10 @@ def format_main_display(info, labels, chapter_part_counts, for_header=False):
         return f"{labels['Main']} {chap_num}"
     return f"{labels['Main']} {chap_num}.{part_num}"
 
-def build_route_post_link(post, seq_to_path=None):
+def build_route_post_link(post, lang, seq_to_path=None):
     slug = (post.get('path') or '').strip().strip('/')
     if slug:
-        return f"/{slug}/"
+        return f"/{lang}/{slug}/"
 
     # Fallback if reports data is missing path for a row.
     seq = (post.get('canon_sequence') or '').strip()
@@ -100,7 +100,7 @@ def build_route_post_link(post, seq_to_path=None):
         fallback_path, _ = seq_to_path[seq]
         fallback_slug = os.path.basename(os.path.dirname(fallback_path)).strip().strip('/')
         if fallback_slug:
-            return f"/{fallback_slug}/"
+            return f"/{lang}/{fallback_slug}/"
 
     return "/"
 
@@ -211,7 +211,7 @@ def process_language(lang):
             n_title = next_post.get('title')
             
             # Use canonical route slugs so MDX does not rewrite links as file assets.
-            link_path = build_route_post_link(next_post, seq_to_path)
+            link_path = build_route_post_link(next_post, lang, seq_to_path)
             
             # Helper to detect label from canon_sequence
             def get_seq_label(seq_id):

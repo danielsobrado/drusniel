@@ -126,6 +126,24 @@ Drusniel does not seek power to rule. He seeks power to remove dependency. He ha
 ### Relationship to the Barrier
 He believes in the Barrier because it is earned. The Drow's status is legitimate because they paid. Power without cost disgusts him.
 
+### Zaelar Blindspot (LOCKED — Endgame Payoff)
+
+Drusniel's greatest stupidity is not the barrier. It's Zaelar.
+
+He trusted a man the entire Drow nation exiled. Not because Zaelar was subtle — because Drusniel needed a mentor badly enough to ignore what everyone else could see. His hunger for self-made power created the exact vulnerability Zaelar exploited: offer knowledge, frame it as independence, watch the boy convince himself.
+
+**Endgame realization**: Zaelar was outside for a good reason. Everyone knew. Drusniel was the fool who didn't — and the foolishness wasn't Zaelar's genius. It was Drusniel's need.
+
+### Nyxara Loss (LOCKED — Endgame Payoff)
+
+The other wound in Ch 46: Nyxara was real.
+
+She was the best ally he ever had. She understood duty, cost, and power without moralizing. If circumstances were different — if she weren't a Dragon, if her goals weren't conquest — she would have been the person he stood beside for the rest of his life.
+
+But she was a Dragon. And she couldn't tell him. Not from cruelty — from structural impossibility. The moment he knew, the relationship ended as partnership and became something else: a mortal and a Dragon who liked him.
+
+**This is grief, not humiliation.** Zaelar was stupidity. Nyxara was incompatibility. Both hurt. They hurt differently.
+
 ### Background (Nexus Alignment)
 Born to a mid-ranking drow house in Umbra'kor, Drusniel grew up in his sister Shyntara's shadow. His latent **air/water magical potential** (extremely rare among drow) caught Zaelar's attention. Zaelar secretly suppressed Drusniel's development for years, sabotaged his Duskborn Trials, manipulated him through fake mental messages from Annariel, and orchestrated his family's murder while framing House Vrinn.
 
@@ -258,6 +276,27 @@ Male drow, appears middle-aged (actually centuries old). Gaunt, skeletal eleganc
 
 ### Background
 Exiled from Umbra'kor centuries ago for practicing magic outside Venemora's blessing. Survived on the surface, studied forbidden techniques, accumulated power patiently. Discovered the Nexus system and realized its potential. Has been positioning pieces for decades—Drusniel is merely the latest tool.
+
+### Exile Truth (LOCKED — Endgame Payoff)
+
+Zaelar's exile was not political. It was correct.
+
+He was exiled because he was genuinely dangerous — not misunderstood, not ahead of his time. He practiced forbidden magic, he rejected Drow governance, and he pursued personal power with zero regard for collective consequence. The Drow who exiled him were not wrong. They were protecting themselves.
+
+**What everyone in Umbra'kor knew:**
+- Zaelar was not a rebel. He was a threat.
+- Nobody wanted to be near him. Not from fear of contagion — from recognition.
+- He was against the Drow as an institution. Their duty, their structure, their constraints.
+- He wanted power for himself. Not for a cause. For himself.
+- Szoravel was the same, with better manners.
+
+**What Drusniel did not know:**
+- Trusting Zaelar was not a reasonable mistake. It was the kind of mistake only someone desperate to believe in a mentor would make.
+- Others could see it. Shyntara suspected. Umbra'kor's elders would have recognized the pattern instantly.
+- Drusniel was not tricked by genius. He was tricked by his own need.
+
+**Endgame Realization (Ch 46):**
+Drusniel realizes — too late — that Zaelar was outside for a good reason. That the exile was not injustice but judgment. That everyone who ever met Zaelar saw what Drusniel refused to see. That he was foolish to trust him, and the foolishness was not forgivable just because it was understandable.
 
 ### Quirk
 Collects hourglasses; measures time compulsively. His tower contains hundreds. He can tell you exactly how much time has passed since any significant event.
@@ -443,6 +482,16 @@ She likes him because he seeks power from himself, does not romanticize weakness
 
 ### Dragon Reveal Meaning (LOCKED)
 The reveal is NOT a deception exposed or a true self unveiled. It IS Nyxara returning to her natural operating scale.
+
+### Endgame Emotional Truth (LOCKED — Ch 46 Payoff)
+
+Drusniel realizes at the end: Nyxara was genuine. The alliance, the conversations, the way she understood him — all real. She was the closest thing to a soulmate he'd ever found. Someone who understood duty, cost, and power without sentimentality.
+
+But she was a Dragon. Her goals were Dragon goals: conquest of Astalor at a scale incompatible with Drow guardianship. And she couldn't tell him what she was — not from cruelty, but because the truth would have destroyed the trust before it could be useful to either of them.
+
+She liked him. She couldn't be his partner. Those are not contradictions. They are the cost of operating at incompatible scales.
+
+**This realization must hurt differently than Zaelar.** Zaelar is humiliation (he was stupid). Nyxara is grief (she was real and it still wasn't enough).
 
 ### Quirks
 - Never eats in front of others. (Hidden reason: dragon appetite incompatible with human portions.)
