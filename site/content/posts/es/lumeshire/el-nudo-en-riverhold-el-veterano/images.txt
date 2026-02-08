@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Nudo en Riverhold: El Veterano
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-010-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: aldric-tavern-exits.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Aldric's hand on a tankard, scarred and weathered. In the background, out of focus, the tavern door opens. . [Face_Reference: Aldric]
+prompt:Photorealistic tavern interior with warm firelight and smoky air, Aldric seated at a rough table with a cheap tankard under his scarred hand, his face partially visible in profile as he watches the room with soldierly vigilance, three exits subtly framed in the background, the door opening behind in soft focus with a figure entering, realistic wood, cloth and metal textures, cinematic realism. [Face_Reference: Aldric]
 
 2. filename: sera-arrives.jpg
 role: mid_01 (placed after sentence "Una mujer estaba parada en su mesa")
-prompt:Photorealistic Tired resilience. Close up on Sera's face. Dust in her wrinkles. Eyes bright with urgency. She looks down at Aldric. . [Face_Reference: Sera]
+prompt:Photorealistic close portrait of Sera standing at Aldric's table, travel-worn practical clothes, wind-chapped skin and dust in fine lines, eyes bright with urgency and exhaustion, looking down as if delivering news she can barely frame, warm tavern light with cooler shadows, high-detail realism. [Face_Reference: Sera]
 
 3. filename: riverhold-streets-alert.jpg
 role: mid_02 (placed after sentence "Aldric se movió a través de ellos")
-prompt:Photorealistic Threat perception. A view of the street, but certain individuals are highlighted (maybe with subtle lighting cues) as potential threats, reflecting how Aldric sees the world. . [Face_Reference: Aldric]
+prompt:Photorealistic crowded Riverhold street in daytime, Aldric moving through merchants and travelers with tense posture, head slightly turned as he scans faces for threats, Sera close behind, subtle visual cues like hard sidelight catching suspicious glances at the edge of the frame, carts, crates and muddy footprints, documentary-style handheld feel, grounded cinematic realism. [Face_Reference: Aldric, Sera]
 
 4. filename: scholars-rest-room.jpg
 role: mid_03 (placed after sentence "rodeado de libros y papeles y el cómodo caos")
-prompt:Photorealistic Scholar's sanctuary. Xandor amidst the chaos of books. The light dust motes dancing in the sunbeams. It looks peaceful, contrasting with the news. . [Face_Reference: Atmosphere]
+prompt:Photorealistic interior of a modest upstairs room at the Scholar's Rest, Xandor surrounded by stacks of books, papers and maps in comfortable chaos, sunlight cutting through a small window with dust motes floating in the beam, ink stains and worn bindings, Xandor looking up from his desk in surprise, quiet realism with detailed props. [Face_Reference: Xandor]
 
 5. filename: changes-everything.jpg
 role: mid_04 (placed after sentence "Lo que están cargando lo cambia todo.")
-prompt:Photorealistic Dawn of purpose. Aldric standing up, his chair pushed back. Silhouette against a bright window. He looks ready. . [Face_Reference: Aldric]
+prompt:Photorealistic decisive moment inside Xandor's room, Aldric pushing back his chair and rising with sudden purpose, face set and intent, bright window light creating a rim-lit silhouette while keeping his expression readable, Xandor and Sera blurred behind him, papers and books scattered, cinematic realism with grounded body language. [Face_Reference: Aldric]

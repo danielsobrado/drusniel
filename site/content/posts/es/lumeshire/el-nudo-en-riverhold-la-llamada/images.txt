@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Nudo en Riverhold: La Llamada
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-010-002
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: meeting-the-dwarves.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. A tense standoff in a small room. Aldric's silhouette in the foreground, facing the dwarves. The air is thick with smoke or dust. . [Face_Reference: Aldric]
+prompt:Photorealistic cramped candlelit room inside the Scholar's Rest, Aldric just entered and standing near the door in a guarded stance, Dulint and Balin seated close to the window with tense body language, Xandor by the table presenting the object, the Cube resting on pale silk at center, deep shadows that feel heavier than they should, dust in the air, realistic wood and wax textures, cinematic dark fantasy realism with clear readable faces. [Face_Reference: Aldric, Dulint, Balin, Xandor]
 
 2. filename: cube-on-silk.jpg
 role: mid_01 (placed after sentence "Un cubo. Quizás cuatro pulgadas en cada lado")
-prompt:Photorealistic Alien artifact. The Cube on the silk. The metal seems to absorb the light around it. .
+prompt:Photorealistic macro close-up of the Cube resting on smooth silk, ten centimeters across, metal that does not match any known alloy, one face subtly brighter and oriented, candlelight dimming as if swallowed near the edges, fine engraved lines barely visible, silk weave detail and soft folds, shallow depth of field, grounded realism.
 
 3. filename: balin-impatience.jpg
 role: mid_02 (placed after sentence "El enano más joven—Balin, asumió Aldric—hizo un ruido frustrado.")
-prompt:Photorealistic Kinetic energy. Balin moving while the others are still. Blur of motion in his hands as he gestures. . [Face_Reference: Balin]
+prompt:Photorealistic medium close portrait of Balin springing up from his chair in frustration, hands gesturing mid-motion while everyone else stays still, jaw tight and brows pulled down, travel-worn clothes and scuffed gear, candlelight flicker catching sweat and dust, slight motion blur only in hands, documentary-style realism. [Face_Reference: Balin]
 
 4. filename: xandor-explains.jpg
 role: mid_03 (placed after sentence "Las referencias del Nexus, las mecánicas de la barrera")
-prompt:Photorealistic Secret knowledge. Close up on Xandor's eyes as he speaks. They are wide, reflecting the candlelight. . [Face_Reference: Xandor]
+prompt:Photorealistic close portrait of Xandor speaking quietly with grave certainty, eyes reflecting candle flames, old ink stains on fingers and worn sleeves, shelves and stacked papers blurred behind him, tension in his expression as he mentions the Nexus and the barrier mechanics, cinematic low-key lighting with realistic skin and fabric detail. [Face_Reference: Xandor]
 
 5. filename: counting-exits.jpg
 role: mid_04 (placed after sentence "Aldric contó salidas. Tres en esta habitación.")
-prompt:Photorealistic Escape route. A view of the window, with the drop outside visible. Rain or night air coming in. .
+prompt:Photorealistic interior wide shot emphasizing escape routes, Aldric near the doorway scanning the room while the window and the drop outside sit in frame, candlelight fighting heavy shadows, street darkness beyond glass, subtle rain sheen on the sill, grounded cinematic realism that communicates paranoid counting and preparedness. [Face_Reference: Aldric]

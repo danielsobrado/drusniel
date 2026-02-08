@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Nudo en Riverhold: La Atracción
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-010-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: tense-waiting.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Shadows stretching long across the floor. Aldric is a dark shape near the door. The Cube is a point of light. . [Face_Reference: Aldric]
+prompt:Photorealistic night interior after hours of waiting, long shadows stretching across worn floorboards, Aldric posted near the door in a ready stance, Dulint close to the Cube with hand hovering, Balin at the window scanning the street below, Xandor moving between them, the Cube a small cold-blue point of light on the table, candlelight low and tense, realistic fatigue and facial tension, cinematic realism. [Face_Reference: Aldric, Dulint, Balin, Xandor]
 
 2. filename: artifact-heat.jpg
 role: mid_01 (placed after sentence "Ahora está irradiando calor.")
-prompt:Photorealistic Thermal energy. The air around the cube is warping. Xandor's face seen through the heat haze is distorted. . [Face_Reference: Distortion]
+prompt:Photorealistic close shot of Dulint holding his hand near the Cube without touching it, visible heat shimmer warping the air above the metal, candle flame bending in the distortion, Dulint's concentrated face partially seen through the haze, the Cube unnaturally warm in a cold room, grounded dark fantasy realism. [Face_Reference: Dulint]
 
 3. filename: maris-arrival.jpg
 role: mid_02 (placed after sentence "Sus ojos estaban desenfocados, distantes")
-prompt:Photorealistic Haunted entry. Close up on Maris's eyes. They reflect something that isn't in the room (the Black Water?). She looks terrified. . [Face_Reference: Maris]
+prompt:Photorealistic doorway portrait of Maris at the threshold, travel dirt on her clothes and herbs caught in her hair, eyes unfocused and distant as if tracking something not in the room, exhausted posture with a slight sway, cold hall light behind her and warm room light on her face, realistic skin texture and fear, cinematic realism. [Face_Reference: Maris]
 
 4. filename: black-water-vision.jpg
 role: mid_03 (placed after sentence "Una mano deslizándose bajo la superficie.")
-prompt:Photorealistic Drowning metaphor. Maris's face, but overlaid with ripples of water. It looks like she is the one drowning. . [Face_Reference: Maris]
+prompt:Photorealistic vision insert of a small boat on thick black water that moves wrong, moonlight refracting on an oily surface, a long gray hand sliding just beneath the surface and reaching up before slipping away, distorted reflections and oppressive stillness, physically plausible water behavior with unsettling realism.
 
 5. filename: five-strangers.jpg
 role: mid_04 (placed after sentence "Cinco ahora.")
-prompt:Photorealistic Circle of fate. Top down view of the five standing in a rough circle around the table. The Cube is the center. . [Face_Reference: Geometry, Heads]
+prompt:Photorealistic top-down group composition in the small room, five people forming a rough circle around the table with the Cube at the center, Aldric near the door edge, Dulint and Balin on one side, Xandor opposite, Maris newly arrived and exhausted, candlelight and cold blue spill mixing on faces, clear readable expressions and grounded body language, cinematic realism. [Face_Reference: Aldric, Dulint, Balin, Xandor, Maris]

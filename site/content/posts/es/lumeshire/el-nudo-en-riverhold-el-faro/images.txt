@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Nudo en Riverhold: El Faro
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-010-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: aldric-interrogates.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Aldric's face in profile, intense concentration. The others are blurred in the background. . [Face_Reference: Aldric]
+prompt:Photorealistic dark fantasy tavern room interior at dusk, Aldric in sharp profile close-up with controlled intensity as he listens and interrogates, candlelight warming one side of his face while the Cube throws faint cold-blue edge highlights, blurred figures of Dulint, Balin and Xandor behind him near a table with scattered notes and travel gear, shallow depth of field, realistic skin and fabric textures, tense cinematic realism. [Face_Reference: Aldric]
 
 2. filename: sense-mode.jpg
 role: mid_01 (placed after sentence "como un faro que nunca deja de señalar")
-prompt:Photorealistic Light pollution. The Cube's light bleeding into the shadows of the room, revealing dust and old cobwebs. .
+prompt:Photorealistic interior detail shot of the Cube on cloth, its blue light bleeding into the room corners and catching drifting dust, cobweb threads and scratched wood grain, candle stubs and old plaster textures visible in the gloom, moody low-key realism with physically plausible light falloff.
 
 3. filename: blocked-roads.jpg
 role: mid_02 (placed after sentence "Están vigilando cada camino principal fuera de la ciudad.")
-prompt:Photorealistic Exterior threat. A view of a city gate at night, with dark figures watching. Rain slicked cobblestones. . [Face_Reference: Watchers]
+prompt:Photorealistic exterior night at a Riverhold city gate in rain, slick cobblestones reflecting torchlight, armed silhouettes posted with purposeful spacing, wagon ruts and puddles, wet stone walls and ironwork, tense surveillance atmosphere, wide angle with strong depth and realistic rain streaks.
 
 4. filename: aldric-targeted.jpg
 role: mid_03 (placed after sentence "ahora estaba girada casi directamente hacia él")
-prompt:Photorealistic Uncomfortable scrutiny. Close up on Aldric's eyes, reflecting the blue light of the cube. He looks trapped by the attention. . [Face_Reference: Aldric]
+prompt:Photorealistic extreme close portrait of Aldric's eyes catching the Cube's blue reflection, pupils tight and jaw set, subtle sweat sheen and fine facial detail visible, background falling into darkness, the feeling of being watched rendered through light and expression, cinematic realism. [Face_Reference: Aldric]
 
 5. filename: waiting-at-sunset.jpg
 role: mid_04 (placed after sentence "pintando Riverhold en tonos de naranja y rojo")
-prompt:Photorealistic Cityscape. High angle view of Riverhold rooftops at sunset. The shadows are long. Somewhere down there, trouble is coming. . [Face_Reference: City]
+prompt:Photorealistic high-angle cityscape of Riverhold rooftops at sunset, orange and red light washing tiles while long shadows stretch between chimneys, thin smoke lines rising, distant streets beginning to darken, a subtle sense of impending trouble through composition and empty negative space, grounded cinematic realism.
