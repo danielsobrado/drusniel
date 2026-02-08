@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Hierba Donde Cayó: El Despertar
 Language: es
-Canon Sequence: AST-M-006
+Canon Sequence: W-012-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: waking-in-field.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Maris waking up in the grass. The perspective is at ground level, through the blades of grass. The sun is setting in the background. . [Face_Reference: Maris]
+prompt:Photorealistic ground-level view through wet grass blades, Maris waking with her cheek pressed to cold damp earth, breath shallow, eyes opening in confusion, distant bird singing as if nothing happened, golden sun hanging low toward evening despite her memory of morning, dew on stubble and mud on her hands, grounded cinematic realism. [Face_Reference: Maris]
 
 2. filename: blood-on-fingers.jpg
 role: mid_01 (placed after sentence "Sus dedos volvieron con el sabor cobrizo de la sangre.")
-prompt:Photorealistic Shock detail. Maris looking at her trembling hand. A smear of blood is visible. The background is the golden field. . [Face_Reference: Maris]
+prompt:Photorealistic close portrait of Maris touching her swollen tongue and pulling her fingers back with a metallic smear of blood, hands trembling from the aftermath, headache pain visible in the tension around her eyes, harvested field stubble and golden light behind her, gritty realism. [Face_Reference: Maris]
 
 3. filename: riverhold-in-distance.jpg
 role: mid_02 (placed after sentence "La silueta del pueblo era visible contra el horizonte")
-prompt:Photorealistic Landscape scale. A very wide shot of the field with Maris as a tiny speck in the center, and Riverhold far in the distance under a dramatic sky. . [Face_Reference: Maris]
+prompt:Photorealistic very wide shot of recently harvested farmland, Maris a small solitary figure standing in the center with unsteady posture, Riverhold’s silhouette far on the horizon with walls and rooftops and faint chimney smoke, late-day sky heavy with light, the sense of lost hours and isolation, grounded cinematic realism.
 
 4. filename: vision-fragment-hand.jpg
 role: mid_03 (placed after sentence "Y una mano—piel gris-oscura, dedos largos—deslizándose bajo")
-prompt:Photorealistic Abstract horror. The vision overlaying reality. The field of grass seems to turn into black water at the edges. A grey hand reaches up from the earth. .
+prompt:Photorealistic vision fragment rendered as a realistic hallucination, the harvested field edges seeming to darken into thick black water in her peripheral vision while a gray-dark long-fingered hand appears to rise and slip away, not stylized and not fantasy-glow, just wrong and vivid like intrusive memory, grounded unsettling realism.
 
 5. filename: maris-walks-shakily.jpg
 role: mid_04 (placed after sentence "Maris siguió caminando.")
-prompt:Photorealistic Movement beat. Maris walking away from the camera towards the sunset and the town. Her silhouette is weary. The long shadows of the stubble stretch out. . Camera: Low angle from behind. [Face_Reference: Maris]
+prompt:Photorealistic low-angle rear shot of Maris walking toward Riverhold across long rows of harvested stubble, legs shaking but continuing, long shadows stretching from the stalks, her silhouette weary against the lowering sun, the pull toward the town implied by her fixed direction, grounded cinematic realism.

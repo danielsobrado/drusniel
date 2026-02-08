@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Charla de Taberna
 Language: es
-Canon Sequence: L-004
+Canon Sequence: P-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: rusty-axe-tavern.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Exterior of the Rusty Axe at night. Light spilling from windows onto muddy ground. Mist swirling around the foundations. .
+prompt:Photorealistic exterior night shot of the tavern El Hacha Oxidada at the village edge, weathered timber walls dark with age, warm light spilling from small windows onto muddy ground, thin mist curling around the foundations, faint smoke from a chimney, quiet rural darkness pressing close, grounded cinematic realism, no text, no logo, no watermark.
 
 2. filename: guards-gossiping.jpg
 role: mid_01 (placed after sentence "Ya estaban encorvados alrededor de una mesa")
-prompt:Photorealistic The Huddle. Top down view of the table. Hands, mugs, weapons resting on wood. The circle of trust (or fear). .
+prompt:Photorealistic interior tavern table scene, five guards hunched around rough wood near the hearth, sweaty air and sour beer implied by stained mugs and damp cloaks, hands resting near weapons on the table, a worn lute player blurred in the background, firelight and smoke haze, documentary-style realism, no text, no logo, no watermark. [Face_Reference: Varian, Elric]
 
 3. filename: elara-story.jpg
 role: mid_02 (placed after sentence "La única mujer del grupo, se había probado dos veces")
-prompt:Photorealistic Power dynamic. Elara speaking, the men looking uncomfortable. Brynn looking away, Tormund staring. . [Face_Reference: Reactions]
+prompt:Photorealistic close group shot as Elara speaks calmly but carries the room, the men around the table tense and uncomfortable, Brynn forcing a laugh that does not reach his eyes, Tormund leaning in despite himself, Elric watching the door line, Varian listening with guarded doubt; firelight flicker, smoke in the air, grounded cinematic realism, no text, no logo, no watermark. [Face_Reference: Elara, Varian, Elric]
 
 4. filename: varian-reflection.jpg
 role: mid_03 (placed after sentence "observando la luz del fuego jugar en la superficie oscura")
-prompt:Photorealistic Haunted. Close up on Varian's face, lit from below by the reflection in the mug (or table candle). Shadows dancing on his features. He looks old for his age. .
+prompt:Photorealistic close portrait of Varian staring into a bitter beer mug, firelight rippling across the dark surface and reflecting up onto his face, eyes tired and thinking of tracks and silence, soot and sweat on skin, shadows dancing over his features, shallow depth of field isolating him from the tavern noise, cinematic realism, no text, no logo, no watermark. [Face_Reference: Varian]
 
 5. filename: gruesome-trees.jpg
 role: mid_04 (placed after sentence "guardando sus secretos como dientes guardando una lengua")
-prompt:Photorealistic Silent sentinels. A view from the village edge looking into the forest. The darkness between the trees seems absolute. No detail, just void. .
+prompt:Photorealistic view from the village edge into the Grukmar forest at night, trees packed tight like a wall, darkness between trunks unnaturally deep, faint mist at ground level, no movement and no birds, the forest holding its secrets in silence, grounded cinematic realism, no text, no logo, no watermark.

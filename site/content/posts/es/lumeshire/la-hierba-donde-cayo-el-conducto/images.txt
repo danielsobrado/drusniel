@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Hierba Donde Cayó: El Conducto
 Language: es
-Canon Sequence: AST-M-009
+Canon Sequence: W-012-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: beggar-appears.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Night scene in an alley. Maris (pale woman) is cornered by the sudden appearance of the beggar in rags. . Camera: High angle looking down at the encounter. Lighting: Single light source from above (window or lamp). [Face_Reference: Maris]
+prompt:Photorealistic night street in Riverhold, Maris pressed back near a wall as an old beggar seems to appear from nowhere in front of her with a hand extended, ragged clothes and matted beard, cheap wine and unwashed cloth implied by grime and damp fabric, single overhead lamp casting hard shadows and isolating them in a pool of light, claustrophobic alley depth, grounded cinematic realism. [Face_Reference: Maris]
 
 2. filename: coin-transformation.jpg
 role: mid_01 (placed after sentence "Los dedos del mendigo se cerraron alrededor del cobre.")
-prompt:Photorealistic Detail focus. The copper coin in the beggar's palm. It reflects a strange light, or just the street lamp, but it looks significant. The hand tells the story of poverty. [Face_Reference: Coin]
+prompt:Photorealistic close-up of a copper coin in the beggar’s palm as his fingers close around it, the hand suddenly steady, cracked nails and weathered skin telling poverty and age, the coin catching the lamp light with an odd emphasis, shallow depth of field, grounded realism.
 
 3. filename: beggar-prophecy.jpg
 role: mid_02 (placed after sentence "El ahogamiento. Los ojos del mendigo estaban mirando a través de ella ahora")
-prompt:Photorealistic Supernatural portrait. The beggar's face is split—one side looks like a normal old man, the other side is shadowed and looks like a conduit for something ancient. Lighting: Split lighting (warm/cold).
+prompt:Photorealistic close portrait of the beggar as his eyes snap into focus and then seem to look through Maris, his voice changed and flat as if reading lines, split lighting from the street lamp and deeper shadow makes his face feel unfamiliar without stylizing it, Maris in the edge of frame frozen in alarm, gritty night realism.
 
 4. filename: beggar-wanders-off.jpg
 role: mid_03 (placed after sentence "Se alejó tambaleándose ligeramente, ya olvidando su rostro.")
-prompt:Photorealistic Isolation beat. Maris standing alone in the street after the beggar has left. She looks small. The street is empty and long. . Camera: Wide shot from behind. [Face_Reference: Maris]
+prompt:Photorealistic wide night shot after the conduit moment, the beggar already wandering away unsteadily down the street while Maris remains alone under the lamp, hands trembling and face tight with pain behind her eyes, long empty street perspective and damp stone textures, grounded cinematic realism. [Face_Reference: Maris]
 
 5. filename: wanderers-rest-sign.jpg
 role: mid_04 (placed after sentence "Su cartel mostraba a un viajero con un bastón de caminar")
-prompt:Photorealistic Environment detail. The inn's sign swinging in the wind. Rain or mist is starting. The warm light from the window promises safety but also answers.
+prompt:Photorealistic exterior of the inn El Descanso del Viajero at night, hanging sign showing a traveler with a walking staff swinging slightly in wind, thin mist starting, warm light spilling from windows onto wet street stones, muffled conversation inside, the doorway framed as both refuge and threshold, grounded cinematic realism.

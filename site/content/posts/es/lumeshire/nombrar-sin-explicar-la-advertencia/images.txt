@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Nombrar Sin Explicar: La Advertencia
 Language: es
-Canon Sequence: AST-M-009
+Canon Sequence: W-014-002
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: xandor-explains-beacon.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Xandor and the group around the glowing cube. The light casts long, distorted shadows on the walls behind them. . [Face_Reference: Xandor]
+prompt:Photorealistic back-room table scene at night, Xandor composed but tense as he explains the Beacon, Dulint listening with practical calm, Balin anxious and trying to hide it, Aldric suspicious with eyes scanning, Maris pale and exhausted from the constant scream; the Cube on the table emits a soft cold pulse that stretches long distorted shadows across the walls, candlelight mixing with blue spill, grounded cinematic realism. [Face_Reference: Xandor, Dulint, Balin, Aldric, Maris]
 
 2. filename: aldric-realization.jpg
 role: mid_01 (placed after sentence "Nos están rastreando, dijo Aldric. No era una pregunta.")
-prompt:Photorealistic Paranoia beat. Aldric checking the window. From outside, looking in. We see Aldric's face through the glass, and the reflection of the dark street behind us. . [Face_Reference: Aldric]
+prompt:Photorealistic exterior night view from a dark street looking into a lit upstairs window, Aldric’s face visible through the glass as he checks outside with grim certainty, his reflection layered with the street behind the camera, rain-damp stone and faint mist, voyeuristic tension, grounded cinematic realism. [Face_Reference: Aldric]
 
 3. filename: maris-screaming-silence.jpg
 role: mid_02 (placed after sentence "Maris se rio, y el sonido fue afilado y amargo.")
-prompt:Photorealistic Psychic visualization. Maris covering her ears. The air around her is filled with jagged, static-like lines representing the 'screaming' of the artifact. . [Face_Reference: Maris]
+prompt:Photorealistic close portrait of Maris reacting with bitter laughter, one hand pressed to her temple as if the silent scream is physical, eyes wet with exhaustion and pain, the Cube’s cold light edging her features while the rest of the room stays warm and dim, convey the noise through expression and posture rather than drawn effects, grounded cinematic realism. [Face_Reference: Maris]
 
 4. filename: wyrmreach-vision.jpg
 role: mid_03 (placed after sentence "La mano ahogándose. El agua negra.")
-prompt:Photorealistic Nightmare manifest. The Black Water rising up from the floor of the tavern room, spectral and dark. A pale hand breaks the surface. The characters don't see it, but it's there. .
+prompt:Photorealistic vision insert of black water and a gray-dark long-fingered hand sliding under the surface, thick oil-like water swallowing light, a small boat implied by a dark plank edge, oppressive starless twilight above, grounded realism with unsettling detail.
 
 5. filename: beacon-pulse.jpg
 role: mid_04 (placed after sentence "El Faro pulsó sobre la mesa, su luz suave de alguna manera más ominosa ahora.")
-prompt:Photorealistic Signal transmission. The Cube on the table. Faint lines of light are shooting up from it into the ceiling/sky, like a beacon beam. . [Face_Reference: Beam]
+prompt:Photorealistic close shot of the Cube pulsing on the table, its soft light somehow more ominous, candle flames bending slightly as if reacting, the room’s shadows shifting with each pulse, faces around it tense and small in the frame, the idea of transmission shown through light spill and atmosphere without a literal beam, grounded cinematic realism. [Face_Reference: Xandor, Dulint]

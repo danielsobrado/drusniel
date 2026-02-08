@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Rumbo al Norte: El Conteo
 Language: es
-Canon Sequence: AST-M-021
+Canon Sequence: W-018-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: balin-aldric-walking.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Balin (young dwarf) walking in the foreground, looking at the horizon. Aldric is a silhouette behind him. The mountains are vast and overwhelming. . [Face_Reference: Balin]
+prompt:Photorealistic mountain trail at dawn, Balin walking in the foreground counting ridgelines under his breath, eyes fixed on the vast horizon of stone waves beyond the trees, Aldric pacing beside him with constant vigilance scanning the treeline, cold highland air and pine scent implied by mist and damp needles, layered ridges fading into blue haze, cinematic realism with readable faces. [Face_Reference: Balin, Aldric]
 
 2. filename: mountain-ridges.jpg
 role: mid_01 (placed after sentence "Dieciocho crestas. ¿Cuál es el propósito?")
-prompt:Photorealistic Landscape abstraction. The layers of mountain ridges fading into blue haze. They look like waves of stone. Birds are flying high above. .
+prompt:Photorealistic wide landscape of eighteen mountain ridges layered into the distance like stone waves, blue haze softening the far peaks, a break in the clouds revealing one ridge Balin would count as extra, tiny birds high above for scale, grounded cinematic realism.
 
 3. filename: dulint-checks-ground.jpg
 role: mid_02 (placed after sentence "Dulint se volvió, su rostro ilegible. El suelo se ve mal aquí.")
-prompt:Photorealistic Tension detail. Dulint's hand hovering over the ground as if feeling heat or vibration. The texture of the disturbed earth is visible. . [Face_Reference: Dulint]
+prompt:Photorealistic tension detail on the trail, Dulint stopped and crouched, face unreadable as he studies the ground, gloved hand hovering over disturbed earth and subtle irregularities in moss and soil, Xandor behind him with staff, Balin frustrated in the background, overcast light and wet textures, cinematic realism. [Face_Reference: Dulint, Balin, Xandor]
 
 4. filename: maris-sees-echoes.jpg
 role: mid_03 (placed after sentence "Solo... ecos. Violencia antigua.")
-prompt:Photorealistic Visionary overlap. Maris standing in the forest, but the trees around her are ghostly/transparent, revealing ancient ruins or bones beneath the roots. . [Face_Reference: Maris]
+prompt:Photorealistic medium close portrait of Maris pausing mid-walk with eyes losing focus, expression flat as if her mind is pulled elsewhere, the forest around her ordinary but with faint, realistic hints of old violence in the ground, scuffed stones and half-buried remnants rather than magical overlays, muted daylight, cinematic realism. [Face_Reference: Maris]
 
 5. filename: balin-frustrated-patience.jpg
 role: mid_04 (placed after sentence "Primera vez entendiendo que la paciencia y la frustración pueden existir")
-prompt:Photorealistic Character contemplation. Balin sitting on a rock during the break/detour, chin in hand. He looks at an insect or flower near his boot, trying to be patient. . [Face_Reference: Balin]
+prompt:Photorealistic quiet break during the detour, Balin sitting on a rock with chin in hand, frustration on his face as he tries to force patience, staring at a small insect near his boot, Dulint and Xandor farther off still choosing a careful route, soft overcast light, grounded cinematic realism. [Face_Reference: Balin]

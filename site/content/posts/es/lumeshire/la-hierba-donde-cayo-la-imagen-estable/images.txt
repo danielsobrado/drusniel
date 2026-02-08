@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Hierba Donde Cayó: La Imagen Estable
 Language: es
-Canon Sequence: AST-M-007
+Canon Sequence: W-012-002
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: maris-on-fence.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Maris leaning against a fence post, head in hands. The field around her is vast and empty. The sky is darkening. . [Face_Reference: Maris]
+prompt:Photorealistic late afternoon at the edge of a wide empty field, Maris leaning against a rough wooden fence post with trembling hands pressed to her face, shoulders slumped from exhaustion, darkening sky and wind bending tall grass, distant tree line barely visible, the feeling of a vision returning shown through her tense posture and shallow breathing, grounded cinematic realism. [Face_Reference: Maris]
 
 2. filename: vision-boat-black-water.jpg
 role: mid_01 (placed after sentence "Se mecía en agua que se movía mal")
-prompt:Photorealistic Surreal landscape. The black boat on the black water. The horizon is broken/wrong. The water reflects a sky that isn't there. .
+prompt:Photorealistic vision insert of a small dark wooden boat rocking on black water that moves wrong, thick like oil that seems almost alive, the surface swallowing light and reflecting an unplaceable twilight, faint massive shapes shifting far above in a starless sky, wind-driven spray and cold haze, unsettling but realistic detail.
 
 3. filename: vision-hand-reaching.jpg
 role: mid_02 (placed after sentence "Piel gris-oscura. Dedos largos.")
-prompt:Photorealistic Anatomical detail. The grey hand reaching up. The fingers are impossibly long, the joints sharp. It looks alien but beautiful. The black water clings to it like syrup.
+prompt:Photorealistic close-up of a gray-dark hand rising from the black water, fingers too long and joints bending in subtly nonhuman ways, water clinging like heavy syrup and dripping back into the void, wet skin texture and cold sheen, the boat edge just out of frame, intense grounded realism.
 
 4. filename: maris-wakes-gasping.jpg
 role: mid_03 (placed after sentence "Maris volvió a sí misma con un jadeo.")
-prompt:Photorealistic Physical reaction. Maris gripping the textured wood of the fence post. Splinters/grain details. Her face is buried against her arm, hiding from the light. . [Face_Reference: Maris]
+prompt:Photorealistic close portrait of Maris jolting back to herself with a sharp gasp, one hand gripping the fence post so hard the wood grain and splinters show, her face turned in profile and slick with sweat, eyes wide and unfocused as if the image still loops behind them, field blurred in the background, grounded cinematic realism. [Face_Reference: Maris]
 
 5. filename: maris-walks-on.jpg
 role: mid_04 (placed after sentence "Maris empezó a caminar otra vez.")
-prompt:Photorealistic Journey beat. Maris walking towards the town. A bird flies overhead (crow/raven). The road is straight and narrow. . Camera: Eye level from behind. [Face_Reference: Maris]
+prompt:Photorealistic roadside three-quarter profile of Maris walking toward distant Riverhold walls, straight narrow road cutting through fields, a single crow circling high overhead, her posture determined despite fatigue, the pull in her chest implied by her fixed stare ahead, evening light cooling toward gray, grounded cinematic realism. [Face_Reference: Maris]

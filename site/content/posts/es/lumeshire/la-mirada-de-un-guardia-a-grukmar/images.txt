@@ -1,26 +1,26 @@
 # Image Prompts
 Title: El Grito
 Language: es
-Canon Sequence: L-003
+Canon Sequence: P-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: watchtower-night.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The watchtower silhouette against a clouded moon. The wood looks rotten and old. . [Face_Reference: Tower]
+prompt:Photorealistic night watchtower scene under a clouded moon, rotten old timbers creaking in cutting wind, Varian and Elric on the platform with firelight catching the tired lines in Elric's face, the village below barely visible as clustered huts under the forest shadow with mist crawling through muddy streets, tense quiet, cinematic realism, no text, no logo, no watermark. [Face_Reference: Varian, Elric]
 
 2. filename: grukmar-legend-discussion.jpg
 role: mid_01 (placed after sentence "Me contó cosas. Cosas que no quieren que se sepan.")
-prompt:Photorealistic Conspiracy. Elric whispering behind his hand. Varian looking over his shoulder at the dark forest. .
+prompt:Photorealistic close two-shot on the watchtower, Elric leaning in with voice lowered as he talks about Grukmar stories, eyes flicking over his shoulder toward the forest as if the night could listen, Varian tense and skeptical but not fully dismissing, brazier glow lighting their faces from below, black treeline filling the background, cinematic realism, no text, no logo, no watermark. [Face_Reference: Varian, Elric]
 
 3. filename: the-scream-reaction.jpg
 role: mid_02 (placed after sentence "Un grito rasgó la oscuridad.")
-prompt:Photorealistic Shattered silence. A view of the village roofs, birds (or bats) taking flight in panic against the moon. . [Face_Reference: Skyline]
+prompt:Photorealistic village at night at the instant a scream tears the darkness, low hut rooftops and chimney smoke under a pale moon, sudden burst of bats taking flight, empty muddy square framed by leaning walls, the feeling of sound hitting the chest rendered through motion and atmosphere, cinematic realism, no text, no logo, no watermark.
 
 4. filename: girl-fighting-shadows.jpg
 role: mid_03 (placed after sentence "luchando contra sombras que solo ella podía ver")
-prompt:Photorealistic Madness. Close up on the girl's face, distorted by terror. Eyes wide, pupils dilated. Sweat and dirt. .
+prompt:Photorealistic close portrait of a terrified twelve-year-old girl stumbling into the open, arms flailing at empty air, face streaked with tears cutting through dirt, pupils dilated, sweat on her upper lip, hands gripping at Varian's sleeve for safety, lantern and torchlight flickering across her features, grounded cinematic realism, no text, no logo, no watermark. [Face_Reference: Girl, Varian]
 
 5. filename: empty-alley-watch.jpg
 role: mid_04 (placed after sentence "Solo oscuridad. Solo un callejón vacío.")
-prompt:Photorealistic The Abyss. The alley mouth, but the shadows look like teeth. Subtle pareidolia. .
+prompt:Photorealistic view down an empty village alley between leaning huts, absolute darkness pooling at the far end, subtle pareidolia in the shadow shapes like teeth without becoming stylized, damp ground and scattered debris, Varian's torchlight falling short of the deepest black, oppressive realism, no text, no logo, no watermark.

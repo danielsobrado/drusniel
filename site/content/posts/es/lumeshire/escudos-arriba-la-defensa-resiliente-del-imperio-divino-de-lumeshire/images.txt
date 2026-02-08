@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: wet-boots-mystery.jpg
 role: header
-prompt:Ultra-detailed header scene. Valarian standing on a dry path, looking down at his boots which are soaked with dark water. No puddle around him. . Camera: Low angle mostly boots. Lighting: Overcast morning. photorealistic dark fantasy realism [Face_Reference: Valarian]
+prompt:Photorealistic overcast morning on the eastern path from the barracks, Valarian in frontier uniform standing on dry packed ground and looking down in confusion at his boots soaked in dark, motionless water, the water clinging and pooling around the leather without any rain puddle on the path, the garrison wall and treeline hinted in the background, eerie stillness and grounded realism. [Face_Reference: Valarian]
 
 2. filename: gray-stone-wall.jpg
 role: mid_01 (placed after sentence "un muro de piedra gris de treinta pies")
-prompt:Environment shot. The massive gray stone wall of the garrison. Mossy near the bottom. Beyond it, the dark, brooding forest of Grukmar. . Camera: Wide shot. Lighting: Flat gray light. photorealistic dark fantasy realism
+prompt:Photorealistic wide view of the garrison wall, a thirty-foot barrier of old gray stone with moss darkening the bottom blocks, fence posts and patrol elements along the top edge, beyond it the dense, brooding Grukmar treeline and marsh-dark undergrowth, flat gray daylight and damp air, grounded cinematic realism.
 
 3. filename: marrek-smoking.jpg
 role: mid_02 (placed after sentence "encontró a Marrek fumando una pipa")
-prompt:Character beat. Marrek leaning against the wall, smoking. He looks haunted, staring at the distant tree line. Smoke rising. . Camera: Profile shot. Lighting: Morning haze. photorealistic dark fantasy realism [Face_Reference: Marrek]
+prompt:Photorealistic morning haze at the western gate, Marrek leaning against the stone with a pipe in hand, smoke lifting in thin threads as he stares past the wall toward the dark treeline, haunted expression and tired posture, cold gray light, realistic skin and fabric textures, cinematic realism. [Face_Reference: Marrek]
 
 4. filename: filing-reports.jpg
 role: mid_03 (placed after sentence "Archivó el informe de avistamiento de Venn")
-prompt:Bureaucracy of denial. A close up of a filing cabinet drawer labelled 'Unexplained' or 'Unverified' (in world script/suggested). It is stuffed full of papers. Valarian's hand adding another one. . Camera: Close up. Lighting: Interior office. photorealistic dark fantasy realism [Face_Reference: Valarian]
+prompt:Photorealistic interior office scene, Valarian filing a thin report page into an overstuffed cabinet drawer, stacks of routine paperwork on the desk (grain shipments, patrol schedules, requisitions), candle stubs and damp wood, his expression controlled and procedural as he adds another sheet to a pile that has gone nowhere, no readable labels, grounded cinematic realism. [Face_Reference: Valarian]
 
 5. filename: invisible-water.jpg
 role: mid_04 (placed after sentence "Esta vez, no había charco.")
-prompt:Horror element. Valarian's boots again, soaking wet, standing on perfectly dry, dusty floorboards in his room. The contrast is stark. . Camera: Floor level. Lighting: Bedroom morning light. photorealistic dark fantasy realism [Face_Reference: Valarian]
+prompt:Photorealistic eerie morning in Valarian's room, floor-level shot of his boots soaking wet again while the dusty floorboards remain perfectly dry, dark water beading and gathering around the leather without forming a normal puddle, pale window light and a simple bed and gear barely visible in the background, unsettling grounded realism.

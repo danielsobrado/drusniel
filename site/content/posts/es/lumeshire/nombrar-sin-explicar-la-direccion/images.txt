@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Nombrar Sin Explicar: La Dirección
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-014-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: planning-departure.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The faces of the group illuminated by the map and the artifact. They look small in the room, huddled against the coming journey. .
+prompt:Photorealistic dim room interior at night, the group huddled around a table as Xandor spreads an annotated map, candlelight mixing with a faint cold pulse from the artifact, faces tight with fatigue and reluctant acceptance, Dulint leaning in with practical focus, Aldric skeptical and watchful, Balin quieter than usual, Maris in the corner exhausted by the constant scream, grounded cinematic realism with readable faces. [Face_Reference: Dulint, Xandor, Aldric, Balin, Maris]
 
 2. filename: xandor-library.jpg
 role: mid_01 (placed after sentence "Xandor se levantó, moviéndose hacia una estantería")
-prompt:Photorealistic Scholar's shadow. Xandor reaching for a book, his shadow stretching long against the books. The shadow looks like it's reaching too. . [Face_Reference: Xandor]
+prompt:Photorealistic interior detail of Xandor standing and reaching toward a shelf of his most precious texts, long candle-cast shadow stretching across book spines and papers, dust motes in the air, his posture calm but urgent, warm light against dark corners, grounded cinematic realism. [Face_Reference: Xandor]
 
 3. filename: maris-exhaustion.jpg
 role: mid_02 (placed after sentence "Maris habló desde su esquina, voz cansada.")
-prompt:Photorealistic Isolation. Maris small in the frame, surrounded by darkness in the corner. She looks frail. . [Face_Reference: Maris]
+prompt:Photorealistic medium-long shot of Maris in a dark corner of the room, shoulders slumped and face drawn with exhaustion, speaking with a flat tired voice about the scream worsening near the artifact, candlelight barely reaching her, the rest of the room blurred and tense, grounded cinematic realism. [Face_Reference: Maris]
 
 4. filename: map-to-frostgard.jpg
 role: mid_03 (placed after sentence "Los fragmentos apuntan al norte. Hacia Frostgard.")
-prompt:Photorealistic Cartography. The map texture, the ink of the mountains. A drop of wax or ink has fallen near Frostgard, looking like blood or a tear. .
+prompt:Photorealistic close-up of Xandor’s annotated map on the table, inked mountain ranges and northern routes marked in tight handwriting, the word Frostgard implied by placement without readable text, a single wax drip near the northern markings like a dark tear, candle stubs and rough wood grain visible, grounded realism.
 
 5. filename: compass-with-teeth.jpg
 role: mid_04 (placed after sentence "El artefacto apuntaba en esa dirección como una brújula con dientes.")
-prompt:Photorealistic Aggressive geometry. The light from the cube forming a jagged, tooth-like shape pointing North. It looks like a maw opening. .
+prompt:Photorealistic close shot of the artifact on the table as its brighter face aligns north, the cold light cutting a jagged wedge across the map like teeth, Dulint and Xandor reacting subtly to the intensity, the sensation of a direction that hurts rendered through light and expression without stylization, grounded cinematic realism. [Face_Reference: Dulint, Xandor]

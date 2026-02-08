@@ -7,20 +7,20 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: zuraldi-overview.jpg
 role: header
-prompt:Ultra-detailed header scene. Anja standing on a high cliff overlooking the vast green forest of Zuraldi. Stonehold mountains in the distance. . Camera: Wide landscape. Lighting: Bright daylight. photorealistic dark fantasy realism
+prompt:Photorealistic wide landscape from a high cliff in Zuraldi, Anja standing at the edge scanning the horizon while a younger apprentice, Torben, squints beside her; below them the dense forest stretches like a green sea broken by glinting rivers and a few clearings, far east the Stonehold peaks rise sharp against a bright sky, wind tugging at cloaks, crisp daylight and grounded cinematic realism. [Face_Reference: Anja, Torben]
 
 2. filename: caravan-trade.jpg
 role: mid_01 (placed after sentence "Marta, la matriarca de los comerciantes")
-prompt:Trade scene. A Zuraldarr caravan meeting with Dwarven merchants on a mountain path. Wains, ponies, crates. Marta shaking hands with Thorin. . Camera: Medium shot. Lighting: Golden hour. photorealistic dark fantasy realism [Face_Reference: Marta, Thorin]
+prompt:Photorealistic mountain pass trade scene at golden hour, Zuraldarr caravan wagons and sturdy mountain ponies lined up on rocky terrain, crates being swapped between crews, Marta (matriarch) shaking hands firmly with Thorin the dwarf merchant whose beard is braided with gold thread, long shadows across the trail, dust and breath in cool air, grounded cinematic realism. [Face_Reference: Marta, Thorin]
 
 3. filename: feast-of-strength.jpg
 role: mid_02 (placed after sentence "El aire se llenó del chisporroteo de la carne")
-prompt:Cultural detail. The massive fire pit with roasting meat. A strong Zuraldarr butcher carving steaks. Smoke and fire. . Camera: Action shot. Lighting: Firelight/Day mix. photorealistic dark fantasy realism
+prompt:Photorealistic village feast, massive central fire pit glowing red with large cuts of meat roasting on iron frames, thick smoke and sparks rising, a strong Zuraldarr butcher carving steaming slabs while villagers watch and talk, firelight mixing with fading daylight, greasy sheen on tools, realistic heat haze and texture, grounded cinematic realism.
 
 4. filename: magda-green-fire.jpg
 role: mid_03 (placed after sentence "las llamas del fuego central se volvieron de un verde espeluznante")
-prompt:Magic ritual. Magda the Witch raising her staff. The bonfire turning green. Shadows stretching unnaturally. The villagers looking awed/scared. . Camera: Low angle. Lighting: Green fire light. photorealistic dark fantasy realism [Face_Reference: Magda]
+prompt:Photorealistic low-angle ritual moment at night, Magda the Witch raising her staff as the village bonfire shifts to an eerie green, unnatural shadows stretching across faces and timber walls, villagers recoiling in awe and fear, green light reflecting in eyes and on skin, smoke swirling upward, grounded dark fantasy realism. [Face_Reference: Magda]
 
 5. filename: xandor-druids.jpg
 role: mid_04 (placed after sentence "Xandor, con la barba más blanca que gris")
-prompt:Druidic lesson. Xandor standing in a circle of younger druids in a deep forest glade. A young druid touching a tree that ripples. . Camera: Eye level. Lighting: Dappled forest light. photorealistic dark fantasy realism [Face_Reference: Xandor]
+prompt:Photorealistic deep forest glade at dawn, Xandor with beard more white than gray leading a circle of younger Zuraldarr druids, their hands calloused and bodies strong, leaf mantles and simple staffs in hand; a young druid presses a palm to an old oak and the bark subtly ripples at the touch, dappled green-gold light filtering through dense canopy, grounded cinematic realism. [Face_Reference: Xandor]

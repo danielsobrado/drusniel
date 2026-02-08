@@ -1,26 +1,26 @@
 # Image Prompts
 Title: La Hierba Donde Cayó: La Desorientación
 Language: es
-Canon Sequence: AST-M-008
+Canon Sequence: W-012-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: maris-on-road.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Low angle shot from the dust of the road. Maris's worn boots in the foreground, the long road stretching out to Riverhold in the background. . [Face_Reference: Maris]
+prompt:Photorealistic low-angle road shot with dust and wagon ruts in sharp foreground, Maris’s worn boots walking steadily toward distant Riverhold gates under a late-day sky, farmers with empty carts passing on the road and a merchant train rattling by, guards glancing at her with casual suspicion, dry dust on her hem and travel grime on leather, grounded cinematic realism.
 
 2. filename: reality-check-pain.jpg
 role: mid_01 (placed after sentence "El dolor funcionaba mejor. Por eso se mordía la lengua.")
-prompt:Photorealistic Visceral detail. Extreme close up on Maris's eye, slightly watering. A tiny drop of blood on her lip (from biting it). The reflection in her eye is normal reality (a tree, the road). . [Face_Reference: Maris]
+prompt:Photorealistic tight portrait of Maris anchoring herself to reality, one eye watering slightly from exhaustion, a small bead of blood at the corner of her lip from biting her tongue, dust on her skin, the road and a tree line reflected in her eye as she repeats that the pain and the dust are real, grounded cinematic realism. [Face_Reference: Maris]
 
 3. filename: riverhold-gate-check.jpg
 role: mid_02 (placed after sentence "El guardia gruñó y la dejó pasar.")
-prompt:Photorealistic Atmospheric transition. The shadow of the gate falling across Maris's face as she walks through. Half in light, half in shadow. . Camera: Tracking shot. [Face_Reference: Maris]
+prompt:Photorealistic Riverhold gate checkpoint at dusk, Maris stepping forward as a tired guard waves her through, the gate’s shadow cutting across her face half in light and half in shade, small pebbled road and worn stone arch around her, mundane travelers in line behind, grounded cinematic realism. [Face_Reference: Maris]
 
 4. filename: riverhold-streets.jpg
 role: mid_03 (placed after sentence "La gente se movía con propósito, terminando el trabajo del día")
-prompt:Photorealistic Social isolation. Maris walking through the crowd, but the crowd is blurred/ghostly (long exposure effect) while she is sharp and still. . Camera: Eye level. [Face_Reference: Maris]
+prompt:Photorealistic street in Riverhold as evening work ends, people moving with purpose past shops and hanging signs, warm inn windows glowing on a corner, Maris walking alone through the flow with an isolated stillness, slight motion blur on the crowd while her tired face stays sharp, grounded cinematic realism. [Face_Reference: Maris]
 
 5. filename: maris-waits-wall.jpg
 role: mid_04 (placed after sentence "Así que esperó. Se apoyó contra la pared mientras el sol bajaba más.")
-prompt:Photorealistic Solitude beat. Maris sitting or leaning in a growing shadow, looking at her hands. The texture of the stone wall is prominent. The light is dying. [Face_Reference: Maris]
+prompt:Photorealistic solitude beat in a narrow street, Maris leaning against a stone wall as the sun drops, growing shadow swallowing her, hands trembling slightly as she watches ordinary life pass, vendors calling and children laughing implied in soft background blur, her expression strained by waiting and the pull in her chest, textured stone and dying light, grounded cinematic realism. [Face_Reference: Maris]

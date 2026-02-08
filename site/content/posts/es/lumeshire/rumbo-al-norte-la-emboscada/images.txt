@@ -11,7 +11,7 @@ prompt:Photorealistic forest ambush erupting from the right flank, the quiet tre
 
 2. filename: grukmar-face.jpg
 role: mid_01 (placed after sentence "Balin captó un vistazo—piel gris-verdosa, demasiados dientes")
-prompt:Photorealistic close-up of a Grukmar attacker as Balin glimpses it in panic, gray-green skin, too many teeth, yellow predatory eyes with focused intelligence, saliva stringing between tusks, crude armor and a cleaver-like weapon raised, wet breath in the cool air, gritty grounded realism.
+prompt:Photorealistic close-up of a Grukmar attacker as Balin glimpses it in panic, gray-green skin, too many teeth, yellow predatory eyes with focused intelligence, saliva stringing between tusks, crude armor and a cleaver-like weapon raised, wet breath in the cool air, gritty grounded realism. [Face_Reference: Balin]
 
 3. filename: defending-dulint.jpg
 role: mid_02 (placed after sentence "Quien quiera esa mochila pasa por mí.")

@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Señales en la Frontera
 Language: es
-Canon Sequence: L-005
+Canon Sequence: P-005
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: captains-map.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. Close up on the map where Aldric's finger is pointing. The line of the border is worn from touching. . [Face_Reference: Aldric]
+prompt:Photorealistic candlelit captain’s quarters with damp wood walls and stale wax smell implied by pooled drips, Aldric leaning over a desk buried in overlapping maps with peeling corners, finger tracing a ridge line on the parchment while Varian stands stiffly at attention across the desk, Elric beside him holding a charcoal sketch; low warm candlelight, wet map texture and worn ink lines, tense quiet realism. [Face_Reference: Aldric, Varian, Elric]
 
 2. filename: mist-patrol.jpg
 role: mid_01 (placed after sentence "La niebla se enroscaba entre troncos erosionados")
-prompt:Photorealistic Forest claustrophobia. The trees looming over the path. The mist looks like it's reaching for the soldiers. . [Face_Reference: Trees, Mist]
+prompt:Photorealistic misty forest patrol on an old game trail, fog curling between eroded trunks and swallowing sound, pale reluctant sunrise behind them, Varian leading with tense eyes on the shadows, Elric close by gripping a spear, two younger guards (Hal and Leofric) following with white knuckles, claustrophobic depth and damp air, grounded cinematic realism. [Face_Reference: Varian, Elric]
 
 3. filename: fresh-tracks.jpg
 role: mid_02 (placed after sentence "Las huellas estaban ahí.")
-prompt:Photorealistic Threat evidence. Elric's hand pointing at the track. The mud on his finger. The contrast between the alien print. .
+prompt:Photorealistic close ground-level detail in gray clay under ferns, fresh clawed footprints deep and splayed with water seeping into the depressions, Elric pointing with muddy finger while Varian crouches beside him, their breath visible in the cold mist, sharp texture on wet clay and crushed plants, documentary realism. [Face_Reference: Varian, Elric]
 
 4. filename: outpost-return.jpg
 role: mid_03 (placed after sentence "El puesto se alzaba adelante")
-prompt:Photorealistic Sanctuary. View from the gate looking OUT at the returning patrol. They look like shadows emerging from the night. .
+prompt:Photorealistic dusk return to the outpost, view from the gate looking out as the patrol emerges from fog like dark silhouettes, palisade timbers and iron hardware wet with evening damp, torchlight flaring against the gray treeline, the sky bleeding into twilight, grounded cinematic realism.
 
 5. filename: yard-report.jpg
 role: mid_04 (placed after sentence "Aldric esperaba en el patio iluminado por antorchas.")
-prompt:Photorealistic Leadership burden. Aldric's face in the firelight. Deep shadows in his eyes. He looks like he knows what's coming. . [Face_Reference: Aldric]
+prompt:Photorealistic torchlit yard inside the palisade, Aldric waiting with distant, heavy eyes as Varian gives a tired report, firelight carving hard shadows across Aldric’s lined face, guards and cookfire smoke blurred in the background, the dark beyond the wall swallowing detail, grounded cinematic realism. [Face_Reference: Aldric, Varian]

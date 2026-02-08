@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Sin Rastros
 Language: es
-Canon Sequence: L-006
+Canon Sequence: P-006
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: climb-to-outpost.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The outpost looming above on the hill, shrouded in mist. Varian is a small figure climbing towards it. . [Face_Reference: Outpost]
+prompt:Photorealistic gray dawn climb toward the frontier outpost on a hill, thick mud tugging at Varian’s boots as he climbs with Elric one step behind, the palisade and watch platform looming above through cold fog, Varian’s face tense and tired in three-quarter view, damp cloaks and leather gear flecked with mud, bleak realistic atmosphere. [Face_Reference: Varian, Elric]
 
 2. filename: rider-report.jpg
 role: mid_01 (placed after sentence "Hombros encorvados como si hubieran cargado algo pesado")
-prompt:Photorealistic Weight of news. Close up on the muddy cloak of a rider, dripping on the floor. Aldric's hands in the background, clenched. . [Face_Reference: Aldric]
+prompt:Photorealistic interior of Aldric’s office, two riders facing the desk with mud-splattered cloaks and hunched shoulders, wet drips pooling on the floorboards, Aldric behind the desk with hands spread flat on the wood and eyes lifted like a storm coming, Varian and Elric just inside the door listening, candlelight and damp wood textures, tense grounded realism. [Face_Reference: Aldric, Varian, Elric]
 
 3. filename: night-watch-silence.jpg
 role: mid_02 (placed after sentence "Nada más que el crujir de sus botas")
-prompt:Photorealistic Isolation. Varian's face in the torchlight, surrounded by absolute blackness. He looks alone. . [Face_Reference: Varian]
+prompt:Photorealistic night watch at the edge of the palisade, Varian walking with a torch, his face lit harshly against near-total blackness beyond the wall, the forest line perfectly still with no wind and no birds, only boot crunch and breath implied, claustrophobic darkness pressing close, cinematic realism. [Face_Reference: Varian]
 
 4. filename: rabbit-scare.jpg
 role: mid_03 (placed after sentence "Un conejo aterrorizado que corrió entre los postes")
-prompt:Photorealistic Nervous laugh. Elric sagging against the wall, weapon lowered. A mix of relief and shame on his face. . [Face_Reference: Elric]
+prompt:Photorealistic torchlit palisade moment, a terrified rabbit sprinting between posts in the foreground, Elric slumped against the wall with weapon lowered, laughing shakily with relief and embarrassment, Varian beside him still rigid and unsmiling with hands not quite steady, wet timber textures, cold night air, grounded cinematic realism. [Face_Reference: Elric, Varian]
 
 5. filename: inhuman-prints.jpg
 role: mid_04 (placed after sentence "huellas, largas y abiertas, inconfundiblemente inhumanas")
-prompt:Photorealistic The Border. A view of the treeline from where the tracks were found. The forest looks like a wall of teeth. .
+prompt:Photorealistic dawn at the treeline beyond the outpost, a small group standing in tense silence over long, open, inhuman footprints pressed into wet ground, Elric crouched tracing one print with a finger while Varian stares into the dark spaces between trunks, gray sky and damp air, the forest reading like a wall, grounded cinematic realism. [Face_Reference: Varian, Elric]
