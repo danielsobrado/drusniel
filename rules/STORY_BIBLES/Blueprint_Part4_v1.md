@@ -551,7 +551,7 @@ She now controls WHEN they can leave her domain. The "conversation owed" from Pa
 
 **Character beat**: Drusniel wanted to refuse. But the volcanic plate-fields were behind them, Szoravel's tower was collapsing, and Nyxara's hand was extended, steady, with the kind of patience that came from knowing she couldn't be refused.
 
-**Hook**: "'You owe me a conversation,' Nyxara said. She wasn't smiling. She was waiting. 'I've been patient. Szoravel was not the patient type. Look where that got him.' She gestured toward the smoke rising from the tower. 'Walk with me. Tell me about the artifact. And I'll get you to the barrier alive.'"
+**Hook**: "'You owe me a conversation,' Nyxara said. No smile, just waiting. 'I've been patient. Szoravel wasn't.' She gestured toward the smoke rising from the tower. 'Walk with me. Tell me about the artifact, and I'll get you to the barrier alive.'"
 
 ---
 
@@ -579,7 +579,7 @@ She now controls WHEN they can leave her domain. The "conversation owed" from Pa
 
 **Character beat**: It was the first time in weeks that danger wasn't immediate. The food was warm. The route was clear. The company was intelligent. Drusniel caught himself relaxing, and the catching felt like a warning he didn't want to hear.
 
-**Hook**: "'Your body,' Nyxara said, watching him eat without discomfort in the volcanic heat. 'It doesn't fight this place anymore.' She traced a finger along a black crystal formation. 'How long have you been using these?' Drusniel didn't answer. He hadn't thought about it. 'You're adapted,' she said. Flatly. 'That changes what you can do. And what can be done to you.'"
+**Hook**: "'Your body doesn't fight this place anymore,' Nyxara said, watching him eat in the volcanic heat. She traced a finger along a black crystal formation. 'How long have you used them?' Drusniel didn't answer. He hadn't thought about it. 'You're adapted,' she said. Flatly. 'That changes what you can do. And what can be done to you.'"
 
 ---
 
@@ -611,7 +611,7 @@ She now controls WHEN they can leave her domain. The "conversation owed" from Pa
 
 **Character beat**: She asked the right questions. Not what he knew — what he believed. And he told her, because she listened the way Annariel used to listen: completely. By the time he realized how much he'd said, the conversation was over, and she was looking at him like he'd confirmed something she'd hoped was true.
 
-**Hook**: "'One last question,' Nyxara said. She stopped walking. The others were far ahead. 'If someone told you the barrier must be renewed — not destroyed, renewed — and the cost was everything you hold sacred... would you do it?' Drusniel didn't hesitate. 'Yes.' She nodded. Something in her eyes shifted. Not satisfaction. Certainty. 'Good,' she said. 'Then we understand each other.' She started walking again. Drusniel stood still for three steps before following. He didn't know what he'd agreed to. He was afraid he'd find out."
+**Hook**: "'One last question,' Nyxara said. She stopped walking. The others were far ahead. 'If the barrier had to be renewed, not broken, and the cost was everything you hold sacred—would you do it?' Drusniel didn't hesitate. 'Yes.' She nodded. Something in her eyes shifted. Not satisfaction. Certainty. 'Good,' she said. 'Then we understand.' She started walking again. Drusniel stood still for three steps before following. He didn't know what he'd agreed to. He was afraid he'd find out."
 
 ---
 
@@ -698,7 +698,7 @@ They reach Szoravel's secondary location (he has outposts beyond the tower). Szo
 - Nyxara: enters as if she belongs (lord's privilege)
 - **Nyxara spatial tick**: She enters and immediately scans the ceiling, notes the doorframe width, chooses the seat farthest from the low rafters. Szoravel's outpost is cramped for a human lord. For a dragon, it's a cage. She shows no discomfort — only precise positioning.
 - Szoravel: cold. "You weren't invited."
-- Nyxara: "I wasn't aware you controlled the roads."
+- Nyxara: "Since when do you control the roads?"
 - Tension: two authorities in the same room, Drusniel in the middle
 - Drusniel observes: they know each other. The history is hostile.
 
@@ -756,7 +756,7 @@ They reach Szoravel's secondary location (he has outposts beyond the tower). Szo
 
 **Character beat**: Three weeks. Drusniel could live with three weeks. It felt like control — not his control, but someone's. That should have worried him more.
 
-**Hook**: "Nyxara stood. 'Three weeks,' she said, as if testing the words. 'That's your recommendation.' 'It is,' Szoravel said. 'The winds—' 'I know about the winds.' She moved toward the door. 'Three weeks. I'll be nearby.' She left. Srietz's ears twitched. 'She didn't argue,' he said to no one. 'She never doesn't argue.' Drusniel felt something cold move through his chest. Three weeks suddenly felt very long."
+**Hook**: "Nyxara stood. 'Three weeks,' she said, tasting the words. 'Your recommendation.' 'It is,' Szoravel said. 'The winds—' 'I know the winds.' She moved toward the door. 'Three weeks. I'll be nearby.' She left. Srietz's ears twitched. 'She didn't argue,' he said to no one. 'She never doesn't argue.' Drusniel felt something cold move through his chest. Three weeks suddenly felt very long."
 
 ---
 
@@ -771,7 +771,7 @@ They reach Szoravel's secondary location (he has outposts beyond the tower). Szo
 
 **SCENE REQUIREMENTS**:
 - Internal monologue: Drusniel catalogues what he knows
-- Barrier renewal = his sacred duty. He always believed this.
+- Barrier renewal = what he calls his sacred duty. He always believed this.
 - But the MECHANISM is terrifying — one wrong move and the barrier opens instead of strengthening
 - The volcano entity: if the barrier opens, what comes through?
 - His nightmare takes shape: the entity, freed, pouring through a gap he created
@@ -911,7 +911,7 @@ Szoravel dies:
 
 **Character beat**: She was the same person. The same voice. The same patience. The same interest in his beliefs. Except now she was the size of a fortress, and the arguments about timing felt like debates about weather held inside a hurricane.
 
-**Hook**: "'You were going to tell me,' Drusniel said. He didn't know if she could hear him. The wind from her wings was ripping the trees from the hillside. 'EVENTUALLY,' she said. The word shook his ribs. 'WHEN YOU WERE READY.' 'I'm not ready.' 'NO ONE EVER IS. THAT IS WHY I DECIDE TIMING.' She lowered her head. Her eye was larger than he was. 'SZORAVEL THINKS PREPARATION IS CONTROL. IT IS NOT. CONTROL IS SCALE.'"
+**Hook**: "'You were going to tell me,' Drusniel said. He didn't know if she could hear him. The wind from her wings was ripping the trees from the hillside. 'EVENTUALLY,' she said. The word shook his ribs. 'WHEN I JUDGED YOU READY.' 'I'm not ready.' 'NO ONE IS. THAT'S WHY I DECIDE TIMING.' She lowered her head. Her eye was larger than he was. 'SZORAVEL THINKS PREPARATION IS CONTROL. IT ISN'T. CONTROL IS SCALE.'"
 
 ---
 
@@ -953,17 +953,17 @@ Szoravel dies:
 - The Drow thought they were guarding the world. They were maintaining a component.
 
 **SCENE REQUIREMENTS**:
-- Nyxara: human form again. Same face. Same patience. "I'm sorry about Szoravel. He was wrong about sequence."
+- Nyxara: human form again. Same face. Same patience. "I'm sorry about Szoravel. He was wrong about timing."
 - Drusniel: "You knew. The whole time."
-- Nyxara: "I knew. I also wanted to wait. Szoravel forced my hand by sealing the door."
+- Nyxara: "I knew. I wanted to wait. Szoravel sealed the door."
 - She does NOT explain her Dragon Conquest goal. She doesn't need to. The scale showed enough.
 - Drusniel's clarity: no denial, no bargaining. Understanding. Lock 3 activated.
 - He asks: "How long until the barrier window?"
-- Nyxara: "Days. If Szoravel was right about the degradation cycle — and he was right about that — then days."
+- Nyxara: "Days. He was right about the cycle."
 
 **Character beat**: She hadn't lied. That was what ruined him. Everything she'd said as a lord was also true as a dragon. The scale was different. The words were the same. He couldn't find the deception because there wasn't any.
 
-**Hook**: "'What do you need from me?' Drusniel asked. She looked at him with eyes that had been exactly the same in both forms. 'What you already believe. What you've always believed. Duty.' She extended her hand. Human-sized. 'Walk with me to the barrier. Do what your people have done for a thousand years. Maintain it.' 'And if the timing is wrong?' She didn't answer. That was answer enough."
+**Hook**: "'What do you need from me?' Drusniel asked. She looked at him with eyes that had been exactly the same in both forms. 'What you already believe,' she said. 'Duty.' She extended her hand. Human-sized. 'Walk with me to the barrier. Maintain it.' 'And if the timing is wrong?' She didn't answer. That was answer enough."
 
 ---
 
@@ -973,7 +973,7 @@ Szoravel dies:
 - No time for grief. Nyxara sets the pace.
 - The barrier approach is days away. They move.
 - Srietz and Elion follow — they have nowhere else to go
-- Drusniel carries: the artifact, the crystals, the knowledge, the belief, and the weight of knowing that his sacred duty might destroy what it was meant to protect
+- Drusniel carries: the artifact, the crystals, the knowledge, the belief, and the weight of knowing that what he calls sacred duty might destroy what it was meant to protect
 - Stone-tracing: nothing to trace. They're moving through open terrain. His hands have nothing to hold.
 
 **SCENE REQUIREMENTS**:
@@ -1406,9 +1406,9 @@ The barrier is breached. Not because Drusniel is tricked. Because he arrives at 
 - This is how the barrier defends itself: it opens a gap around the intruder, letting what's behind through, to deal with the threat. This is by design. The ancient builders assumed no authorized person would approach at the wrong time.
 - Drusniel: feels the mechanism. Understands it in the instant it kills the world.
 
-**Character beat**: The system had one question for him: are you here at the right time? The answer was no. The system had one response: open.
+**Character beat**: All the system cared about was timing. He wasn't in the window. The response was simple: open.
 
-**Hook**: "The barrier didn't break. It worked. Exactly as designed. Exactly as the ancients intended. It identified a threat at its interface and responded by elimination. The gap opened. Not wide. Not dramatic. Just a seam in the world, splitting like a wound. Through it, he felt the mountain. Through it, the mountain felt everything else."
+**Hook**: "The barrier didn't break. It worked. Light ran along the artifact, up his wrists, and into the place where the sky stopped being sky. The gap opened. Not wide. Not dramatic. Just a seam in the world, neat as a cut. Through it, he felt the mountain. Through it, the mountain felt everything else."
 
 ---
 
@@ -1430,9 +1430,9 @@ The barrier is breached. Not because Drusniel is tricked. Because he arrives at 
 - The Voice: ABSENT. Per Lock 4. The silence is total.
 - Duration: seconds. It takes seconds. That's enough.
 
-**Character beat**: Seconds. It took seconds. The barrier was a thousand years of Drow sacrifice, and it opened in seconds. The sound was not dramatic. It was administrative. A system completing an operation. Click. Done. Through.
+**Character beat**: It took seconds. A thousand years of Drow sacrifice, undone in seconds. The sound was not dramatic. It was administrative. A system completing an operation. Click. Done.
 
-**Hook**: "The sky split along a line he couldn't see. The ground bucked once, hard, like a body receiving a blow. Then the air changed. Not wind. Presence. Something was coming through the gap, and it was not a thing that could be fought or named or reasoned with. It was the weight of what the barrier had been holding back, and it was enormous, and it was already through."
+**Hook**: "The sky split along a line he couldn't see. The ground bucked once, hard, like a body taking a blow. Then the air changed. Not wind. Presence. Something came through the gap, and it wasn't something you could fight. It didn't have a name that mattered. It was the weight of what the barrier had been holding back, and it was here."
 
 ---
 
@@ -1454,9 +1454,9 @@ The barrier is breached. Not because Drusniel is tricked. Because he arrives at 
 - The sky: the wrong color. Permanently.
 - End: Drusniel alone at the barrier's edge. The world behind him is different. The world ahead of him is different. He is the hinge point, and the door has swung.
 
-**Character beat**: The silence after was the worst part. Not because it was quiet. Because it was the sound of a system that had stopped needing him. The debts were paid. The duty was done. The barrier was broken. And Drusniel was still alive, which seemed like an oversight no one would correct.
+**Character beat**: The silence after was the worst part. Not because it was quiet, but because it sounded complete. The system had finished with him. The debts were paid. The duty he'd sworn to keep had done its damage. And Drusniel was still alive, which felt like an oversight no one would correct.
 
-**Hook**: "He knelt in the ash of a world that had been different three seconds ago. The artifact was dead in his hands. The Voice was gone. The barrier behind him was not what it had been. The sky ahead was a color that Drow had no word for, because Drow had never needed to name the color of a mistake that couldn't be taken back."
+**Hook**: "He knelt in the ash of a world that had been different a moment ago. The artifact was dead in his hands. The Voice was gone. The barrier behind him was not what it had been. The sky ahead was a color that Drow had no word for, because Drow had never expected to need one."
 
 ---
 
@@ -1496,7 +1496,7 @@ There is no conflict. The conflict is over. This chapter is the cost landing. Dr
 - The environment: changed. The barrier's damage is visible in reality distortion. The sky. The ground.
 - He is alive. He doesn't know why.
 
-**Hook**: "Breathing hurt. That seemed like information. He catalogued it: lungs working, ribs possibly cracked, hands burned, nose crusted with blood. Alive. Functional. Ruined."
+**Hook**: "Breathing hurt. That seemed like information. He catalogued it: lungs working, ribs possibly cracked, hands burned, nose crusted with blood. Alive, then. Ruined."
 
 ---
 
@@ -1509,9 +1509,9 @@ There is no conflict. The conflict is over. This chapter is the cost landing. Dr
 - The loss feels like amputation — he's been reaching for it since Ch 9. Now there's nothing to reach for.
 - This is the dependency's final cost: he misses the thing that destroyed him.
 
-**Character beat**: He reached for the Voice the way his fingers reached for cracks in stone. Habit. Grounding. The neural pathway of addiction. Nothing answered. The silence wasn't hostile. It was the absence of something that had finished using him.
+**Character beat**: He reached for the Voice the way his fingers reached for cracks in stone. Habit. Something to hold in the dark. Nothing answered. The silence wasn't hostile. It was the absence of something that had finished using him.
 
-**Hook**: "'Are you there?' Silence. 'I did what you asked.' Silence. The Voice had never been kind. But it had been present. Now there was nothing in his head but his own thoughts, and they had nowhere to go."
+**Hook**: "He tried to speak to it anyway, just to fill the space. Nothing answered. The Voice had never been kind. But it had been present. Now there was nothing in his head but his own thoughts, and they had nowhere to go."
 
 ---
 
@@ -1524,9 +1524,9 @@ There is no conflict. The conflict is over. This chapter is the cost landing. Dr
 - The world is wrong around him. He's at the epicenter of wrongness.
 - No resolution. No "what do I do now." Just... sitting. In the ash of a world he changed.
 
-**Character beat**: There was nothing left to catalogue. Nothing left to count. Nothing left to trace. He sat in the ash and existed, which was the minimum a person could do, and even that felt like too much.
+**Character beat**: There was nothing left to catalogue. The habit reached for numbers and found none. He sat in the ash and existed, which was the minimum a person could do, and even that felt like too much.
 
-**Hook**: "Eventually he would have to stand. Eventually he would have to walk back through the barrier zone and find out what remained of the world he'd broken. Eventually someone would ask him why. But for now he sat in the ash, and the sky was the wrong color, and the silence in his head was absolute, and that was all there was."
+**Hook**: "He would have to stand. He would have to walk back through the barrier zone and find out what remained of the world he'd broken. Someone would ask him why. But not yet. For now he sat in the ash under a wrong-colored sky, with absolute silence in his head, and that was all there was."
 
 ---
 
@@ -2274,7 +2274,7 @@ These words MUST NOT appear in any blurb, summary, pitch, or marketing material:
 
 ## Three-Sentence Pitch
 
-> Drusniel has one sacred duty: protect the barrier that separates his world from what lies beyond. When debts accumulate, alliances collide, and an ancient system treats his approach as threat, duty becomes compulsion. He knows the cost. He pays it anyway.
+> Drusniel believes he has one sacred duty: protect the barrier that separates his world from what lies beyond. When debts accumulate, alliances collide, and an ancient system treats his approach as threat, duty becomes compulsion. He knows the cost. He pays it anyway.
 
 ## Blurb Test
 

@@ -522,7 +522,7 @@ Nyxara must be POLITICAL before anything else:
 
 **DRAGON LANGUAGE PROTECTION**: "Lady Nyxara," "the ruler of this domain," "lord of the black garden"—NEVER dragon terminology.
 
-**Hook**: "'Sit,' Nyxara said. It wasn't a request. A servant drew the chair behind Drusniel. 'We have so much to discuss. Starting with what you're carrying. And who sent you to carry it.'"
+**Hook**: "'Sit,' Nyxara said. It wasn't a request. A servant drew the chair behind Drusniel. 'We start with what you're carrying. Then who sent you.'"
 
 ---
 
@@ -553,7 +553,7 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 
 **Character beat**: Drusniel hears himself agree and hates it. Refusal means dying in a field that isn't theirs. Recruitment means becoming a tool for someone who collects people.
 
-**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention—there's something in your head. Isn't there?' The guide watched Drusniel's face. Hunting for a reaction. 'She thought so. Old, isn't it? And hungry.' The guide smiled, showing too many teeth. 'She finds that fascinating.'"
+**Hook**: "The guide turned to leave, then paused. 'Lady Nyxara asked me to mention it: there's something in your head, isn't there?' The guide watched Drusniel's face, hunting for a reaction. 'Old. Hungry.' The guide smiled, showing too many teeth. 'She finds that fascinating.'"
 
 ---
 
@@ -582,7 +582,7 @@ This acceptance is based on Srietz's assessment that Nyxara's word is reliable. 
 **Beat**: Tests Continue / The Trap Recognized
 
 ### Core Conflict
-With Nyxara's guide watching, the group travels deeper into contested territory. Drusniel finds himself anticipating the Voice — and realizes the anticipation itself is the trap. He's becoming dependent. The silence he'll face in the volcano (Ch 27) will prove how deep that dependency runs.
+With Nyxara's guide watching, the group travels deeper into contested territory. Drusniel catches himself waiting for the Voice, and realizes that waiting is the trap. He's becoming dependent. The silence he'll face in the volcano (Ch 27) will prove how deep that dependency runs.
 
 ### FIRST LAW COMPLIANCE
 **Magic used to solve conflict?** NO — this chapter is about the ABSENCE of the Voice
@@ -613,7 +613,7 @@ Without his compulsive observation, he misses something: a guide's signal, a ter
 
 **Why this matters**:
 - Breaks the monotonic Drusniel internal arc (control → exposure → rationalization on repeat)
-- Proves the tics aren't neurosis — they're survival
+- Proves the tics aren't weakness — they're survival
 - Creates a scene the reader can't predict from pattern
 - Makes his RETURN to the tics feel earned, not repetitive
 - The reversal failing is more interesting than the pattern succeeding
@@ -686,9 +686,9 @@ Without his compulsive observation, he misses something: a guide's signal, a ter
 - **Debt psychology**: Expecting help is dependency
 - **Eruption pressure**: The central volcano is active; they feel tremors, see distant lava fountains
 
-**Character beat**: The problem gets solved. Everyone is fine. But Drusniel can't stop thinking about that pause where he waited for a voice that didn't come, and felt disappointed. And the small creatures, disappearing into the stone as if the volcano were home.
+**Character beat**: The problem gets solved. Everyone is fine. But Drusniel can't stop thinking about that pause when he waited for a voice that didn't come, and the disappointment that followed. Nor the small creatures, disappearing into the stone as if the volcano were home.
 
-**Hook**: "He caught himself. He'd been waiting for it. Expecting it. Like an addict counting the hours until the next dose. 'Oh,' he said aloud, to no one. 'That's what this is. That's what it's been doing.' The silence in his head had teeth. Below them, the small armored things skittered across the gap and vanished. They knew where to go. He didn't."
+**Hook**: "He caught himself. He'd been waiting for it. Expecting it. The way his fingers expected a crack in stone, and kept searching until they found one. 'Oh,' he said aloud, to no one. 'That's what this is.' The silence in his head had teeth. Below them, the small armored things skittered across the gap and vanished into the stone. They knew where to go. He didn't."
 
 ---
 
@@ -781,15 +781,15 @@ Without his compulsive observation, he misses something: a guide's signal, a ter
 - **New territory**: Different dangers, different rules
 
 **REQUIRED DIALOGUE: NYXARA'S TERMS (DELIVERED BY GUIDE)**:
-> "Wyrmreach kills those who fight it. Not with claws — with mismatch. Your body expects rules that do not apply here. Heat lies. Distance lies. Magic resists being shaped.
+> "Wyrmreach kills those who fight it. Not with claws, with mismatch. Your body expects rules that don't apply here. Heat lies. Distance lies. Magic resists being shaped.
 >
-> The crystals do not make you stronger. They make you less wrong.
+> The crystals don't make you stronger. They make you less wrong.
 >
-> Use them sparingly. Each time you do, your body learns that this place is normal. And once it learns that… it stops asking whether it should be."
+> Use them sparingly. Each use teaches your body this place is normal. Once it learns that… it stops asking whether it should be."
 
 **Character beat**: The guide leaves. Drusniel should feel relief. Instead, he feels Nyxara's debt settle alongside the others. How many can he carry? And the warning about the crystals... was it a warning, or a sales pitch?
 
-**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. They always do, the old ones.' The guide's smile widened. 'She says she's met things like it before. She knows how to negotiate.' A pause. 'If you survive long enough to need her help.' Then the crystal field swallowed the guide whole."
+**Hook**: "'One more thing,' the guide called back. 'Lady Nyxara says the thing in your head wants your body. The old ones always do.' The guide's smile widened. 'She's met things like it. She knows how to negotiate.' A pause. 'If you live long enough to need her.' Then the crystal field swallowed the guide whole."
 
 **NOTE**: Nyxara's statement "it wants your body" is WRONG—planted for later. The Voice wants Drusniel's choices, not his body. She's reasoning from pattern (possession), not knowledge. This reveals she's sharp but not omniscient.
 
@@ -1007,7 +1007,7 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 ### CRITICAL REFINEMENT: THE VOICE'S ABSENCE
 
 **The Voice does NOT appear in this chapter. At all.**
-- Drusniel reaches for it during the eruption crisis — instinctively, like an addict
+- Drusniel reaches for it during the eruption crisis — instinctively, like a hand reaching for a railing in the dark
 - Nothing answers
 - He solves the problem himself (harder, slower, terrifying)
 - The absence reinforces the dependency arc from Ch 23 (where he first noticed expecting it)
@@ -1065,7 +1065,7 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 - **Black crystals**: Growing thicker in the tunnel walls the deeper he goes
 - **Voice's absence**: He expects it. It doesn't come. He's on his own.
 
-**Character beat**: The potion hit like a fist. Suddenly everything was slow except him. He ran, following the armored shapes ahead, reading cracks like sentences, choosing paths like words. The mountain shook. Too soon. The way back filled with heat. He reached for the Voice out of reflex, the way a drowning man reaches for a rope. Nothing. He kept running.
+**Character beat**: The potion hit like a fist. Suddenly everything was slow except him. He ran, following the armored shapes ahead, reading cracks like sentences, choosing paths like words. The mountain shook. Too soon. The way back filled with heat. He reached for the Voice like a drowning man reaches for rope. Nothing answered. He kept running.
 
 **Hook**: "The tunnel behind him filled with light. Not fire yet. Just heat turning solid. He ran. The Scorchshells were already gone, vanished into passages too small for him. He had to choose. His fingers traced the wall. Two cracks. One led up. One led deeper. No voice whispered which. He chose deeper."
 
@@ -1098,9 +1098,9 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 - **The mystery is the point.** Do not resolve. Do not explain. Leave it.
 - **Immediate cost**: Nosebleed, disorientation, moments of lost time, a shift in his sense of scale
 
-**Character beat**: Something existed here. In the crystals, or behind them, or through them — a distinction that made no sense in language built for smaller things. It pressed against his mind the way an ocean presses against a stone. He didn't drown. He also didn't understand. The blood on his upper lip was warm. The crystals in his hand were warmer.
+**Character beat**: Something existed here. In the crystals, behind them, through them; distinctions that made no sense in language built for smaller things. It pressed against his mind the way an ocean presses against stone. He didn't drown. He didn't understand. The blood on his upper lip was warm. The crystal in his hand was warmer.
 
-**Hook**: "Something looked at him. No — something existed in a direction he hadn't known existed, and for one fraction of a second, the edge of its awareness grazed the place where Drusniel kept his sense of self. It passed. Or it stayed. He couldn't tell the difference. He was still alive. That seemed like an accident."
+**Hook**: "Something looked at him. Not exactly. Something existed in a direction he hadn't known existed, and for one fraction of a second the edge of its awareness grazed the place where Drusniel kept his sense of self. Then it passed. Or it stayed. He couldn't tell the difference. He was still alive. That seemed like an accident."
 
 ---
 
@@ -1119,7 +1119,7 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 - Visions are fragmentary, not cinematic: Szoravel's tower silhouetted against a calmer sky. Maintained paths. Ancient drow craftsmanship. A sense of waiting.
 - Drusniel KNOWS the direction — not intellectually, but physically. His body knows which way to walk.
 - He also knows: Szoravel is past the volcano, not far. The crossing has a far side.
-- **The Voice is still silent.** Drusniel stops reaching for it. He has what he needs without it. That realization is complicated — relief and loss at once.
+- **The Voice is still silent.** Drusniel stops reaching for it. He has what he needs without it. That realization is complicated: relief and loss at once.
 - He fills his pack with crystals. Practical, deliberate — these stabilize his senses in hostile environments.
 
 **WORLDBUILDING ELEMENTS**:
@@ -1127,7 +1127,7 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 - **Szoravel's pull**: Something about Szoravel's presence creates a directional signature that the crystals carry.
 - **Future resource**: Drusniel now knows the crystal chamber exists and how to reach it (seeds for Book 2)
 
-**Character beat**: The visions came without permission. A tower. A sky without ash. A drow older than anyone Drusniel had met, standing in a doorway as if he'd been standing there for years. Waiting. Drusniel didn't know if the vision was an invitation or a warning. But he knew which direction to walk. For the first time in weeks, that was enough.
+**Character beat**: The visions came without permission. A tower. A sky without ash. A drow older than anyone Drusniel had met, filling a doorway as if he'd been there for years. Waiting. Drusniel didn't know if the vision was an invitation or a warning. But he knew which direction to walk. For the first time in weeks, that was enough.
 
 **Hook**: "'I know where he is,' Drusniel said to no one. The chamber hummed around him. The crystals were warm against his chest. He stood, wiped the blood from his lip, and turned back toward the tunnel he'd come from. The way back would be harder. He went anyway."
 
@@ -1159,7 +1159,7 @@ Drusniel enters the Scorchshell tunnels ALONE during an eruption breathing pause
 - **Crystal harvest**: His pack is full. The crystals hum faintly.
 - **Companions' reaction**: Relief, then worry. Drusniel looks like he's seen something he can't name.
 
-**Character beat**: He felt for the wind. Where air moved against the cracks, the stone was thinner. Where the cracks ran cool, the surface was close. He followed the cold the way the Scorchshells followed the heat — instinctively, trusting his fingers more than his eyes. When he stumbled out of the tunnel mouth, the light hit him like a wall. Srietz was already running toward him. Drusniel couldn't remember the last time someone had run toward him.
+**Character beat**: He felt for the wind. Where air moved against the cracks, the stone was thinner. Where the cracks ran cool, the surface was close. He followed the cold the way the Scorchshells followed the heat, instinctively trusting his fingers more than his eyes. When he stumbled out of the tunnel mouth, the light hit him like a wall. Srietz was already running toward him. Drusniel couldn't remember the last time someone had run toward him.
 
 **Hook**: "'What happened?' Srietz asked, steadying him. Drusniel blinked against the daylight. 'I found crystals,' he said. 'And I know where Szoravel is.' 'How?' Drusniel wiped his nose. The blood had dried brown. 'I can't explain it. But I know.' Srietz's ears flattened. 'Srietz does not find that reassuring.' 'Neither do I,' Drusniel said."
 
