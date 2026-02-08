@@ -90,3 +90,5 @@ tools/*.py
 *.txt
 *.log
 *.list
+verify_face_references.py
+summarize_report.py
