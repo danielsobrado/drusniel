@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Distant Land
+Language: en
+Canon Sequence: D-007-009
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: map-overview.jpg
+role: header
+prompt:Ultra-detailed header scene. Top down view of the large map on Zaelar's desk. Detailed coastline of Wyrmreach. Warning symbols. . Camera: Top down. Lighting: Map focus. photorealistic dark fantasy realism
+
+2. filename: pointing-finger.jpg
+role: mid_01 (placed after sentence "Zaelar said, tracing the coastline.")
+prompt:Direction. Close up of Zaelar's long, pale finger pointing to Wyrmreach. . Camera: Macro. Lighting: Shadowed finger. photorealistic dark fantasy realism [Face_Reference: Finger]
+
+3. filename: looking-out-window.jpg
+role: mid_02 (placed after sentence "Zaelar moved to the window.")
+prompt:The View. Zaelar looking out at the gray surface world. Drusniel watching his back. . Camera: Wide shot. Lighting: Silhouette against window. photorealistic dark fantasy realism [Face_Reference: Zaelar]
+
+4. filename: boat-cave.jpg
+role: mid_03 (placed after sentence "Look for the black rocks shaped like broken teeth.")
+prompt:The Hidden Boat. Visualization of the cove. Sharp black rocks. A dark cave mouth. A small boat hidden inside. . Camera: Establishing shot. Lighting: Gloomy/Wet. photorealistic dark fantasy realism [Face_Reference: Cave]
+
+5. filename: warning-signs-map.jpg
+role: mid_04 (placed after sentence "Marked with warning symbols.")
+prompt:Danger Zones. Close up on the "Nightmare Sea" part of the map. Drawings of sea monsters or storms ink. . Camera: Extreme close up. Lighting: Atmospheric. photorealistic dark fantasy realism [Face_Reference: Monsters]

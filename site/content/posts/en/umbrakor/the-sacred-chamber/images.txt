@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Sacred Chamber
+Language: en
+Canon Sequence: D-001-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: obsidian-antechamber.jpg
+role: header
+prompt:Ultra-detailed header scene. The antechamber of Umbra'kor's temple. Carved from living obsidian. Bioluminescent fungi providing eerie blue lighting. Candidates waiting in shadows. . Camera: Wide shot. Lighting: Bioluminescent. photorealistic dark fantasy realism [Face_Reference: Architecture]
+
+2. filename: counting-nervous-habit.jpg
+role: mid_01 (placed after sentence "Your thumb... tapping.")
+prompt:The Tell. Close up of Drusniel's hand against his robes. Thumb pressing against index finger. . Camera: Macro. Lighting: Shadowed. photorealistic dark fantasy realism
+
+3. filename: annariel-whisper.jpg
+role: mid_02 (placed after sentence "We have each other.")
+prompt:The Bond. Annariel leaning close to Drusniel, whispering. Their faces illuminated by fungal light. A moment of intimacy in a cold place. . Camera: Two shot. Lighting: Blue/Green tint. photorealistic dark fantasy realism [Face_Reference: Annariel]
+
+4. filename: priest-arrival.jpg
+role: mid_03 (placed after sentence "A priest emerged from the inner chamber")
+prompt:The Authority. A Drow priest standing in the doorway, silhouetted against a deeper darkness. Robes flowing like smoke. Candidates looking up in fear. . Camera: Low angle. Lighting: Backlit. photorealistic dark fantasy realism
+
+5. filename: entering-darkness.jpg
+role: mid_04 (placed after sentence "Drusniel stepped into the darkness.")
+prompt:The Threshold. Drusniel walking into the absolute black of the inner chamber. The light of the antechamber fading behind him. . Camera: Tracking shot from behind. Lighting: Fading. photorealistic dark fantasy realism

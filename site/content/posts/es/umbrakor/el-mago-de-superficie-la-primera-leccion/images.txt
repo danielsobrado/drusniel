@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mago de Superficie: La Primera Lección
+Language: en
+Canon Sequence: D-007-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: air-move-attempt.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel pulling invisible strings in the air. Puppeteer metaphor. . [Face_Reference: Drusniel]
+
+2. filename: feeling-the-draft.jpg
+role: mid_01 (placed after sentence "El aire tiene peso.")
+prompt:Photorealistic Weight of Air. Visualizing air as a heavy fabric draped over Drusniel. . [Face_Reference: Fabric]
+
+3. filename: chaos-burst.jpg
+role: mid_02 (placed after sentence "La intención caótica.")
+prompt:Photorealistic Storm in a Room. A miniature tornado destroying the table setup. Exaggerated scale. . [Face_Reference: Tornado]
+
+4. filename: nosebleed-cost.jpg
+role: mid_03 (placed after sentence "El primer pago.")
+prompt:Photorealistic Red Drop. A single drop of blood hitting the table, looking like a ruby. Artful. .
+
+5. filename: success-bend.jpg
+role: mid_04 (placed after sentence "Escuchó.")
+prompt:Photorealistic The Whisper. Drusniel whispering to the flame, and it leans in to listen. . [Face_Reference: Flame]

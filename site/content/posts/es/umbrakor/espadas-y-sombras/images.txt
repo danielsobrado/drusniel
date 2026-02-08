@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Espadas y Sombras
+Language: en
+Canon Sequence: D-002-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bamboo-grove-spar.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. High angle view of the spar. The bamboo stalks form a cage around the fighters. .
+
+2. filename: shyntara-strike.jpg
+role: mid_01 (placed after sentence "Su cabello de alabastro azotó el aire")
+prompt:Photorealistic White Streak. Focus on Shyntara's white hair whipping through the dark air as she moves. A splash of light in darkness. . [Face_Reference: Hair]
+
+3. filename: blade-at-throat.jpg
+role: mid_02 (placed after sentence "Metal frío besó su garganta.")
+prompt:Photorealistic The Reflection. The scene seen as a reflection in Shyntara's blade (Drusniel's terrified eye). . [Face_Reference: Reflection]
+
+4. filename: magic-failure.jpg
+role: mid_03 (placed after sentence "nuestra sangre se ha vuelto delgada")
+prompt:Photorealistic Thin Blood. Symbolic image. A drop of blood falling into water and dispersing too quickly. Fading. .
+
+5. filename: shyntara-exit.jpg
+role: mid_04 (placed after sentence "No esperes piedad.")
+prompt:Photorealistic The Shadow. Shyntara casts a shadow that is much larger and more monstrous than she is. It engulfs Drusniel. . [Face_Reference: Shyntara, Drusniel]

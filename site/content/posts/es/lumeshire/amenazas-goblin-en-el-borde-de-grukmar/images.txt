@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Señales en la Frontera
+Language: es
+Canon Sequence: L-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: captains-map.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on the map where Aldric's finger is pointing. The line of the border is worn from touching. . [Face_Reference: Aldric]
+
+2. filename: mist-patrol.jpg
+role: mid_01 (placed after sentence "La niebla se enroscaba entre troncos erosionados")
+prompt:Photorealistic Forest claustrophobia. The trees looming over the path. The mist looks like it's reaching for the soldiers. . [Face_Reference: Trees, Mist]
+
+3. filename: fresh-tracks.jpg
+role: mid_02 (placed after sentence "Las huellas estaban ahí.")
+prompt:Photorealistic Threat evidence. Elric's hand pointing at the track. The mud on his finger. The contrast between the alien print. .
+
+4. filename: outpost-return.jpg
+role: mid_03 (placed after sentence "El puesto se alzaba adelante")
+prompt:Photorealistic Sanctuary. View from the gate looking OUT at the returning patrol. They look like shadows emerging from the night. .
+
+5. filename: yard-report.jpg
+role: mid_04 (placed after sentence "Aldric esperaba en el patio iluminado por antorchas.")
+prompt:Photorealistic Leadership burden. Aldric's face in the firelight. Deep shadows in his eyes. He looks like he knows what's coming. . [Face_Reference: Aldric]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Secrets and Shadows
+Language: en
+Canon Sequence: D-004-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: forest-dawn.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel sneaking through the bioluminescent forest at dawn. Mist rising. . Camera: Wide shot. Lighting: Blue/Purple morning. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: failing-magic.jpg
+role: mid_01 (placed after sentence "A few weak sparks.")
+prompt:The Struggle. Annariel straining to make magic. Weak, sputtering sparks from his fingers. . Camera: Close up hands. Lighting: Weak orange. photorealistic dark fantasy realism [Face_Reference: Sparks]
+
+3. filename: mind-reading-success.jpg
+role: mid_02 (placed after sentence "It was seven, wasn't it?")
+prompt:Connection. A visual representation of a mental link between Drusniel and Annariel. A faint thread of light connecting their foreheads. . Camera: Two shot profile. Lighting: Mystical. photorealistic dark fantasy realism [Face_Reference: Thread]
+
+4. filename: zaelar-rumor.jpg
+role: mid_03 (placed after sentence "Whispers of torture chambers.")
+prompt:The Dark Tower. A scary, exaggerated vision of Zaelar's tower in the boys' imagination. Spiked, shadowy, menacing. . Camera: Low angle. Lighting: Nightmare style. photorealistic dark fantasy realism [Face_Reference: Tower]
+
+5. filename: father-disappointment.jpg
+role: mid_04 (placed after sentence "His father fixed him with a piercing stare.")
+prompt:The Patriarch. Drusniel's father looking stern and disappointed across the dinner table. Shadow casting over Drusniel. . Camera: Over the shoulder. Lighting: Candlelight. photorealistic dark fantasy realism [Face_Reference: Father]

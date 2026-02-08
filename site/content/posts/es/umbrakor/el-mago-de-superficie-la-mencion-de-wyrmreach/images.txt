@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mago de Superficie: La Mención de Wyrmreach
+Language: en
+Canon Sequence: D-007-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-book.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The book pages glowing with a map of Wyrmreach. The light illuminates Zaelar's face. . [Face_Reference: Zaelar]
+
+2. filename: horror-of-sea.jpg
+role: mid_01 (placed after sentence "Nadie sobrevive.")
+prompt:Photorealistic The Graveyard. Visual of the sea full of Drow bones. . [Face_Reference: Bones]
+
+3. filename: dual-affinity-reveal.jpg
+role: mid_02 (placed after sentence "Eres el único.")
+prompt:Photorealistic Two Halves. Drusniel's face split down the middle. One side air/cloud, one side water/ocean. . [Face_Reference: Drusniel]
+
+4. filename: fragile-family.jpg
+role: mid_03 (placed after sentence "Se desmorona.")
+prompt:Photorealistic Cracks in Foundation. The physical floor of the family house cracking. Drusniel looking down at it. . [Face_Reference: Cracks]
+
+5. filename: leaving-tower.jpg
+role: mid_04 (placed after sentence "Todo puede cambiar.")
+prompt:Photorealistic Hourglass Sky. The sky above looking like the top of an hourglass, sand falling. Time running out. . [Face_Reference: Sky]

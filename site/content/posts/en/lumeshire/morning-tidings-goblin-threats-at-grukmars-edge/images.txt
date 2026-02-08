@@ -1,0 +1,26 @@
+# Image Prompts
+Title: No Tracks
+Language: en
+Canon Sequence: L-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: climb-to-outpost.jpg
+role: header
+prompt:Ultra-detailed header scene. Varian climbing a muddy hill towards the outpost. The path is steep. Elric is behind him. . Camera: Low anglle looking up. Lighting: Overcast/Grey. photorealistic dark fantasy realism
+
+2. filename: rider-report.jpg
+role: mid_01 (placed after sentence "Two men in mud-spattered cloaks faced him")
+prompt:Narrative beat. Aldric listening to the riders. The riders look exhausted, muddy. The room is tense. . Camera: Wide shot of room. Lighting: Interior gloom. photorealistic dark fantasy realism [Face_Reference: Riders]
+
+3. filename: night-watch-silence.jpg
+role: mid_02 (placed after sentence "First watch they took together. The forest lay utterly still.")
+prompt:Atmosphere. Varian and Elric on the wall/watch post. Looking out at a wall of black trees. The silence is visual—heavy, oppressive shadows. . Camera: Over-the-shoulder looking out. Lighting: Moonlight. photorealistic dark fantasy realism
+
+4. filename: rabbit-scare.jpg
+role: mid_03 (placed after sentence "A rabbit. A terrified rabbit that scampered between the posts")
+prompt:Action relief. A blur of motion—a small rabbit darting through the torchlight. Swords are half-drawn. . Camera: Low angle motion blur. Lighting: Torchlight patches. photorealistic dark fantasy realism
+
+5. filename: inhuman-prints.jpg
+role: mid_04 (placed after sentence "In the damp earth: prints, long and splayed, unmistakably inhuman.")
+prompt:Reveal. A clear, sharp image of the inhuman footprint in the morning light. It looks alien against the familiar earth. . Camera: Macro. Lighting: Grey dawn light. photorealistic dark fantasy realism

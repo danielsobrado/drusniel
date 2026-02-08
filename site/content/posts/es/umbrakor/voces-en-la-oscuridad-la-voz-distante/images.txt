@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: La Voz Distante
+Language: en
+Canon Sequence: D-006-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: mental-connection.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Two faces merging or overlapping in a mist. Drusniel and Annariel. Hard to tell where one ends and other begins. . [Face_Reference: Drusniel, Annariel]
+
+2. filename: headache-strain.jpg
+role: mid_01 (placed after sentence "Un dolor sordo detrás de sus ojos.")
+prompt:Photorealistic Fracture. Drusniel's head/face visualized as cracking porcelain. Metaphorical pain. . [Face_Reference: Crack]
+
+3. filename: annariel-isolation.jpg
+role: mid_02 (placed after sentence "Aislamiento completo.")
+prompt:Photorealistic The Box. Annariel inside a glass box suspended in a void. . [Face_Reference: Annariel]
+
+4. filename: zaelar-mention.jpg
+role: mid_03 (placed after sentence "Susurros de miedo.")
+prompt:Photorealistic The Shadow Puppet. A hand shape casting a shadow that looks like a wizard/mage tower. .
+
+5. filename: fading-connection.jpg
+role: mid_04 (placed after sentence "La soledad regresó.")
+prompt:Photorealistic Cold Water. Drusniel looking like he just plunged into dark water. Shock and cold. . [Face_Reference: Drusniel]

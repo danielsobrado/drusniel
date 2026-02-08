@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Camino de Zuraldi: La Ausencia
+Language: es
+Canon Sequence: W-008-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: holding-the-void.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Dulint looking at his hands, which are empty (metaphorically). The cube is there but feels like nothing. . [Face_Reference: Dulint]
+
+2. filename: absence-sensation.jpg
+role: mid_01 (placed after sentence "Se sentía como... ausencia.")
+prompt:Photorealistic The Empty Room. A visual of a mine tunnel that ends in blackness. Dulint remembering the feeling. . [Face_Reference: Tunnel]
+
+3. filename: distant-figures.jpg
+role: mid_02 (placed after sentence "Movimiento donde no debería haber movimiento.")
+prompt:Photorealistic Shadows on the road. The road stretching back. Unnatural shadows that don't match the trees. .
+
+4. filename: war-instincts.jpg
+role: mid_03 (placed after sentence "Sus instintos de guerra le gritaban")
+prompt:Photorealistic Soldier's memory. A superimposed image of young Dulint in armor over old Dulint. The warrior beneath. . [Face_Reference: Dulint]
+
+5. filename: running-start.jpg
+role: mid_04 (placed after sentence "Tenemos que movernos")
+prompt:Photorealistic The Chase. View from behind of the two dwarves beginning to jog. The road ahead looks very long. .

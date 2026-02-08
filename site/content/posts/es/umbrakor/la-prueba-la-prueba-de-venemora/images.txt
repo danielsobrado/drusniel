@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Prueba: La Prueba de Venemora
+Language: en
+Canon Sequence: D-003-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: trial-chamber-reveal.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Low angle looking up at the columns. They stretch infinitely, dwarfing the candidates. . [Face_Reference: Columns]
+
+2. filename: annariel-success.jpg
+role: mid_01 (placed after sentence "Lo hicimos.")
+prompt:Photorealistic Tears. Close up on Annariel's tears reflecting the purple light. Joy and relief mixed. . [Face_Reference: Tear]
+
+3. filename: drusniel-platform.jpg
+role: mid_02 (placed after sentence "Alcanza.")
+prompt:Photorealistic Reach. Drusniel's hand outstretched in the darkness, tendons straining. The stone floor visible beneath. . [Face_Reference: Drusniel]
+
+4. filename: the-void-feeling.jpg
+role: mid_03 (placed after sentence "Como cicatriz sobre una amputación.")
+prompt:Photorealistic The Scar. Visual metaphor of a magical aura around Drusniel that has been violently torn away, leaving jagged edges. . [Face_Reference: Drusniel]
+
+5. filename: annariel-horror.jpg
+role: mid_04 (placed after sentence "Annariel lo sabía.")
+prompt:Photorealistic Separated. Annariel behind a translucent barrier (magical or glass), looking back. He is unreachable now. . [Face_Reference: Annariel, Barrier]

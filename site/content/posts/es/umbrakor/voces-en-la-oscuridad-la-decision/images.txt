@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: La Decisión
+Language: en
+Canon Sequence: D-006-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sneaking-past-study.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel stepping on a shadow that looks like his father's face. He is moving over it. . [Face_Reference: Drusniel]
+
+2. filename: surface-door.jpg
+role: mid_01 (placed after sentence "La manija estaba fría.")
+prompt:Photorealistic Frost. The handle of the door covered in ice or frost (symbolizing the surface cold). Drusniel's warm hand melting it. . [Face_Reference: Drusniel]
+
+3. filename: stepping-out-gray.jpg
+role: mid_02 (placed after sentence "El mundo de arriba.")
+prompt:Photorealistic Colorless. Drusniel looks vibrant/dark, but the world around him is desaturated, almost black and white. . [Face_Reference: Contrast]
+
+4. filename: looking-back-tunnel.jpg
+role: mid_03 (placed after sentence "No miró atrás.")
+prompt:Photorealistic Chains. The darkness of the tunnel looking like chains or tendrils trying to pull him back. .
+
+5. filename: tower-horizon.jpg
+role: mid_04 (placed after sentence "Una aguja apuntando a las nubes.")
+prompt:Photorealistic The Needle. The tower visualized as a needle piercing the sky/clouds. . [Face_Reference: Tower]

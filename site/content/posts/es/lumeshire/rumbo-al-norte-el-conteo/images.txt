@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: El Conteo
+Language: es
+Canon Sequence: AST-M-021
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: balin-aldric-walking.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Balin (young dwarf) walking in the foreground, looking at the horizon. Aldric is a silhouette behind him. The mountains are vast and overwhelming. . [Face_Reference: Balin]
+
+2. filename: mountain-ridges.jpg
+role: mid_01 (placed after sentence "Dieciocho crestas. ¿Cuál es el propósito?")
+prompt:Photorealistic Landscape abstraction. The layers of mountain ridges fading into blue haze. They look like waves of stone. Birds are flying high above. .
+
+3. filename: dulint-checks-ground.jpg
+role: mid_02 (placed after sentence "Dulint se volvió, su rostro ilegible. El suelo se ve mal aquí.")
+prompt:Photorealistic Tension detail. Dulint's hand hovering over the ground as if feeling heat or vibration. The texture of the disturbed earth is visible. . [Face_Reference: Dulint]
+
+4. filename: maris-sees-echoes.jpg
+role: mid_03 (placed after sentence "Solo... ecos. Violencia antigua.")
+prompt:Photorealistic Visionary overlap. Maris standing in the forest, but the trees around her are ghostly/transparent, revealing ancient ruins or bones beneath the roots. . [Face_Reference: Maris]
+
+5. filename: balin-frustrated-patience.jpg
+role: mid_04 (placed after sentence "Primera vez entendiendo que la paciencia y la frustración pueden existir")
+prompt:Photorealistic Character contemplation. Balin sitting on a rock during the break/detour, chin in hand. He looks at an insect or flower near his boot, trying to be patient. . [Face_Reference: Balin]

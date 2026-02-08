@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: El Despertar
+Language: es
+Canon Sequence: AST-M-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: waking-in-field.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris waking up in the grass. The perspective is at ground level, through the blades of grass. The sun is setting in the background. . [Face_Reference: Maris]
+
+2. filename: blood-on-fingers.jpg
+role: mid_01 (placed after sentence "Sus dedos volvieron con el sabor cobrizo de la sangre.")
+prompt:Photorealistic Shock detail. Maris looking at her trembling hand. A smear of blood is visible. The background is the golden field. . [Face_Reference: Maris]
+
+3. filename: riverhold-in-distance.jpg
+role: mid_02 (placed after sentence "La silueta del pueblo era visible contra el horizonte")
+prompt:Photorealistic Landscape scale. A very wide shot of the field with Maris as a tiny speck in the center, and Riverhold far in the distance under a dramatic sky. . [Face_Reference: Maris]
+
+4. filename: vision-fragment-hand.jpg
+role: mid_03 (placed after sentence "Y una mano—piel gris-oscura, dedos largos—deslizándose bajo")
+prompt:Photorealistic Abstract horror. The vision overlaying reality. The field of grass seems to turn into black water at the edges. A grey hand reaches up from the earth. .
+
+5. filename: maris-walks-shakily.jpg
+role: mid_04 (placed after sentence "Maris siguió caminando.")
+prompt:Photorealistic Movement beat. Maris walking away from the camera towards the sunset and the town. Her silhouette is weary. The long shadows of the stubble stretch out. . Camera: Low angle from behind. [Face_Reference: Maris]

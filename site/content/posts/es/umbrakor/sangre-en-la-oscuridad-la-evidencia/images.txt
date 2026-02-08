@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Sangre en la Oscuridad: La Evidencia
+Language: en
+Canon Sequence: D-010-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: finding-meren.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Meren's spirit leaving his body. Faint mist. . [Face_Reference: Mist]
+
+2. filename: pristine-dagger.jpg
+role: mid_01 (placed after sentence "Demasiado limpio.")
+prompt:Photorealistic The Prop. The dagger looking like a cheap theater prop, painted silver. . [Face_Reference: Dagger]
+
+3. filename: mental-doubt.jpg
+role: mid_02 (placed after sentence "La duda persiste.")
+prompt:Photorealistic Thorn. A small thorn stuck in Drusniel's finger. . [Face_Reference: Finger]
+
+4. filename: rage-drowning-logic.jpg
+role: mid_03 (placed after sentence "Marea roja.")
+prompt:Photorealistic Blood Ocean. Drusniel drowning in an ocean of blood. . [Face_Reference: Drusniel]
+
+5. filename: taking-the-weapon.jpg
+role: mid_04 (placed after sentence "Aceptación.")
+prompt:Photorealistic Handshake with Death. Drusniel shaking hands with a skeletal hand holding the dagger. . [Face_Reference: Drusniel]

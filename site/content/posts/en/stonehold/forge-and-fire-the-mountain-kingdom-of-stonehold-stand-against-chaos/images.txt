@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Forge and Fire: The Mountain Kingdom of Stonehold's Stand Against Chaos
+Language: en
+Canon Sequence: STO-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bragni-measures-crack.jpg
+role: header
+prompt:Ultra-detailed header scene. Foreman Bragni (stout dwarf, engineering gear) measuring a dark crack in a smooth stone wall. Torchlight flickers. He looks concerned. . Camera: Medium shot. Lighting: Torchlight/Warm. photorealistic dark fantasy realism [Face_Reference: Bragni, Crack]
+
+2. filename: impassable-rock-chart.jpg
+role: mid_01 (placed after sentence "The line marking Shaft Six ended in a solid black fill")
+prompt:Document detail. A dwarven survey chart spread on stone. Intricate lines. A solid black area marked as impassable. Bragni's thick finger tracing it. . Camera: Top down. Lighting: Lantern light. photorealistic dark fantasy realism [Face_Reference: Chart, Finger]
+
+3. filename: dead-rune.jpg
+role: mid_02 (placed after sentence "The rune—a standard ward against cave-ins—was dark.")
+prompt:Magic failure. A wall of glowing runes, but one is conspicuously dark/dead. It looks like a missing tooth in a smile of light. . Camera: Close up. Lighting: Rune glow. photorealistic dark fantasy realism [Face_Reference: Dead Rune]
+
+4. filename: vibrating-crack.jpg
+role: mid_03 (placed after sentence "A low vibration, almost beneath the threshold of sensation.")
+prompt:Sensory visualization. Bragni's hand pressed flat against the wall. Dust is shaking off the stone. The crack looks like a wound. . Camera: Extreme close up side view. Lighting: Low angle. photorealistic dark fantasy realism
+
+5. filename: sealed-shaft.jpg
+role: mid_04 (placed after sentence "Bragni supervised every step. When the final seal was placed")
+prompt:The Seal. A massive, freshly built barricade of iron and stone blocking a tunnel. Runes are freshly carved. It looks like a vault door. . Camera: Wide shot. Lighting: Industrial/Torch. photorealistic dark fantasy realism [Face_Reference: Barricade]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mago de Superficie: La Torre
+Language: en
+Canon Sequence: D-007-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tower-interior.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The hourglasses are floating or suspended in mid-air, defying gravity. .
+
+2. filename: zaelar-reveal.jpg
+role: mid_01 (placed after sentence "Ojos violeta.")
+prompt:Photorealistic The Spider. Zaelar's shadow on the wall looks like a spider or web. . [Face_Reference: Zaelar]
+
+3. filename: tea-for-two.jpg
+role: mid_02 (placed after sentence "Esperándote.")
+prompt:Photorealistic Reflection. The tea surface reflecting a future event (or just Drusniel's scared face). . [Face_Reference: Liquid]
+
+4. filename: hourglass-turned.jpg
+role: mid_03 (placed after sentence "El tiempo es el único recurso.")
+prompt:Photorealistic Sand into Dust. The sand in the hourglass turning into gold or skulls. . [Face_Reference: Sand]
+
+5. filename: handshake-trap.jpg
+role: mid_04 (placed after sentence "Instinto de trampa.")
+prompt:Photorealistic The Bind. Faint magical chains or threads wrapping around their joined hands. . [Face_Reference: Magic]

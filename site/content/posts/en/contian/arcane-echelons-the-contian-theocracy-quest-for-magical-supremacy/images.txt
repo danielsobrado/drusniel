@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Contian Theocracy's Quest for Magical Supremacy
+Language: en
+Canon Sequence: CON-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: syrael-looks-up-at-tower.jpg
+role: header
+prompt:Ultra-detailed header scene. Establishing shot looking up the spiral of a massive Contian tower stairwell. . Camera: Low angle looking up, fisheye or wide distortion. Lighting: cold blue light from high windows, deep shadows below. Foreground: The worn stone steps. Midground: Syrael looking up, small in the frame. Background: The endless ascent. Composition should leave clean negative space for title overlay. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism Expression & eyeline: beat cue 'You looked up until your neck ached'. Face: overwhelmed, fearful. [Face_Reference: Syrael]
+
+2. filename: halvek-addresses-assembly.jpg
+role: mid_01 (placed after sentence "Brothers and sisters, Halvek said, you have heard the rumors from the border.")
+prompt:Character-centered story beat. Scene: The bright, clinical council chamber. Minister Halvek standing before the circle of scholars. Camera: 50mm medium shot. Lighting: bright, harsh, revealing. Halvek is charismatic, clean-shaven, dangerous in her politeness. Syrael is visible in the periphery, writing. photorealistic dark fantasy realism Expression & eyeline: beat cue 'Brothers and sisters'. Halvek's face: calm, smiling slightly. Syrael's face: hidden/downcast. [Face_Reference: Syrael]
+
+3. filename: halvek-prepares-instruments.jpg
+role: mid_02 (placed after sentence "Halvek turned toward a set of brass instruments arranged on a smaller table")
+prompt:Detail/Action moment. Close up on the brass instruments: blessed water, slate with circles, silver chain, prism. Lighting: Clean, sharp reflections. Halvek's hands arranging them like surgical tools. Background: The prisoner being brought in (out of focus). photorealistic dark fantasy realism
+
+4. filename: magic-fizzles-under-chain.jpg
+role: mid_03 (placed after sentence "The shimmer returned in weak spurts, then collapsed into nothing.")
+prompt:Symbolic/FX shot. The prisoner's bound hands. A faint, weak shimmer of magic trying to form but being suppressed by the silver chain. The air looks "flat" or distorted. Lighting: The magic casts a weak, sickly light vs the strong cold room light. Camera: Macro on the hands and chain. photorealistic dark fantasy realism [Face_Reference: Syrael]
+
+5. filename: syrael-records-fear.jpg
+role: mid_04 (placed after sentence "We will not be afraid of what we cannot name, the High Minister said.")
+prompt:Closing emotional beat. Close up on Syrael's hand gripping the quill, white-knuckled. The parchment is filled with neat, lying words. Syrael's face is pale, sweating. Camera: tight 85mm portrait. Lighting: Unforgivingly bright. Background: The empty dais (prisoner is gone). photorealistic dark fantasy realism Expression & eyeline: beat cue 'We will not be afraid'. Face: terrified, eyes darting, trying to look composed. [Face_Reference: Syrael]

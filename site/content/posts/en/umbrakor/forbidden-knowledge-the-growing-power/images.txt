@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Growing Power
+Language: en
+Canon Sequence: D-007-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: forge-training.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel standing near a forge vent. Heat shimmer visible. He is manipulating the heat waves. . Camera: Medium shot. Lighting: Orange glow vs blue shadows. photorealistic dark fantasy realism
+
+2. filename: dummy-hit.jpg
+role: mid_01 (placed after sentence "The dummy flew backward.")
+prompt:Impact. The training dummy slammed against the wall, wood splintered. Drusniel's hand outstretched. . Camera: Action shot. Lighting: Dynamic. photorealistic dark fantasy realism [Face_Reference: Impact]
+
+3. filename: exhausted-aftermath.jpg
+role: mid_02 (placed after sentence "Drusniel staggered.")
+prompt:Burnout. Drusniel leaning against a wall, sliding down. Sweating, pale. . Camera: High angle. Lighting: Harsh. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: sensing-zaelar.jpg
+role: mid_03 (placed after sentence "You're by the door now.")
+prompt:Blind Sight. Drusniel with eyes closed, but a "mental map" outline of the room and Zaelar visible to the viewer. . Camera: Conceptual abstract. Lighting: Blue wireframe effect. photorealistic dark fantasy realism [Face_Reference: Outline]
+
+5. filename: power-confidence.jpg
+role: mid_04 (placed after sentence "Drusniel felt like himself.")
+prompt:Rebirth. Drusniel standing tall, looking at his hands. Faint wind swirls around them. He looks confident, healed. . Camera: Low angle upward. Lighting: Heroic. photorealistic dark fantasy realism [Face_Reference: Drusniel]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Swords and Shadows
+Language: en
+Canon Sequence: D-002-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bamboo-grove-spar.jpg
+role: header
+prompt:Ultra-detailed header scene. A subterranean bamboo grove (fungal stalks). Two Drow figures circling each other, blades drawn. Mist swirling. . Camera: Wide shot. Lighting: Dim bioluminescence. photorealistic dark fantasy realism [Face_Reference: Posture]
+
+2. filename: shyntara-strike.jpg
+role: mid_01 (placed after sentence "Shyntara flowed around his attacks")
+prompt:The Dance. Shyntara moving with unnatural grace, hair flowing. Her blade is a blur. Drusniel looks flat-footed in comparison. . Camera: Action shot. Lighting: Motion blur. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+3. filename: blade-at-throat.jpg
+role: mid_02 (placed after sentence "Cold metal kissed his throat.")
+prompt:Checkmate. Close up of Shyntara's blade pressed against Drusniel's throat. His eyes wide, hers cold. . Camera: Extreme close up. Lighting: Steel glint. photorealistic dark fantasy realism [Face_Reference: Blade, Throat]
+
+4. filename: magic-failure.jpg
+role: mid_03 (placed after sentence "'Magic only flows through noble blood'")
+prompt:The Lie. Drusniel looking at his hands, trying to summon magic. Nothing but shadow. Shyntara in background scoffing. . Camera: POV over shoulder. Lighting: Gloomy. photorealistic dark fantasy realism
+
+5. filename: shyntara-exit.jpg
+role: mid_04 (placed after sentence "Shyntara melted back into the shadows")
+prompt:Disappearance. Shyntara walking away, literally dissolving into the shadow of the bamboo. Drusniel left alone. . Camera: Wide shot. Lighting: Fading. photorealistic dark fantasy realism [Face_Reference: Drusniel]

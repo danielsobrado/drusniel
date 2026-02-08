@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: Las Consecuencias
+Language: es
+Canon Sequence: AST-M-025
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: camp-after-battle.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The small camp in the rocks. The light is fading fast. The group looks isolated in a vast wilderness. .
+
+2. filename: dulint-broken.jpg
+role: mid_01 (placed after sentence "No estoy bien. No he estado bien desde Stonehold.")
+prompt:Photorealistic Emotional portrait. Dulint's face, illuminated by faint starlight. Tears or sweat in his beard. He looks broken. . [Face_Reference: Dulint]
+
+3. filename: maris-isolation.jpg
+role: mid_02 (placed after sentence "Maris se sentó aparte de los demás")
+prompt:Photorealistic Symbolic distance. Maris sitting on a rock, separated from the group by a gap of darkness. She looks like a statue. . [Face_Reference: Maris]
+
+4. filename: balin-phantom-blood.jpg
+role: mid_03 (placed after sentence "Balin miró sus manos. Manchadas, a pesar del agua")
+prompt:Photorealistic Hallucination detail. Balin's hands. They are dripping with phantom blood (maybe just shadow/light trick, but it looks like blood). His face is out of focus in the background. . [Face_Reference: Balin]
+
+5. filename: broken-survivors.jpg
+role: mid_04 (placed after sentence "Eran una colección de personas rotas")
+prompt:Photorealistic Atmosphere beat. The group huddled together as night falls completely. The stars are cold and indifferent above. The artifact gives off a faint, eerie pulse of light. .

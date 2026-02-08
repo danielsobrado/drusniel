@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Secretos y Sombras
+Language: en
+Canon Sequence: D-004-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: forest-dawn.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel depicted as a shadow separating from a larger shadow (the house). . [Face_Reference: Drusniel]
+
+2. filename: failing-magic.jpg
+role: mid_01 (placed after sentence "Chispas muertas.")
+prompt:Photorealistic Dead Ember. A close up of a dying ember in ash. Symbolizing their weak magic. . [Face_Reference: Ember]
+
+3. filename: mind-reading-success.jpg
+role: mid_02 (placed after sentence "El número siete.")
+prompt:Photorealistic Mirror Mind. Annariel and Drusniel looking at each other, but seeing themselves in the other's eyes/face. . [Face_Reference: Reflection]
+
+4. filename: zaelar-rumor.jpg
+role: mid_03 (placed after sentence "Cuentos de miedo.")
+prompt:Photorealistic Monster in the Closet. A child's drawing style (but realistic textures) of a monster tower. . [Face_Reference: Drawing]
+
+5. filename: father-disappointment.jpg
+role: mid_04 (placed after sentence "La mirada del padre.")
+prompt:Photorealistic Iron Wall. The father depicted as an iron wall blocking Drusniel's path. . [Face_Reference: Wall]

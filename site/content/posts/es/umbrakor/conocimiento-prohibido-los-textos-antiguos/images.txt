@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Conocimiento Prohibido: Los Textos Antiguos
+Language: en
+Canon Sequence: D-007-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: library-stacks.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The books are floating in a spiral. Infinite library concept. . [Face_Reference: Spiral]
+
+2. filename: misfiled-note.jpg
+role: mid_01 (placed after sentence "Escondido a plena vista.")
+prompt:Photorealistic The Needle. Visualizing finding the note as finding a needle in a haystack of books. . [Face_Reference: Needle, Note]
+
+3. filename: name-on-list.jpg
+role: mid_02 (placed after sentence "Un espécimen.")
+prompt:Photorealistic Lab Rat. Drusniel visualizing himself as a specimen providing data on a chart. Clinical. . [Face_Reference: Chart]
+
+4. filename: zaelar-tea.jpg
+role: mid_03 (placed after sentence "Té caliente, sonrisa fría.")
+prompt:Photorealistic Two Faces. Zaelar's reflection in the tea cup shows a different, colder expression than his real face. . [Face_Reference: Tea Cup]
+
+5. filename: suspicion-begins.jpg
+role: mid_04 (placed after sentence "La semilla de la desconfianza.")
+prompt:Photorealistic Poison. The tea looking dark, like ink or poison. Drusniel hesitating to drink. . [Face_Reference: Cup]

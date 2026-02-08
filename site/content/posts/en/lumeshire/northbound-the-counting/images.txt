@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Northbound: The Counting
+Language: en
+Canon Sequence: AST-M-021
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: balin-aldric-walking.jpg
+role: header
+prompt:Ultra-detailed header scene. Balin (young, travel gear) walking through a pine forest with mountains in the background. Aldric (scarred human veteran) walks beside him, vigilant. . Camera: Tracking shot from side. Lighting: Dappled sunlight through trees. photorealistic dark fantasy realism
+
+2. filename: mountain-ridges.jpg
+role: mid_01 (placed after sentence "Eighteen ridgelines. What's the purpose?")
+prompt:. Balin's view of the endless mountain ridges stretching into the distance. They look beautiful but daunting. . Camera: Wide landscape. Lighting: Clear day. photorealistic dark fantasy realism
+
+3. filename: dulint-checks-ground.jpg
+role: mid_02 (placed after sentence "Dulint turned, his face unreadable. The ground looks wrong here.")
+prompt:Character action. Dulint (older dwarf, white hair) kneeling or stopping to look at a patch of ground that looks perfectly normal. Xandor is behind him, nodding. Balin looks annoyed in the background. . Camera: Low angle on Dulint. Lighting: Forest shadows. photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+4. filename: maris-sees-echoes.jpg
+role: mid_03 (placed after sentence "Just... echoes. Old violence.")
+prompt:Character reaction. Maris (pale human seer) stopping, eyes unfocused. She is looking at a clearing in the trees. The light in the clearing looks slightly different (colder, or shifting). . Camera: Close up on Maris. Lighting: Ethereal shift. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+5. filename: balin-frustrated-patience.jpg
+role: mid_04 (placed after sentence "First time understanding that patience and frustration can exist in the same moment.")
+prompt:Portrait. Balin's face, dusty and tired. He is looking ahead with a mix of determination and youthful impatience. Background is the group moving on a detour path. . Camera: 50mm portrait. Lighting: Afternoon sun. photorealistic dark fantasy realism [Face_Reference: Balin]

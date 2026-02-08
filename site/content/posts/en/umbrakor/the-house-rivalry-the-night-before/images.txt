@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The House Rivalry: The Night Before
+Language: en
+Canon Sequence: D-009-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-dinner.jpg
+role: header
+prompt:Ultra-detailed header scene. The family dinner table. Warm, bioluminescent light. They are laughing (rare moment). . Camera: Wide shot. Lighting: Warm/Cozy. photorealistic dark fantasy realism [Face_Reference: Family]
+
+2. filename: father-laughing.jpg
+role: mid_01 (placed after sentence "His father laughed.")
+prompt:Rare Joy. Close up of the Father laughing. Wrinkles of smile instead of worry. . Camera: Portrait. Lighting: Soft. photorealistic dark fantasy realism [Face_Reference: Smile]
+
+3. filename: balcony-talk.jpg
+role: mid_02 (placed after sentence "Shyntara found him on the balcony.")
+prompt:Siblings. Drusniel and Shyntara on the balcony, overlooking the glowing city. Drusniel leaning on rail. Shyntara watching him. . Camera: Two shot. Lighting: City glow background. photorealistic dark fantasy realism [Face_Reference: Siblings]
+
+4. filename: accusation.jpg
+role: mid_03 (placed after sentence "You're lying.")
+prompt:The Mask Slips. Shyntara pointing a finger or looking sharp. Drusniel looks guilty/defensive. . Camera: Over shoulder. Lighting: Shadowed. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+5. filename: regret.jpg
+role: mid_04 (placed after sentence "I should have told her everything.")
+prompt:Missed Chance. Drusniel reaching out as Shyntara walks away. She is already in shadow. . Camera: Medium shot. Lighting: Fading. photorealistic dark fantasy realism

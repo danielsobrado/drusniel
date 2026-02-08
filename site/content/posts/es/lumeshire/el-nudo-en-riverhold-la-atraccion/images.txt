@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Nudo en Riverhold: La Atracción
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tense-waiting.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Shadows stretching long across the floor. Aldric is a dark shape near the door. The Cube is a point of light. . [Face_Reference: Aldric]
+
+2. filename: artifact-heat.jpg
+role: mid_01 (placed after sentence "Ahora está irradiando calor.")
+prompt:Photorealistic Thermal energy. The air around the cube is warping. Xandor's face seen through the heat haze is distorted. . [Face_Reference: Distortion]
+
+3. filename: maris-arrival.jpg
+role: mid_02 (placed after sentence "Sus ojos estaban desenfocados, distantes")
+prompt:Photorealistic Haunted entry. Close up on Maris's eyes. They reflect something that isn't in the room (the Black Water?). She looks terrified. . [Face_Reference: Maris]
+
+4. filename: black-water-vision.jpg
+role: mid_03 (placed after sentence "Una mano deslizándose bajo la superficie.")
+prompt:Photorealistic Drowning metaphor. Maris's face, but overlaid with ripples of water. It looks like she is the one drowning. . [Face_Reference: Maris]
+
+5. filename: five-strangers.jpg
+role: mid_04 (placed after sentence "Cinco ahora.")
+prompt:Photorealistic Circle of fate. Top down view of the five standing in a rough circle around the table. The Cube is the center. . [Face_Reference: Geometry, Heads]

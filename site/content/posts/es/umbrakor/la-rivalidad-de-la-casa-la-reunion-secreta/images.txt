@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Reunión Secreta
+Language: en
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: zaelar-calculating.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Zaelar as a spider in a web of information. . [Face_Reference: Web]
+
+2. filename: interrogation.jpg
+role: mid_01 (placed after sentence "Preguntas afiladas.")
+prompt:Photorealistic Knives. Every question Zaelar asks visualized as a flying dagger missing Drusniel by inches. . [Face_Reference: Daggers]
+
+3. filename: strategic-map.jpg
+role: mid_02 (placed after sentence "Tablero de juego.")
+prompt:Photorealistic Puppets. Zaelar holding strings connected to tiny figures of Drusniel and his family. . [Face_Reference: Strings]
+
+4. filename: drusniel-unease.jpg
+role: mid_03 (placed after sentence "Algo huele mal.")
+prompt:Photorealistic Rot. The fruit in the bowl on Zaelar's desk rotting rapidly in fast motion (single frame). . [Face_Reference: Rot]
+
+5. filename: walking-home-counting.jpg
+role: mid_04 (placed after sentence "Pasos en el vacío.")
+prompt:Photorealistic Void Steps. Drusniel walking on stones floating in a void. Each stone has a number. . [Face_Reference: Stones]

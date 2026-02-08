@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: La Visión
+Language: en
+Canon Sequence: W-020-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: black-water-vision.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris drowning in ink. The ink forming hands pulling her down. . [Face_Reference: Maris]
+
+2. filename: drow-hand.jpg
+role: mid_01 (placed after sentence "Dedos de ceniza.")
+prompt:Photorealistic Ash Hand. The hand looks like it is made of solid ash, crumbling slightly into the water. . [Face_Reference: Fingers]
+
+3. filename: drow-face-mid.jpg
+role: mid_02 (placed after sentence "Ojos de ascua.")
+prompt:Photorealistic Ember Eyes. The drow's eyes burning like literal coals in a dark skull. .
+
+4. filename: help-me-scream.jpg
+role: mid_03 (placed after sentence "Grito de cristal.")
+prompt:Photorealistic Shattered Sound. The scream visualized as glass shattering in the air. . [Face_Reference: Shards]
+
+5. filename: maris-waking.jpg
+role: mid_04 (placed after sentence "Retorno sangriento.")
+prompt:Photorealistic Blood Tears. Maris crying blood (the nosebleed spreading). . [Face_Reference: Maris]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Prueba: La Separación
+Language: en
+Canon Sequence: D-005-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: separation-platform.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Top down view of the platform. Drusniel and Annariel are two dots moving in opposite directions. The floor pattern emphasizes the split. . [Face_Reference: Separation]
+
+2. filename: annariel-look-back.jpg
+role: mid_01 (placed after sentence "Su expresión decía todo.")
+prompt:Photorealistic The Ghost. Annariel looking back, but he is slightly translucent or fading into the dark door's shadow. . [Face_Reference: Fading]
+
+3. filename: shame-hall.jpg
+role: mid_02 (placed after sentence "Miles de nombres.")
+prompt:Photorealistic The Weight. The names on the wall seem to be pressing out, 3D, like they are crushing the hallway. . [Face_Reference: Names]
+
+4. filename: the-clerk.jpg
+role: mid_03 (placed after sentence "Esperen aquí.")
+prompt:Photorealistic The Quill. Close up on the clerk's hand writing 'Drusniel' in a ledger. The ink looks like blood or heavy oil. . [Face_Reference: Ledger]
+
+5. filename: waiting-bench.jpg
+role: mid_04 (placed after sentence "Ninguno se miraba.")
+prompt:Photorealistic Statues. The failed candidates sitting so still they look like stone statues. Dehumanized by failure. . [Face_Reference: stillness]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: La Muerte
+Language: es
+Canon Sequence: AST-M-024
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: staring-at-body.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Balin standing over the body. The forest is quiet now, contrasting with the previous violence. The light is grey. . [Face_Reference: Balin]
+
+2. filename: grukmar-dead-eyes.jpg
+role: mid_01 (placed after sentence "La manera en que sus ojos se habían vuelto planos y vacíos.")
+prompt:Photorealistic Death detail. The eye of the dead Grukmar reflecting the forest canopy. It looks peaceful, which is disturbing. .
+
+3. filename: balin-vomits.jpg
+role: mid_02 (placed after sentence "Balin apenas logró dar tres pasos antes de estar de rodillas")
+prompt:Photorealistic Visceral reaction. Balin huddled on the ground, face hidden. Aldric's hand is visible on his shoulder, firm and grounding. . [Face_Reference: Balin]
+
+4. filename: maris-haunted.jpg
+role: mid_03 (placed after sentence "Su cara estaba pálida, ojos perseguidos.")
+prompt:Photorealistic Portrait of guilt. Maris's face as she looks at Balin. She feels responsible for not warning them clearly enough. Her eyes are watery. . [Face_Reference: Maris]
+
+5. filename: leaving-the-dead.jpg
+role: mid_04 (placed after sentence "El cuerpo quedó donde cayó.")
+prompt:Photorealistic Abandonment beat. The dead hand of the Grukmar in the foreground, fingers curled in the dirt. The group is walking away in the broken depth. .

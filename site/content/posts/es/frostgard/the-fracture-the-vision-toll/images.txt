@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Precio de las Visiones
+Language: en
+Canon Sequence: W-022-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bleeding-ears.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris looking at her blood-stained fingers. The red looks shockingly bright against the grey forest background. . [Face_Reference: Fingers]
+
+2. filename: xandor-checkup.jpg
+role: mid_01 (placed after sentence "No puedo detener la causa.")
+prompt:Photorealistic Futility. Xandor's medical kit open on the ground—herbs, bandages. It looks inadequate against the magical sickness. . [Face_Reference: Herbs]
+
+3. filename: aldric-realization.jpg
+role: mid_02 (placed after sentence "Es una razón conveniente")
+prompt:Photorealistic Judgment. Aldric standing tall, casting a long shadow over Dulint. The power dynamic shifts. . [Face_Reference: Aldric, Dulint]
+
+4. filename: maris-confrontation.jpg
+role: mid_03 (placed after sentence "Veo cosas que no puedo dejar de ver.")
+prompt:Photorealistic The Burden. Maris's shadow on the tree looks like it's carrying a heavy load (or multiple heads/voices). . [Face_Reference: Maris]
+
+5. filename: beacon-heartbeat.jpg
+role: mid_04 (placed after sentence "Prefiero estar buscando que esperando.")
+prompt:Photorealistic The Choice. Maris looking at the horizon, ignoring the pain. Her profile lit by the Beacon. . [Face_Reference: Maris]

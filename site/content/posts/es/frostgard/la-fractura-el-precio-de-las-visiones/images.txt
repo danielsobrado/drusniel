@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Precio de las Visiones
+Language: en
+Canon Sequence: W-022-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-bleeding-ears.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris leaking light from her ears and nose instead of blood. . [Face_Reference: Maris]
+
+2. filename: beacon-loud.jpg
+role: mid_01 (placed after sentence "Rugido de metal.")
+prompt:Photorealistic Roaring Lion. The Beacon visualized as a mechanical lion head roaring. . [Face_Reference: Lion]
+
+3. filename: aldric-realization.jpg
+role: mid_02 (placed after sentence "La pieza que falta.")
+prompt:Photorealistic Puzzle Solved. Aldric holding the last piece of a puzzle. . [Face_Reference: Aldric]
+
+4. filename: maris-confrontation.jpg
+role: mid_03 (placed after sentence "Escudo humano.")
+prompt:Photorealistic Human Shield. Dulint holding up a paper cutout of Maris to hide behind. . [Face_Reference: Cutout]
+
+5. filename: drow-connection.jpg
+role: mid_04 (placed after sentence "Hilo rojo.")
+prompt:Photorealistic Red Thread of Fate. The red thread connecting Maris to the drow face in the distance. . [Face_Reference: Thread]

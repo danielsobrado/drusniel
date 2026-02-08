@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: La Semilla de la Duda
+Language: en
+Canon Sequence: D-006-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-whispers.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Smoke forming into a snake near Drusniel's ear while he sleeps/rests. . [Face_Reference: Drusniel]
+
+2. filename: three-taps.jpg
+role: mid_01 (placed after sentence "El viejo juego.")
+prompt:Photorealistic Strings. Drusniel's fingers as puppet strings. He is pulling them to see if the other side reacts. . [Face_Reference: Strings]
+
+3. filename: failed-test.jpg
+role: mid_02 (placed after sentence "Respuesta equivocada.")
+prompt:Photorealistic Cracked Glass. A reflection of "Annariel" in a glass that cracks. The image is distorted. . [Face_Reference: Reflection]
+
+4. filename: temptation-of-special.jpg
+role: mid_03 (placed after sentence "Temen tu mente.")
+prompt:Photorealistic Crown of Shadows. Drusniel wearing a crown made of shadows. He looks arrogant/powerful. . [Face_Reference: Drusniel]
+
+5. filename: ignoring-doubt.jpg
+role: mid_04 (placed after sentence "Confía en mí.")
+prompt:Photorealistic The Bite. Drusniel taking an apple (or black fruit) that is clearly rotten inside, but he ignores it. . [Face_Reference: Fruit]

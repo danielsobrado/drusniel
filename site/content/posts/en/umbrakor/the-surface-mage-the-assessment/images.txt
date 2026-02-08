@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Surface Mage: The Assessment
+Language: en
+Canon Sequence: D-007-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: assessing-affinity.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar holding Drusniel's wrist, measuring his pulse/magic. Zaelar looks focused, intent. Drusniel looks nervous. . Camera: Medium shot. Lighting: Candlelight. photorealistic dark fantasy realism [Face_Reference: Zaelar]
+
+2. filename: finding-the-key.jpg
+role: mid_01 (placed after sentence "Wrong key, wrong lock.")
+prompt:The Metaphor. Visual of a key that doesn't fit a lock. Or a stylized diagram of elemental vs divine magic. . Camera: Conceptual. Lighting: abstract. photorealistic dark fantasy realism [Face_Reference: Key]
+
+3. filename: air-current-demo.jpg
+role: mid_02 (placed after sentence "His fingers curved slightly.")
+prompt:The Current. Zaelar's hand manipulating a visible stream of air/smoke. It bends around his fingers. . Camera: Close up. Lighting: Revealing smoke. photorealistic dark fantasy realism [Face_Reference: Air]
+
+4. filename: bending-candle.jpg
+role: mid_03 (placed after sentence "The candle on the nearest table flickered.")
+prompt:Proof. Close up of a candle flame bending unnaturally towards Zaelar, as if pulled by a magnet. . Camera: Macro. Lighting: Fire glow. photorealistic dark fantasy realism [Face_Reference: Flame]
+
+5. filename: still-candle-lesson.jpg
+role: mid_04 (placed after sentence "Drusniel stared at the candle flame.")
+prompt:Discipline. Drusniel staring intensely at a perfectly still candle flame. Trying to calm himself. . Camera: Eye level. Lighting: Warm. photorealistic dark fantasy realism [Face_Reference: Drusniel]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Pacto del Dominio Umbra'kor con la Oscuridad
+Language: es
+Canon Sequence: UMB-L-002
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: transcription-chamber.jpg
+role: header
+prompt:Ultra-detailed header scene. Sylaera working in the transcription chamber. Rows of scribes. Glowing crystal text on walls. . Camera: Wide interior. Lighting: Green/Blue phosphorescence. photorealistic dark fantasy realism [Face_Reference: Scribe]
+
+2. filename: conflicting-texts.jpg
+role: mid_01 (placed after sentence "En Venemora encontramos propósito.")
+prompt:Ancient Manuscript. Close up of a weathered parchment with marginalia in different inks. Crossed out sections. . Camera: Macro. Lighting: Candle. photorealistic dark fantasy realism
+
+3. filename: venemora-statue.jpg
+role: mid_02 (placed after sentence "Una tercera tradición... sugería que Venemora no era ni diosa ni fe sino algo más perturbador")
+prompt:The Idol. A statue of Venemora that looks ambiguous—half goddess, half monster. Shadowy. . Camera: Low angle. Lighting: Uplighting. photorealistic dark fantasy realism [Face_Reference: Statue]
+
+4. filename: rift-patrol-report.jpg
+role: mid_03 (placed after sentence "Sylaera completó su transcripción y archivó el texto original")
+prompt:Official Report. A document stamped "LOST" or "Restricted". . Camera: Top down. Lighting: Harsh office light. photorealistic dark fantasy realism [Face_Reference: Stamp]
+
+5. filename: phosphorescent-proverb.jpg
+role: mid_04 (placed after sentence "En la cámara de transcripción, las letras fosforescentes continuaban brillando")
+prompt:Glowing Words. The proverb carved into the wall glowing intensely in the dark. Paradoxical comfort. . Camera: Front on. Lighting: Glow. photorealistic dark fantasy realism [Face_Reference: Words]

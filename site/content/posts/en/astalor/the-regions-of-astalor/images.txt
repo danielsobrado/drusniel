@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The regions of Astalor
+Language: en
+Canon Sequence: AST-L-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sage-studies-map-of-astalor.jpg
+role: header
+prompt:Ultra-detailed header scene. Scene: Sage standing over a massive, detailed table map of the continent. . Camera: High angle shot, 24mm. Lighting: bright but natural overcast daylight filtering through high windows. Foreground: The parchment map with elevated terrain markers. Midground: Sage tracing a route. Background: Library or council room. Composition should leave clean negative space. micro-particles, atmospheric haze layers, realistic material roughness. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+2. filename: sage-observes-contian-towers.jpg
+role: mid_01 (placed after sentence "Beneath the surface, factions vie for control.")
+prompt:Character-centered story beat. Scene: A vision or memory of the Contian Theocracy. Sage standing on a balcony overlooking glowing mage towers. Camera: 35mm wide. Lighting: bright daylight, but with unnatural arcane shimmers in the air. Architecture: High fantasy spires, clean and imposing. Sage is observing, not participating. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+3. filename: sage-witnesses-stonehold-forge.jpg
+role: mid_02 (placed after sentence "The ring of hammers on anvils never ceases.")
+prompt:Dynamic transition/Vision. Scene: The forges of Stonehold. Sage observing dwarven architecture and molten metal channels. Camera: 50mm. Lighting: Bright orange glow capabilities, but balanced with "bright but natural" rule. Atmosphere: Heat and industry. Sage is a silent observer. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+4. filename: sage-visions-grukmar-horde.jpg
+role: mid_03 (placed after sentence "They live for battle, for the thrill of conquest.")
+prompt:Symbolic environment/Vision. Scene: The rugged, chaotic lands of Grukmar. Sage looking down from a ridge at a war camp or gathering. Camera: 85mm long lens. Lighting: bright overcast daylight, harsh and raw. Terrain: Mud, spikes, banners. Sage is distant, hidden. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+5. filename: sage-gazes-towards-wyrmreach.jpg
+role: mid_04 (placed after sentence "In song and tale, travelers whisper of terrible things in that distant land")
+prompt:Closing emotional beat. Scene: A cliff edge overlooking a stormy, dark ocean. Wyrmreach is a dark shape on the horizon. Sage standing against the wind. Camera: 50mm back or side view. Lighting: bright but natural overcast daylight, stormy grey. Atmosphere: Foreboding. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]

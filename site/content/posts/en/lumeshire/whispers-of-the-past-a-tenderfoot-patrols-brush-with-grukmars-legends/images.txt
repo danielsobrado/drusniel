@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Tavern Talk
+Language: en
+Canon Sequence: L-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rusty-axe-tavern.jpg
+role: header
+prompt:Ultra-detailed header scene. The Rusty Axe tavern interior. Low beams, smoke, firelight. Guards huddled at tables. It feels safe but claustrophobic. . Camera: Wide interior. Lighting: Warm/Amber. photorealistic dark fantasy realism [Face_Reference: Atmosphere]
+
+2. filename: guards-gossiping.jpg
+role: mid_01 (placed after sentence "Five other guards already hunched around a table")
+prompt:Character group. The five guards (Varian, Elric, Tormund, Brynn, Elara) around a rough wooden table. Mugs of ale. Tormund leaning forward conspiratorially. . Camera: Eye level group shot. Lighting: Hearth light from side. photorealistic dark fantasy realism
+
+3. filename: elara-story.jpg
+role: mid_02 (placed after sentence "Elara's voice was soft but carrying.")
+prompt:Storyteller. Close on Elara. She looks serious, intense. The firelight reflects in her eyes. The men are listening, even if they deny it. . Camera: Close up profile. Lighting: Firelight rim light. photorealistic dark fantasy realism [Face_Reference: Elara]
+
+4. filename: varian-reflection.jpg
+role: mid_03 (placed after sentence "Varian stared into his mug, watching firelight play on the dark surface.")
+prompt:Introspection. Varian looking down at his ale. The reflection in the liquid is distorted—maybe hinting at a monster or a claw? Or just fire. . Camera: Over-the-shoulder looking into mug. Lighting: Dark/Reflective. photorealistic dark fantasy realism [Face_Reference: Mug, Reflection]
+
+5. filename: gruesome-trees.jpg
+role: mid_04 (placed after sentence "the trees stood silent, holding their secrets like teeth holding a tongue")
+prompt:Surreal ending. The forest outside at night. The trees look like teeth or bones. A visual representation of the metaphor. . Camera: Low angle looking up at trees. Lighting: Moonlight/Dark. photorealistic dark fantasy realism [Face_Reference: Tree Shapes]

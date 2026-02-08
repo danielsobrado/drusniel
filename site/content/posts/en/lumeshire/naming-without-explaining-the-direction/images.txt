@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Naming Without Explaining: The Direction
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: planning-departure.jpg
+role: header
+prompt:Ultra-detailed header scene. The group gathered around a map on the table. The Cube is weighting down one corner. Xandor is pointing North. The mood is tense. . Camera: High angle looking down at map/table. Lighting: Candlelight. photorealistic dark fantasy realism
+
+2. filename: xandor-library.jpg
+role: mid_01 (placed after sentence "Xandor stood, moving to a shelf where he kept his most precious texts.")
+prompt:Character environment. Xandor pulling a dusty scroll from a shelf in the back of the room. The shelves are cluttered with oddities. . Camera: Medium shot. Lighting: Dusty atmospheric. photorealistic dark fantasy realism [Face_Reference: Xandor]
+
+3. filename: maris-exhaustion.jpg
+role: mid_02 (placed after sentence "Maris spoke from her corner, voice tired. I can't stay here much longer")
+prompt:Portrait of fatigue. Close up on Maris. Dark circles under eyes, pale skin. She looks like she hasn't slept in days. . Camera: Close up. Lighting: Harsh shadows. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: map-to-frostgard.jpg
+role: mid_03 (placed after sentence "The fragments point north. Toward Frostgard.")
+prompt:Object detail. The map on the table. Xandor's finger resting on 'Frostgard' (or a mountain range depiction). The Cube is nearby, its light casting blue tint on the parchment. . Camera: Top down macro. Lighting: Blue/Yellow contrast. photorealistic dark fantasy realism
+
+5. filename: compass-with-teeth.jpg
+role: mid_04 (placed after sentence "The artifact pointed that direction like a compass with teeth.")
+prompt:Metaphorical object. The Cube, but the light streaming from it looks sharp, jagged, pointing definitively in one direction. It looks dangerous. . Camera: Low angle ominous. Lighting: Sharp angular light. photorealistic dark fantasy realism

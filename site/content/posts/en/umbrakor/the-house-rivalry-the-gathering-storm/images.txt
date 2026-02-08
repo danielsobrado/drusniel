@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The House Rivalry: The Gathering Storm
+Language: en
+Canon Sequence: D-009-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-meeting.jpg
+role: header
+prompt:Ultra-detailed header scene. The family (Father, Mother, Shyntara, Drusniel) gathering in the study. Serious expressions. Maps on the table. . Camera: Wide shot. Lighting: Warm but tense. photorealistic dark fantasy realism [Face_Reference: Father]
+
+2. filename: vrinn-house-sigil.jpg
+role: mid_01 (placed after sentence "House Vrinn has crossed lines.")
+prompt:Enemy Emblem. A visual representation of House Vrinn's sigil (Spider? Snake? Dagger?) burning or looming over the Thel'varin house. . Camera: Conceptual. Lighting: Red/Black. photorealistic dark fantasy realism [Face_Reference: Sigil]
+
+3. filename: map-patrols.jpg
+role: mid_02 (placed after sentence "They're mapping our patrol routes.")
+prompt:The Encirclement. Close up of a map of Umbra'kor with red markers surrounding their territory. . Camera: Top down. Lighting: Map glow. photorealistic dark fantasy realism [Face_Reference: Markers]
+
+4. filename: history-grudge.jpg
+role: mid_03 (placed after sentence "He never forgave it.")
+prompt:Ancient Hate. Two silhouettes (ancestors) facing off in a cave. Shadows stretching long. . Camera: Silhouette. Lighting: Cave background. photorealistic dark fantasy realism
+
+5. filename: drusniel-clenched-fist.jpg
+role: mid_04 (placed after sentence "He clenched his fist.")
+prompt:Hidden Power. Close up of Drusniel's fist. Faint swirls of air/dust around it. . Camera: Macro. Lighting: Dramatic side light. photorealistic dark fantasy realism [Face_Reference: Fist]

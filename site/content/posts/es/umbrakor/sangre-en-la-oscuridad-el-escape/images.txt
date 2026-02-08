@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Sangre en la Oscuridad: El Escape
+Language: en
+Canon Sequence: D-010-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tunnel-run.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel visualized as a mouse running through pipes. . [Face_Reference: Mouse, Pipes]
+
+2. filename: air-push-success.jpg
+role: mid_01 (placed after sentence "Golpe de viento.")
+prompt:Photorealistic Invisible Wall. The assassin hitting an invisible brick wall. Compressing against it. . [Face_Reference: Impact]
+
+3. filename: nosebleed.jpg
+role: mid_02 (placed after sentence "Coste vital.")
+prompt:Photorealistic Wringing Out. A towel being wrung out, dripping red liquid. Metaphor for his body being used up. . [Face_Reference: Dripping]
+
+4. filename: rusty-door.jpg
+role: mid_03 (placed after sentence "La puerta cede.")
+prompt:Photorealistic Jaws. The door looking like rusted jaws prying open. . [Face_Reference: Jaws]
+
+5. filename: hiding-place.jpg
+role: mid_04 (placed after sentence "Piedra fría.")
+prompt:Photorealistic Fossil. Drusniel curled up so tight he looks like a fossil in the rock wall. . [Face_Reference: Rock]

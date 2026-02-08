@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: El Cruce
+Language: en
+Canon Sequence: D-011-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: portal-ritual.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The rift looks like a giant eye opening in the air. .
+
+2. filename: drusniel-hesitating.jpg
+role: mid_01 (placed after sentence "El último vistazo.")
+prompt:Photorealistic Burning Bridge. The ground behind Drusniel crumbling away into nothingness. . [Face_Reference: Crumbling]
+
+3. filename: zaelar-push.jpg
+role: mid_02 (placed after sentence "No mires atrás.")
+prompt:Photorealistic The Wind. The wind itself (personified) pushing Drusniel into the portal. Zaelar controlling it. . [Face_Reference: Wind]
+
+4. filename: stepping-through.jpg
+role: mid_03 (placed after sentence "A través del espejo.")
+prompt:Photorealistic Liquid Mirror. Drusniel walking through a liquid silver mirror surface. Ripples. . [Face_Reference: Drusniel]
+
+5. filename: void-experience.jpg
+role: mid_04 (placed after sentence "Eternidad.")
+prompt:Photorealistic Star Fall. Drusniel falling past giant stars and nebulae. Cosmic scale. . [Face_Reference: Stars]

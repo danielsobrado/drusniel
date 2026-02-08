@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Blood in the Dark: The Evidence
+Language: en
+Canon Sequence: D-010-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: finding-meren.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel kneeling beside Meren (old steward) in a dim corridor. Meren is dying. . Camera: Medium shot. Lighting: Very low/Shadowed. photorealistic dark fantasy realism
+
+2. filename: pristine-dagger.jpg
+role: mid_01 (placed after sentence "The dagger was pristine.")
+prompt:The Plant. Close up of the Vrinn dagger on the dusty floor. It is impossibly clean and shiny. . Camera: Macro. Lighting: Glint. photorealistic dark fantasy realism [Face_Reference: Dagger]
+
+3. filename: mental-doubt.jpg
+role: mid_02 (placed after sentence "Why is there no blood on the hilt?")
+prompt:Puzzle Piece. A visual of a puzzle piece that clearly doesn't fit the hole. . Camera: Conceptual. Lighting: Abstract. photorealistic dark fantasy realism [Face_Reference: Piece]
+
+4. filename: rage-drowning-logic.jpg
+role: mid_03 (placed after sentence "The grief slammed back.")
+prompt:Red Tide. A wave of red water rushing over a small rock (logic). . Camera: Conceptual. Lighting: Red. photorealistic dark fantasy realism [Face_Reference: Wave]
+
+5. filename: taking-the-weapon.jpg
+role: mid_04 (placed after sentence "He tucked the dagger into his belt.")
+prompt:The Pact. Drusniel sliding the dagger into his belt. A decision made. . Camera: Close up waist. Lighting: Side light. photorealistic dark fantasy realism [Face_Reference: Belt, Hilt]

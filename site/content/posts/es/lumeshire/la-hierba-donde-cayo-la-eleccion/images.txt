@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: La Elección
+Language: es
+Canon Sequence: AST-M-010
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: inn-common-room.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The common room of the inn, seen from Maris's perspective at the door. It is noisy, warm, confusing. Faces are blurred/indistinct. . [Face_Reference: Maris]
+
+2. filename: xandor-with-plants.jpg
+role: mid_01 (placed after sentence "Un hombre anciano sentado solo en una mesa de esquina")
+prompt:Photorealistic Character introduction. Xandor sitting in his corner. He is surrounded by light and plants, creating a small sanctuary in the chaos. He looks peaceful. [Face_Reference: Xandor]
+
+3. filename: xandor-pale-eyes.jpg
+role: mid_02 (placed after sentence "Sus ojos eran pálidos, casi sin color")
+prompt:Photorealistic Connection beat. Xandor looking up. His pale eyes seem to glow slightly in the shadows. He looks directly at the camera (Maris). . Camera: Eye level. [Face_Reference: Xandor, Maris]
+
+4. filename: plant-ritual-pattern.jpg
+role: mid_03 (placed after sentence "Sus manos... se movían con la certeza de larga práctica.")
+prompt:Photorealistic Hand detail. Xandor's hands moving a small pot. The dirt on his fingers, the fragility of the plant. A visual metaphor for nurturing in a harsh world. [Face_Reference: Xandor]
+
+5. filename: maris-choice-made.jpg
+role: mid_04 (placed after sentence "Y Maris Hale tomó su decisión.")
+prompt:Photorealistic Character resolution. Maris's hand resting on the table next to a plant pot. The tension is gone from her hand. . Camera: Close up on hand/table. [Face_Reference: Maris]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Compromiso
+Language: en
+Canon Sequence: W-022-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: defensive-camp.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The fallen trees look like skeletal ribs protecting the group inside. . [Face_Reference: Ribs]
+
+2. filename: aldrice-bandage.jpg
+role: mid_01 (placed after sentence "Sangre y acero.")
+prompt:Photorealistic Iron Blood. Aldric's blood looking like molten iron. . [Face_Reference: Blood]
+
+3. filename: map-planning.jpg
+role: mid_02 (placed after sentence "Camino sinuoso.")
+prompt:Photorealistic Snake Path. The route on the map looking like a snake winding through obstacles. . [Face_Reference: Snake]
+
+4. filename: maris-determined.jpg
+role: mid_03 (placed after sentence "Acero interior.")
+prompt:Photorealistic Steel Spine. Maris with a ghostly spine of steel visible through her back. . [Face_Reference: Spine]
+
+5. filename: beacon-pointing.jpg
+role: mid_04 (placed after sentence "Flecha de luz.")
+prompt:Photorealistic Light Arrow. The Beacon shooting a literal arrow of light into the darkness. . [Face_Reference: Arrow]

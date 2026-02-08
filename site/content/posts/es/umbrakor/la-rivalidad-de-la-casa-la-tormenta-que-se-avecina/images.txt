@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Tormenta que se Avecina
+Language: en
+Canon Sequence: D-009-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-meeting.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Storm clouds forming inside the room, above the family's heads. . [Face_Reference: Clouds]
+
+2. filename: vrinn-house-sigil.jpg
+role: mid_01 (placed after sentence "Víboras en el nido.")
+prompt:Photorealistic Nest of Vipers. A nest of black snakes (Vrinn) surrounding a single egg (Thel'varin). . [Face_Reference: Snakes]
+
+3. filename: map-patrols.jpg
+role: mid_02 (placed after sentence "El lazo se cierra.")
+prompt:Photorealistic Noose. A rope noose tightening around a map of their house. . [Face_Reference: Rope]
+
+4. filename: history-grudge.jpg
+role: mid_03 (placed after sentence "Raíces podridas.")
+prompt:Photorealistic Rotting Roots. A family tree where the roots are black and rotting. . [Face_Reference: Roots]
+
+5. filename: drusniel-clenched-fist.jpg
+role: mid_04 (placed after sentence "Una tormenta en la mano.")
+prompt:Photorealistic Hand Storm. Drusniel holding a miniature thundercloud in his hand. . [Face_Reference: Drusniel]

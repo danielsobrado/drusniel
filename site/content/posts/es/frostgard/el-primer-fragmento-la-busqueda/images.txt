@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: La Búsqueda
+Language: en
+Canon Sequence: W-020-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: snowy-search.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The group walking on a giant compass needle pointing North. . [Face_Reference: Needle]
+
+2. filename: beacon-stutter.jpg
+role: mid_01 (placed after sentence "Corazón de metal.")
+prompt:Photorealistic Mechanical Heart. The Beacon visualized as a mechanical heart made of brass and crystal, beating irregularly. . [Face_Reference: Heart]
+
+3. filename: maris-trembling.jpg
+role: mid_02 (placed after sentence "El precio de ver.")
+prompt:Photorealistic Cracking Glass. Maris's hand made of glass, developing small cracks. . [Face_Reference: Cracks]
+
+4. filename: xandor-sensing.jpg
+role: mid_03 (placed after sentence "Raíces invisibles.")
+prompt:Photorealistic Roots. Roots growing from Xandor's hands into the air, connecting to the Beacon's light. . [Face_Reference: Roots]
+
+5. filename: hunters-behind.jpg
+role: mid_04 (placed after sentence "Ojos en la nuca.")
+prompt:Photorealistic Thousand Eyes. The forest trees having eyes that watch the group. .

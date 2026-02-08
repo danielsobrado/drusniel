@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Northbound: The Sign
+Language: en
+Canon Sequence: AST-M-022
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-halts-group.jpg
+role: header
+prompt:Ultra-detailed header scene. Aldric (veteran soldier) kneeling on the forest floor, one hand raised in a fist for 'halt'. Balin and the others are frozen behind him. The forest is dense and quiet. . Camera: Low angle focused on Aldric. Lighting: Filtered forest light. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+2. filename: grukmar-tracks.jpg
+role: mid_01 (placed after sentence "Aldric traced something with his finger—a pattern Balin couldn't see.")
+prompt:Detail/Forensic beat. Close up on the forest floor. A partially obscured footprint or disturbed earth that Aldric is pointing to. It looks heavy and wrong. . Camera: Top down macro. Lighting: Shadowy. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+3. filename: maris-senses-flank.jpg
+role: mid_02 (placed after sentence "They're alongside us. Not ahead. I can feel them")
+prompt:Character portrait. Maris looking towards the dense trees to the east. She looks pale and tense. Xandor is watching her with concern. . Camera: Medium shot. Lighting: Cold light from the east. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: dulint-artifact-burden.jpg
+role: mid_03 (placed after sentence "Balin looked at his uncle's pack, at the weight that Dulint carried everywhere.")
+prompt:Object/Character beat. Dulint standing with his heavy pack. He looks small and old against the trees. The pack seems to have a faint, almost invisible distortion around it (the artifact calling). . Camera: Low angle behind Dulint. Lighting: Subtle glow from pack? photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+5. filename: balin-looks-back.jpg
+role: mid_04 (placed after sentence "Balin kept looking over his shoulder, trying to see the hunters")
+prompt:Psychological beat. Balin looking back over his shoulder into the dark woods. His face shows fear and realization. The trees look like prison bars. . Camera: Close up on Balin's face. Lighting: dimming light. photorealistic dark fantasy realism [Face_Reference: Balin]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: La Llegada
+Language: es
+Canon Sequence: AST-M-011
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-enters-room.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. A low angle shot from inside the room looking up at Maris in the doorway. She looks small, overwhelmed, backlit by the hallway light. . [Face_Reference: Maris]
+
+2. filename: beacon-screaming.jpg
+role: mid_01 (placed after sentence "La palabra vino sin ser invitada. Gritando.")
+prompt:Photorealistic Abstract/FX beat. Maris's hand clutching her chest or head. The background is blurred/dizzying. The Beacon is a sharp, painful point of focus in the blur. . [Face_Reference: Maris]
+
+3. filename: dulint-concerned.jpg
+role: mid_02 (placed after sentence "Se sentaba en el centro de la mesa como un peso")
+prompt:Photorealistic Character interaction. Dulint (dwarf male) standing up, hand extended towards Maris (off screen). He looks inviting but serious. Balin is behind him. Camera: Medium shot. Lighting: Warm hearth light. [Face_Reference: Dulint]
+
+4. filename: aldric-suspicious.jpg
+role: mid_03 (placed after sentence "Actualmente justificado, dijo Aldric.")
+prompt:Photorealistic Detail focus. Aldric's hand resting near his weapon hilt on the table. His face is in profile, looking at Maris. Sharp, cold lighting on him. [Face_Reference: Aldric]
+
+5. filename: maris-accepts-burden.jpg
+role: mid_04 (placed after sentence "Resiste, pensó hacia el extraño ahogándose en agua negra.")
+prompt:Photorealistic Symbolic closing. Maris sitting at the table now, forming a circle with the others. The Beacon is in the center. The shadows of the group touch. . Camera: High angle looking down at the table. [Face_Reference: Maris, Dulint, Aldric, Balin, Xandor]

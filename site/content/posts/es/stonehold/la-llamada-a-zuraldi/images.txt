@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La llamada a Zuraldi
+Language: es
+Canon Sequence: P-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-examines-cube.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on the Cube in Dulint's calloused hands. The contrast between rough skin and smooth artifact. . [Face_Reference: Dulint]
+
+2. filename: thrain-flashback.jpg
+role: mid_01 (placed after sentence "Thrain, consiguió un mapa, verás")
+prompt:Photorealistic The Map. A view of the ancient map Thrain held. It looks magical, shifting. Thrain is just a background presence. .
+
+3. filename: balin-plotting.jpg
+role: mid_02 (placed after sentence "Una lenta sonrisa se extendió por el rostro de Balin")
+prompt:Photorealistic Ambition. Balin pointing at a crude map on the table. Tracing the route to Zuraldi. . [Face_Reference: Balin]
+
+4. filename: secret-pact.jpg
+role: mid_03 (placed after sentence "Este es nuestro secreto")
+prompt:Photorealistic Conspiracy. Dulint putting a finger to his lips. Shadows cover half his face. . [Face_Reference: Dulint]
+
+5. filename: dawn-departure.jpg
+role: mid_04 (placed after sentence "Primera luz mañana")
+prompt:Photorealistic The Path. A view of the winding mountain road ahead, lit by the first rays of sun. Empty and inviting. . [Face_Reference: Road]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voices in the Dark: The Empty Days
+Language: en
+Canon Sequence: D-006-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: pacing-room.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel pacing in his dark room. Blurred motion to show repetition. Trays of untouched food by the door. . Camera: High angle corner. Lighting: Gloomy. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: floor-crack.jpg
+role: mid_01 (placed after sentence "Drusniel's eyes tracked a hairline fracture")
+prompt:The Map. Close up of the floor crack. It looks almost like a map or a vein. . Camera: Macro overhead. Lighting: Stone texture. photorealistic dark fantasy realism [Face_Reference: Crack]
+
+3. filename: shyntara-visit.jpg
+role: mid_02 (placed after sentence "Shyntara stopped behind him.")
+prompt:The Shadow Sister. Shyntara standing in the doorway of the training room. Light spilling in around her. Drusniel in the dark foreground. . Camera: Over shoulder. Lighting: Silhouette. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+4. filename: thumb-tapping.jpg
+role: mid_03 (placed after sentence "Forty-seven. Forty-eight.")
+prompt:Counting. Hand tapping on leg. Motion blur. . Camera: Close up. Lighting: Dim. photorealistic dark fantasy realism
+
+5. filename: first-contact.jpg
+role: mid_04 (placed after sentence "Annariel?")
+prompt:The Spark. Drusniel lying in bed, eyes wide open. A faint, ethereal light (mental projection) touching his forehead. . Camera: Close up face. Lighting: Magical glow. photorealistic dark fantasy realism [Face_Reference: Drusniel]

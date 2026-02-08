@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voices in the Dark: The Decision
+Language: en
+Canon Sequence: D-006-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sneaking-past-study.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel creeping past his Father's study door. Light spilling from underneath. He is tense, quiet. . Camera: Low Angle. Lighting: Chiaroscuro. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: surface-door.jpg
+role: mid_01 (placed after sentence "Marked with faded symbols.")
+prompt:The Warning. The heavy iron door to the surface. Covered in Drow warning signs (skulls, sun symbols). Drusniel's hand on the handle. . Camera: Close up. Lighting: Rust/Iron texture. photorealistic dark fantasy realism
+
+3. filename: stepping-out-gray.jpg
+role: mid_02 (placed after sentence "Instead, he found gray.")
+prompt:The New World. Drusniel stepping out of the cave mouth into a very gray, cloudy dawn. He looks small against the vast sky. . Camera: Wide shot from behind. Lighting: Flat gray daylight. photorealistic dark fantasy realism [Face_Reference: Sky, Drusniel]
+
+4. filename: looking-back-tunnel.jpg
+role: mid_03 (placed after sentence "Umbra'kor. His family. His old life.")
+prompt:The Goodbye. View looking back into the dark tunnel from the light. It looks safe compared to the surface. . Camera: POV. Lighting: Contrast. photorealistic dark fantasy realism [Face_Reference: Tunnel]
+
+5. filename: tower-horizon.jpg
+role: mid_04 (placed after sentence "Standing alone on a hill")
+prompt:The Beacon. Zaelar's tower in the distance. Dark, sharp, ominous against the clouds. . Camera: Telephoto landscape. Lighting: Gray with dark silhouette. photorealistic dark fantasy realism [Face_Reference: Tower]

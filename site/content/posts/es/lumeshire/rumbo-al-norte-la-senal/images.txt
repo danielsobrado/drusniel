@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: La Señal
+Language: es
+Canon Sequence: AST-M-022
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-halts-group.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The group freezing in place in the forest. Aldric's raised fist is the focal point. The trees seem to lean in from all sides. . [Face_Reference: Aldric]
+
+2. filename: grukmar-tracks.jpg
+role: mid_01 (placed after sentence "Aldric trazó algo con el dedo—un patrón que Balin no podía ver")
+prompt:Photorealistic Tracking sign. Aldric's weathered finger pointing at a broken twig or subtle indentation in the moss. It looks like a claw mark. . [Face_Reference: Aldric]
+
+3. filename: maris-senses-flank.jpg
+role: mid_02 (placed after sentence "Moviéndose cuando nos movemos. Deteniéndose cuando nos detenemos.")
+prompt:Photorealistic Sense visualization. Maris closing her eyes, tilting her head. A visual representation of the 'pressure' she feels—maybe the air to the east is rippling slightly. . [Face_Reference: Maris]
+
+4. filename: dulint-artifact-burden.jpg
+role: mid_03 (placed after sentence "Esa cosa no dejará de transmitir nuestra posición.")
+prompt:Photorealistic Threat focus. The backpack on Dulint's back. It looks heavy, but also... loud? A visual distortion effect radiating from it like sound waves or heat haze. . [Face_Reference: Dulint]
+
+5. filename: balin-looks-back.jpg
+role: mid_04 (placed after sentence "Primera vez siendo presa, pensó.")
+prompt:Photorealistic Eye of the prey. Extreme close up on Balin's eye. In the reflection, the dark trees of the forest are visible. He looks terrified. . [Face_Reference: Balin]

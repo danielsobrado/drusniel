@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Hunters
+Language: en
+Canon Sequence: W-020-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: message-carved.jpg
+role: header
+prompt:Ultra-detailed header scene. A close up of a Grukmar scout's back with "GIVE US THE BEACON" carved into the skin (implied gore, focus on text). Dead in snow. . Camera: High angle. Lighting: Harsh morning sun. photorealistic dark fantasy realism
+
+2. filename: hunters-tracks.jpg
+role: mid_01 (placed after sentence "Look at the prints.")
+prompt:The Pursuit. Two sets of identical boot prints in the snow. Military precision. . Camera: Low level. Lighting: Casting long shadows. photorealistic dark fantasy realism
+
+3. filename: beacon-pulse-strong.jpg
+role: mid_02 (placed after sentence "Louder now, stronger.")
+prompt:The Signal. The Beacon pulsing so hard it is visible through the canvas pack. Blue light distortion around it. . Camera: Medium shot. Lighting: Blue glow. photorealistic dark fantasy realism
+
+4. filename: professional-restraint.jpg
+role: mid_03 (placed after sentence "That's professional restraint.")
+prompt:The Crosshairs. from a scope or hiding spot looking at the group. Crosshairs on Dulint. . Camera: POV. Lighting: Vignette. photorealistic dark fantasy realism
+
+5. filename: maris-vision-face.jpg
+role: mid_04 (placed after sentence "The face in the vision.")
+prompt:The Face Again. A fleeting image of the drow face (Drusniel) superimposed over the forest. Ghostly. . Camera: Double exposure. Lighting: Ethereal. photorealistic dark fantasy realism

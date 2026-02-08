@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Border Sign
+Language: en
+Canon Sequence: L-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: captains-map.jpg
+role: header
+prompt:Ultra-detailed header scene. Aldric's desk covered in overlapping maps. His grizzled hands resting on them. Varian stands stiffly in front. . Camera: Over-the-shoulder (Varian). Lighting: Candlelight/Damp timber texture. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+2. filename: mist-patrol.jpg
+role: mid_01 (placed after sentence "They walked the old game trails in silence.")
+prompt:Atmospheric walk. Varian and Elric walking through a dense, misty forest. The trees look skeletal. The mist obscures the path ahead. . Camera: Tracking shot from behind. Lighting: Pale morning sun through fog. photorealistic dark fantasy realism [Face_Reference: Varian, Elric]
+
+3. filename: fresh-tracks.jpg
+role: mid_02 (placed after sentence "The prints were there. Clawed, splayed, and deep.")
+prompt:Clue detail. A deep, clawed footprint in wet mud. Water is seeping into it. It looks fresh and non-human. . Camera: Top down macro. Lighting: Diffused mist light. photorealistic dark fantasy realism [Face_Reference: Track]
+
+4. filename: outpost-return.jpg
+role: mid_03 (placed after sentence " The outpost hunched ahead, a dark shape against the trees.")
+prompt:Establishing shot. The frontier outpost at dusk. Wooden palisades, torches flickering. It looks small and vulnerable against the dark forest. . Camera: Wide shot. Lighting: Dusk/Torchlight. photorealistic dark fantasy realism [Face_Reference: Outpost]
+
+5. filename: yard-report.jpg
+role: mid_04 (placed after sentence "Aldric waited in the torchlit yard.")
+prompt:Night scene. Varian reporting to Aldric in the muddy yard. Soldiers gathered around fires in the background. Aldric looks worried. . Camera: Medium shot. Lighting: Firelight/Torches. photorealistic dark fantasy realism [Face_Reference: Aldric, Varian]

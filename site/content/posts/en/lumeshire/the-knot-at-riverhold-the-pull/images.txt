@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Knot at Riverhold: The Pull
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tense-waiting.jpg
+role: header
+prompt:Ultra-detailed header scene. The room in high tension. Aldric near the door, hand near his belt. Balin by the window. Dulint and Xandor by the table. The Cube is glowing hot. . Camera: Wide shot. Lighting: Low key, tense. photorealistic dark fantasy realism
+
+2. filename: artifact-heat.jpg
+role: mid_01 (placed after sentence "Now it's radiating heat.")
+prompt:Sensory detail. Dulint's hand hovering over the cube. Distortion waves (heat shimmer) rising from the object. The metal looks red-hot but isn't glowing red, just blue. . Camera: Macro. Lighting: Heat distortion. photorealistic dark fantasy realism
+
+3. filename: maris-arrival.jpg
+role: mid_02 (placed after sentence "A woman stood in the threshold.")
+prompt:Character introduction. Maris standing in the doorway. She looks exhausted, disheveled, wild. Her eyes are wide and staring past the viewer. . Camera: Medium shot. Lighting: Backlit from hall. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: black-water-vision.jpg
+role: mid_03 (placed after sentence "Black water, she said. Someone drowning.")
+prompt:Vision insert. A hand breaking the surface of dark, oily water. It reaches for help that isn't there. Superimposed or stylized to look like a mental image. . Camera: Water level. Lighting: Dark and cold. photorealistic dark fantasy realism
+
+5. filename: five-strangers.jpg
+role: mid_04 (placed after sentence "Aldric counted the people in the room. Five now.")
+prompt:Group portrait. The First Five. Aldric, Dulint, Balin, Xandor, Maris. They are in the small room, looking at each other or the cube. They look like a ragtag team. . Camera: Cinematic group shot. Lighting: Warm room light. photorealistic dark fantasy realism

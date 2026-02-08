@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Conocimiento Prohibido: Las Señales de Advertencia
+Language: en
+Canon Sequence: D-007-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: letter-examined.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The letter text rearranging itself. The ink moving like ants. .
+
+2. filename: zaelar-explanation.jpg
+role: mid_01 (placed after sentence "Una red de palabras.")
+prompt:Photorealistic Web Weaver. Zaelar weaving a literal net of glowing thread while he talks. Capturing Drusniel's trust. . [Face_Reference: Thread]
+
+3. filename: mental-contact-doubt.jpg
+role: mid_02 (placed after sentence "Ecos falsos.")
+prompt:Photorealistic Ventriloquist. A shadowy figure (the enemy) holding a puppet that looks like Annariel. . [Face_Reference: Annariel]
+
+4. filename: cracked-ceiling.jpg
+role: mid_03 (placed after sentence "La grieta se ensancha.")
+prompt:Photorealistic The Chasm. The ceiling crack opening up to reveal a void or a giant eye looking in. .
+
+5. filename: shadows-remain.jpg
+role: mid_04 (placed after sentence "Solo el poder es real.")
+prompt:Photorealistic Anchor. Drusniel holding onto a glowing ball of air/light (his power) while the rest of the room dissolves into black smoke. . [Face_Reference: Drusniel]

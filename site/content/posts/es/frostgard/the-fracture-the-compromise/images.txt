@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Compromiso
+Language: en
+Canon Sequence: W-022-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: fallen-oak-camp.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on the moss on the fallen log. Insects crawling. Life goes on despite the war. . [Face_Reference: Moss]
+
+2. filename: aldric-wound.jpg
+role: mid_01 (placed after sentence "Lo vendó él mismo.")
+prompt:Photorealistic Blood on Steel. Aldric's blood dripping onto his sword hilt. Mixing with the metal. . [Face_Reference: Hilt]
+
+3. filename: purpose-talk.jpg
+role: mid_02 (placed after sentence "Un camino medio.")
+prompt:Photorealistic The Handshake. Dulint and Aldric clasping hands (or nodding). A moment of truce. . [Face_Reference: Dulint, Aldric]
+
+4. filename: drow-connection.jpg
+role: mid_03 (placed after sentence "Él está en movimiento.")
+prompt:Photorealistic Running Shadow. A vision of the Drow running through a dark tunnel, seen through Maris's eyes. Motion blur. . [Face_Reference: Running Drow]
+
+5. filename: marching-north.jpg
+role: mid_04 (placed after sentence "El compromiso los mantuvo unidos")
+prompt:Photorealistic The Bridge. Visual metaphor of the group walking across a fragile rope bridge over an abyss. The 'compromise' holding them up. . [Face_Reference: Bridge]

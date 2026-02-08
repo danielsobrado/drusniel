@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Prueba: Sombras en el Salón
+Language: en
+Canon Sequence: D-005-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: father-at-gate.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The Father's shadow stretching long towards Drusniel, engulfing him. . [Face_Reference: Drusniel]
+
+2. filename: mother-cold-reception.jpg
+role: mid_01 (placed after sentence "Sus manos estaban frías.")
+prompt:Photorealistic Ice. Mother's hands on Drusniel's face visualized as ice/frost spreading. Metaphorical. . [Face_Reference: Drusniel]
+
+3. filename: shyntara-suspicion.jpg
+role: mid_02 (placed after sentence "Sus ojos se fijaron en Drusniel.")
+prompt:Photorealistic Predator Eyes. Extreme close up on Shyntara's eyes. Cat-like, glowing slightly. . [Face_Reference: Shyntara]
+
+4. filename: father-study.jpg
+role: mid_03 (placed after sentence "Trofeos de tres generaciones.")
+prompt:Photorealistic Blood History. The weapons on the wall looking like they are bleeding or have ghostly stains. . [Face_Reference: Walls]
+
+5. filename: drusniel-tracing-walls.jpg
+role: mid_04 (placed after sentence "Un hueco donde algo había sido tallado.")
+prompt:Photorealistic The Hollow. Drusniel's chest with a visible hole or void shape in it (metaphorical). He is touching his chest. . [Face_Reference: Drusniel]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Surface Mage: The Return
+Language: en
+Canon Sequence: D-007-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-chaos.jpg
+role: header
+prompt:Ultra-detailed header scene. Servants rushing in the corridors of House Thel'varin. Drusniel entering from a side door, unnoticed. . Camera: Wide shot. Lighting: Fungal/Panic. photorealistic dark fantasy realism
+
+2. filename: father-fear.jpg
+role: mid_01 (placed after sentence "There was fear behind his eyes.")
+prompt:The Father's Fear. Close up of Drusniel's father. He looks tired, older. The mask slipping. . Camera: Extreme close up. Lighting: Harsh. photorealistic dark fantasy realism
+
+3. filename: mental-report.jpg
+role: mid_02 (placed after sentence "Drus. How did it go?")
+prompt:Reporting In. Drusniel lying in bed, mentally projecting his day to "Annariel". He looks relieved to share. . Camera: Intimate. Lighting: Night. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: generic-response.jpg
+role: mid_03 (placed after sentence "Generic. Sympathetic but vague.")
+prompt:The Faceless Voice. Visual of the voice as a faceless mannequin or mask. It looks 't. . Camera: Conceptual. Lighting: Uncanny. photorealistic dark fantasy realism [Face_Reference: Mask]
+
+5. filename: something-wrong.jpg
+role: mid_04 (placed after sentence "Something was wrong with the voice.")
+prompt:Glitch. Drusniel's mental image of Annariel glitching or distorting. Like a bad transmission. . Camera: Abstract. Lighting: Glitch effect. photorealistic dark fantasy realism [Face_Reference: Distortion]

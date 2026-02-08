@@ -1,0 +1,26 @@
+# Image Prompts
+Title: A Journey Interrupted
+Language: en
+Canon Sequence: P-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: mountain-camp.jpg
+role: header
+prompt:Ultra-detailed header scene. Dulint and Balin sitting by a small fire in a mountain clearing. Pines tower around them. It looks peaceful but isolated. . Camera: Wide shot. Lighting: Firelight/Starlight. photorealistic dark fantasy realism [Face_Reference: Camp]
+
+2. filename: goblin-ambush.jpg
+role: mid_01 (placed after sentence "They emerged from the underbrush, a writhing mass")
+prompt:Ambush. Goblins lunging out of the shadows. Green skin, yellow teeth, curved blades. Motion blur. Dulint raising his axe. . Camera: Action cam. Lighting: Moonlight chaos. photorealistic dark fantasy realism [Face_Reference: Goblins]
+
+3. filename: cliff-fall.jpg
+role: mid_02 (placed after sentence "He fell, taking Balin with him.")
+prompt:The Fall. Dulint and Balin tumbling down a steep rocky slope. Dust and rocks flying. Disorientation. . Camera: From below looking up. Lighting: Night. photorealistic dark fantasy realism
+
+4. filename: zuraldarr-rescue.jpg
+role: mid_03 (placed after sentence "Shapes moved on the ridge above.")
+prompt:Salvation. Silhouettes of Zuraldarr warriors on the ridge, throwing stones/spears. They look powerful and disciplined. . Camera: Low angle looking up at ridge. Lighting: Backlit by moon. photorealistic dark fantasy realism [Face_Reference: Zuraldarr]
+
+5. filename: witch-prophecy.jpg
+role: mid_04 (placed after sentence "At the center stood a lone figure, her presence commanding attention.")
+prompt:The Witch. The Zuraldarr witch with her branch crown, standing by a bonfire. Embers swirling around her. She looks ancient and knowing. . Camera: Medium shot. Lighting: Fire magic. photorealistic dark fantasy realism [Face_Reference: Witch]

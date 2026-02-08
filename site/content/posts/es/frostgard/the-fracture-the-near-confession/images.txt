@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: La Casi Confesión
+Language: en
+Canon Sequence: W-022-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-watch-talk.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on Balin's face lit by starlight. He looks older, harder than before. . [Face_Reference: Balin]
+
+2. filename: stonehold-memory.jpg
+role: mid_01 (placed after sentence "Ese chico se había ido.")
+prompt:Photorealistic Broken Mirror. Reflection of young Balin in a puddle or blade, shattered or distorted. . [Face_Reference: Reflection]
+
+3. filename: seer-confession-start.jpg
+role: mid_02 (placed after sentence "La pregunta quedó en el aire.")
+prompt:Photorealistic The Bubble. Dulint's words visualized as breath in the cold air, forming a shape that is about to burst. . [Face_Reference: Breath]
+
+4. filename: branch-snap-reaction.jpg
+role: mid_03 (placed after sentence "Silencio.")
+prompt:Photorealistic The Ear. Close up on an ear (Dulint or Balin) twitching/straining. The forest is too quiet. . [Face_Reference: Ear]
+
+5. filename: probing-shadows.jpg
+role: mid_04 (placed after sentence "Sombras profesionales.")
+prompt:Photorealistic The Grid. Tactical view of the forest (imagined). Red dots moving in a pincer formation. . [Face_Reference: Pattern]

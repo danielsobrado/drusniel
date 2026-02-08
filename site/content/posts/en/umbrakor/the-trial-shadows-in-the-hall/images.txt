@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Trial: Shadows in the Hall
+Language: en
+Canon Sequence: D-005-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: father-at-gate.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel's Father standing at the compound gate. A dark silhouette against the bioluminescent city. Stern, unmoving. . Camera: Low angle approaching. Lighting: Backlit. photorealistic dark fantasy realism [Face_Reference: Father]
+
+2. filename: mother-cold-reception.jpg
+role: mid_01 (placed after sentence "'It's done. You're home.'")
+prompt:The Mask. Drusniel's Mother's face. Perfectly composed, cold, emotionless. Touching his face but looking through him. . Camera: Close up. Lighting: Interior cool. photorealistic dark fantasy realism [Face_Reference: Mother]
+
+3. filename: shyntara-suspicion.jpg
+role: mid_02 (placed after sentence "'Where have you been sneaking off to?'")
+prompt:The Interrogation. Shyntara leaning against a wall, cleaning a dagger. Looking sharply at Drusniel. Suspicious. . Camera: Medium shot. Lighting: Sharp shadows. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+4. filename: father-study.jpg
+role: mid_03 (placed after sentence "Knives of every design hung from pegs")
+prompt:The Arsenal. Interior of the Father's study. Walls covered in knives and weapons. Claustrophobic. . Camera: Wide interior. Lighting: Warm/Firelight. photorealistic dark fantasy realism [Face_Reference: Weapons]
+
+5. filename: drusniel-tracing-walls.jpg
+role: mid_04 (placed after sentence "He traced the blade-marks on the study walls.")
+prompt:The Pattern. Close up of Drusniel's hand tracing a deep scratch in the wood/stone. . Camera: Extreme close up. Lighting: Dim. photorealistic dark fantasy realism

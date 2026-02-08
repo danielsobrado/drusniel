@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Noche Antes
+Language: en
+Canon Sequence: D-009-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-dinner.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The dinner table inside a soap bubble. Outside the bubble is darkness/storms. . [Face_Reference: Bubble]
+
+2. filename: father-laughing.jpg
+role: mid_01 (placed after sentence "Máscara caída.")
+prompt:Photorealistic Unmasked. Father holding a "stern mask" in his hand, revealing a smiling face underneath. . [Face_Reference: Mask]
+
+3. filename: balcony-talk.jpg
+role: mid_02 (placed after sentence "La ciudad respira.")
+prompt:Photorealistic Living City. The city below looking like a beast breathing. Bioluminescence pulsing. .
+
+4. filename: accusation.jpg
+role: mid_03 (placed after sentence "Verdad afilada.")
+prompt:Photorealistic Sword of Truth. Shyntara's words visualized as a glowing sword between them. . [Face_Reference: Sword]
+
+5. filename: regret.jpg
+role: mid_04 (placed after sentence "Puertas cerradas.")
+prompt:Photorealistic Closing Doors. An endless corridor of doors slamming shut one by one. .

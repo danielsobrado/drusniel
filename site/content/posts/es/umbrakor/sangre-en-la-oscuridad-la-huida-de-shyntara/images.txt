@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Sangre en la Oscuridad: La Huida de Shyntara
+Language: en
+Canon Sequence: D-010-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: assessing-rubble.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Shyntara calculating probabilities. Numbers floating in front of her eyes like a HUD. . [Face_Reference: Numbers]
+
+2. filename: silent-kill.jpg
+role: mid_01 (placed after sentence "Danza de muerte.")
+prompt:Photorealistic Dancer. Shyntara moving like a dancer, flowing around the enemies. Ribbons of blood. . [Face_Reference: Shyntara]
+
+3. filename: mercenary-corpse.jpg
+role: mid_02 (placed after sentence "Sin rostro.")
+prompt:Photorealistic Blank Face. The mercenary having no face at all, just smooth skin. .
+
+4. filename: burning-compound.jpg
+role: mid_03 (placed after sentence "Cenizas.")
+prompt:Photorealistic Phoenix. The smoke from the fire forming a dying phoenix (not rising). .
+
+5. filename: entering-tunnel.jpg
+role: mid_04 (placed after sentence "Solo verdades.")
+prompt:Photorealistic Torch in Darkness. Shyntara holding a torch that emits "Truth" (white light) instead of fire. . [Face_Reference: Shyntara]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Warning Signs
+Language: en
+Canon Sequence: D-007-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: letter-examined.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel examining the letter under a magnifying glass or strong light. The words 'Intervention' and 'Subject' are highlighted. . Camera: POV close up. Lighting: Focused. photorealistic dark fantasy realism [Face_Reference: Words]
+
+2. filename: zaelar-explanation.jpg
+role: mid_01 (placed after sentence "The explanation fit.")
+prompt:The Spinner. Zaelar talking, using his hands. He looks convincing, almost fatherly. . Camera: Medium shot. Lighting: Warm. photorealistic dark fantasy realism [Face_Reference: Zaelar]
+
+3. filename: mental-contact-doubt.jpg
+role: mid_02 (placed after sentence "Trust him. The words echoed.")
+prompt:Two Voices. Visual representation of Drusniel hearing two contradictory voices. Zaelar on one side, 'Annariel' on the other. Conflict. . Camera: Abstract. Lighting: Split color (Violet/Blue). photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: cracked-ceiling.jpg
+role: mid_03 (placed after sentence "Eyes fixed on a thin crack.")
+prompt:The Fissure. Drusniel looking at a crack in the ceiling that looks like a lightning bolt. . Camera: Low Angle. Lighting: Dim. photorealistic dark fantasy realism [Face_Reference: Crack]
+
+5. filename: shadows-remain.jpg
+role: mid_04 (placed after sentence "Everything else was shadows.")
+prompt:Engulfed. Drusniel sitting on his bed, the shadows of the room stretching to cover him. Only his hands (source of power) are in light. . Camera: Wide shot. Lighting: Chiaroscuro. photorealistic dark fantasy realism

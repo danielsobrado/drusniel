@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Camino de Zuraldi: La Duda del Sobrino
+Language: es
+Canon Sequence: W-008-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: confrontation-on-road.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Balin's hand gripping Dulint's arm. Close up on the tension in the fingers. . [Face_Reference: Balin, Dulint]
+
+2. filename: finding-the-cube-flashback.jpg
+role: mid_01 (placed after sentence "Yo fui quien lo sacó del estrato")
+prompt:Photorealistic The Void in the Wall. The hole where the cube came from. It looks like a mouth. Balin's hand reaching in. . [Face_Reference: Gap]
+
+3. filename: xandor-hope.jpg
+role: mid_02 (placed after sentence "Conozco un contacto")
+prompt:Photorealistic Riverhold in mind. An imagined view of Riverhold's walls (dreamy/hazy) superimposed over the dusty road. .
+
+4. filename: tagged-realization.jpg
+role: mid_03 (placed after sentence "Estamos marcados.")
+prompt:Photorealistic The Tag. Visual metaphor of a magical mark or target on their backs. Or just the feeling of being watched intensifying to a visual distortion. . [Face_Reference: Backs]
+
+5. filename: fluid-pursuers.jpg
+role: mid_04 (placed after sentence "Se movían con una fluidez que era totalmente incorrecta")
+prompt:Photorealistic Uncanny Valley. The movement of the pursuers depicted as a blur or streak. They don't step, they flow. .

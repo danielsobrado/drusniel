@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Unruly Might of the Grukmar Tribes
+Language: en
+Canon Sequence: GRU-L-002
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.png
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. . Camera: 24mm wide-angle, low horizon, deep depth of field. Lighting: cool moonlit shadows with steel-blue fill. Foreground, midground, and background must each carry readable storytelling details tied to this chapter. Composition should leave clean negative space for title overlay without obscuring the main subject. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism Expression & eyeline: beat cue '"He claims he's a defector," Sergeant Hollis said.'. Primary face: one brow subtly lowered, eyes narrowed in assessment, jaw set, mouth held thin; eyes locked on the immediate in-scene threat or, wary, and unreadable, with eyelines converging toward the immediate in-scene threat or ]
+
+2. filename: mid-01.png
+role: mid_01
+prompt:Mid-content image 1. Character-centered story beat with emotional tension and explicit scene context from tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. Camera: 85mm compressed perspective, selective focus on eyes. Lighting: low-key contrast, desaturated palette, restrained highlights. Capture believable body language, costume wear, weathering, and scene props that imply recent action. Use layered depth, controlled contrast, and physically plausible shadows. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism Expression & eyeline: beat cue 'Grukmar creatures were unpredictable at the best of times, and this one had the manic energy of something that had survived by being more dangerous than it looked.'. Primary face must carry anger with readable micro-tension: brows pulled down, nostrils flared, jaw locked hard, lips pressed or curled in controlled anger. Set eyeline directly at el mar; if a second character is present, force an eyeline match or confrontation between them. [Face_Reference: Groktar]
+
+3. filename: mid-02.png
+role: mid_02
+prompt:Mid-content image 2. Dynamic transition moment (movement, conflict, or discovery) in tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. Camera should emphasize directional force and urgency while preserving facial readability. Lighting: low-key contrast, desaturated palette, restrained highlights. Prioritize tactile environmental interaction: dust displacement, cloth motion, hair movement, and impact traces. No stylized abstraction; keep grounded realism. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic dark fantasy realism Expression & eyeline: beat cue '"The deep tribes," she said to the goblin.'. During motion, keep emotion readable: steady unblinking stare, set jaw, controlled breathing, no smile. Eyes track the immediate in-scene threat or ]
+
+4. filename: mid-03.png
+role: mid_03
+prompt:Mid-content image 3. Symbolic environment/detail shot tied to the chapter's thematic pressure within tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. No empty scenic wallpaper; include a narrative clue object, architecture cue, or ritual trace. Camera: macro-to-medium documentary framing, precise focal plane control. Lighting: low-key contrast, desaturated palette, restrained highlights. Material realism is critical: metal oxidation, cloth fiber, stone pores, liquid behavior. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism Expression & eyeline: beat cue 'She thought she understood Grukmar.'. Use investigative expression: slightly widened eyes, parted lips, still posture, expression caught between awe and dread. Eyeline and hand direction must both anchor on el mar so the clue reads immediately. [Face_Reference: Groktar]
+
+5. filename: mid-04.png
+role: mid_04
+prompt:Mid-content image 4. Closing emotional beat with consequence and unresolved tension, grounded in historical memory tone, documentary realism, artifact-focused framing. Camera: 40mm handheld documentary angle, subtle motion energy. Lighting: cold overcast ambience with narrow shafts of hard light. Face and hands must communicate the scene's subtext; include subtle context elements in background to imply what comes next. Avoid heroic posing; favor intimate realism and narrative ambiguity. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism Expression & eyeline: beat cue 'Maintain standard patrol schedule.'. Closing emotion should linger in the face: wet or glassy eyes, heavy eyelids, mouth downturned or trembling, face drained of color. Gaze stays on the immediate in-scene threat or, jaw fatigue, trembling mouth corners). [Face_Reference: Groktar]

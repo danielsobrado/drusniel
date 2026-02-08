@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Aftermath
+Language: en
+Canon Sequence: AST-M-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: waking-in-field.jpg
+role: header
+prompt:Ultra-detailed header scene. Maris (pale human woman, disheveled) lying in a harvested field of tall grass. The sun is low (golden hour). She looks confused, in pain, dirt on her face. . Camera: High angle looking down. Lighting: Long shadows. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+2. filename: blood-on-fingers.jpg
+role: mid_01 (placed after sentence "Her fingers came away with the copper taste of blood.")
+prompt:Visceral detail. Close up on Maris's fingers touching her lips. Blood on the fingertips. The background is out of focus grass. . Camera: Macro. Lighting: Soft sunlight. photorealistic dark fantasy realism
+
+3. filename: riverhold-in-distance.jpg
+role: mid_02 (placed after sentence "The town's silhouette was visible against the horizon")
+prompt:Environmental shot. Maris standing unsteadily in the field, looking towards a distant town (Riverhold). The town is just a silhouette against the setting sun. . Camera: Wide shot from behind Maris. Lighting: Backlit/Sunset. photorealistic dark fantasy realism
+
+4. filename: vision-fragment-hand.jpg
+role: mid_03 (placed after sentence "A hand—grey-dark skin, long fingers—slipping beneath the surface")
+prompt:Vision flashback (Mental Image). A grey-dark hand reaching up out of oily black water. It is surreal, terrifying. The water looks thick. . Camera: Close up on hand. Lighting: Unnatural, cold. photorealistic dark fantasy realism
+
+5. filename: maris-walks-shakily.jpg
+role: mid_04 (placed after sentence "Each step was a negotiation with a body that wanted nothing more than to lie back down")
+prompt:Character action. Maris walking through the field stubble, stumbling slightly. She looks exhausted but determined. . Camera: Tracking shot from side. Lighting: Fading light. photorealistic dark fantasy realism [Face_Reference: Maris]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: La Imagen Estable
+Language: es
+Canon Sequence: AST-M-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-fence.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris leaning against a fence post, head in hands. The field around her is vast and empty. The sky is darkening. . [Face_Reference: Maris]
+
+2. filename: vision-boat-black-water.jpg
+role: mid_01 (placed after sentence "Se mecía en agua que se movía mal")
+prompt:Photorealistic Surreal landscape. The black boat on the black water. The horizon is broken/wrong. The water reflects a sky that isn't there. .
+
+3. filename: vision-hand-reaching.jpg
+role: mid_02 (placed after sentence "Piel gris-oscura. Dedos largos.")
+prompt:Photorealistic Anatomical detail. The grey hand reaching up. The fingers are impossibly long, the joints sharp. It looks alien but beautiful. The black water clings to it like syrup.
+
+4. filename: maris-wakes-gasping.jpg
+role: mid_03 (placed after sentence "Maris volvió a sí misma con un jadeo.")
+prompt:Photorealistic Physical reaction. Maris gripping the textured wood of the fence post. Splinters/grain details. Her face is buried against her arm, hiding from the light. . [Face_Reference: Maris]
+
+5. filename: maris-walks-on.jpg
+role: mid_04 (placed after sentence "Maris empezó a caminar otra vez.")
+prompt:Photorealistic Journey beat. Maris walking towards the town. A bird flies overhead (crow/raven). The road is straight and narrow. . Camera: Eye level from behind. [Face_Reference: Maris]

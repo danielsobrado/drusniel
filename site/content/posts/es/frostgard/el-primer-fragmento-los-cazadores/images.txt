@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: Los Cazadores
+Language: en
+Canon Sequence: W-020-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: message-carved.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The carved words are made of red ice. . [Face_Reference: Words]
+
+2. filename: hunters-tracks.jpg
+role: mid_01 (placed after sentence "Huellas de lobo.")
+prompt:Photorealistic Wolf Pack. The footprints look like wolf prints but in military formation. . [Face_Reference: Formation]
+
+3. filename: beacon-pulse-strong.jpg
+role: mid_02 (placed after sentence "Grito silencioso.")
+prompt:Photorealistic Sound Scream. The Beacon's pulse visualized as a screaming mouth made of light. . [Face_Reference: Scream]
+
+4. filename: professional-restraint.jpg
+role: mid_03 (placed after sentence "La soga.")
+prompt:Photorealistic Noose. A noose hanging from a tree in the foreground, framing the group walking away. . [Face_Reference: Noose]
+
+5. filename: maris-vision-face.jpg
+role: mid_04 (placed after sentence "El rostro.")
+prompt:Photorealistic Reflection in Blood. Maris looking at a pool of blood and seeing the drow face. . [Face_Reference: Reflection]

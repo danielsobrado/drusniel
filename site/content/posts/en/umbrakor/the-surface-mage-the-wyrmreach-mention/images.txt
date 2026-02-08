@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Surface Mage: The Wyrmreach Mention
+Language: en
+Canon Sequence: D-007-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-book.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar holding an old book open. An illustration of a dragon or strange land is visible. . Camera: Close up over shoulder. Lighting: Library focus. photorealistic dark fantasy realism
+
+2. filename: horror-of-sea.jpg
+role: mid_01 (placed after sentence "'Wyrmreach is a death sentence.'")
+prompt:Nightmare Sea. Drusniel's mental image of the sea. Dark, churning water, monsters. Scary. . Camera: Conceptual. Lighting: Dark/Green. photorealistic dark fantasy realism [Face_Reference: Waves]
+
+3. filename: dual-affinity-reveal.jpg
+role: mid_02 (placed after sentence "'Air magic is the only reliable way.'")
+prompt:The Key. Diagram or visual showing Air parting Water. Explaining why he can survive. . Camera: Abstract. Lighting: Blue/White. photorealistic dark fantasy realism
+
+4. filename: fragile-family.jpg
+role: mid_03 (placed after sentence "'Your family's position may be more fragile.'")
+prompt:House of Cards. Visual metaphor of Drusniel's family house/sigil made of cards or glass, cracking. . Camera: Conceptual. Lighting: Fragile. photorealistic dark fantasy realism [Face_Reference: House Sigil]
+
+5. filename: leaving-tower.jpg
+role: mid_04 (placed after sentence "Drusniel stood on the tower's threshold")
+prompt:The Choice. Drusniel standing at the door, one foot on surface soil, looking back towards the tunnel (underground). Torn between two worlds. . Camera: Wide shot. Lighting: Dusk/Dawn gray. photorealistic dark fantasy realism [Face_Reference: Drusniel]

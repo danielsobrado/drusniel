@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Camino de Zuraldi: El Despertar
+Language: es
+Canon Sequence: W-008-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: road-from-zuraldi.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The road stretching endlessly ahead. Heat waves distorting the horizon. .
+
+2. filename: glowing-pack.jpg
+role: mid_01 (placed after sentence "Una luz tenue e incolora se filtraba por las costuras")
+prompt:Photorealistic Leaking light. View from behind Dulint walking. The light spilling from his pack onto his back looks like a stain. . [Face_Reference: Dulint]
+
+3. filename: warm-cube.jpg
+role: mid_02 (placed after sentence "El cubo salió caliente.")
+prompt:Photorealistic Burning touch. Dulint's hands look red where they touch the cube. Steam (or smoke?) rising slightly. . [Face_Reference: Dulint]
+
+4. filename: pointing-northeast.jpg
+role: mid_03 (placed after sentence "Una cara brillaba más que las otras.")
+prompt:Photorealistic The Arrow. The light from the cube cutting through the dusty air, pointing at a mountain peak in the distance. . [Face_Reference: Beam]
+
+5. filename: bone-hum.jpg
+role: mid_04 (placed after sentence "Se asentó directamente en sus huesos.")
+prompt:Photorealistic Resonance. Close up on Dulint's eye. The pupil is vibrating (blur effect). He looks nauseous. . [Face_Reference: Dulint]

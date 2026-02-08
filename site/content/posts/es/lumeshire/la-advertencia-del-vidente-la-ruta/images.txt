@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Advertencia del Vidente: La Ruta
+Language: es
+Canon Sequence: AST-M-018
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-traces-lines.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on the map. Aldric's gloved hand tracing the "fast route" in red ink (metaphorically). The map texture is worn. . [Face_Reference: Aldric]
+
+2. filename: grukmar-patrol-sign.jpg
+role: mid_01 (placed after sentence "Hemos visto las señales. Están organizados.")
+prompt:Photorealistic Atmospheric detail. A Goblin/Grukmar totem hanging from a tree branch, silhouetted against a grey sky. Smoke rises in the distance. Camera: Low angle looking up at the totem.
+
+3. filename: dulint-remembers-seer.jpg
+role: mid_02 (placed after sentence "Pero la voz de la vidente resonaba en su mente. Lentamente.")
+prompt:Photorealistic Symbolic portrait. Dulint's face reflected in a pool of water or a shiny surface. The reflection is slightly distorted, as if seen through "time" or "vision". Lighting: Rippled light. [Face_Reference: Dulint]
+
+4. filename: balin-eager.jpg
+role: mid_03 (placed after sentence "El rostro de su sobrino estaba ansioso, queriendo moverse")
+prompt:Photorealistic Action potential. Close up on Balin's boots as he shifts weight, or his hand gripping a weapon hilt tight. The energy of "wanting to go". Camera: Macro on nervous energy. [Face_Reference: Balin]
+
+5. filename: dulint-makes-decision.jpg
+role: mid_04 (placed after sentence "Tomamos la ruta lenta, dijo Dulint.")
+prompt:Photorealistic Group reaction. View from behind Dulint as he announces the decision. We see the faces of Aldric (angry/tight), Balin (disappointed), Xandor (neutral). Dulint is an anchor in the foreground. [Face_Reference: Dulint, Aldric, Balin, Xandor]

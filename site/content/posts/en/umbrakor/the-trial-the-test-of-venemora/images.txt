@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Trial: The Test of Venemora
+Language: en
+Canon Sequence: D-003-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: trial-chamber-reveal.jpg
+role: header
+prompt:Ultra-detailed header scene. The main trial chamber. Massive obsidian columns. The Altar of Wings in the center. Purple lighting. Mages waiting. . Camera: Wide and Grand. Lighting: Purple. photorealistic dark fantasy realism [Face_Reference: Altar]
+
+2. filename: annariel-success.jpg
+role: mid_01 (placed after sentence "'Adequate connection.'")
+prompt:Success. Annariel on the platform, bathed in a very faint, shimmering heat-haze. He looks relieved, crying. . Camera: Medium shot. Lighting: Shimmer. photorealistic dark fantasy realism [Face_Reference: Annariel]
+
+3. filename: drusniel-platform.jpg
+role: mid_02 (placed after sentence "Drusniel settled into that borrowed warmth")
+prompt:The Attempt. Drusniel kneeling on the black stone. Eyes closed. Intense concentration. The darkness around him feels heavy. . Camera: Eye level. Lighting: Spotlight. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: the-void-feeling.jpg
+role: mid_03 (placed after sentence "The void was larger now.")
+prompt:The Absence. Abstract visual of a hand reaching for a light that is turning into a black hole/void. Distortion. . Camera: Conceptual. Lighting: Negative space. photorealistic dark fantasy realism
+
+5. filename: annariel-horror.jpg
+role: mid_04 (placed after sentence "pure, undiluted horror.")
+prompt:The witness. Annariel's face in the crowd. He looks terrified, not happy. He knows what happened. . Camera: Close up telephoto. Lighting: Crowd dimness. photorealistic dark fantasy realism [Face_Reference: Annariel]

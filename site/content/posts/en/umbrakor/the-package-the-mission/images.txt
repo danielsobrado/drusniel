@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The Mission
+Language: en
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar showing Drusniel a complex diagram of a portal or crossing point to Wyrmreach. Runes and calculations. . Camera: Top down table. Lighting: Candlelight. photorealistic dark fantasy realism
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "Power beyond a drow's imagination.")
+prompt:The Promise. Zaelar holding up a hand, creating a small, perfect sphere of storm/lightning. Showcasing what is possible. . Camera: Close up hand. Lighting: Electric. photorealistic dark fantasy realism [Face_Reference: Sphere]
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "Find Szoravel.")
+prompt:The Name. The name "Szoravel" written in ancient script on a parchment. Drusniel staring at it. . Camera: Extreme close up. Lighting: Focus on ink. photorealistic dark fantasy realism
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "I'll do it.")
+prompt:Acceptance. Drusniel nodding, face set in stone. Cold determination replacing grief. . Camera: Portrait. Lighting: Side shadow. photorealistic dark fantasy realism
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "We begin immediately.")
+prompt:Gear Up. Drusniel putting on a travel cloak or checking a buckle. Practical prepartion. . Camera: Medium shot. Lighting: interior. photorealistic dark fantasy realism [Face_Reference: Gear]

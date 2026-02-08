@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Hesitation
+Language: en
+Canon Sequence: D-007-010
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: refusing-offer.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel standing firm, shaking his head. Zaelar watching him calmly. Tension in the room. . Camera: Medium shot. Lighting: Interior study. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: walking-back-paranoia.jpg
+role: mid_01 (placed after sentence "Movement where there should be stillness.")
+prompt:Paranoia. Drusniel walking in the tunnel. Shadows seem to be reaching for him. He looks over his shoulder. . Camera: Dutch angle. Lighting: Spooky. photorealistic dark fantasy realism
+
+3. filename: shyntara-silhouette.jpg
+role: mid_02 (placed after sentence "Shyntara was waiting.")
+prompt:The Sister. Shyntara silhouetted against a window in the family quarters. Dark, sharp outline. . Camera: Wide shot. Lighting: Backlit. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+4. filename: sister-confrontation.jpg
+role: mid_03 (placed after sentence "Close enough to kill.")
+prompt:Face Off. Close up profile of Drusniel and Shyntara facing each other. Intensity. . Camera: Side profile. Lighting: Split. photorealistic dark fantasy realism
+
+5. filename: sleepless-night.jpg
+role: mid_04 (placed after sentence "It was a long time before he slept.")
+prompt:Insomnia. Drusniel lying in bed, eyes wide open, staring at ceiling. The weight of his secrets pressing down. . Camera: Top down bed. Lighting: Night. photorealistic dark fantasy realism [Face_Reference: Drusniel]

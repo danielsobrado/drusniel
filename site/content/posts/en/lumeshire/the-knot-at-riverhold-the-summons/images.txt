@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Knot at Riverhold: The Summons
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: meeting-the-dwarves.jpg
+role: header
+prompt:Ultra-detailed header scene. Aldric standing in the doorway of a small room. Xandor is gesturing to Dulint (seated, tired) and Balin (pacing). The Cube is on the table between them. . Camera: Wide shot from door. Lighting: Candlelight. photorealistic dark fantasy realism
+
+2. filename: cube-on-silk.jpg
+role: mid_01 (placed after sentence "A cube. Perhaps four inches on each side")
+prompt:Object macro. The Cube sitting on a piece of silk cloth. The contrast between the dark metal and the fine fabric. It looks heavy. . Camera: Macro. Lighting: Soft ambient. photorealistic dark fantasy realism
+
+3. filename: balin-impatience.jpg
+role: mid_02 (placed after sentence "The younger dwarf—Balin, Aldric assumed—made a frustrated noise.")
+prompt:Character portrait. Balin looking young and frustrated, gesturing at the cube. He looks out of place in the room of serious older men. . Camera: Medium shot. Lighting: Side light. photorealistic dark fantasy realism [Face_Reference: Balin]
+
+4. filename: xandor-explains.jpg
+role: mid_03 (placed after sentence "The Nexus references, the barrier mechanics")
+prompt:Exposition beat. Xandor leaning over the table, hands framing the cube but not touching it. He looks intense. Aldric watches him clinically. . Camera: Low angle. Lighting: Uplighting from table? photorealistic dark fantasy realism [Face_Reference: Xandor]
+
+5. filename: counting-exits.jpg
+role: mid_04 (placed after sentence "Aldric counted exits. Three in this room.")
+prompt:POV visualization. Aldric's view of the room, but with the exits (door, window) highlighted or in sharp focus while the rest is slightly blurred. . Camera: Point of View. Lighting: Room ambience. photorealistic dark fantasy realism [Face_Reference: Exits]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Advertencia del Vidente: La Partida
+Language: es
+Canon Sequence: AST-M-020
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: group-leaves-riverhold.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The moment of crossing the threshold (gate or bridge) out of the city. The group is crossing over. . Lighting: High contrast shadow of the gate.
+
+2. filename: xandor-plants-pack.jpg
+role: mid_01 (placed after sentence "Xandor tenía sus plantas aseguradas en un transportador especial")
+prompt:Photorealistic Object detail. Close up on the strange plants peeking out of Xandor's pack. They look alien or magical. Camera: Macro. [Face_Reference: Xandor]
+
+3. filename: beacon-warmth.jpg
+role: mid_02 (placed after sentence "El Faro pulsaba en la mochila de Dulint")
+prompt:Photorealistic Reaction beat. Dulint adjusting his pack strap, grimacing slightly at the heat/weight. Camera: Close up on face/shoulder. [Face_Reference: Dulint]
+
+4. filename: maris-steady.jpg
+role: mid_03 (placed after sentence "Maris se veía pálida pero firme")
+prompt:Photorealistic Character portrait. Maris tying her hair back or checking a weapon. She looks ready for war, despite her frailty. Camera: Low angle hero shot. [Face_Reference: Maris]
+
+5. filename: dulint-final-look-back.jpg
+role: mid_04 (placed after sentence "Dulint miró atrás una vez mientras los muros de Riverhold se encogían")
+prompt:Photorealistic Environmental scale. Dulint is a tiny figure in the foreground, looking back at the massive, distant city walls of Riverhold. The scale emphasizes leaving civilization. Camera: Wide landscape. [Face_Reference: Dulint]

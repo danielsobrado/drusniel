@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Nombrar Sin Explicar: El Reconocimiento
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-studies-cube.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Xandor's face illuminated by the artifact's glow. The background is dark, emphasizing his isolation with the object. . [Face_Reference: Xandor]
+
+2. filename: cube-pulse-detail.jpg
+role: mid_01 (placed after sentence "El cubo pulsaba con esa luz suave")
+prompt:Photorealistic Geometric abstraction. The surface of the Cube. The symbols look like they are moving under the metal. .
+
+3. filename: xandor-touches-artifact.jpg
+role: mid_02 (placed after sentence "Xandor finalmente tocó la superficie del cubo")
+prompt:Photorealistic Energy transfer. The moment of contact. A ripple of distortion in the air around Xandor's hand and the cube. . [Face_Reference: Xandor]
+
+4. filename: maris-overwhelmed.jpg
+role: mid_03 (placed after sentence "Me grita. Constantemente.")
+prompt:Photorealistic Psychic pain. Maris's face in deep shadow, eyes squeezed shut. A visual representation of 'screaming' (maybe blurred motion or static effect around her head). . [Face_Reference: Maris]
+
+5. filename: group-tension.jpg
+role: mid_04 (placed after sentence "Aldric probó la palabra desde su posición")
+prompt:Photorealistic Shadow play. The shadows of the group cast on the walls by the artifact's light. The shadows look larger/distorted, menacing. .

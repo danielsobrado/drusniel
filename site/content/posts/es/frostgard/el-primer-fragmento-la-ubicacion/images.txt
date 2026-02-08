@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: La Ubicación
+Language: en
+Canon Sequence: W-020-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ice-cave-entrance.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The cave mouth looks like a screaming face frozen in ice. .
+
+2. filename: map-consultation.jpg
+role: mid_01 (placed after sentence "Mapa estelar.")
+prompt:Photorealistic Constellations. The map glowing like a star chart, the Beacon is a star. . [Face_Reference: Stars]
+
+3. filename: broken-seal.jpg
+role: mid_02 (placed after sentence "Sello roto.")
+prompt:Photorealistic Broken Promise. Two stone hands that were clasped are now broken apart (the seal). .
+
+4. filename: entering-darkness.jpg
+role: mid_03 (placed after sentence "Tragados por la tierra.")
+prompt:Photorealistic Swallowed. The camera looking out from inside the cave (teeth visible like a mouth). The group entering. .
+
+5. filename: ancient-markings.jpg
+role: mid_04 (placed after sentence "Ecos visuales.")
+prompt:Photorealistic Sound Waves. The runes on the wall visualized as frozen sound waves. . [Face_Reference: Waves]

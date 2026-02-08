@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Nudo en Riverhold: El Veterano
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-tavern-exits.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Aldric's hand on a tankard, scarred and weathered. In the background, out of focus, the tavern door opens. . [Face_Reference: Aldric]
+
+2. filename: sera-arrives.jpg
+role: mid_01 (placed after sentence "Una mujer estaba parada en su mesa")
+prompt:Photorealistic Tired resilience. Close up on Sera's face. Dust in her wrinkles. Eyes bright with urgency. She looks down at Aldric. . [Face_Reference: Sera]
+
+3. filename: riverhold-streets-alert.jpg
+role: mid_02 (placed after sentence "Aldric se movió a través de ellos")
+prompt:Photorealistic Threat perception. A view of the street, but certain individuals are highlighted (maybe with subtle lighting cues) as potential threats, reflecting how Aldric sees the world. . [Face_Reference: Aldric]
+
+4. filename: scholars-rest-room.jpg
+role: mid_03 (placed after sentence "rodeado de libros y papeles y el cómodo caos")
+prompt:Photorealistic Scholar's sanctuary. Xandor amidst the chaos of books. The light dust motes dancing in the sunbeams. It looks peaceful, contrasting with the news. . [Face_Reference: Atmosphere]
+
+5. filename: changes-everything.jpg
+role: mid_04 (placed after sentence "Lo que están cargando lo cambia todo.")
+prompt:Photorealistic Dawn of purpose. Aldric standing up, his chair pushed back. Silhouette against a bright window. He looks ready. . [Face_Reference: Aldric]

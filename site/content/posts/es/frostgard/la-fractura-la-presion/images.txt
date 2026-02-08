@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: La Presión
+Language: en
+Canon Sequence: W-022-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: trudging-snow.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The snow is actually made of white chains wrapping around their legs. . [Face_Reference: Chains]
+
+2. filename: aldrice-glare.jpg
+role: mid_01 (placed after sentence "Mirada de hielo.")
+prompt:Photorealistic Icicle Eyes. Aldric's eyes are literally icicles. . [Face_Reference: Aldric]
+
+3. filename: maris-stumble.jpg
+role: mid_02 (placed after sentence "Rodillas rotas.")
+prompt:Photorealistic Cracking Doll. Maris as a porcelain doll with cracks in her knees where she fell. . [Face_Reference: Cracks]
+
+4. filename: dulint-worry.jpg
+role: mid_03 (placed after sentence "Máscara de piedra.")
+prompt:Photorealistic Stone Mask. Dulint's face slowly turning to granite. . [Face_Reference: Dulint]
+
+5. filename: beacon-heavy.jpg
+role: mid_04 (placed after sentence "Atlas.")
+prompt:Photorealistic World on Shoulders. Dulint carrying a small planet on his back instead of a pack. . [Face_Reference: Planet]

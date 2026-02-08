@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Road from Zuraldi: The Absence
+Language: en
+Canon Sequence: W-008-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: holding-the-void.jpg
+role: header
+prompt:Ultra-detailed header scene. Dulint holding the cube against the sky. The space around the cube looks warped, darker. . Camera: Low angle. Lighting: Afternoon sun/Shadow void. photorealistic dark fantasy realism
+
+2. filename: absence-sensation.jpg
+role: mid_01 (placed after sentence "It felt like... absence.")
+prompt:Visual metaphor. A silhouette of a hand where the center is missing/transparent universe. Trying to visualize the feeling of 'less'. . Camera: Conceptual close up. Lighting: Surreal. photorealistic dark fantasy realism [Face_Reference: Effect]
+
+3. filename: distant-figures.jpg
+role: mid_02 (placed after sentence "A flicker of movement on the hillside behind them.")
+prompt:The Pursuit. A distant hill. Tiny figures moving in a line. They look orderly, not random. . Camera: Telephoto/Zoom. Lighting: Distance haze. photorealistic dark fantasy realism [Face_Reference: Hillside]
+
+4. filename: war-instincts.jpg
+role: mid_03 (placed after sentence "His war instincts screamed at him")
+prompt:Character shift. Dulint's face hardening. The tired merchant is gone; the soldier is back. Eyes narrowing, hand on weapon. . Camera: Close up. Lighting: Hard sunlight. photorealistic dark fantasy realism
+
+5. filename: running-start.jpg
+role: mid_04 (placed after sentence "'We need to move,' Dulint said. 'Now.'")
+prompt:Urgent departure. Boots kicking up dust as they start to run. The cube is shoved hastily into the pack. . Camera: Ground level action. Lighting: Motion blur. photorealistic dark fantasy realism

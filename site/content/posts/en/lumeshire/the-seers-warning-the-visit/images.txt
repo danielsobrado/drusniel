@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Seer's Warning: The Visit
+Language: en
+Canon Sequence: AST-M-017
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-approaches-cave.jpg
+role: header
+prompt:Ultra-detailed header scene. Establishing shot. Dulint (dwarf male, white hair, travel gear) climbing a steep, snowy mountain path toward a dark cave entrance. . Camera: Wide landscape shot. Lighting: Cold, thin mountain air light. Background: high peaks. micro-particles, atmospheric haze layers, realistic material roughness. photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+2. filename: seer-waiting.jpg
+role: mid_01 (placed after sentence "She was waiting when he arrived, as if she'd known he was coming.")
+prompt:Character portrait. The Seer (very old human female, frail, blind?) sitting by a small fire inside the cave entrance. She looks small but powerful. Dulint's shadow falls across her. Camera: Medium shot. Lighting: Firelight vs daylight entrance. photorealistic dark fantasy realism [Face_Reference: the Seer]
+
+3. filename: dulint-hears-failure.jpg
+role: mid_02 (placed after sentence "You will fail. The words hit like a physical blow.")
+prompt:Reaction beat. Close up on Dulint's face. Shock, denial, fear. The Seer is a blurry figure in the foreground/background. . Camera: 85mm portrait. Lighting: Harsh side light. photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+4. filename: seer-warns-slowly.jpg
+role: mid_03 (placed after sentence "Slowly. One word. She said it like it contained everything.")
+prompt:Character intensity beat. Extreme close up on the Seer's eyes (or blind eyes) and mouth. She is whispering the word. Atmosphere: Prophetic weight. Camera: Macro. Lighting: Chiaroscuro. photorealistic dark fantasy realism [Face_Reference: Seer]
+
+5. filename: dulint-leaves-burdened.jpg
+role: mid_04 (placed after sentence "He left the cave with knowledge he couldn't share and a word he couldn't forget.")
+prompt:Closing emotional beat. Dulint walking back down the mountain path. His head is bowed. The view looks out over the distant lands he has to save (and fail). . Camera: High angle looking down from the cave. Lighting: Sunset or darkening sky. photorealistic dark fantasy realism [Face_Reference: Dulint]

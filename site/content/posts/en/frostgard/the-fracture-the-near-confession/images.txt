@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Fracture: The Near-Confession
+Language: en
+Canon Sequence: W-022-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-watch.jpg
+role: header
+prompt:Ultra-detailed header scene. Dulint and Balin sitting on a watch point at night. Stars above. Forest below. Quiet intimacy. . Camera: Wide shot. Lighting: Moonlight. photorealistic dark fantasy realism
+
+2. filename: stonehold-memory.jpg
+role: mid_01 (placed after sentence "Sitting together on the wall.")
+prompt:The Memory. A faded, nostalgic image of Dulint and young Balin in Stonehold mines. Happier times. . Camera: Vignette. Lighting: Warm torchlight. photorealistic dark fantasy realism
+
+3. filename: twig-snap.jpg
+role: mid_02 (placed after sentence "A branch snapped.")
+prompt:The Alarm. Sharp focus on a broken twig on the forest floor. The moment of interruption. . Camera: Macro. Lighting: Sudden tension. photorealistic dark fantasy realism
+
+4. filename: hunters-probing.jpg
+role: mid_03 (placed after sentence "They were testing the perimeter.")
+prompt:Probing. Shadowy figures moving tree to tree in the distance. Flanking. . Camera: Long shot. Lighting: Deep shadow. photorealistic dark fantasy realism
+
+5. filename: running-away.jpg
+role: mid_04 (placed after sentence "Balin, run.")
+prompt:Flight. Balin sprinting back toward the camp. Blurred motion. Panic. . Camera: Tracking shot. Lighting: Moonlight blur. photorealistic dark fantasy realism [Face_Reference: Balin]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Vision
+Language: en
+Canon Sequence: W-020-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: black-water-vision.jpg
+role: header
+prompt:Ultra-detailed header scene. Maris floating in an endless ocean of black oil/water. Sky made of stone. Surreal. . Camera: Wide abstract. Lighting: Dark/Bio-luminescent. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+2. filename: drow-hand.jpg
+role: mid_01 (placed after sentence "A hand reaching over the side.")
+prompt:The Reach. Close up of a grey, long-fingered hand reaching out of a boat/water. Pointed nails. Ash-dipped fingertips. . Camera: Close up. Lighting: Pale. photorealistic dark fantasy realism
+
+3. filename: drow-face-mid.jpg
+role: mid_02 (placed after sentence "The face was young.")
+prompt:The Drusniel. A portrait of Drusniel (young drow). White hair, grey-violet skin, glowing eyes. Looking desperate. . Camera: Portrait. Lighting: Glow eyes. photorealistic dark fantasy realism
+
+4. filename: help-me-scream.jpg
+role: mid_03 (placed after sentence "Help me.")
+prompt:The Plea. The drow's mouth open in a silent scream. Water rippling around him. . Camera: Close up. Lighting: Distorted. photorealistic dark fantasy realism
+
+5. filename: maris-waking.jpg
+role: mid_04 (placed after sentence "She came back screaming.")
+prompt:Waking Nightmare. Maris held down by Balin and Aldric in the snow. Screaming. Blood on her face. . Camera: High angle group. Lighting: Campfire. photorealistic dark fantasy realism [Face_Reference: Maris]

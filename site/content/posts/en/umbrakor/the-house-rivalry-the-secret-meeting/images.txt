@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The House Rivalry: The Secret Meeting
+Language: en
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: zaelar-calculating.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar listening to Drusniel, fingers steeped. His eyes are sharp, calculating. . Camera: Medium shot. Lighting: Cold interior. photorealistic dark fantasy realism [Face_Reference: Zaelar]
+
+2. filename: interrogation.jpg
+role: mid_01 (placed after sentence "Too specific.")
+prompt:The Spotlight. Drusniel feeling like he is under a spotlight. Zaelar in shadow asking questions. . Camera: High angle on Drusniel. Lighting: Harsh spot. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+3. filename: strategic-map.jpg
+role: mid_02 (placed after sentence "Knowledge is power.")
+prompt:The Game Board. Zaelar moving a chess piece on a board that looks like Umbra'kor. . Camera: Close up. Lighting: Focus on board. photorealistic dark fantasy realism [Face_Reference: Chess Piece]
+
+4. filename: drusniel-unease.jpg
+role: mid_03 (placed after sentence "The conversation felt wrong.")
+prompt:Gut Feeling. Drusniel holding his stomach, looking nauseous or uneasy. Background is blurred Zaelar. . Camera: Medium shot. Lighting: Disorienting. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+5. filename: walking-home-counting.jpg
+role: mid_04 (placed after sentence "Counting his steps.")
+prompt:The Path. Drusniel walking back, footsteps glowing with numbers (1, 2, 3...). . Camera: Low tracking shot. Lighting: Path glow. photorealistic dark fantasy realism [Face_Reference: Feet]

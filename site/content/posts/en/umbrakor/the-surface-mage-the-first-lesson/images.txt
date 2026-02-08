@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Surface Mage: The First Lesson
+Language: en
+Canon Sequence: D-007-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: air-move-attempt.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel staring at a candle, sweat on his brow. The air around him visualized as faint ripples. . Camera: Close up. Lighting: Warm candlelight. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: feeling-the-draft.jpg
+role: mid_01 (placed after sentence "He felt the draft from the vent")
+prompt:Sensation. Drusniel closing his eyes, feeling the air move across his skin. Hair blowing slightly. . Camera: Portrait. Lighting: Soft side light. photorealistic dark fantasy realism [Face_Reference: Sensitivity]
+
+3. filename: chaos-burst.jpg
+role: mid_02 (placed after sentence "The air scattered.")
+prompt:Explosion. Papers flying, hourglasses falling, candle guttering wildly. Drusniel looks shocked. . Camera: Action freeze. Lighting: Dynamic. photorealistic dark fantasy realism [Face_Reference: Chaos]
+
+4. filename: nosebleed-cost.jpg
+role: mid_03 (placed after sentence "Warmth trickled from his nose.")
+prompt:The Price. Drusniel wiping a nosebleed. He looks exhausted but happy (manic?). . Camera: Close up. Lighting: Medical/Cold. photorealistic dark fantasy realism [Face_Reference: Blood]
+
+5. filename: success-bend.jpg
+role: mid_04 (placed after sentence "The flame bent. Held.")
+prompt:Control. The candle flame bent horizontally, perfectly steady. Drusniel looks calm now. . Camera: Macro. Lighting: Focused. photorealistic dark fantasy realism [Face_Reference: Flame]

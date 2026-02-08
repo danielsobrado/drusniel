@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: La Presión
+Language: en
+Canon Sequence: W-022-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: fork-in-road-argument.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. High angle view of the party at the fork. They look small and divided. The paths diverge sharply. . [Face_Reference: Paths]
+
+2. filename: sleepless-dulint.jpg
+role: mid_01 (placed after sentence "Sus letras vivían detrás de sus párpados")
+prompt:Photorealistic Afterimage. Dulint's vision blurring. The letters 'GIVE US THE BEACON' superimposed faintly over the forest. . [Face_Reference: Dulint]
+
+3. filename: silhouette-danger.jpg
+role: mid_02 (placed after sentence "Terreno visible.")
+prompt:Photorealistic Exposed. A view from a sniper's scope (implied) looking at figures on a ridge. Vulnerability. .
+
+4. filename: failure-prophecy.jpg
+role: mid_03 (placed after sentence "La condena más completa disponible.")
+prompt:Photorealistic The Wall. Dulint facing a massive, blank stone wall that blocks the path. No way around. . [Face_Reference: Wall]
+
+5. filename: pulsing-pack-camp.jpg
+role: mid_04 (placed after sentence "Dulint sacó agua para lavar la mentira.")
+prompt:Photorealistic Washing the Lie. Dulint drinking water, but the reflection in the cup shows a distorted, fearful face. . [Face_Reference: Cup, Reflection]

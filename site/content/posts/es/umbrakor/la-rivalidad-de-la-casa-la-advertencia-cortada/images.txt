@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Advertencia (Cortada)
+Language: en
+Canon Sequence: D-009-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: smoke-under-door.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The smoke forming skeletal hands reaching under the door. .
+
+2. filename: assassin-attack.jpg
+role: mid_01 (placed after sentence "Sombra armada.")
+prompt:Photorealistic Shadow Blade. The assassin visualized as a living shadow with a solid blade. . [Face_Reference: Blade]
+
+3. filename: air-magic-defense.jpg
+role: mid_02 (placed after sentence "Empuje vital.")
+prompt:Photorealistic Sonic Boom. Visualizing the air push as a sonic boom ring. . [Face_Reference: Ring]
+
+4. filename: dead-servant.jpg
+role: mid_03 (placed after sentence "Silencio final.")
+prompt:Photorealistic Broken Doll. The servant looking like a discarded doll. Dehumanized by violence. .
+
+5. filename: ceiling-collapse.jpg
+role: mid_04 (placed after sentence "El muro cae.")
+prompt:Photorealistic The Curtain Falls. A stone curtain falling (the rubble). The scene behind it (Shyntara) fading to black. . [Face_Reference: Stone Curtain]

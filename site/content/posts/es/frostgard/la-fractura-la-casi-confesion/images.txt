@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: La Casi Confesión
+Language: en
+Canon Sequence: W-022-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-watch.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Dulint and Balin sitting under a night sky where the stars form a question mark. . [Face_Reference: Stars]
+
+2. filename: stonehold-memory.jpg
+role: mid_01 (placed after sentence "Ecos de la mina.")
+prompt:Photorealistic Gold Dust. A memory of the mines made of floating gold dust. . [Face_Reference: Dust]
+
+3. filename: twig-snap.jpg
+role: mid_02 (placed after sentence "El sonido final.")
+prompt:Photorealistic Broken Bone. The snapping twig sounding/looking like a broken bone. . [Face_Reference: Bone]
+
+4. filename: hunters-probing.jpg
+role: mid_03 (placed after sentence "Sombras vivas.")
+prompt:Photorealistic Living Shadows. The shadows detaching from trees and moving on their own. .
+
+5. filename: running-away.jpg
+role: mid_04 (placed after sentence "Carrera contra el tiempo.")
+prompt:Photorealistic Hourglass. Balin running inside a giant hourglass, sand falling. . [Face_Reference: Sand]

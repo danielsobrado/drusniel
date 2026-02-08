@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Pacto del Dominio Umbra'kor con la Oscuridad
+Language: en
+Canon Sequence: UMB-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: transcription-chamber.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Sylaera chained to her desk by ink trails. . [Face_Reference: Chains]
+
+2. filename: conflicting-texts.jpg
+role: mid_01 (placed after sentence "Palabras prohibidas.")
+prompt:Photorealistic Bleeding Paper. The manuscript bleeding ink like a wound where the text is crossed out. .
+
+3. filename: venemora-statue.jpg
+role: mid_02 (placed after sentence "La máscara divina.")
+prompt:Photorealistic Multi-faced God. A statue with three spinning faces (Goddess, Monster, Void). Motion blur. .
+
+4. filename: rift-patrol-report.jpg
+role: mid_03 (placed after sentence "Informe perdido.")
+prompt:Photorealistic Paper Graveyard. A pile of reports distinctively looking like tombstones. . [Face_Reference: Pile]
+
+5. filename: phosphorescent-proverb.jpg
+role: mid_04 (placed after sentence "Luz que ciega.")
+prompt:Photorealistic Blinding Truth. The glowing words are so bright they are burning the eyes of the viewer. Silhouette of a scribe shielding eyes. .

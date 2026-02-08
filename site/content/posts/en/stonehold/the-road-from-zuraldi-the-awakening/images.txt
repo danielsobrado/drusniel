@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Road from Zuraldi: The Awakening
+Language: en
+Canon Sequence: W-008-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: road-from-zuraldi.jpg
+role: header
+prompt:Ultra-detailed header scene. Dulint and Balin walking on a dusty road winding through old hills. The landscape is empty and silent. . Camera: Wide shot. Lighting: High noon sun. photorealistic dark fantasy realism
+
+2. filename: glowing-pack.jpg
+role: mid_01 (placed after sentence "A faint, colorless light leaked through the seams")
+prompt:The Reveal. Dulint's worn leather pack. A thin, sharp beam of pale light cutting through a seam. It looks unnatural against the daylight. . Camera: Close up. Lighting: Contrast. photorealistic dark fantasy realism
+
+3. filename: warm-cube.jpg
+role: mid_02 (placed after sentence "The cube came out warm.")
+prompt:Tactile change. Dulint holding the cube. Heat haze shimmering slightly above it. The symbols are glowing faintly. . Camera: POV Dulint. Lighting: Object glow. photorealistic dark fantasy realism
+
+4. filename: pointing-northeast.jpg
+role: mid_03 (placed after sentence "One face glowed brighter than the others.")
+prompt:The Compass. The cube turned in hands. One face is significantly brighter, casting a directional beam like a spotlight. . Camera: Medium shot. Lighting: Directional light. photorealistic dark fantasy realism
+
+5. filename: bone-hum.jpg
+role: mid_04 (placed after sentence "It settled directly into his bones.")
+prompt:Synesthesia. A visual representation of the hum. Dust dancing on the cube's surface. Dulint wincing, teeth gritted. . Camera: Extreme close up face. Lighting: Harsh side light. photorealistic dark fantasy realism

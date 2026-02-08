@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Disorientation
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-road.jpg
+role: header
+prompt:Ultra-detailed header scene. Establishing shot of a dusty road leading to a distant fortified town (Riverhold). Maris (pale human woman, disheveled traveler) is walking alone. A merchant cart passes her, kicking up dust. . Camera: Wide landscape shot. Lighting: Late afternoon sun, harsh and hazy. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+2. filename: reality-check-pain.jpg
+role: mid_01 (placed after sentence "The only way to come back was to anchor herself in sensation. Pain worked best.")
+prompt:Subjective sensation. Close up on Maris's mouth or hand touching her face. She looks dazed, eyes unfocused. The background is slightly blurred/double-exposed with water imagery (hallucination). . Camera: Portrait with FX. Lighting: Bright sun but mental shadow. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+3. filename: riverhold-gate-check.jpg
+role: mid_02 (placed after sentence "The guard grunted and waved her through.")
+prompt:Interaction beat. Maris standing before a bored town guard at the stone gate. She looks small and ragged compared to the armored guard. . Camera: Medium shot over guard's shoulder. Lighting: Shadow of the gate arch. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: riverhold-streets.jpg
+role: mid_03 (placed after sentence "The town was busy but not crowded. Shops lined the main street")
+prompt:Environmental shot. The busy street of Riverhold. People going about their day. Maris is a still point in the moving crowd, looking out of place. . Camera: High angle looking down on the street. Lighting: Golden hour. photorealistic dark fantasy realism
+
+5. filename: maris-waits-wall.jpg
+role: mid_04 (placed after sentence "So she waited. Leaned against the wall as the sun sank lower.")
+prompt:Closing emotional beat. Maris leaning against a rough stone wall in an alley or side street. She is hugging herself, waiting. The sun is setting. . Camera: 50mm portrait. Lighting: Twilight shadows. photorealistic dark fantasy realism [Face_Reference: Maris]

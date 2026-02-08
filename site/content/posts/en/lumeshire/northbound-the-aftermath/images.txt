@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Northbound: The Aftermath
+Language: en
+Canon Sequence: AST-M-025
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: camp-after-battle.jpg
+role: header
+prompt:Ultra-detailed header scene. The group camping in a rocky shelter at dusk. No fire (too dangerous). They look exhausted, battered. Xandor is bandaging Aldric's arm. . Camera: Wide shot. Lighting: Blue twilight. photorealistic dark fantasy realism [Face_Reference: Xandor, Aldric]
+
+2. filename: dulint-broken.jpg
+role: mid_01 (placed after sentence "His face looked older than it had that morning—lined with something beyond exhaustion.")
+prompt:Portrait of weariness. Dulint sitting against a rock, hugging the pack. His eyes are closed, face deep in shadow. He looks smaller than usual. . Camera: Medium close up. Lighting: Shadows. photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+3. filename: maris-isolation.jpg
+role: mid_02 (placed after sentence "Maris sat apart from the others, knees drawn to her chest")
+prompt:Character isolation. Maris sitting alone, wrapped in her cloak. She is staring into the dark. Balin is in the foreground, out of focus, watching her. . Camera: Over-the-shoulder (Balin). Lighting: Cold moonlight. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: balin-phantom-blood.jpg
+role: mid_03 (placed after sentence "Balin looked at his hands. Still stained, despite the water")
+prompt:Psychological beat. Close up on Balin's hands. They are clean, but in his mind (and maybe visually enacted as a ghost overlay) they are red. He is rubbing them. . Camera: Point of View (Balin looking at hands). Lighting: ghostly wash? photorealistic dark fantasy realism [Face_Reference: Balin]
+
+5. filename: broken-survivors.jpg
+role: mid_04 (placed after sentence "They were a collection of broken people carrying a burden they didn't choose.")
+prompt:Group composition. Balin, Dulint, Aldric, Maris, Xandor. All looking in different directions, lost in their own thoughts, yet huddled together against the dark forest backdrop. . Camera: Cinematic group shot. Lighting: Low key. photorealistic dark fantasy realism [Face_Reference: Balin, Dulint, Aldric, Maris, Xandor]

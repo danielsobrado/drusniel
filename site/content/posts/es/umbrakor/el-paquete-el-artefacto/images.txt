@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: El Artefacto
+Language: en
+Canon Sequence: D-011-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: artifact-box.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The box is made of shadows and bone. It seems to absorb light. .
+
+2. filename: opening-box.jpg
+role: mid_01 (placed after sentence "Luz fría.")
+prompt:Photorealistic Cold Light. The light from the artifact freezing the air around it. Frost forming on the table. . [Face_Reference: Frost]
+
+3. filename: drusniel-touching.jpg
+role: mid_02 (placed after sentence "Conexión.")
+prompt:Photorealistic Electric Veins. When Drusniel touches it, his veins glow blue up his arm. . [Face_Reference: Arm]
+
+4. filename: weight-of-object.jpg
+role: mid_03 (placed after sentence "El peso del mundo.")
+prompt:Photorealistic Black Hole. The artifact visualized as a tiny black hole distorting the light around Drusniel's hand. . [Face_Reference: Distortion]
+
+5. filename: hiding-artifact.jpg
+role: mid_04 (placed after sentence "Secreto guardado.")
+prompt:Photorealistic The Heart. Drusniel placing the artifact over his heart. It glows through his clothes for a second. . [Face_Reference: Chest]

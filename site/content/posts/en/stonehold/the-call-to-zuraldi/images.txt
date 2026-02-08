@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Call to Zuraldi
+Language: en
+Canon Sequence: P-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-examines-cube.jpg
+role: header
+prompt:Ultra-detailed header scene. Dulint (older dwarf, heavy beard) holding a strange, non-dwarven cube artifact. He looks puzzled. Balin (younger) looks over his shoulder. Background is a mine tunnel. . Camera: Medium shot Two-shot. Lighting: Lantern light. photorealistic dark fantasy realism
+
+2. filename: thrain-flashback.jpg
+role: mid_01 (placed after sentence "Did I ever tell you about my great-grandfather, old Thrain Ironbeard?")
+prompt:Memory/Flashback. An idealized image of Thrain Ironbeard. Dripping with gold rings, holding a glowing map. He looks legendary and slightly exaggerated. . Camera: Hero shot. Lighting: Golden glow. photorealistic dark fantasy realism [Face_Reference: Thrain]
+
+3. filename: balin-plotting.jpg
+role: mid_02 (placed after sentence "A slow grin spread across Balin's face.")
+prompt:The Idea. Close up on Balin's face. He looks mischievous and excited. The boredom is gone. . Camera: Close up. Lighting: Warm firelight. photorealistic dark fantasy realism [Face_Reference: Balin]
+
+4. filename: secret-pact.jpg
+role: mid_03 (placed after sentence "Dulint nodded, suddenly serious. 'Aye. This is our secret.'")
+prompt:The pact. Dulint and Balin clasping forearms (dwarven shake). The cube sits on the table between them. . Camera: Medium shot. Lighting: Dramatic shadows. photorealistic dark fantasy realism
+
+5. filename: dawn-departure.jpg
+role: mid_04 (placed after sentence "First light tomorrow.")
+prompt:Leaving home. Two dwarven silhouettes with packs leaving a stone doorway at sunrise. The mountains loom ahead. . Camera: Wide shot from behind. Lighting: Sunrise. photorealistic dark fantasy realism

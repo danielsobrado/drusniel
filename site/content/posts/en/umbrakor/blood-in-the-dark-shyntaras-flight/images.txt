@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Blood in the Dark: Shyntara's Flight
+Language: en
+Canon Sequence: D-010-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: assessing-rubble.jpg
+role: header
+prompt:Ultra-detailed header scene. Shyntara looking at the blocked corridor (rubble). Dust settling. She looks calculating, not panicked. . Camera: Medium shot. Lighting: Dust haze. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+2. filename: silent-kill.jpg
+role: mid_01 (placed after sentence "She'd killed three of them already.")
+prompt:Shadow Strike. Shyntara stepping out of a shadow behind a mercenary. Knife ready. . Camera: Action freeze. Lighting: Moonlight/Magic. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+3. filename: mercenary-corpse.jpg
+role: mid_02 (placed after sentence "These fighters had none of that.")
+prompt:No Insignia. Close up of a dead mercenary's armor. It is plain, generic. No house marks. . Camera: Close up. Lighting: Neutral. photorealistic dark fantasy realism [Face_Reference: Armor]
+
+4. filename: burning-compound.jpg
+role: mid_03 (placed after sentence "The compound burned behind her.")
+prompt:The Pyre. Shyntara looking back at the burning compound. Flames reflecting in her eyes. . Camera: Close up face. Lighting: Fire glow. photorealistic dark fantasy realism
+
+5. filename: entering-tunnel.jpg
+role: mid_04 (placed after sentence "Shyntara slipped into the tunnel.")
+prompt:Into the Dark. Shyntara entering the tunnel mouth, looking determined. A backpack or gear visible. . Camera: Medium shot. Lighting: Silhouette. photorealistic dark fantasy realism [Face_Reference: Entry]

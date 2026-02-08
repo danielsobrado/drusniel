@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: El Nuevo Mundo
+Language: en
+Canon Sequence: D-011-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-landscape.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The sky is made of fire. The ground is made of glass. . [Face_Reference: Sky]
+
+2. filename: drusniel-wet.jpg
+role: mid_01 (placed after sentence "Bautismo de fuego.")
+prompt:Photorealistic Steam. Moisture evaporating off Drusniel in the heat, creating a steam cloud around him. . [Face_Reference: Steam]
+
+3. filename: strange-plants.jpg
+role: mid_02 (placed after sentence "Vida alienígena.")
+prompt:Photorealistic Tentacles. The plants look like tentacles reaching for him. . [Face_Reference: Tentacles]
+
+4. filename: giant-eye-mountain.jpg
+role: mid_03 (placed after sentence "La tierra despierta.")
+prompt:Photorealistic Living Earth. The ground itself opening an eye under Drusniel's feet (or nearby). . [Face_Reference: Drusniel]
+
+5. filename: hiding-fear.jpg
+role: mid_04 (placed after sentence "El faro.")
+prompt:Photorealistic Beacon. The artifact glowing so bright it acts like a beacon in the dark, betraying his position. Visualization of radio waves/light beams. . [Face_Reference: Beams]

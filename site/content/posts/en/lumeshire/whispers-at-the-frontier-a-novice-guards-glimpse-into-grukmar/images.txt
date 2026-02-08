@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Scream
+Language: en
+Canon Sequence: L-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: watchtower-night.jpg
+role: header
+prompt:Ultra-detailed header scene. Varian and Elric on the watchtower. Below them, the village is dark, swallowed by mist. The forest looms behind. . Camera: High angle looking down. Lighting: Moonlight/Mist. photorealistic dark fantasy realism [Face_Reference: Watchers]
+
+2. filename: grukmar-legend-discussion.jpg
+role: mid_01 (placed after sentence "My uncle served in the Grukmar campaigns")
+prompt:Character interaction. Elric leaning in, speaking intensely. Varian looking skeptical but uneasy. Firelight from a brazier playing on their faces. . Camera: Close up two-shot. Lighting: Underlit by fire. photorealistic dark fantasy realism
+
+3. filename: the-scream-reaction.jpg
+role: mid_02 (placed after sentence "A scream split the darkness.")
+prompt:Instant reaction. Both men frozen, heads turned towards the sound. Eyes wide. Tension in their posture. . Camera: Medium shot. Lighting: Stark contrast. photorealistic dark fantasy realism [Face_Reference: Reaction]
+
+4. filename: girl-fighting-shadows.jpg
+role: mid_03 (placed after sentence "fighting at shadows only she could see")
+prompt:Horror element. The girl in the muddy square, flailing at empty air. Her expression is terrified. Shadows around her seem to curve towards her, but there is nothing there. . Camera: Low angle. Lighting: Lantern light from Varian (off screen). photorealistic dark fantasy realism [Face_Reference: Girl]
+
+5. filename: empty-alley-watch.jpg
+role: mid_04 (placed after sentence "Just darkness. Just an empty alley.")
+prompt:The Void. A view down the dark alley between huts. It is empty, but the darkness at the end looks solid. It feels like something is looking back. . Camera: POV Varian. Lighting: Single light source fading into black. photorealistic dark fantasy realism

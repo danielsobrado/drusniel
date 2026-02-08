@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The Crossing
+Language: en
+Canon Sequence: D-011-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: portal-ritual.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar chanting in a stone circle near the tower. Wind whipping around him. A tear in reality forming. . Camera: Wide shot. Lighting: Purple/Black rift. photorealistic dark fantasy realism [Face_Reference: Rift]
+
+2. filename: drusniel-hesitating.jpg
+role: mid_01 (placed after sentence "He stepped up to the line.")
+prompt:The Threshold. Drusniel standing before the rift. Looking back one last time at the mortal world. . Camera: Behind back. Lighting: Rift glow on back. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+3. filename: zaelar-push.jpg
+role: mid_02 (placed after sentence "Go.")
+prompt:The Command. Zaelar gesturing violently or shouting over the wind. "Go!". . Camera: Medium shot. Lighting: Dramatic. photorealistic dark fantasy realism [Face_Reference: Zaelar]
+
+4. filename: stepping-through.jpg
+role: mid_03 (placed after sentence "Drusniel stepped forward.")
+prompt:Transition. Drusniel's body half in the rift, half out. Dissolving into light/shadow. . Camera: Side profile. Lighting: Split reality. photorealistic dark fantasy realism [Face_Reference: Transition]
+
+5. filename: void-experience.jpg
+role: mid_04 (placed after sentence "The world dissolved.")
+prompt:The Void. Abstract colors and shapes. Drusniel falling through a kaleidoscope of magic. . Camera: Abstract. Lighting: Psychedelic. photorealistic dark fantasy realism [Face_Reference: Falling Figure]

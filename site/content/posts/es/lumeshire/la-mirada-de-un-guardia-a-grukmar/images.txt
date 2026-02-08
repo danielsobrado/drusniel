@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Grito
+Language: es
+Canon Sequence: L-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: watchtower-night.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The watchtower silhouette against a clouded moon. The wood looks rotten and old. . [Face_Reference: Tower]
+
+2. filename: grukmar-legend-discussion.jpg
+role: mid_01 (placed after sentence "Me contó cosas. Cosas que no quieren que se sepan.")
+prompt:Photorealistic Conspiracy. Elric whispering behind his hand. Varian looking over his shoulder at the dark forest. .
+
+3. filename: the-scream-reaction.jpg
+role: mid_02 (placed after sentence "Un grito rasgó la oscuridad.")
+prompt:Photorealistic Shattered silence. A view of the village roofs, birds (or bats) taking flight in panic against the moon. . [Face_Reference: Skyline]
+
+4. filename: girl-fighting-shadows.jpg
+role: mid_03 (placed after sentence "luchando contra sombras que solo ella podía ver")
+prompt:Photorealistic Madness. Close up on the girl's face, distorted by terror. Eyes wide, pupils dilated. Sweat and dirt. .
+
+5. filename: empty-alley-watch.jpg
+role: mid_04 (placed after sentence "Solo oscuridad. Solo un callejón vacío.")
+prompt:Photorealistic The Abyss. The alley mouth, but the shadows look like teeth. Subtle pareidolia. .

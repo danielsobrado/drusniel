@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Conocimiento Prohibido: El Poder Creciente
+Language: en
+Canon Sequence: D-007-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: forge-training.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel weaving fire and smoke into a rope. . [Face_Reference: Drusniel]
+
+2. filename: dummy-hit.jpg
+role: mid_01 (placed after sentence "Fuerza bruta.")
+prompt:Photorealistic The Hammer. An invisible hammer striking the dummy. Air manifested as a solid weapon. . [Face_Reference: Impact]
+
+3. filename: exhausted-aftermath.jpg
+role: mid_02 (placed after sentence "Vacío.")
+prompt:Photorealistic Drained Battery. Visual of Drusniel as a vessel emptied of light. Shadowy. . [Face_Reference: Drusniel]
+
+4. filename: sensing-zaelar.jpg
+role: mid_03 (placed after sentence "El aire me lo dijo.")
+prompt:Photorealistic Radar. Ripples in a pond (air) showing where the stone (Zaelar) is. . [Face_Reference: Zaelar]
+
+5. filename: power-confidence.jpg
+role: mid_04 (placed after sentence "Renacido.")
+prompt:Photorealistic Wings. Faint, ethereal wings made of wind forming behind Drusniel. Not real wings, but current shapes. . [Face_Reference: Wind Wings]

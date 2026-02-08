@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Choice
+Language: en
+Canon Sequence: AST-M-010
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: inn-common-room.jpg
+role: header
+prompt:Ultra-detailed header scene. Interior of 'The Wanderer's Rest' inn. Warm, crowded, lively. Maris stands near the door, looking out of place in travel-stained clothes. The crowd ignores her. . Camera: Wide shot of the room. Lighting: Warm hearth and lantern light. photorealistic dark fantasy realism
+
+2. filename: xandor-with-plants.jpg
+role: mid_01 (placed after sentence "An elderly man sat alone at a corner table, surrounded by—yes, plants.")
+prompt:Character portrait. Xandor (elderly human, scholar/druid vibes) sitting in a corner booth. The table is covered in small pots of strange plants. He is tending them carefully. . Camera: Medium shot. Lighting: Intimate candle light on the table. photorealistic dark fantasy realism
+
+3. filename: xandor-pale-eyes.jpg
+role: mid_02 (placed after sentence "His eyes were pale, almost colorless")
+prompt:Character detail. Extreme close up on Xandor's eyes. They are milky white or very pale blue, but sharp with intelligence. . Camera: Extreme close up. Lighting: Reflection of candle flame in eye. photorealistic dark fantasy realism
+
+4. filename: plant-ritual-pattern.jpg
+role: mid_03 (placed after sentence "Up close, she could see that his plants were arranged in a pattern")
+prompt:Object/Ritual detail. Top-down view of the table. The plant pots are arranged in a specific geometric pattern (spiral or star). Some leaves are glowing faintly. Xandor's withered hands are adjusting one pot. . Camera: Top down. Lighting: Subtle bioluminescence from plants. photorealistic dark fantasy realism
+
+5. filename: maris-choice-made.jpg
+role: mid_04 (placed after sentence "And Maris Hale made her choice.")
+prompt:Closing emotional beat. Maris sitting opposite Xandor. She leans forward, elbows on the table, face set in determination. The background of the inn fades away. . Camera: Over-the-shoulder (Xandor) looking at Maris. Lighting: Focus on Maris's face. photorealistic dark fantasy realism [Face_Reference: Maris]

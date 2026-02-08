@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Location
+Language: en
+Canon Sequence: W-020-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ice-cave-entrance.jpg
+role: header
+prompt:Ultra-detailed header scene. The group standing before a hidden cave entrance in a glacier/ice wall. Wind whipping snow. . Camera: Wide shot. Lighting: Blue ice. photorealistic dark fantasy realism
+
+2. filename: map-consultation.jpg
+role: mid_01 (placed after sentence "Consulting the map.")
+prompt:The Coordinates. Dulint and Aldric looking at a map, comparing it to the landscape. Beacon glowing on the map. . Camera: Over shoulder. Lighting: Natural. photorealistic dark fantasy realism
+
+3. filename: broken-seal.jpg
+role: mid_02 (placed after sentence "The seal was broken.")
+prompt:The Breach. Close up of an ancient magical seal on the ice door that has been shattered/melted. . Camera: Macro. Lighting: Detail. photorealistic dark fantasy realism
+
+4. filename: entering-darkness.jpg
+role: mid_03 (placed after sentence "They stepped inside.")
+prompt:Into the Belly. The group walking into the dark throat of the cave. Lanterns raised. . Camera: Behind. Lighting: Lantern light. photorealistic dark fantasy realism
+
+5. filename: ancient-markings.jpg
+role: mid_04 (placed after sentence "Runes on the walls.")
+prompt:Old Magic. Glowing runes etched into the ice walls. Pulsing faintly. . Camera: Tracking shot. Lighting: Rune glow. photorealistic dark fantasy realism

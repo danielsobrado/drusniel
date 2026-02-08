@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The New World
+Language: en
+Canon Sequence: D-011-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-landscape.jpg
+role: header
+prompt:Ultra-detailed header scene. The landscape of Wyrmreach. Black burnt rocks. Reddish ambient light. Alien plants pulsing. . Camera: Wide landscape. Lighting: Red diffuse. photorealistic dark fantasy realism
+
+2. filename: drusniel-wet.jpg
+role: mid_01 (placed after sentence "Water streaming from his clothes.")
+prompt:Arrival. Drusniel kneeling on black rock, soaking wet. Looking exhausted. . Camera: Medium shot. Lighting: Red tint. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+3. filename: strange-plants.jpg
+role: mid_02 (placed after sentence "Plants that pulsed faintly.")
+prompt:Alien Flora. Close up of a strange, bioluminescent plant. It looks organic butwrong. . Camera: Macro. Lighting: Plant glow. photorealistic dark fantasy realism [Face_Reference: Plant]
+
+4. filename: giant-eye-mountain.jpg
+role: mid_03 (placed after sentence "One of the mountains moved.")
+prompt:The Titan. A mountain range in the distance where one "peak" is actually a giant shoulder or head shifting. A giant eye opening. . Camera: Extreme long shot. Lighting: Atmospheric. photorealistic dark fantasy realism
+
+5. filename: hiding-fear.jpg
+role: mid_04 (placed after sentence "Drusniel ducked behind an outcropping.")
+prompt:Hiding. Drusniel pressing flat against the black rock, terrified. The artifact pulsing blue light that he is trying to cover. . Camera: Close up. Lighting: Blue vs Red. photorealistic dark fantasy realism [Face_Reference: Drusniel]

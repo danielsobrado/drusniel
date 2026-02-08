@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Zuraldarr
+Language: en
+Canon Sequence: LUM-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: zuraldi-overview.jpg
+role: header
+prompt:Ultra-detailed header scene. Anja standing on a high cliff overlooking the vast green forest of Zuraldi. Stonehold mountains in the distance. . Camera: Wide landscape. Lighting: Bright daylight. photorealistic dark fantasy realism
+
+2. filename: caravan-trade.jpg
+role: mid_01 (placed after sentence "Marta, the trade matriarch, stood at the head of the caravan.")
+prompt:Trade scene. A Zuraldarr caravan meeting with Dwarven merchants on a mountain path. Wains, ponies, crates. Marta shaking hands with Thorin. . Camera: Medium shot. Lighting: Golden hour. photorealistic dark fantasy realism [Face_Reference: Marta, Thorin]
+
+3. filename: feast-of-strength.jpg
+role: mid_02 (placed after sentence "The air filled with the sizzle of meat")
+prompt:Cultural detail. The massive fire pit with roasting meat. A strong Zuraldarr butcher carving steaks. Smoke and fire. . Camera: Action shot. Lighting: Firelight/Day mix. photorealistic dark fantasy realism [Face_Reference: Meat, Fire]
+
+4. filename: magda-green-fire.jpg
+role: mid_03 (placed after sentence "the flames of the central fire turned an eerie green")
+prompt:Magic ritual. Magda the Witch raising her staff. The bonfire turning green. Shadows stretching unnaturally. The villagers looking awed/scared. . Camera: Low angle. Lighting: Green fire light. photorealistic dark fantasy realism [Face_Reference: Magda, Fire]
+
+5. filename: xandor-druids.jpg
+role: mid_04 (placed after sentence "Xandor, his beard now more white than gray, led the circle.")
+prompt:Druidic lesson. Xandor standing in a circle of younger druids in a deep forest glade. A young druid touching a tree that ripples. . Camera: Eye level. Lighting: Dappled forest light. photorealistic dark fantasy realism [Face_Reference: Xandor]

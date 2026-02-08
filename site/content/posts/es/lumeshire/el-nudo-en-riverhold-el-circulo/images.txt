@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Nudo en Riverhold: El Círculo
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-tells-vision.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Maris's hands on the table, white-knuckled. The Cube's light casts blue highlights on her skin. . [Face_Reference: Maris]
+
+2. filename: drowning-hand-detail.jpg
+role: mid_01 (placed after sentence "piel gris-oscura y dedos largos")
+prompt:Photorealistic Submerged. View from UNDER the water looking up at the hand breaking the surface. Distorted view of the world above. .
+
+3. filename: aldric-maris-connection.jpg
+role: mid_02 (placed after sentence "Algo cambió en su expresión—no confianza, no todavía")
+prompt:Photorealistic Recognition. Close up on Maris's face as she realizes he believes her. A subtle softening of her guarded expression. . [Face_Reference: Maris]
+
+4. filename: the-agreement.jpg
+role: mid_03 (placed after sentence "Nos quedamos juntos")
+prompt:Photorealistic The Pact. Five shadows cast on the floor, radiating out from the central light of the Cube. They look like spokes of a wheel. .
+
+5. filename: vigil-at-window.jpg
+role: mid_04 (placed after sentence "algo allá afuera ya los había notado")
+prompt:Photorealistic Enemy gaze. A view from a dark alleyway looking UP at the lighted window where Aldric stands. We are the watcher. . [Face_Reference: Aldric]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voices in the Dark: The Seed of Doubt
+Language: en
+Canon Sequence: D-006-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-whispers.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel in bed, listening. Shadows around him seem to be forming shapes/whispering. . Camera: Intimate. Lighting: Night/Shadows. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: three-taps.jpg
+role: mid_01 (placed after sentence "One, two, three. Slow and deliberate.")
+prompt:The Test. Extreme close up of Drusniel's hand. Three fingers clearly visible/tapping. . Camera: Macro. Lighting: High contrast. photorealistic dark fantasy realism [Face_Reference: Fingers]
+
+3. filename: failed-test.jpg
+role: mid_02 (placed after sentence "Wrong answer.")
+prompt:Discrepancy. Visual representation of a mismatch. Two puzzle pieces that don't fit. Or Drusniel's face frowning in realization. . Camera: Close up face. Lighting: Side lit. photorealistic dark fantasy realism [Face_Reference: Expresion]
+
+4. filename: temptation-of-special.jpg
+role: mid_03 (placed after sentence "They saw what you could become.")
+prompt:The Reflection. Drusniel looking in a mirror and seeing a powerful mage version of himself (what the voice promises). . Camera: Over shoulder. Lighting: Magical reflection. photorealistic dark fantasy realism [Face_Reference: Mirror]
+
+5. filename: ignoring-doubt.jpg
+role: mid_04 (placed after sentence "He pushed it away.")
+prompt:Blind Eye. Drusniel turning away from a warning sign (symbolic or literal shadow). Walking towards a light that looks artificial. . Camera: Medium shot. Lighting: Backlit. photorealistic dark fantasy realism [Face_Reference: Drusniel]

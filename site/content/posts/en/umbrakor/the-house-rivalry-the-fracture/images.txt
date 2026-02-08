@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The House Rivalry: The Fracture
+Language: en
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arguing-with-air.jpg
+role: header
+prompt:Ultra-detailed header scene. Drusniel pacing in his room, arguing with empty space. He looks distressed. . Camera: Wide shot. Lighting: Agitated. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: voice-distortion.jpg
+role: mid_01 (placed after sentence "The voice sounded... different.")
+prompt:Static. Visual representation of audio static or distortion around Drusniel's head. . Camera: Abstract. Lighting: Glitchy. photorealistic dark fantasy realism [Face_Reference: Distortion]
+
+3. filename: broken-mirror.jpg
+role: mid_02 (placed after sentence "Drusniel looked in the mirror.")
+prompt:Fractured Self. Drusniel's reflection in a cracked mirror. Multiple pieces of his face, slightly misaligned. . Camera: Close up. Lighting: Reflection. photorealistic dark fantasy realism [Face_Reference: Reflection]
+
+4. filename: shyntara-watching.jpg
+role: mid_03 (placed after sentence "Shyntara was standing in the doorway.")
+prompt:The Witness. Shyntara watching him talk to himself. Her expression is pity mixed with fear. . Camera: POV from Drusniel. Lighting: Doorway light. photorealistic dark fantasy realism [Face_Reference: Shyntara]
+
+5. filename: isolation.jpg
+role: mid_04 (placed after sentence "He was truly alone.")
+prompt:The Box. Drusniel sitting in the center of a glass box, separated from the rest of the room. . Camera: Conceptual. Lighting: Cold. photorealistic dark fantasy realism [Face_Reference: Box]

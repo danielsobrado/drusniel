@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Un viaje complicado
+Language: es
+Canon Sequence: P-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: mountain-camp.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on Dulint poking the fire. The reflection of flames in his eyes. He looks worried. . [Face_Reference: Dulint]
+
+2. filename: goblin-ambush.jpg
+role: mid_01 (placed after sentence "Seis, no, siete de las criaturas")
+prompt:Photorealistic The Horde. A view of the goblin eyes shining in the dark underbrush. Hundreds of teeth. .
+
+3. filename: cliff-fall.jpg
+role: mid_02 (placed after sentence "El mundo se inclinó.")
+prompt:Photorealistic Vertigo. View from top of the cliff looking DOWN at the tumbling dwarves. The drop looks fatal. . [Face_Reference: Depth]
+
+4. filename: zuraldarr-rescue.jpg
+role: mid_03 (placed after sentence "Figuras altas y musculosas lanzando piedras")
+prompt:Photorealistic Impact. A goblin being struck by a stone arrow/rock. The force of the Zuraldarr attack. . [Face_Reference: Impact]
+
+5. filename: witch-prophecy.jpg
+role: mid_04 (placed after sentence "mostro una figura solitaria")
+prompt:Photorealistic The Crown. Close up on the branch crown on the witch's head. It looks like it's growing into her skull. . [Face_Reference: Crown]

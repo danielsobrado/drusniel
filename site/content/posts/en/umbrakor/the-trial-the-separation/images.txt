@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Trial: The Separation
+Language: en
+Canon Sequence: D-005-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: separation-platform.jpg
+role: header
+prompt:Ultra-detailed header scene. The trial platform. Annariel being pulled away by mages toward a dark door. Drusniel left behind on the empty stone. . Camera: Wide shot establishing distance. Lighting: Purple/Blue fungal. photorealistic dark fantasy realism [Face_Reference: Distance]
+
+2. filename: annariel-look-back.jpg
+role: mid_01 (placed after sentence "Annariel looked back once.")
+prompt:The Last Look. Annariel's face, frantic and confused, looking over his shoulder as he is dragged into darkness. . Camera: Telephoto. Lighting: Shadows. photorealistic dark fantasy realism [Face_Reference: Annariel]
+
+3. filename: shame-hall.jpg
+role: mid_02 (placed after sentence "Names covered every surface.")
+prompt:The Wall of Shame. Endless names carved into obsidian walls. Drusniel is a small silhouette walking down the corridor. . Camera: Low angle. Lighting: Dim. photorealistic dark fantasy realism [Face_Reference: Carvings]
+
+4. filename: the-clerk.jpg
+role: mid_03 (placed after sentence "The clerk wrote something down.")
+prompt:Bureaucracy of Failure. A bored Drow clerk at a stone desk. Stacks of ledgers. Indifference. . Camera: Medium shot. Lighting: Cold. photorealistic dark fantasy realism [Face_Reference: Clerk]
+
+5. filename: waiting-bench.jpg
+role: mid_04 (placed after sentence "Drusniel sat on a cold stone bench.")
+prompt:The Losers. Drusniel sitting on a bench with other failed candidates (crying girl, staring boy). All isolated in their grief. . Camera: Eye level. Lighting: Gloomy. photorealistic dark fantasy realism [Face_Reference: Drusniel]

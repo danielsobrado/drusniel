@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: El Conducto
+Language: es
+Canon Sequence: AST-M-009
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: beggar-appears.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Night scene in an alley. Maris (pale woman) is cornered by the sudden appearance of the beggar in rags. . Camera: High angle looking down at the encounter. Lighting: Single light source from above (window or lamp). [Face_Reference: Maris]
+
+2. filename: coin-transformation.jpg
+role: mid_01 (placed after sentence "Los dedos del mendigo se cerraron alrededor del cobre.")
+prompt:Photorealistic Detail focus. The copper coin in the beggar's palm. It reflects a strange light, or just the street lamp, but it looks significant. The hand tells the story of poverty. [Face_Reference: Coin]
+
+3. filename: beggar-prophecy.jpg
+role: mid_02 (placed after sentence "El ahogamiento. Los ojos del mendigo estaban mirando a través de ella ahora")
+prompt:Photorealistic Supernatural portrait. The beggar's face is split—one side looks like a normal old man, the other side is shadowed and looks like a conduit for something ancient. Lighting: Split lighting (warm/cold).
+
+4. filename: beggar-wanders-off.jpg
+role: mid_03 (placed after sentence "Se alejó tambaleándose ligeramente, ya olvidando su rostro.")
+prompt:Photorealistic Isolation beat. Maris standing alone in the street after the beggar has left. She looks small. The street is empty and long. . Camera: Wide shot from behind. [Face_Reference: Maris]
+
+5. filename: wanderers-rest-sign.jpg
+role: mid_04 (placed after sentence "Su cartel mostraba a un viajero con un bastón de caminar")
+prompt:Photorealistic Environment detail. The inn's sign swinging in the wind. Rain or mist is starting. The warm light from the window promises safety but also answers.

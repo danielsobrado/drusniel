@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The Artifact
+Language: en
+Canon Sequence: D-011-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: artifact-box.jpg
+role: header
+prompt:Ultra-detailed header scene. Zaelar placing a heavy, ornate box on the table. It looks ancient. Runes glowing faintly. . Camera: Close up. Lighting: Magical glow from box. photorealistic dark fantasy realism [Face_Reference: Box]
+
+2. filename: opening-box.jpg
+role: mid_01 (placed after sentence "He opened the lid.")
+prompt:The Reveal. The box open. Inside is a metal plate or cube with shifting geometric patterns. Blue light. . Camera: Top down. Lighting: Blue glow. photorealistic dark fantasy realism
+
+3. filename: drusniel-touching.jpg
+role: mid_02 (placed after sentence "Touch it.")
+prompt:Contact. Drusniel's finger reaching out to touch the artifact. Sparks or distortion at the point of contact. . Camera: Macro. Lighting: Spark. photorealistic dark fantasy realism [Face_Reference: Finger]
+
+4. filename: weight-of-object.jpg
+role: mid_03 (placed after sentence "Heavier than it looked.")
+prompt:The Burden. Drusniel holding the pouch containing the artifact. His hand sagging slightly under the weight (physical and metaphorical). . Camera: Medium shot. Lighting: Shadowed. photorealistic dark fantasy realism [Face_Reference: Pouch]
+
+5. filename: hiding-artifact.jpg
+role: mid_04 (placed after sentence "Keep it hidden.")
+prompt:Concealment. Drusniel tucking the pouch into his internal coat pocket. Zaelar watching intensely. . Camera: Medium shot. Lighting: Secretive. photorealistic dark fantasy realism [Face_Reference: Action]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Desafío
+Language: en
+Canon Sequence: W-022-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: river-confrontation.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Two stags locking horns (metaphor for Aldric and Dulint). . [Face_Reference: Horns]
+
+2. filename: dangerous-river.jpg
+role: mid_01 (placed after sentence "Dientes de agua.")
+prompt:Photorealistic Water Teeth. The river waves looking like rows of shark teeth. .
+
+3. filename: aldric-accusing.jpg
+role: mid_02 (placed after sentence "Espejo de miedo.")
+prompt:Photorealistic Mirror of Fear. Aldric holding up a mirror to Dulint, but the reflection shows a terrified child. . [Face_Reference: Mirror]
+
+4. filename: maris-distant.jpg
+role: mid_03 (placed after sentence "Niebla mental.")
+prompt:Photorealistic Head in Clouds. Maris's head literally in a small cloud of fog. . [Face_Reference: Fog]
+
+5. filename: fording-river.jpg
+role: mid_04 (placed after sentence "Cadena humana.")
+prompt:Photorealistic Chain Link. The rope connecting them looking like a heavy iron chain. . [Face_Reference: Chain]

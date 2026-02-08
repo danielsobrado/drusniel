@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Cámara Sagrada
+Language: en
+Canon Sequence: D-001-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: obsidian-antechamber.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Focus on the texture of the obsidian wall. Veins of silver or lighter stone running through the black. Drusniel's hand touching it. . [Face_Reference: Obsidian]
+
+2. filename: counting-nervous-habit.jpg
+role: mid_01 (placed after sentence "Tu pulgar.")
+prompt:Photorealistic Nervous Energy. A blurred motion shot of Drusniel's fingers tapping. Visualizing the frantic energy. . [Face_Reference: Drusniel]
+
+3. filename: annariel-whisper.jpg
+role: mid_02 (placed after sentence "Tenemos algo que ellos no.")
+prompt:Photorealistic Secret Keepers. Drusniel and Annariel as reflections in a dark pool or polished stone. Distorted slightly. . [Face_Reference: Reflection]
+
+4. filename: priest-arrival.jpg
+role: mid_03 (placed after sentence "Venemora juzga.")
+prompt:Photorealistic Judgment Eyes. Close up on the Priest's eyes (or mask). Cold, evaluating, inhuman. .
+
+5. filename: entering-darkness.jpg
+role: mid_04 (placed after sentence "Drusniel entró en la oscuridad.")
+prompt:Photorealistic Swallowed. The darkness of the doorway looking like a physical mouth or maw. Drusniel is a small figure stepping into it. . [Face_Reference: Drusniel]

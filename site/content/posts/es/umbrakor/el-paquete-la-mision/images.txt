@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: La Misión
+Language: en
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The map is a hologram projected from a crystal. 3D representation of the crossing. . [Face_Reference: Hologram]
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "Poder absoluto.")
+prompt:Photorealistic Crown of Lightning. Zaelar's shadow wearing a crown made of lightning. . [Face_Reference: Zaelar]
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "El nombre quema.")
+prompt:Photorealistic Burning Script. The name Szoravel burning on the page, turning the paper black. . [Face_Reference: Burn]
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "Piedra fría.")
+prompt:Photorealistic Stone Face. Drusniel's face turning into actual gray stone. Hardening heart. . [Face_Reference: Drusniel]
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "La armadura del alma.")
+prompt:Photorealistic Armor. Spectral armor forming over Drusniel's travel clothes. . [Face_Reference: Armor]

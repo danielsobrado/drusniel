@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Nombrar Sin Explicar: Los Fragmentos
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-explains-phases.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Xandor's face in deep concentration as he explains the phases. The light from the cube reflects in his eyes, showing the symbols. . [Face_Reference: Xandor]
+
+2. filename: erase-memory.jpg
+role: mid_01 (placed after sentence "Removiendo memorias? ¿Puede hacer eso?")
+prompt:Photorealistic Fear of white. Maris looking at a blank page or a white wall that seems to be swallowing the room. The concept of 'erasure' as a void. . [Face_Reference: Maris]
+
+3. filename: rewrite-reality.jpg
+role: mid_02 (placed after sentence "O lo que fue en lo que nunca sucedió.")
+prompt:Photorealistic Timeline fracture. Xandor looking at his own hand, but there are multiple ghostly versions of it in different positions. . [Face_Reference: Xandor]
+
+4. filename: burned-libraries.jpg
+role: mid_03 (placed after sentence "Los textos terminan en fuego. Páginas quemadas")
+prompt:Photorealistic Ashes. Xandor's hands sifting through black ash on the table. The ash forms vague shapes of letters. . [Face_Reference: Ash]
+
+5. filename: incomplete-danger.jpg
+role: mid_04 (placed after sentence "Y no tenemos idea de qué sucederá cuando los encuentre.")
+prompt:Photorealistic Danger looming. The Cube casting a shadow that looks like a monster or a tower. The shadow is much larger than the object. .

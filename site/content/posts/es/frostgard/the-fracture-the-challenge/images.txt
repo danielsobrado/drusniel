@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Fractura: El Desafío
+Language: en
+Canon Sequence: W-022-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: swollen-river.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. A view of the river from above. It looks like a scar cutting the land. .
+
+2. filename: aldric-confrontation.jpg
+role: mid_01 (placed after sentence "Esto no es juicio. Esto es miedo.")
+prompt:Photorealistic Confrontation. Close up on Aldric's eyes. Intense, accusing. Reflecting Dulint's hesitation. . [Face_Reference: Aldric, Dulint]
+
+3. filename: paralyzed-fear.jpg
+role: mid_02 (placed after sentence "Explícame.")
+prompt:Photorealistic The Spotlight. Dulint standing alone in a metaphorical spotlight on the bank. Everyone else is in shadow. . [Face_Reference: Dulint]
+
+4. filename: roped-crossing.jpg
+role: mid_03 (placed after sentence "Nadie cayó.")
+prompt:Photorealistic Tension. Extreme close up on the rope straining, fraying slightly, dripping water. Knuckles gripping it white. . [Face_Reference: Rope]
+
+5. filename: wet-bank-arrival.jpg
+role: mid_04 (placed after sentence "Aldric no dijo nada sobre tener razón.")
+prompt:Photorealistic Silent Victory. Aldric standing apart, wringing out his cloak. Back to the group. Looking north. . [Face_Reference: Aldric]

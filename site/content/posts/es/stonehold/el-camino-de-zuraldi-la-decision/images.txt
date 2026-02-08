@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Camino de Zuraldi: La Decisión
+Language: es
+Canon Sequence: W-008-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: exhausted-hiding.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Close up on sweat dripping from Dulint's nose. His eyes squeezed shut in pain. Balin's hand on his shoulder is the only steady thing. . [Face_Reference: Sweat]
+
+2. filename: glass-shards-lungs.jpg
+role: mid_01 (placed after sentence "Pulmones llenos de fragmentos de vidrio.")
+prompt:Photorealistic Internal damage. X-ray style or metaphorical image of shattered glass inside a chest cavity (artistic). Or just Dulint coughing blood. . [Face_Reference: Chest]
+
+3. filename: drop-the-rock.jpg
+role: mid_02 (placed after sentence "Deja la roca.")
+prompt:Photorealistic Abandonment. The pack sitting alone on a mossy rock, looking innocent. The dwarves walking away (imagined). .
+
+4. filename: thrain-legacy.jpg
+role: mid_03 (placed after sentence "Thrain Ironbeard no soltó el mapa")
+prompt:Photorealistic Iron Will. Dulint's eyes snapping open. A reflection of a pickaxe or anvil in his pupil. Steely resolve replacing fear. . [Face_Reference: Dulint]
+
+5. filename: push-into-dark.jpg
+role: mid_04 (placed after sentence "Empujaron más profundo en la oscuridad.")
+prompt:Photorealistic Swallowed by night. The forest canopy closing over them like a mouth. Total blackness except for the faint cube glow. . [Face_Reference: Trees, Glow]

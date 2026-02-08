@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: es
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt:Ultra-detailed header scene. A frozen messenger being carried through the massive iron gates of Jotunheim. Blizzard conditions. . Camera: Wide shot. Lighting: Blue storm light. photorealistic dark fantasy realism
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "He cracked it open.")
+prompt:The Warden. Thorvald (older warrior, scarred) reading a letter by a roaring hearth. Face illuminated by fire. . Camera: Medium shot. Lighting: Firelight. photorealistic dark fantasy realism [Face_Reference: Thorvald]
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "The skalds were singing.")
+prompt:The Great Hall. A vast wooden hall filled with warriors. A skald singing near the fire. Smoke and shadows. . Camera: Wide interior. Lighting: Warm/Hazy. photorealistic dark fantasy realism [Face_Reference: Skald]
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Tracks suggest at least two distinct groups.")
+prompt:The Signs. Scouts in white furs looking at a massive footprint in the snow. It dwarfs them. . Camera: Low level. Lighting: Overcast. photorealistic dark fantasy realism
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "Food was still on some tables.")
+prompt:Frosthollow. An interior of a cottage. A meal frozen solid on the table. Chair overturned. Door open to snow. . Camera: Interior. Lighting: Cold daylight. photorealistic dark fantasy realism

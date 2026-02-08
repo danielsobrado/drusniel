@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Naming Without Explaining: The Warning
+Language: en
+Canon Sequence: AST-M-009
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-explains-beacon.jpg
+role: header
+prompt:Ultra-detailed header scene. Xandor standing by the table, gesturing to the glowing Cube. The others (Aldric, Dulint, Balin, Maris) are gathered around, faces lit by its light. Their expressions range from fear to determination. . Camera: Eye level. Lighting: Cube glow. photorealistic dark fantasy realism [Face_Reference: Xandor, Aldric, Dulint, Balin, Maris]
+
+2. filename: aldric-realization.jpg
+role: mid_01 (placed after sentence "We're being tracked, Aldric said. Not a question.")
+prompt:Character realization. Aldric looking at the window, hand on hilt. The darkness outside looks heavy, pressing against the glass. . Camera: Medium shot. Lighting: Window light/Shadows. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+3. filename: maris-screaming-silence.jpg
+role: mid_02 (placed after sentence "Maris laughed, and the sound was sharp-edged and bitter.")
+prompt:Emotional portrait. Maris looking at the Cube with hatred/fear. She looks exhausted. The light of the cube reflects in her eyes. . Camera: Close up. Lighting: Harsh blue from cube. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+4. filename: wyrmreach-vision.jpg
+role: mid_03 (placed after sentence "The drowning hand. The black water.")
+prompt:Visionary flash. A split-second image of dark water and a pale hand reaching up, superimposed over the tavern table texture. . Camera: Double exposure look. Lighting: Underwater gloom. photorealistic dark fantasy realism
+
+5. filename: beacon-pulse.jpg
+role: mid_04 (placed after sentence "The Beacon pulsed on the table, its soft light somehow more ominous now.")
+prompt:Object menace. The Cube isolated on the wood grain. It is pulsing with a light that looks like a signal wave expanding outward. . Camera: High angle product shot style but ominous. Lighting: Radial gradient. photorealistic dark fantasy realism

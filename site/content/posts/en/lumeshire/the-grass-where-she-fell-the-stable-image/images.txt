@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Stable Image
+Language: en
+Canon Sequence: AST-M-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-fence.jpg
+role: header
+prompt:Ultra-detailed header scene. Maris (pale human seer) leaning heavily against an old wooden fence post at the edge of a field. Her head is bowed. The landscape behind her is blurred as the vision takes over. . Camera: Medium shot. Lighting: Golden hour but fading. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+2. filename: vision-boat-black-water.jpg
+role: mid_01 (placed after sentence "It was always the boat. Small, barely big enough for two")
+prompt:Visionary scene. A small, weathered wooden boat rocking on thick, oily black water. No horizon, just water and dark sky. The water surface looks like it's breathing. . Camera: Water level shot. Lighting: Unnatural ambient gloom. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+3. filename: vision-hand-reaching.jpg
+role: mid_02 (placed after sentence "Grey-dark skin. Long fingers. Reaching up through the chaos")
+prompt:Visionary detail. A grey-skinned hand with unnaturally long, elegant fingers reaching desperately out of the black water. It is grasping at nothing. Water droplets are black oil. . Camera: Close up on hand. Lighting: Pale spotlight on the hand. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: maris-wakes-gasping.jpg
+role: mid_03 (placed after sentence "Maris came back to herself with a gasp.")
+prompt:Character reaction. Maris's face, wide-eyed and terrified, gasping for air. Sweat on her forehead. She is gripping the fence post so hard her knuckles are white. . Camera: Extreme close up. Lighting: Harsh reality sunlight returning. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+5. filename: maris-walks-on.jpg
+role: mid_04 (placed after sentence "Maris started walking again. Riverhold was closer now")
+prompt:Character journey. Maris pushing off from the fence and walking towards the camera. Her expression is grim. Reference to Riverhold's walls in the background. . Camera: Tracking shot. Lighting: Evening shadows. photorealistic dark fantasy realism [Face_Reference: Maris]

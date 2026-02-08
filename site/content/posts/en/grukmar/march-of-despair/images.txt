@@ -1,0 +1,26 @@
+# Image Prompts
+Title: March of Despair
+Language: en
+Canon Sequence: P-008
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.png
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. . Camera: 28mm cinematic frame, mild barrel distortion, dramatic scale. Lighting: cold overcast ambience with narrow shafts of hard light. Foreground, midground, and background must each carry readable storytelling details tied to this chapter. Composition should leave clean negative space for title overlay without obscuring the main subject. volumetric dust in the air, tactile stone texture, physically accurate reflections. EN .. photorealistic dark fantasy realism
+
+2. filename: mid-01.png
+role: mid_01
+prompt:Mid-content image 1. Character-centered story beat with emotional tension and explicit scene context from tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. Camera: 50mm portrait framing, shallow depth of field. Lighting: cold overcast ambience with narrow shafts of hard light. Capture believable body language, costume wear, weathering, and scene props that imply recent action. Use layered depth, controlled contrast, and physically plausible shadows. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism [Face_Reference: Korgath Nargul]
+
+3. filename: mid-02.png
+role: mid_02
+prompt:Mid-content image 2. Dynamic transition moment (movement, conflict, or discovery) in tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. Camera should emphasize directional force and urgency while preserving facial readability. Lighting: cool moonlit shadows with steel-blue fill. Prioritize tactile environmental interaction: dust displacement, cloth motion, hair movement, and impact traces. No stylized abstraction; keep grounded realism. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism [Face_Reference: Korgath Nargul]
+
+4. filename: mid-03.png
+role: mid_03
+prompt:Mid-content image 3. Symbolic environment/detail shot tied to the chapter's thematic pressure within tribal badlands, war camps, crude fortifications, smoke, dust, brutal close-quarters conflict. No empty scenic wallpaper; include a narrative clue object, architecture cue, or ritual trace. Camera: macro-to-medium documentary framing, precise focal plane control. Lighting: cold overcast ambience with narrow shafts of hard light. Material realism is critical: metal oxidation, cloth fiber, stone pores, liquid behavior. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic dark fantasy realism [Face_Reference: Korgath Nargul]
+
+5. filename: mid-04.png
+role: mid_04
+prompt:Mid-content image 4. Closing emotional beat with consequence and unresolved tension, grounded in escalating omen, travel tension, imminent rupture. Camera: 50mm portrait framing, shallow depth of field. Lighting: cool moonlit shadows with steel-blue fill. Face and hands must communicate the scene's subtext; include subtle context elements in background to imply what comes next. Avoid heroic posing; favor intimate realism and narrative ambiguity. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism [Face_Reference: Korgath Nargul]

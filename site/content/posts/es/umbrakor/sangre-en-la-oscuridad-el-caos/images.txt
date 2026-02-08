@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Sangre en la Oscuridad: El Caos
+Language: en
+Canon Sequence: D-010-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: waking-to-silence.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel trapped in a spider web made of silence. Conceptual. . [Face_Reference: Web]
+
+2. filename: smoke-in-corridor.jpg
+role: mid_01 (placed after sentence "Niebla tóxica.")
+prompt:Photorealistic Phantoms. The smoke forming ghosts or screaming faces. .
+
+3. filename: dead-lights.jpg
+role: mid_02 (placed after sentence "Oscuridad total.")
+prompt:Photorealistic Eclipse. A visual of an eclipse blocking out the light source. . [Face_Reference: Eclipse]
+
+4. filename: assassin-shadow.jpg
+role: mid_03 (placed after sentence "La puerta cayó.")
+prompt:Photorealistic Broken Barrier. The door shattering into glass shards. . [Face_Reference: Shards]
+
+5. filename: running-blind.jpg
+role: mid_04 (placed after sentence "Corre.")
+prompt:Photorealistic The Maze. Drusniel running in an infinite repeating corridor. . [Face_Reference: Corridor]

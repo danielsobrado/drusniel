@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Nada y el Segundo Sol
+Language: es
+Canon Sequence: AST-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sage-examines-ancient-book.jpg
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in a private scholar's study or archive. . Camera: 35mm cinematic frame, slight low angle. Lighting: bright but natural daylight filtering through dust, illuminating the ancient book. Foreground: texture of the leather cover, cracking like dried skin. Midground: Sage examining the text with gloved hands. Background: vague rows of scrolls and shelves. Composition should leave clean negative space for title overlay. micro-particles, atmospheric haze layers, realistic material roughness. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+2. filename: sage-pays-merchant.jpg
+role: mid_01 (placed after sentence "Le pagó al mercader el doble de lo que pedía.")
+prompt:Character-centered story beat with emotional tension. Scene: A doorway or corner of the study. Sage handing coins to a shadowy merchant. Camera: 50mm portrait framing. Lighting: bright natural interior light, illuminating the transaction. Sage's gloved hand passing gold to a rough, weathered hand. Merchant is partially obscured or turned away. Texture of the coins, the glove, the merchant's worn cloak. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+3. filename: sage-reads-about-gods.jpg
+role: mid_02 (placed after sentence "La sabiduría humana los invitó, decía otra.")
+prompt:Quiet study scene. Sage seated at a desk, the book open. Camera: Over-the-shoulder or side profile, 85mm. Lighting: soft, bright daylight falling on the pages. Text content is visible but indecipherable ancient script. Sage's finger tracing a line. Dust motes dancing in the light. Books stacked nearby. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+4. filename: sage-studies-marginal-notes.jpg
+role: mid_03 (placed after sentence "La mano marginal estaba de vuelta, más afilada ahora:")
+prompt:Macro detail shot of the book pages and Sage's notebook. POV: Close up on the hands and paper. Sage writing in a notebook, comparing with the ancient text. Three columns written: Fire, Sound, No Origin. Red ink notes visible. Camera: Macro lens, shallow depth of field. Lighting: bright natural light. Texture of paper, ink, quill, glove leather. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]
+
+5. filename: sage-contemplates-contradictions.jpg
+role: mid_04 (placed after sentence "La Academia no toma posición oficial sobre autenticidad.")
+prompt:Closing emotional beat. Sage standing by a window or bookshelf, holding the closed book. Camera: 50mm medium shot. Lighting: bright natural light, slightly cooler/afternoon tone. The study is messy with notes. Atmosphere of unresolved mystery. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text. [Face_Reference: Sage]

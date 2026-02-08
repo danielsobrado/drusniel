@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Mysteries of the Wyrmreach Dominion
+Language: en
+Canon Sequence: WYR-L-001
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.png
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. . Camera: 28mm cinematic frame, mild barrel distortion, dramatic scale. Lighting: cold overcast ambience with narrow shafts of hard light. Foreground, midground, and background must each carry readable storytelling details tied to this chapter. Composition should leave clean negative space for title overlay without obscuring the main subject. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic dark fantasy realism Expression & eyeline: beat cue 'He closed the case and put it away.'. Primary face: one brow subtly lowered, eyes narrowed in assessment, jaw set, mouth held thin; eyes locked on the immediate in-scene threat or, wary, and unreadable, with eyelines converging toward the immediate in-scene threat or ]
+
+2. filename: mid-01.png
+role: mid_01
+prompt:Mid-content image 1. Character-centered story beat with emotional tension and explicit scene context from hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. Camera: 85mm compressed perspective, selective focus on eyes. Lighting: low-key contrast, desaturated palette, restrained highlights. Capture believable body language, costume wear, weathering, and scene props that imply recent action. Use layered depth, controlled contrast, and physically plausible shadows. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism Expression & eyeline: beat cue '"How much farther?" one of the scholars asked.'. Primary face must carry suspicion with readable micro-tension: one brow subtly lowered, eyes narrowed in assessment, jaw set, mouth held thin. Set eyeline directly at the immediate in-scene threat or, force an eyeline match or confrontation between them. [Face_Reference: Vorogarth]
+
+3. filename: mid-02.png
+role: mid_02
+prompt:Mid-content image 2. Dynamic transition moment (movement, conflict, or discovery) in hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. Camera should emphasize directional force and urgency while preserving facial readability. Lighting: low-key contrast, desaturated palette, restrained highlights. Prioritize tactile environmental interaction: dust displacement, cloth motion, hair movement, and impact traces. No stylized abstraction; keep grounded realism. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism Expression & eyeline: beat cue 'They had walked this path twice already, circling back when the landmarks failed.'. During motion, keep emotion readable: steady unblinking stare, set jaw, controlled breathing, no smile. Eyes track el mar while body momentum moves through frame; avoid neutral or generic action faces. [Face_Reference: Vorogarth]
+
+4. filename: mid-03.png
+role: mid_03
+prompt:Mid-content image 3. Symbolic environment/detail shot tied to the chapter's thematic pressure within hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. No empty scenic wallpaper; include a narrative clue object, architecture cue, or ritual trace. Camera: macro-to-medium documentary framing, precise focal plane control. Lighting: cold overcast ambience with narrow shafts of hard light. Material realism is critical: metal oxidation, cloth fiber, stone pores, liquid behavior. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism [Face_Reference: Vorogarth]
+
+5. filename: mid-04.png
+role: mid_04
+prompt:Closing emotional beat with consequence and unresolved tension, grounded in historical memory tone, documentary realism, artifact-focused framing. Camera: 50mm portrait framing, shallow depth of field. Lighting: low-key contrast, desaturated palette, restrained highlights. Face and hands must communicate the scene's subtext; include subtle context elements in background to imply what comes next. Avoid heroic posing; favor intimate realism and narrative ambiguity. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism [Face_Reference: Vorogarth]

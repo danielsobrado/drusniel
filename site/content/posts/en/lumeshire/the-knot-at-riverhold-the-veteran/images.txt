@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Knot at Riverhold: The Veteran
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-tavern-exits.jpg
+role: header
+prompt:Ultra-detailed header scene. Aldric sitting alone in a dim tavern corner. His eyes are scanning the room (reflection in a glass or mirror?). He looks bitter and sharp. . Camera: Medium shot. Lighting: Low tavern light. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+2. filename: sera-arrives.jpg
+role: mid_01 (placed after sentence "A woman stood at his table—middle-aged, travel-worn")
+prompt:Character introduction. Sera standing by Aldric's table. She looks dusty and tired but determined. Aldric is looking up at her without surprise. . Camera: Over-the-shoulder (Aldric). Lighting: Backlit by tavern window? photorealistic dark fantasy realism [Face_Reference: Sera]
+
+3. filename: riverhold-streets-alert.jpg
+role: mid_02 (placed after sentence "The streets of Riverhold were crowded with the usual chaos")
+prompt:Urban environment. The busy streets of Riverhold. Carts, merchants. Aldric is cutting through the crowd, vigilant. The crowd is blurred motion, he is sharp focus. . Camera: Tracking shot. Lighting: Day. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+4. filename: scholars-rest-room.jpg
+role: mid_03 (placed after sentence "Aldric found Xandor in a private room on the second floor")
+prompt:Interior detail. Xandor's room. Stacks of books, scrolls, maps everywhere. Xandor looks up from a desk, surprised. . Camera: Wide shot of room. Lighting: Cozy but cluttered. photorealistic dark fantasy realism [Face_Reference: Xandor, Room]
+
+5. filename: changes-everything.jpg
+role: mid_04 (placed after sentence "What they're carrying changes everything.")
+prompt:Foreboding close up. Aldric's face, close up. A subtle shift in expression—from bitterness to purpose. The lighting shifts to something more dramatic. . Camera: Extreme Close Up. Lighting: Dramatic side light. photorealistic dark fantasy realism [Face_Reference: Aldric]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Magic in Astalor
+Language: en
+Canon Sequence: AST-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: oracle-overlooks-ruined-keeps.jpg
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in contested frontier routes, ruined keeps, council rooms, storm plains, fractured alliances. . Camera: 24mm wide-angle, low horizon, deep depth of field. Lighting: bright but natural overcast daylight with soft sun diffusion, balanced contrast, realistic exposure suitable for a header image. Foreground, midground, and background must each carry readable storytelling details tied to this chapter. Composition should leave clean negative space for title overlay without obscuring the main subject. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+2. filename: sage-confronts-threat.jpg
+role: mid_01 (placed after sentence "The elements will not share a vessel with their enemy.")
+prompt:Character-centered story beat with explicit scene context from contested frontier routes, ruined keeps. Camera: 50mm framing. Lighting: bright but natural overcast daylight with soft sun diffusion; realistic exposure. Capture believable body language, costume wear, weathering, and scene props that imply recent action. Use layered depth, controlled contrast, and physically plausible shadows. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+3. filename: sage-moves-through-storm-plains.jpg
+role: mid_02 (placed after sentence "Turned to dust or useless shards.")
+prompt:Dynamic transition moment (movement, conflict, or discovery) in storm plains. Camera should emphasize directional force and urgency. Lighting: bright but natural overcast daylight with soft sun diffusion. Prioritize tactile environmental interaction: dust displacement, cloth motion, and impact traces. No stylized abstraction; keep grounded realism. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+4. filename: ignimancy-clue-discovery.jpg
+role: mid_03 (placed after sentence "Ignimancy (Fire): The discipline of passion and transformation.")
+prompt:Symbolic environment/detail shot tied to the chapter's thematic pressure. No empty scenic wallpaper; include a narrative clue object, architecture cue, or ritual trace. Camera: macro-to-medium documentary framing, precise focal plane control. Lighting: bright cold overcast daylight with narrow shafts of hard light, realistic exposure. Material realism is critical: metal oxidation, cloth fiber, stone pores, liquid behavior. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]
+
+5. filename: miragery-consequence-realized.jpg
+role: mid_04 (placed after sentence "Miragery: The art of bending reality.")
+prompt:Closing emotional beat with consequence and unresolved tension, grounded in historical memory tone, documentary realism. Camera: 65mm medium close framing. Lighting: bright but natural overcast daylight with soft sun diffusion; realistic exposure and restrained highlights suitable for editorial presentation. Hands and posture must communicate the scene's subtext; include subtle context elements in background to imply what comes next. Avoid heroic posing; favor intimate realism and narrative ambiguity. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic, 8k, hyper-realistic, 35mm film still, dark fantasy realism, hyper-detailed materials, anatomically consistent hands, natural skin texture, global illumination, high dynamic range, no text, no logo, no watermark. [Face_Reference: Sage]

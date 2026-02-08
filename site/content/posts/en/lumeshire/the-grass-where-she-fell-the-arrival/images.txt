@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Arrival
+Language: en
+Canon Sequence: AST-M-011
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-enters-room.jpg
+role: header
+prompt:Ultra-detailed header scene. Scene: A candlelit back room in an inn. Maris (pale human seer, frazzled) stands in the doorway. Four figures (Xandor, Dulint, Aldric, Balin) turn to look at her. The Beacon (artifact) sits on the table. . Camera: 35mm wide shot. Lighting: Warm candlelight casting deep shadows. photorealistic dark fantasy realism
+
+2. filename: beacon-screaming.jpg
+role: mid_01 (placed after sentence "The word came unbidden. Screaming.")
+prompt:/FX. Close up on the Beacon (metal cube with shifting symbols). The air around it seems to distort or vibrate (visual representation of "screaming"). . Camera: Macro. Lighting: Unnatural internal glow clashing with candlelight. photorealistic dark fantasy realism
+
+3. filename: dulint-concerned.jpg
+role: mid_02 (placed after sentence "For most of us, it points, Dulint said. Shows direction.")
+prompt:Character portrait. Dulint (dwarf male, weathered, grey/white hair) looking at Maris with deep concern. He is seated at the table. Background: Balin (young dwarf) looking curious. Camera: 50mm portrait. Lighting: Firelight on face. photorealistic dark fantasy realism [Face_Reference: Dulint]
+
+4. filename: aldric-suspicious.jpg
+role: mid_03 (placed after sentence "We don't know her. Currently justified, Aldric said.")
+prompt:Character reaction. Aldric (scarred human veteran) leaning back in his chair, arms crossed, watching Maris with sharp suspicion. . Camera: Medium shot. Lighting: Shadowed eyes. photorealistic dark fantasy realism [Face_Reference: Aldric]
+
+5. filename: maris-accepts-burden.jpg
+role: mid_04 (placed after sentence "Hold on, she thought at the stranger drowning in black water.")
+prompt:Closing emotional beat. Maris looking at the Beacon, her hand possibly reaching towards it (or just resting on the table). Her expression is resolved, though fearful. . Camera: Close up on face/eyes. Lighting: Soft, tragic light. photorealistic dark fantasy realism [Face_Reference: Maris]

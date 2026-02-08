@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Knot at Riverhold: The Circle
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-tells-vision.jpg
+role: header
+prompt:Ultra-detailed header scene. Maris sitting at the table, hands clasped tight. She is speaking intensely. The others (Aldric, Xandor, Dulint, Balin) are leaning in, listening. The Cube is glowing between them. . Camera: Medium shot. Lighting: Candle and Cube light. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+2. filename: drowning-hand-detail.jpg
+role: mid_01 (placed after sentence "A hand reaching up from beneath the surface... slipping under before anyone could grasp it.")
+prompt:Vision detail. A grey-skinned hand sinking into black, oily water. Ripples spreading. It looks desperate. . Camera: Water level macro. Lighting: Dark/Cold. photorealistic dark fantasy realism
+
+3. filename: aldric-maris-connection.jpg
+role: mid_02 (placed after sentence "I believe you, he said. Maris looked at him, surprised.")
+prompt:Character beat. Aldric and Maris making eye contact. A moment of shared understanding between two outcasts. The lighting softens slightly on them. . Camera: Two-shot. Lighting: Warm/Soft. photorealistic dark fantasy realism
+
+4. filename: the-agreement.jpg
+role: mid_03 (placed after sentence "We stay together, he said.")
+prompt:Group formation. The five characters standing in a loose circle. Hands are not joined, but the formation implies unity. The artifact is the hub. . Camera: High angle looking down. Lighting: Center glow. photorealistic dark fantasy realism
+
+5. filename: vigil-at-window.jpg
+role: mid_04 (placed after sentence "Aldric stared into the dark street and couldn't shake the sense that something out there had already noticed them.")
+prompt:Closing atmosphere. Aldric silhouette at the window again. Outside, in the darkness of the street, faint eyes or shadows suggest watchers. . Camera: From outside looking in (or over shoulder). Lighting: Night/Streetlight. photorealistic dark fantasy realism

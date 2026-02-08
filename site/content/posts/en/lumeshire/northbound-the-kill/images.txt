@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Northbound: The Kill
+Language: en
+Canon Sequence: AST-M-024
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: staring-at-body.jpg
+role: header
+prompt:Ultra-detailed header scene. Balin standing alone in a small clearing, staring down at something out of frame. His sword is dropped on the grass nearby. The forest is quiet. . Camera: Wide shot. Lighting: Cold grey light. photorealistic dark fantasy realism [Face_Reference: Balin]
+
+2. filename: grukmar-dead-eyes.jpg
+role: mid_01 (placed after sentence "The way its eyes had gone flat and empty.")
+prompt:Corpse detail. Close up on the dead Grukmar's face. The eyes are open and glassy. It looks surprisingly human/vulnerable in death. . Camera: High angle close up. Lighting: Flat. photorealistic dark fantasy realism
+
+3. filename: balin-vomits.jpg
+role: mid_02 (placed after sentence "Balin barely made it three steps before he was on his knees")
+prompt:Physical reaction. Balin on his knees, retching. Aldric stands beside him, hand on his shoulder, looking vigilant but sympathetic. . Camera: Medium shot. Lighting: Dappled shadow. photorealistic dark fantasy realism [Face_Reference: Balin, Aldric]
+
+4. filename: maris-haunted.jpg
+role: mid_03 (placed after sentence "Maris fell into step beside him. Her face was pale, eyes haunted.")
+prompt:Character interaction. Maris walking next to Balin. She looks spectral, pale. Balin looks numb. They are walking away from the camera. . Camera: Tracking shot from front. Lighting: Fading day. photorealistic dark fantasy realism [Face_Reference: Maris, Balin]
+
+5. filename: leaving-the-dead.jpg
+role: mid_04 (placed after sentence "The Grukmar body would feed scavengers by nightfall.")
+prompt:Environmental closure. The body lying in the grass, small in the frame. Carrion birds circling above in the distance. The group is far away, just specks on the trail. . Camera: Wide landscape. Lighting: Sunset. photorealistic dark fantasy realism

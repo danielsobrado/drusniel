@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Camino de Zuraldi: Los Seguidores
+Language: es
+Canon Sequence: W-008-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: flanking-maneuver.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Trees passing by in a blur (side view). Shadows matching speed. .
+
+2. filename: organized-threat.jpg
+role: mid_01 (placed after sentence "Están flanqueándonos.")
+prompt:Photorealistic Maps of War. Dulint visualizing the pincer movement (mental overlay). Red lines on the landscape. . [Face_Reference: Dulint]
+
+3. filename: beacon-fire.jpg
+role: mid_02 (placed after sentence "Es como una hoguera de señales.")
+prompt:Photorealistic Signal in the dark. A night view (proleptic) of a beacon fire on a hill, but the fire is the cube's color. .
+
+4. filename: indifferent-hum.jpg
+role: mid_03 (placed after sentence "Indiferente a su conversación.")
+prompt:Photorealistic Alien logic. The symbols on the cube aligning in a way that hurts the eye. Non-euclidean suggestion. .
+
+5. filename: breaking-into-run.jpg
+role: mid_04 (placed after sentence "Los seguidores echaron a correr.")
+prompt:Photorealistic Wolf pack. The pursuers moving like a pack of wolves, low to the ground, fast. Not quite human gait. . [Face_Reference: Posture]

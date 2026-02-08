@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: en
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. The messenger is an ice statue, literally. . [Face_Reference: Ice]
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "Palabras vacías.")
+prompt:Photorealistic Burning Words. The letter burning in Thorvald's hands, the smoke forming the words "Lies". .
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "Ecos de gigantes.")
+prompt:Photorealistic Shadows of Giants. The shadows of the warriors on the wall look like giants. .
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Huellas en el alma.")
+prompt:Photorealistic Crushed Earth. The footprint is so heavy it has cracked the earth/ice like a crater. . [Face_Reference: Cracks]
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "Silencio blanco.")
+prompt:Photorealistic Ghost Town. The village is transparent/ghostly against the snow. . [Face_Reference: Translucency]

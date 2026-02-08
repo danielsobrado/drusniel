@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: Los Días Vacíos
+Language: en
+Canon Sequence: D-006-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: pacing-room.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel is a small figure in a very large, empty room. The emptiness is emphasized. . [Face_Reference: Room]
+
+2. filename: floor-crack.jpg
+role: mid_01 (placed after sentence "El patrón le daba algo a lo que aferrarse.")
+prompt:Photorealistic Labyrinth. The crack in the floor visualized as a maze. . [Face_Reference: Pattern]
+
+3. filename: shyntara-visit.jpg
+role: mid_02 (placed after sentence "Mírame.")
+prompt:Photorealistic Mirror Image. Shyntara looking at Drusniel, but he is looking away. Their profiles are similar but reversed. . [Face_Reference: Shyntara, Drusniel]
+
+4. filename: thumb-tapping.jpg
+role: mid_03 (placed after sentence "Los números ya no significaban nada.")
+prompt:Photorealistic Spiral. The counting visualized as numbers spiraling into darkness around his hand. .
+
+5. filename: first-contact.jpg
+role: mid_04 (placed after sentence "Una voz en su mente.")
+prompt:Photorealistic The Thread. A single silver thread descending into complete darkness to touch Drusniel. . [Face_Reference: Thread]

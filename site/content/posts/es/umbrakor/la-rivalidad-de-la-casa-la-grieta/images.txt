@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Grieta
+Language: en
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arguing-with-air.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Drusniel fighting his own shadow. The shadow behaves independently. . [Face_Reference: Drusniel]
+
+2. filename: voice-distortion.jpg
+role: mid_01 (placed after sentence "Ruido blanco.")
+prompt:Photorealistic White Noise. Drusniel covered in white static/snow (visual noise). . [Face_Reference: Static]
+
+3. filename: broken-mirror.jpg
+role: mid_02 (placed after sentence "Mil pedazos.")
+prompt:Photorealistic Shards. Drusniel's face made of floating glass shards that are drifting apart. . [Face_Reference: Shards]
+
+4. filename: shyntara-watching.jpg
+role: mid_03 (placed after sentence "La observadora.")
+prompt:Photorealistic Eye in the Keyhole. An extreme close up of an eye looking through a keyhole. .
+
+5. filename: isolation.jpg
+role: mid_04 (placed after sentence "Isla desierta.")
+prompt:Photorealistic Island. Drusniel on a tiny rock island in a black sea. . [Face_Reference: Island]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Nudo en Riverhold: El Faro
+Language: es
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: aldric-interrogates.jpg
+role: header
+prompt:Photorealistic Ultra-detailed header scene. Aldric's face in profile, intense concentration. The others are blurred in the background. . [Face_Reference: Aldric]
+
+2. filename: sense-mode.jpg
+role: mid_01 (placed after sentence "como un faro que nunca deja de señalar")
+prompt:Photorealistic Light pollution. The Cube's light bleeding into the shadows of the room, revealing dust and old cobwebs. .
+
+3. filename: blocked-roads.jpg
+role: mid_02 (placed after sentence "Están vigilando cada camino principal fuera de la ciudad.")
+prompt:Photorealistic Exterior threat. A view of a city gate at night, with dark figures watching. Rain slicked cobblestones. . [Face_Reference: Watchers]
+
+4. filename: aldric-targeted.jpg
+role: mid_03 (placed after sentence "ahora estaba girada casi directamente hacia él")
+prompt:Photorealistic Uncomfortable scrutiny. Close up on Aldric's eyes, reflecting the blue light of the cube. He looks trapped by the attention. . [Face_Reference: Aldric]
+
+5. filename: waiting-at-sunset.jpg
+role: mid_04 (placed after sentence "pintando Riverhold en tonos de naranja y rojo")
+prompt:Photorealistic Cityscape. High angle view of Riverhold rooftops at sunset. The shadows are long. Somewhere down there, trouble is coming. . [Face_Reference: City]

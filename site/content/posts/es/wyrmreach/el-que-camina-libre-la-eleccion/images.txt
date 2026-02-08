@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Que Camina Libre: La Elección
+Language: es
+Canon Sequence: WYR-M-012
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.png
+role: header
+prompt:Ultra-detailed header scene. Establishing shot in hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. . Camera: 27mm wide frame, slightly elevated camera, broader spatial read. Lighting: warmer torch-and-amber accents over dark neutrals. Foreground, midground, and background must each carry readable storytelling details tied to this chapter. Composition should leave clean negative space for title overlay without obscuring the main subject. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. ES .. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+2. filename: mid-01.png
+role: mid_01
+prompt:Mid-content image 1. Character-centered story beat with emotional tension and explicit scene context from hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. Camera: 50mm portrait framing, shallow depth of field. Lighting: volcanic red bounce light with deep charcoal shadows. Capture believable body language, costume wear, weathering, and scene props that imply recent action. Use layered depth, controlled contrast, and physically plausible shadows. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+3. filename: mid-02.png
+role: mid_02
+prompt:Mid-content image 2. Dynamic transition moment (movement, conflict, or discovery) in hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. Camera should emphasize directional force and urgency while preserving facial readability. Lighting: volcanic red bounce light with deep charcoal shadows. Prioritize tactile environmental interaction: dust displacement, cloth motion, hair movement, and impact traces. No stylized abstraction; keep grounded realism. subtle smoke drift, wet-surface specular breakup, cinematic depth cues. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+4. filename: mid-03.png
+role: mid_03
+prompt:Mid-content image 3. Symbolic environment/detail shot tied to the chapter's thematic pressure within hostile alien wasteland, black volcanic stone, red flora, distorted horizons, toxic sea winds. No empty scenic wallpaper; include a narrative clue object, architecture cue, or ritual trace. Camera: macro-to-medium documentary framing, precise focal plane control. Lighting: warmer torch-and-amber accents over dark neutrals. Material realism is critical: metal oxidation, cloth fiber, stone pores, liquid behavior. micro-particles, atmospheric haze layers, realistic material roughness variation. photorealistic dark fantasy realism [Face_Reference: Drusniel]
+
+5. filename: mid-04.png
+role: mid_04
+prompt:Mid-content image 4. Closing emotional beat with consequence and unresolved tension, grounded in immediate character stakes, high emotional clarity, real-time danger. Camera: 65mm medium close framing, strong facial micro-detail. Lighting: golden practical light mixed with cool rim separation. Face and hands must communicate the scene's subtext; include subtle context elements in background to imply what comes next. Avoid heroic posing; favor intimate realism and narrative ambiguity. volumetric dust in the air, tactile stone texture, physically accurate reflections. photorealistic dark fantasy realism [Face_Reference: Drusniel]

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Naming Without Explaining: The Recognition
+Language: en
+Canon Sequence: AST-M-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-studies-cube.jpg
+role: header
+prompt:Ultra-detailed header scene. Xandor (elderly human scholar, robes/travel gear) sitting at a rough wooden table in a tavern room. The Artifact (a dark cube with shifting geometric patterns and faint inner light) is on the table. He looks terrified and awed. . Camera: Medium shot from front. Lighting: Candlelight + Artifact glow (blue/white). photorealistic dark fantasy realism [Face_Reference: Xandor]
+
+2. filename: cube-pulse-detail.jpg
+role: mid_01 (placed after sentence "The cube pulsed with that soft light, its symbols shifting in patterns")
+prompt:Object detail. Close up on the Cube artifact. It is made of unknown dark metal, with glowing lines forming shifting constellations. It looks alive. . Camera: Macro. Lighting: Internal glow. photorealistic dark fantasy realism
+
+3. filename: xandor-touches-artifact.jpg
+role: mid_02 (placed after sentence "Xandor finally touched the cube's surface")
+prompt:Critical moment. Xandor's weathered hand making contact with the smooth surface of the Cube. Light flares slightly at the point of contact. His face shows shock/connection. . Camera: Close up on hand/artifact. Lighting: Dramatic flare. photorealistic dark fantasy realism
+
+4. filename: maris-overwhelmed.jpg
+role: mid_03 (placed after sentence "Maris stirred from her corner. She'd been quiet since arriving")
+prompt:Character reaction. Maris in the corner of the room, hands over her ears or pressing her temples. She looks pained by the "screaming" of the artifact. Balin watches her worriedly. . Camera: Portrait. Lighting: Shadows. photorealistic dark fantasy realism [Face_Reference: Maris]
+
+5. filename: group-tension.jpg
+role: mid_04 (placed after sentence "Aldric tested the word from his position by the door.")
+prompt:Room composition. The whole group in the small room. Xandor at table with Cube. Aldric by the door (guarding). Dulint watching Xandor. . Camera: Wide angle from ceiling/corner. Lighting: Dim tavern light. photorealistic dark fantasy realism

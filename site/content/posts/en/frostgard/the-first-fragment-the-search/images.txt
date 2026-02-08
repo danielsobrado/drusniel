@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Search
+Language: en
+Canon Sequence: W-020-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: snowy-search.jpg
+role: header
+prompt:Ultra-detailed header scene. The group (Dulint, Balin, Maris, Aldric, Xandor) trekking through a snowy, rocky landscape. Wind blowing cloaks. . Camera: Wide shot. Lighting: Overcast/Grey. photorealistic dark fantasy realism
+
+2. filename: beacon-stutter.jpg
+role: mid_01 (placed after sentence "Like a heartbeat learning to run.")
+prompt:The Pulse. Close up of the Beacon in the pack. It is glowing with an erratic rhythm/pattern. . Camera: Macro. Lighting: Blue pulse. photorealistic dark fantasy realism
+
+3. filename: maris-trembling.jpg
+role: mid_02 (placed after sentence "Her hand was trembling.")
+prompt:The Tremor. Close up of Maris's hand shaking against her leg. Balin noticing. . Camera: Close up. Lighting: Natural. photorealistic dark fantasy realism
+
+4. filename: xandor-sensing.jpg
+role: mid_03 (placed after sentence "Xandor knelt beside the pack.")
+prompt:The Druid's Sense. Xandor with hands hovering over the Beacon. Eyes closed. Sensing the resonance. . Camera: Eye level. Lighting: Soft. photorealistic dark fantasy realism [Face_Reference: Xandor]
+
+5. filename: hunters-behind.jpg
+role: mid_04 (placed after sentence "Something else is looking for it too.")
+prompt:The Shadow. A view from behind a tree, looking at the group walking away. A dark, indistinct shape in the foreground. . Camera: POV. Lighting: Shadowed. photorealistic dark fantasy realism
