@@ -1,26 +1,26 @@
 # Image Prompts
 Title: Rumbo al Norte: La Señal
 Language: es
-Canon Sequence: AST-M-022
+Canon Sequence: W-018-002
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
 1. filename: aldric-halts-group.jpg
 role: header
-prompt:Photorealistic Ultra-detailed header scene. The group freezing in place in the forest. Aldric's raised fist is the focal point. The trees seem to lean in from all sides. . [Face_Reference: Aldric]
+prompt:Photorealistic tense forest halt, Aldric raises a clenched fist in silent command while the whole group freezes mid-step, birds suddenly silent, damp moss and broken twigs underfoot, morning overcast light filtered through dense branches, Aldric crouched and focused, Dulint and Xandor watching him, Maris tense with distant concentration, Balin wide-eyed and whispering, cinematic realism with readable faces and grounded detail. [Face_Reference: Aldric, Dulint, Xandor, Maris, Balin]
 
 2. filename: grukmar-tracks.jpg
 role: mid_01 (placed after sentence "Aldric trazó algo con el dedo—un patrón que Balin no podía ver")
-prompt:Photorealistic Tracking sign. Aldric's weathered finger pointing at a broken twig or subtle indentation in the moss. It looks like a claw mark. . [Face_Reference: Aldric]
+prompt:Photorealistic close scene of Aldric kneeling and tracing a subtle pattern in disturbed moss with a weathered finger, faint claw-like impressions, snapped twig fibers, damp earth pressed down recently, his jaw tight in profile as he explains, Balin blurred behind trying to see what Aldric sees, shallow depth of field, grounded forensic realism. [Face_Reference: Aldric, Balin]
 
 3. filename: maris-senses-flank.jpg
 role: mid_02 (placed after sentence "Moviéndose cuando nos movemos. Deteniéndose cuando nos detenemos.")
-prompt:Photorealistic Sense visualization. Maris closing her eyes, tilting her head. A visual representation of the 'pressure' she feels—maybe the air to the east is rippling slightly. . [Face_Reference: Maris]
+prompt:Photorealistic medium close portrait of Maris with eyes half-closed and head tilted as if listening to pressure in the trees to the east, her face flat and exhausted but certain, the forest behind her dense and unreadable, a slight shift in distant underbrush hinting at unseen movement without showing attackers directly, muted daylight, cinematic realism. [Face_Reference: Maris]
 
 4. filename: dulint-artifact-burden.jpg
 role: mid_03 (placed after sentence "Esa cosa no dejará de transmitir nuestra posición.")
-prompt:Photorealistic Threat focus. The backpack on Dulint's back. It looks heavy, but also... loud? A visual distortion effect radiating from it like sound waves or heat haze. . [Face_Reference: Dulint]
+prompt:Photorealistic medium shot of Dulint shifting the pack strap on his shoulder, face pale with dread as he realizes the artifact keeps broadcasting their position, the pack bulky and worn with a faint cold-blue pulse leaking through seams onto his cloak, Aldric in the background with hand near sword, damp fog between trees, grounded cinematic realism with clear facial emotion. [Face_Reference: Dulint, Aldric]
 
 5. filename: balin-looks-back.jpg
 role: mid_04 (placed after sentence "Primera vez siendo presa, pensó.")
-prompt:Photorealistic Eye of the prey. Extreme close up on Balin's eye. In the reflection, the dark trees of the forest are visible. He looks terrified. . [Face_Reference: Balin]
+prompt:Photorealistic close portrait of Balin turning to look over his shoulder, fear and disbelief on his face because he cannot see the hunters, dark tree trunks and branches reflected in his wide eye, breath caught, damp hair and grit on his skin, shallow depth of field with the forest behind falling into threatening blur, cinematic realism. [Face_Reference: Balin]
