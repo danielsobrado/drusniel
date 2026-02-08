@@ -89,20 +89,21 @@ def format_main_display(info, labels, chapter_part_counts, for_header=False):
         return f"{labels['Main']} {chap_num}"
     return f"{labels['Main']} {chap_num}.{part_num}"
 
-def build_route_post_link(post, lang, seq_to_path=None):
+def build_route_post_link(post, lang, seq_to_correct_slug=None):
+    seq = (post.get('canon_sequence') or '').strip()
+    
+    # Use the correct slug from counterpart mapping if available
+    if seq and seq_to_correct_slug and seq in seq_to_correct_slug:
+        correct_slug = seq_to_correct_slug[seq]
+        return correct_slug if correct_slug.startswith('/') else f"/{correct_slug}/"
+    
+    # Fallback to path from CSV (folder name)
     slug = (post.get('path') or '').strip().strip('/')
     if slug:
-        return f"/{lang}/{slug}/"
-
-    # Fallback if reports data is missing path for a row.
-    seq = (post.get('canon_sequence') or '').strip()
-    if seq and seq_to_path and seq in seq_to_path:
-        fallback_path, _ = seq_to_path[seq]
-        fallback_slug = os.path.basename(os.path.dirname(fallback_path)).strip().strip('/')
-        if fallback_slug:
-            return f"/{lang}/{fallback_slug}/"
+        return f"/{slug}/"
 
     return "/"
+
 
 def find_file_by_sequence(target_seq, lang):
     for root, dirs, files in os.walk(BASE_DIR):
@@ -128,15 +129,15 @@ def find_file_by_sequence(target_seq, lang):
 
 def process_language(lang):
     print(f"Processing {lang}...")
-    posts = load_csv(CSV_FILES[lang])
-    main_map = build_main_mapping(posts)
-    chapter_part_counts = build_chapter_part_counts(main_map)
     
-        # Helper to find file (cached in main_map if possible, but let's just create a global map)
-        # Note: We can create a sequence->filepath map first
-        
-    # --- BUILD FILE MAP FIRST ---
+    # Determine opposite language for counterpart lookup
+    opposite_lang = 'es' if lang == 'en' else 'en'
+    
+    # --- SCAN ALL FILES AND BUILD DATA ---
+    posts = []
     seq_to_path = {}
+    seq_to_correct_slug = {}
+    
     for root, dirs, files in os.walk(BASE_DIR):
         for file in files:
             if file.endswith('.mdx') or file.endswith('.md'):
@@ -145,16 +146,64 @@ def process_language(lang):
                     with open(filepath, 'r', encoding='utf-8') as f:
                         content = f.read()
                     
-                    seq_match = re.search(r'canon_sequence:\s*([^\s]+)', content)
-                    lang_match = re.search(r'language:\s*([^\s]+)', content)
+                    # Extract frontmatter fields
+                    seq_match = re.search(r'canon_sequence:\s*([^\s\n]+)', content)
+                    lang_match = re.search(r'language:\s*([^\s\n]+)', content)
+                    counterpart_match = re.search(r'counterpart_path:\s*([^\s\n]+)', content)
+                    title_match = re.search(r'title:\s*["\']?([^"\'\n]+)["\']?', content)
+                    order_match = re.search(r'publication_order:\s*(\d+)', content)
+                    chapter_match = re.search(r'^chapter:\s*(\d+|null)', content, re.MULTILINE)
+                    subchapter_match = re.search(r'^subchapter:\s*(\d+|null)', content, re.MULTILINE)
+                    type_match = re.search(r'^type:\s*([^\s\n]+)', content, re.MULTILINE)
+                    canon_phase_match = re.search(r'canon_phase:\s*([^\s\n]+)', content)
                     
-                    if seq_match and lang_match:
-                        s = seq_match.group(1).strip()
-                        l = lang_match.group(1).strip()
-                        if l == lang:
-                            seq_to_path[s] = (filepath, content)
+                    if not seq_match or not lang_match:
+                        continue
+                        
+                    s = seq_match.group(1).strip()
+                    l = lang_match.group(1).strip()
+                    
+                    # If this is the opposite language file, its counterpart_path
+                    # gives us the correct slug for the current language
+                    if l == opposite_lang and counterpart_match:
+                        counterpart_path = counterpart_match.group(1).strip()
+                        if not counterpart_path.endswith('/'):
+                            counterpart_path += '/'
+                        seq_to_correct_slug[s] = counterpart_path
+                    
+                    # If this is the current language file, build post data
+                    if l == lang:
+                        seq_to_path[s] = (filepath, content)
+                        
+                        # Extract chapter/subchapter
+                        chap = None
+                        sub = None
+                        if chapter_match and chapter_match.group(1) != 'null':
+                            chap = chapter_match.group(1)
+                        if subchapter_match and subchapter_match.group(1) != 'null':
+                            sub = subchapter_match.group(1)
+                        
+                        post_data = {
+                            'canon_sequence': s,
+                            'title': title_match.group(1).strip() if title_match else '',
+                            'order': int(order_match.group(1)) if order_match else 0,
+                            'chapter': chap,
+                            'subchapter': sub,
+                            'type': type_match.group(1).strip() if type_match else 'Main',
+                            'canon_phase': canon_phase_match.group(1).strip() if canon_phase_match else '',
+                            'path': os.path.basename(os.path.dirname(filepath))  # folder name as fallback
+                        }
+                        posts.append(post_data)
                 except:
                     continue
+    
+    # Sort posts by order
+    posts.sort(key=lambda x: x.get('order', 0))
+    
+    # Build mappings for main chapters
+    main_map = build_main_mapping(posts)
+    chapter_part_counts = build_chapter_part_counts(main_map)
+
 
     for i in range(len(posts)):
         current_post = posts[i]
@@ -211,7 +260,7 @@ def process_language(lang):
             n_title = next_post.get('title')
             
             # Use canonical route slugs so MDX does not rewrite links as file assets.
-            link_path = build_route_post_link(next_post, lang, seq_to_path)
+            link_path = build_route_post_link(next_post, lang, seq_to_correct_slug)
             
             # Helper to detect label from canon_sequence
             def get_seq_label(seq_id):
@@ -259,10 +308,8 @@ def process_language(lang):
             print(f"Updated {filepath}")
 
 def main():
-    if os.path.exists(CSV_FILES['en']):
-        process_language('en')
-    if os.path.exists(CSV_FILES['es']):
-        process_language('es')
+    process_language('en')
+    process_language('es')
 
 if __name__ == '__main__':
     main()
