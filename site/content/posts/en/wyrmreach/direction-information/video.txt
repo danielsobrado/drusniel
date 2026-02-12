@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Direction: Information
+Language: en
+Canon Sequence: D-019-002
+Source Image: mid-04.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow pull back begins on Drusniel’s profile at the cave mouth, breath fogging as slate-violet twilight washes the ash flats beyond; faint Beacon light rims his shoulder from behind.  
+[00:03-00:05] The pull back widens to include the cave interior glow—cyan fungi breathing along the walls, the wrapped Beacon humming in the pack, Srietz’s neatly stacked supplies and Elion’s silhouette half-seen.  
+[00:05-00:08] The camera settles at the threshold, framing the jagged volcanic horizon and distant red glow of a contested volcano while Drusniel squares his shoulders toward the east.
+
+Camera movement: Slow pull back from profile to threshold.  
+Audio: Wind carrying ash grit, distant volcanic rumble, faint Beacon hum, soft fungus drip, fabric rustle as Drusniel adjusts his pack. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

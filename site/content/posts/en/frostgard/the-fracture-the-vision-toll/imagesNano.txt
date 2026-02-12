@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Fracture: The Vision Toll
+Language: en
+Canon Sequence: W-022-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-bleeding-ears.jpg
+role: header
+prompt:[Face_Reference: Maris]. Resigned dread, eyes unfocused; thin blood trails from both ears down her jaw as she stares at smeared fingertips. Midday on a cold grey forest trail: she sits hard on a fallen log while Xandor halts the group behind with a raised hand, damp bark and crushed pine needles underfoot, breath fog hanging low. Overcast sky is the only light source; flat grey light bounces off wet bark into her face, blood catches a dark wet sheen along the jawline, and tiny condensation beads sparkle as soft specular points. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight handheld shake, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: beacon-loud.jpg
+role: mid_01 (placed after sentence "Now it's a shout.")
+prompt:Macro close-up of Dulint’s travel pack on damp ground, a corner of the dark metal cube inside barely visible as the Beacon pulses; blue-white light leaks through frayed canvas seams, making loose straps tremble and dust motes jump as if the air vibrates. The Beacon’s glow is the diegetic key light; blue-white highlights rake across wet canvas weave, leather grain, and metal rivets, while muted overcast daylight becomes flat grey fill in the shadows. Droplets cling to stitching and stretch into tiny specular streaks when the pulse brightens. Sony A7R V 100mm macro Cinestill 800T, shallow depth of field, slight halation around the glow, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: Eldric-realization.jpg
+role: mid_02 (placed after sentence "\"You've been going slow for her,\" Eldric said.")
+prompt:[Face_Reference: Eldric, Dulint]. Eldric’s realization lands hard, eyes locked on Dulint; Dulint holds guarded silence, one hand gripping the pack strap as if bracing against the pulse. Eldric rises from a crouch beside Maris on the muddy trail while Dulint sits three paces away in soft foreground blur, the halted group and grey forest behind. Flat overcast daylight fills everything; a faint blue-white leak from the pack adds brief edge highlights on knuckles and strap stitching when it pulses, then falls back into grey. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, slightly out of focus foreground, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: maris-confrontation.jpg
+role: mid_03 (placed after sentence "I'm your excuse.")
+prompt:[Face_Reference: Maris, Dulint]. Maris speaks with exhausted, cutting clarity, dried blood at the ears; Dulint listens in heavy silence, hands still around a cup of water. Campfire-side close-up at the early camp: Maris curled against an exposed tree root, pack on the ground between them, thin smoke drifting and forest falling into blue-grey dusk. Campfire flame is warm key light from below; amber flicker climbs cheekbones and bark texture while the Beacon’s cold blue-white pulse leaks through canvas, throwing brief icy highlights on the cup rim and blood sheen. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, subtle lens flare, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: drow-connection.jpg
+role: mid_04 (placed after sentence "The connection exists whether we chase them or not.")
+prompt:[Face_Reference: Maris, Drusniel]. Maris goes still, eyes unfocused as the vision takes her; Drusniel is submerged in panic, lips parted for a breath that won’t come, one hand reaching up through heavy dark water. Black puddle at her feet ripples to reveal the drowning face below; bubbles rise and surface tension distorts features with each pulse. The Beacon’s blue-white glow is the diegetic key light, shimmering across the puddle surface and carving hard highlights on wet leaves; warm firelight adds a faint amber rim along Maris’s profile while the underwater face stays mostly in cold tones. Sony A7R V 85mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible, slight halation in the brightest pulses, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

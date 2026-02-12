@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro)
+Title: La Cámara Sagrada
+Language: es
+Canon Sequence: D-001-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: obsidian-antechamber.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Tense stillness, eyes tracing wall cracks, thin ceremonial tunic. Leaning against cold obsidian wall. [Face_Reference: Annariel]. Crouching beside him, fingers drumming against knee. Two young drow set apart from a dozen nervous candidates praying in a sacred antechamber carved from living rock. Cold obsidian walls veined with pale fractures, bioluminescent fungi clusters on the ceiling casting sickly blue-green light downward, light refracts through fungal moisture and pools on the candidates' shoulders, wet mineral sheen on the walls reflects diffuse cyan-green back into the chamber, shadows deepen to near-black in the carved recesses between obsidian pillars. Sony A7R V 24mm f/2.8, Kodak Portra 400, film grain visible, slight barrel distortion at edges. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: counting-nervous-habit.jpg
+role: mid_01 (placed after sentence "Tu pulgar.")
+prompt:[Face_Reference: Drusniel]. Thumb frozen mid-tap against index finger, nervous counting habit exposed. Close-up of his hand pressed against cold obsidian wall, ceremonial sleeve edge visible, sweat beading on knuckles. Bioluminescent fungi overhead cast blue-green light that catches the sweat droplets and creates tiny specular highlights on each knuckle, the obsidian wall reflects a faint cyan sheen onto the underside of his wrist, candidates in the deep background dissolve into indistinct shapes under the same fungal glow. Sony A7R V 90mm f/2.8 GM macro, Kodak Portra 400, shallow depth of field, slight motion blur on thumb. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: annariel-whisper.jpg
+role: mid_02 (placed after sentence "Tenemos algo que ellos no.")
+prompt:[Face_Reference: Annariel]. Leaning close, speaking low with urgent conviction, finger touching his own temple. [Face_Reference: Drusniel]. Listening with tense focus, jaw tight, wanting to believe. Intimate two-shot in the antechamber. Blue-green fungal bioluminescence from ceiling clusters washes their faces from above and reflects off the moisture on their skin, casting interactive cyan highlights on Annariel's raised finger and Drusniel's cheekbones, shadows beneath their chins deepen to teal-black where the light cannot reach. Other candidates whispering prayers dissolve in soft focus behind them. Sony A7R V 50mm f/1.4 GM, Cinestill 800T, skin pores and fabric weave visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: priest-arrival.jpg
+role: mid_03 (placed after sentence "Venemora juzga.")
+prompt:Drow priest emerging from inner chamber doorway, dark robes dragging on obsidian floor, face half in shadow. The doorway behind him is absolute black. Candidates fall silent and turn toward him, bodies stiffening. Bioluminescent fungi light from wall clusters catches the edge of his robes and creates a faint cyan-green rim along the fabric folds, the obsidian floor mirrors a distorted reflection of his silhouette, light dies abruptly at the threshold where chamber meets corridor. Dust motes drift through the fungal glow. Sony A7R V 35mm f/2.8, Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: entering-darkness.jpg
+role: mid_04 (placed after sentence "Drusniel entró en la oscuridad.")
+prompt:[Face_Reference: Drusniel]. Rigid posture, jaw clenched, stepping forward into dark corridor. [Face_Reference: Annariel]. Just released his hand, fingers still curling closed. Both at the front of the candidate line entering a narrowing obsidian passage carved with eye-like symbols. Bioluminescent fungi thin out ahead, their last blue-green glow reflecting off the carved eye symbols and creating the illusion of wet watching pupils, the light gradient transitions from dim cyan behind them to absolute darkness ahead, the obsidian walls catch and scatter the final photons into faint halation at the boundary of light and void. Sony A7R V 35mm f/1.4 GM, Cinestill 800T, chromatic fringe at light-dark boundary. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Jardín Negro: La Dama
+Language: es
+Canon Sequence: D-021-004
+Source Image: nyxara-leaves-through-flowers.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Nyxara se levanta de la mesa. Detrás, el campo de flores se abre — tallos separándose y pétalos alzándose como una cortina viva. El aire permanece muerto de quieto mientras el zumbido grave se profundiza.
+[00:03-00:05] Ella entra en el sendero. Los brotes se cierran tras su paso en una ola suave, sellando el hueco. El vapor del té intacto se retuerce entre Drusniel y la silla vacía.
+[00:05-00:08] Los últimos pétalos se juntan y su silueta desaparece por completo, como tragada. El campo queda liso, sin rastro. En el borde del claro, Varesh se materializa y levanta una mano en una orden silenciosa: seguir.
+
+Movimiento de cámara: Pull back lento desde Nyxara hacia la mesa, manteniéndola centrada hasta que desaparece.
+Audio: roce suave de pétalos, crujido de tallos, zumbido bajo del cristal, siseo tenue de vapor, grava bajo botas, susurro de tela, una respiración contenida y luego un silencio repentino al sellarse los pétalos. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

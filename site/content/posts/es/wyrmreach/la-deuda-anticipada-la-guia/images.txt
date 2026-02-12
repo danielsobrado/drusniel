@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Deuda Anticipada: La Guía
+Language: es
+Canon Sequence: D-023-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: talryn-leads-volcanic-trail.jpg
+role: header
+prompt:[Face_Reference: Talryn] Military posture, jaw set, scanning ahead. [Face_Reference: Drusniel] Guarded tension. [Face_Reference: Srietz] Ears flat, watchful. [Face_Reference: Elion] Quiet alertness. Talryn leads three travelers along a narrow trail through black volcanic terrain, cultivated rows of dark flowers fading behind, steaming fissures crossing barren soil. Dull orange underglow from cracks in the earth, sulfuric haze diffusing the light. Sony A7R IV 24mm f/2.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: srietz-calculates-negative.jpg
+role: mid_01 (placed after sentence "En su lugar, la expresión plana que usaba cuando los cálculos salían en negativo.")
+prompt:[Face_Reference: Srietz] Flat resignation, sharp grin absent, ears pressed down. Glances sideways at Drusniel while walking a volcanic ridge, thin flower fields behind them. Dim amber glow rising from fissures below the ridge, catching the underside of his jaw. Canon EOS R5 85mm f/1.4 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: elion-warns-campfire.jpg
+role: mid_02 (placed after sentence "Nos está cartografiando.")
+prompt:[Face_Reference: Drusniel] Leaning in, brow furrowed. [Face_Reference: Elion] Speaking low, eyes steady. Two figures sit close at a small campfire on volcanic rock at night, speaking in hushed tones. Beyond the firelight a female silhouette patrols the perimeter. Campfire embers cast orange light on their faces from below, darkness pressing in from all sides. Canon EOS R5 50mm f/1.8 Cinestill 800T, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: srietz-appraising-cost.jpg
+role: mid_03 (placed after sentence "Nos está tasando. Individualmente y como conjunto.")
+prompt:[Face_Reference: Srietz] Ears contracted flat, gesturing urgently with small hands. [Face_Reference: Drusniel] Guarded listening posture. Goblin speaks intently to drow during a rest stop in a volcanic clearing. [Face_Reference: Talryn] stands scanning terrain in the background. Sulfuric amber glow from a nearby vent lights the scene from the left. Sony A7R IV 35mm f/2 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-watches-drusniel-sleep.jpg
+role: mid_04 (placed after sentence "Lo había estado observando dormir.")
+prompt:[Face_Reference: Talryn] Blank expression, standing two meters away, looking down. Low angle as if seen through half-closed eyes. She stands over a sleeping figure in the foreground, campfire burned to embers casting faint orange on her jaw. [Face_Reference: Elion] sits motionless against a rock beyond her. Dying ember glow from below, volcanic darkness above. Canon EOS R5 50mm f/1.8 Cinestill 800T, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Camino de Zuraldi: Los Seguidores
+Language: es
+Canon Sequence: W-008-004
+Source Image: breaking-into-run.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The followers surge from a steady walk into a full run, cloaks snapping and dust detonating around their boots. A flash of steel appears as one weapon clears a sheath.
+[00:03-00:05] The line tightens and the distance closes in visible increments, footfalls syncing into a relentless rhythm. Dust thickens, turning the road into a pale choking haze.
+[00:05-00:08] They keep accelerating, silhouettes swelling in the frame as the corridor of trees blurs. The dust plume rolls forward like a wave, swallowing the space behind them.
+
+Handheld pull-back down the road, keeping the runners centered as they gain.
+Audio: pounding footsteps on dirt, cloth snap, armor clink, weapon scrape, heavy breathing from distance, dust hiss, wind through trees. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

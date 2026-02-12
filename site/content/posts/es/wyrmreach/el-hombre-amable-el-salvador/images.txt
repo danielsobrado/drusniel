@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Hombre Amable: El Salvador
+Language: es
+Canon Sequence: D-011-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tarp-shelter-after-the-crossing.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, eyes half-open with pain and exhaustion; throat raw, breath shallow, hands slack on makeshift bedding. [Face_Reference: Merrik] Matter-of-fact focus, crouched steady, stirring without looking up. Under a rough canvas tarp shelter on a black-sand coast, Merrik tends a small driftwood fire and a battered pot while Drusniel lies on something softer than sand; ash-scented wind flaps the tarp edge and the red-grey twilight sky stains the shoreline beyond. Warm orange firelight from low center frame throws flickering highlights onto the dented pot and the underside of faces, while cold red-grey ambient from outside the tarp adds a thin rim along the canvas edge and silhouettes the shore. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, halation around firelight, slightly underexposed corners. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: small-sips-of-water.jpg
+role: mid_01 (placed after sentence "Bebió lentamente, dejando que cada sorbo se asentara antes de tomar el siguiente.")
+prompt:[Face_Reference: Drusniel] Photorealistic, cracked lips and a strained swallow; eyes unfocused, fighting nausea as he takes careful sips. [Face_Reference: Merrik] Practical concentration, grip firm but controlled as he measures the pace. Tight close-up as Merrik holds a waterskin to Drusniel’s mouth under the tarp, forcing slow, small sips while the fire crackles nearby and the world beyond remains wrong-colored twilight. Firelight flicker from below warms their faces in uneven pulses, while the tarp shadow keeps the background near-black and the mouth of the shelter leaks faint red-grey ambient. Canon EOS R5 85mm f/1.4 Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: dented-pot-and-thick-broth.jpg
+role: mid_02 (placed after sentence "y cuando giró la cabeza, vio a Merrik agachado junto a un pequeño fuego, revolviendo algo en una olla abollada.")
+prompt:Photorealistic macro detail of a dented metal pot over a small driftwood fire, thick broth bubbling slowly with meat and unfamiliar herbs; ash and sulfur haze hangs in the tarp-shadowed air, ember sparks rising and dying fast against the red-grey twilight beyond. Fire is the only strong light source, warm orange from below catching oily highlights on the broth surface and specular points along the pot dents, while everything past the flame falls into soot-dark. Sony A7R IV 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: protected-drow-mage.jpg
+role: mid_03 (placed after sentence "—Necesito encontrar a alguien —dijo, empujándose sobre un codo.")
+prompt:[Face_Reference: Drusniel] Photorealistic, straining up on one elbow; dizziness in his eyes, urgency forcing him upright anyway. [Face_Reference: Merrik] Neutral face masking a flicker of recognition, listening without interrupting. Steam from the pot drifts between them as Drusniel speaks the name Szoravel under the canvas shelter, the black shore and a beached boat implied through the tarp opening and ash wind. Firelight from low camera-right gives warm uplight that catches the steam and the edge of Drusniel’s cheek, while cold red-grey twilight leaks in from the shelter mouth as side fill, flattening the distant sand into muted tones. Canon EOS R5 50mm f/1.8 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: debt-and-questions.jpg
+role: mid_04 (placed after sentence "En su pecho, la deuda esperaba. Silenciosa. Paciente.")
+prompt:[Face_Reference: Drusniel] Photorealistic, sleepless calculation under exhaustion; one hand pressed to his chest as if testing a second weight beneath his ribs. Alone on the makeshift bedding under the tarp, he listens to the fire and the ash wind, eyes open, counting questions he cannot answer yet as the wrong twilight stains the shore outside. Thin warm firelight grazes his fingers and the edge of his face from below, while red-grey ambient from outside the shelter outlines the tarp seam and leaves the rest of the frame in soft shadow. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

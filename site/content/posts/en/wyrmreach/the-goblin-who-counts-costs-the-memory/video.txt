@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Goblin Who Counts Costs: The Memory
+Language: en
+Canon Sequence: D-015-005
+Source Image: something-moves-in-the-wall.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The wet stone surface swells almost imperceptibly; the bulge slides beneath the rock like a slow heartbeat, making the ash on the ledge jitter and spill in tiny avalanches. Ember reflections flicker across the sheen.
+[00:03-00:05] The movement tightens and presses outward until a hairline fracture whispers open by a millimeter, then stops; a cold draft from the cave mouth turns the smoke blue as dawn strengthens.
+[00:05-00:08] The pressure releases and retreats deeper, leaving only a damp ripple and a single pebble clicking down the wall; the ember glow fades as if the cave is exhaling.
+
+Dolly in.
+Audio: ember crackle, grit shifting on stone, faint subterranean groan, tiny pebble clicks, distant water drip, cold wind hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

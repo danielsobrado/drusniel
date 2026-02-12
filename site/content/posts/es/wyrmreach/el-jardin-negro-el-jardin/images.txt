@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Jardín Negro: El Jardín
+Language: es
+Canon Sequence: D-021-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: nyxara-enters-the-clearing.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Quietud vigilante, manos cerca pero inmóviles, mirada fija en el corredor que se abre. [Face_Reference: Srietz] Orejas aplastadas, respiración contada, ojos saltando de las tazas a los muros. [Face_Reference: Elion] De pie detrás, brazos cruzados, catalogando salidas sin moverse. [Face_Reference: Nyxara] Entrada sin prisa, vestido color tinta húmeda, sin armas visibles. Claro circular de tierra negra apisonada rodeado por agujas de cristal facetado inclinadas hacia dentro como un público silencioso; mesa sencilla preparada para tres con tres tazas humeantes mientras los cristales chirrían y rotan para abrir un pasillo y Nyxara se acerca. Refracción violeta fría dibuja aristas y se curva hacia ella, y un subresplandor naranja desde grietas finas ilumina vapor y manos desde abajo; la bruma química convierte los brillos en bloom suave. Canon EOS R5 35mm f/1.4 Cinestill 800T, grano visible, ligera tensión de pulso, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: untouched-tea-cups.jpg
+role: mid_01 (placed after sentence "Drusniel no tocó la suya.")
+prompt:Tres tazas de cerámica oscura sobre una mesa gastada, líquido transparente humeando en hilos finos; una mano delgada queda suspendida sobre la taza más cercana y se niega a tocar, polvo de cristal atrapado en las ranuras y arañazos. Detrás, los cristales negros quedan fuera de foco como un muro, el zumbido sugerido por una microvibración en el vapor y la gravedad del aire químico. Refracción violeta marca bordes fríos en los labios de las tazas y en las hebras de vapor, mientras un subresplandor naranja desde grietas capilares atrapa la parte inferior del humo y convierte motas de polvo en puntos ámbar. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, poca profundidad de campo, grano visible, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: crystals-open-a-corridor.jpg
+role: mid_02 (placed after sentence "Los cristales se desplazaron.")
+prompt:Una ola lenta y mecánica recorre el muro de cristales negros mientras agujas facetadas chirrían y giran sobre sus bases, tallando un pasillo deliberado de piedra desnuda hacia el claro; cae una lluvia de granos finos desde las facetas, sin viento, solo control. La geometría se reorienta por incrementos exactos, la refracción violeta se desplaza como una costura móvil en los bordes, y un subresplandor naranja desde grietas finas ilumina el polvo desde abajo. Sony A7R IV 24mm f/2.8 Cinestill 800T, grano visible, leve desenfoque de movimiento en la caída del polvo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: nyxara-obsidian-portrait.jpg
+role: mid_03 (placed after sentence "Se sentó en la silla vacía a la cabecera de la mesa, acomodó las manos en su regazo, y miró a Drusniel con ojos muy oscuros y muy quietos.")
+prompt:[Face_Reference: Nyxara] Ojos perfectamente quietos, interés frío sin calidez; manos en el regazo, vestido color tinta que absorbe la luz, postura que reclama el espacio sin esfuerzo. Retrato en la cabecera de la mesa mientras las agujas de cristal la rodean inclinadas hacia dentro como un público, y las tazas humeantes caen en un bokeh suave al frente. Refracción violeta se curva hacia ella y perfila la silueta, y un subresplandor naranja desde grietas capilares añade una ligera subiluminación bajo barbilla y dedos; halation suave en aristas. Canon EOS R5 85mm f/1.4 Kodak Portra 400, poca profundidad de campo, textura natural de piel con poros, grano visible, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: nyxara-and-drusniel-conversation.jpg
+role: mid_04 (placed after sentence "—¿Qué quiere? —preguntó.")
+prompt:[Face_Reference: Drusniel] Mandíbula tensa, respiración controlada, dedos obligados a quedarse quietos pese al impulso. [Face_Reference: Nyxara] Mirada estable, sonrisa fina que no llega a los ojos. Dos planos tensos frente a frente a través de la mesa sencilla, té intacto humeando entre ambos, muros de cristal cerca como congregación escuchando; detrás de Nyxara el campo pulsa una vez en violeta más profundo y se calma. Refracción violeta talla bordes duros en facetas y tazas, y un subresplandor naranja desde fisuras calienta la base del vapor; la bruma mezcla ambas luces en bloom suave. Canon EOS R5 50mm f/1.4 Cinestill 800T, grano visible, ligeramente subexpuesto, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

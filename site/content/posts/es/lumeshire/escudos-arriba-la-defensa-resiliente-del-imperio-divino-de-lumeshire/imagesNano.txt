@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Defensa Resiliente del Imperio Divino de Lumeshire
+Language: es
+Canon Sequence: LUM-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wet-boots-mystery.jpg
+role: header
+prompt:[Face_Reference: Valarian]. Brow furrowed, looking down; breath held as if refusing to admit concern. Standing on a dry packed-earth path, staring at boots soaked in dark, motionless water that clings to leather and gathers around the soles; ground around them stays dusty and dry, no puddle anywhere.
+Environment: Flat overcast morning light turns the world grey. Wet leather absorbs light and goes nearly black while dry dirt reflects softly, creating an impossible wet-dry boundary; water beads show dull highlights but no crisp reflections.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: gray-stone-wall.jpg
+role: mid_01 (placed after sentence "El muro de la guarnición apareció a la vista: una barrera de treinta pies de piedra gris, vieja pero sólida, marcando donde terminaba Lumeshire y comenzaba la línea de árboles.")
+prompt:Wide environmental shot of a border garrison wall: tall old grey stone with moss at the base, patrol walkway along the top, and a cleared kill zone of stumps and short grass; beyond the wall, dense Grukmar treeline like a dark curtain.
+Environment: Flat grey overcast light washes everything evenly, making stone and sky nearly the same value while the treeline reads as a darker mass. Moisture haze softens distance and mutes contrast; moss stays matte while wet stone edges show faint specular glints.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, deep depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: marrek-smoking.jpg
+role: mid_02 (placed after sentence "En la puerta occidental, encontró a Marrek fumando una pipa y mirando las montañas.")
+prompt:[Face_Reference: Marrek]. Eyes fixed on the treeline, distant and unsettled; pipe forgotten at his lips. Leaning against the western gate stonework with a clay pipe in one hand, thin smoke threading upward while he stares past the wall toward dark trees and far mountains.
+Environment: Cold morning haze diffuses the light into damp-grey tones. Smoke catches the flat brightness as a pale ribbon and breaks into wisps against the darker gate shadow; moisture on stone adds tiny specular points at grazing angles.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: filing-reports.jpg
+role: mid_03 (placed after sentence "Archivó el informe de avistamiento de Venn en el cajón de no verificados.")
+prompt:[Face_Reference: Valarian]. Expression controlled and procedural; jaw set as if routine can make it harmless. Sliding a thin report page into an overstuffed filing drawer crammed with dog-eared papers, handwriting not readable; desk stacked with routine forms beside a quill and half-empty inkwell.
+Environment: Small oil lamp provides warm amber pool light across the cabinet face and paper edges; grey window light leaks in as cold fill. Warm reflections bounce off parchment and return as softer glow under the fingers while the drawer interior stays in layered shadow.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: invisible-water.jpg
+role: mid_04 (placed after sentence "Esta vez, no había charco.")
+prompt:Floor-level shot inside a barracks room: boots sit on perfectly dry, dusty floorboards, yet the boots are soaked, dark water beading on the leather and gathering around soles without spreading onto the wood; bed frame and weapons rack blurred in the background.
+Environment: Pale cold morning window light lays a flat rectangle on the boards. Wet leather eats the light while dust stays bright; water beads show soft highlights but no crisp room reflection, and the wet boundary stops cleanly before the dust.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, background softened. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

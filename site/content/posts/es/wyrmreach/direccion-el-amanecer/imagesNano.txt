@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Dirección: El Amanecer
+Language: es
+Canon Sequence: D-019-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sickly-dawn-black-crystals.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Capa tironeada por el viento, suciedad de viaje, ojos entrecerrados. Desde una cresta de piedra negra en amanecer enfermizo, millones de cristales negros cubren la ladera, bebiendo rojo volcánico y devolviendo violeta tenue; hilos de vapor suben desde grietas en suelo de ceniza. Bruma gris verdosa llena el aire mientras el rojo del horizonte sangra hacia arriba; destellos violetas se dispersan por las facetas al reflejar y refractar la luz. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligera halación alrededor del rojo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: packed-camp-sulfur-smell.jpg
+role: mid_01 (placed after sentence "Drusniel despertó con el olor a azufre.")
+prompt:[Face_Reference: Srietz, Drusniel, Elion]. Srietz ya listo con manos cruzadas; Drusniel se incorpora reaccionando al azufre; Elion rota hombros, alerta. Campamento entre rocas negras, ceniza en correas y tela, mochilas listas, aire metálico. Amanecer gris verdoso plano; una linterna con brasa cubierta añade parpadeo cálido que atrapa hebillas y condensación, brillos ámbar bajo pómulos y en nudillos. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, fondo ligeramente desenfocado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: boots-on-ash-pulsing-veins.jpg
+role: mid_02 (placed after sentence "Luego la piedra se desmoronó en tierra que crujía como ceniza bajo los pies.")
+prompt:Botas pasan de roca vítrea a tierra de ceniza; venas rojas apagadas pulsan bajo suelo negro, motas se levantan, vapor se enrosca desde grietas finas. Las venas dan un bajo rojo que roza suelas y granos; la bruma del amanecer llena el resto, destellos mínimos en fragmentos de obsidiana húmeda. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, grano visible, ligero desenfoque de movimiento en ceniza flotante, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: march-toward-red-wound.jpg
+role: mid_03 (placed after sentence "El goblin señaló el horizonte.")
+prompt:[Face_Reference: Srietz, Drusniel, Elion]. Srietz señala rígido; Drusniel mantiene el paso; Elion medio girado escucha. Marcha sobre ceniza hacia una herida roja en el horizonte, nubes agitadas por calor; costuras deshilachadas, arena al viento. El rojo contraluz perfila un borde cálido; el amanecer añade relleno verde-gris frío, sombras de doble tono en mandíbulas y pómulos. Sony A7R V 50mm f/1.4 GM Cinestill 800T, grano visible, ligera halación en el borde rojo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: crest-over-disputed-lands.jpg
+role: mid_04 (placed after sentence "Las tierras en disputa se extendían debajo de ellos.")
+prompt:Vista amplia desde la cresta: tres figuras pequeñas descienden hacia la distancia roja entre cristales negros densos y respiraderos de vapor; fisuras y crestas tallan territorios. La luz roja se refleja como violeta tenue; el calor distorsiona el aire sobre grietas y la bruma suaviza el horizonte, puntos especulares parpadean en bordes de cristal como estrellas frías. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Paquete: La MisiÃ³n
+Language: es
+Canon Sequence: D-011-002
+Source Image: preparation.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The candle flame gutters and then steadies as he turns the dark plate in his palm, searching its etched surface for a response.
+[00:03-00:05] A faint pulse brightens; warm reflections slide across his fingertips and the nearest hourglass glasswork trembles with a soft tick.
+[00:05-00:08] The glow fades back to nothing; he closes his fist slowly and the room returns to heavy shadow as smoke drifts through the lamplight.
+
+Slow push-in toward the artifact in his palm.
+Audio: candle hiss, soft sand trickle in an hourglass, faint metal click, paper settling, distant wind at the broken window, old timber creak. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

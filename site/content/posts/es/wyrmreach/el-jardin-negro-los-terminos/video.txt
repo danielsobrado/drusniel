@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Jardín Negro: Los Términos
+Language: es
+Canon Sequence: D-021-005
+Source Image: talryn-sends-a-signal.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] En el alto de mediodía, Talryn se queda inmóvil en el borde del claro. El pulgar enguantado encuentra algo oculto en su bolsa del cinturón y presiona una vez. Las flores del perímetro susurran y luego se callan.
+[00:03-00:05] Presiona una segunda vez — un clic diminuto. La cabeza de Elion gira sin mover el cuerpo. Drusniel se detiene a mitad de bocado, siguiendo la mano de Talryn, mientras Srietz permanece en silencio.
+[00:05-00:08] Talryn baja la mano y vuelve a mirar el camino detrás como si nada hubiera pasado. Al fondo, el grupo recoge sus mochilas. Las hileras de flores se inclinan apenas hacia el claro, escuchando.
+
+Movimiento de cámara: Slow push-in desde el grupo hasta la bolsa del cinturón y la mano enguantada de Talryn.
+Audio: chisporroteo tenue de fogón, crujido de pétalos secos, susurro bajo de flores, leve quejido de cuero, dos clics suaves, silbido distante de viento químico, respiración contenida. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

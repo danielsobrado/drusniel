@@ -1,0 +1,27 @@
+﻿# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: No Tracks
+Language: en
+Canon Sequence: P-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: climb-to-outpost.jpg
+role: header
+prompt:[Face_Reference: Varian]. Expression: grim focus, breath tight in the cold. [Face_Reference: Elric]. Expression: irritated squint, jaw clenched. Varian climbs a steep muddy hill toward the outpost while Elric follows one step behind, boots sinking and pulling strings of mud, cloaks soaked heavy. Rain-soaked slope, wet timber palisade above, windless treeline beyond; overcast daylight scatters soft grey fill, wet mud and wood catching dull specular highlights that bounce faintly up onto lower faces and cloak hems. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: rider-report.jpg
+role: mid_01 (placed after sentence "Two men in mud-spattered cloaks faced him")
+prompt:[Face_Reference: Eldric]. Expression: storm-ready restraint, eyes narrowed; hands planted on the desk. Two riders in mud-spattered cloaks speak low and exhausted across a rough wooden desk, damp footprints and grit tracked on the floor, spear rack and timber walls closing in. A single lantern flame is the only light, warm amber uplight catching cheekbones and knuckles, reflections sliding across wet cloth and varnished wood grain, hard shadows falling behind the riders. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, slightly underexposed, natural skin with pores. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: night-watch-silence.jpg
+role: mid_02 (placed after sentence "First watch they took together. The forest lay utterly still.")
+prompt:[Face_Reference: Varian]. Expression: fixed stare, fingers tight on the torch haft. [Face_Reference: Elric]. Expression: tense alertness, shoulders braced. They stand on the wet outpost wall during first watch, staring into a wall of black trees and unnaturally still forest, boots creaking on planks. Torch flame casts warm orange pools that ripple across wet wood and steel edges while cold moonlight adds thin blue rim light; orange highlights catch undersides of brows and jawlines, shadows fall deep between posts. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle lens flare. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: rabbit-scare.jpg
+role: mid_03 (placed after sentence "A rabbit. A terrified rabbit that scampered between the posts")
+prompt:[Face_Reference: Varian]. Expression: sudden shock, blade halfway out. [Face_Reference: Elric]. Expression: startled anger turning to relief. A rabbit bursts from the treeline and darts between the posts, a smear of motion through torchlight as both men jerk into action and then freeze. Torchlight patches are the primary illumination, warm and flickering, casting moving shadows on wet planks; moonlight fills the dark with cold blue-grey, motion blur streaking the rabbit and the first half-drawn steel. Sony A7R V 35mm f/1.4 GM Cinestill 800T, motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: inhuman-prints.jpg
+role: mid_04 (placed after sentence "In the damp earth: prints, long and splayed, unmistakably inhuman.")
+prompt:Macro close-up of a long, splayed inhuman footprint pressed deep into damp earth at grey dawn, ridges crisp with water beads clinging to edges, pine needles and crushed grass framing the mark. Low dawn light is the only illumination, cold and diffuse, grazing across wet mud to create tiny specular points while the background falls softly out of focus; moisture seeps into the print and darkens the center. Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, slightly out of focus background, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

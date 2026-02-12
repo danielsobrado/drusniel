@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: es
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt:Two guards in iron-studded furs carry a half-dead messenger through the iron-and-timber gates of Jotunheim. His beard and lashes are crusted with ice; message pouch still buckled at his belt. Blizzard snow drives sideways beyond the threshold, fortress wall fading into whiteout.
+Environment: Cold blue blizzard ambient dominates outside. A single torch bracket inside throws warm orange light that catches ice crystals and turns them amber; warm highlights ride the granular snow on shoulder plates while the background stays desaturated and near featureless in the storm.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight motion blur in blowing snow. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "Respecto al asunto de los acuerdos comerciales del norte y consideraciones de defensa mutua...")
+prompt:[Face_Reference: Thorvald]. Eyes narrowed in tired disgust; jaw tight; gloved fingers pinching a broken wax seal. Standing just inside the gate reading a folded letter while healers haul the messenger deeper into the fortress; melted snow beads on fur and drips onto stone.
+Environment: Torch flame at frame-left provides hot amber key light with hard falloff. Open gate behind spills cold blizzard fill into the shadow side, creating a visible warm-cold split across his face; orange reflections bounce off wet stone and return as faint warm fill under his chin.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, slightly underexposed. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "En el gran salón, los escaldos cantaban sobre los Jotun.")
+prompt:Wide interior of Jotunheim's great hall. A skald near the central fire pit sings with hands raised. Warriors crowd long tables with horns and iron cups; smoke rises in layered sheets to the rafters.
+Environment: Fire pit gives warm shifting uplight that scatters through smoke, creating amber haze and soft penumbral shadows. Candle chandeliers add steadier warm points that catch in cup rims and along weapon edges; smoke rolls as a visible volume that the light carves into bands.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Las huellas sugieren al menos dos grupos distintos.")
+prompt:Two scouts crouch beside a massive footprint pressed deep into snow and frozen earth, cracked soil at the rim and ice glazing the compressed center. One places a hand inside the print for scale. A second line of tracks recedes toward dead pines and granite outcrops.
+Environment: Flat overcast daylight makes the snowfield cold grey and low contrast. The footprint depth creates its own shadow gradient; faint specular glints appear on iron buckles and weapon hilts. Frost crystals in the print shadow sparkle as tiny points where light catches their facets.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Ektar 100, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "había comida todavía en algunas mesas.")
+prompt:Inside an abandoned cottage, a meal sits frozen solid on a rough wooden table, bowls of stew turned to opaque ice and a spoon standing upright. A chair lies overturned on flagstone. The front door hangs open to a wall of white snow.
+Environment: Cold blue daylight pours through the open door and hardens the edges of ice and wood grain. Frost creeps across the tabletop as a visible front; deeper room falls to heavy shadow where icicles start forming and the dead hearth stays black.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, background softened. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

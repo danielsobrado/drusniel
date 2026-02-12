@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Black Garden: The Borderlands
+Language: en
+Canon Sequence: D-021-001
+Source Image: corridor-through-crystals.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The corridor hum deepens under their footsteps. Dust grains lift and tremble in place, vibrating in tight circles. Drusniel’s hand twitches toward his grounding habit, then forces itself still.
+[00:03-00:05] Steam threads vent from hairline cracks beside the path and roll across ankles. Violet refractions strobe along the nearest facets as the crystal field “re-tunes” to their heat.
+[00:05-00:08] Far ahead, a single spire tilts a few degrees inward. Elion freezes mid-step and raises his fingers — stop. The hum drops half a tone, turning into pressure in the chest.
+
+Slow dolly forward down the corridor, staying just behind Drusniel’s shoulder.
+Audio: low subsonic crystal hum, granular gravel crunch, chemical wind hiss, faint steam venting, glassy tick of crystals, a soft inhale held. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

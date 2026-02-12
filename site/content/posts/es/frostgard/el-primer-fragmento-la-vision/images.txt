@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: La Visión
+Language: es
+Canon Sequence: W-020-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: black-water-vision.jpg
+role: header
+prompt:[Face_Reference: Maris] Cuerpo rígido por la visión, expresión ausente, como si no estuviera dentro de sí. Espacio de visión fotoreal: agua negra infinita, espesa como aceite, bajo un cielo que se siente de piedra; un bote pequeño deriva sin estela y Maris flota en la superficie sin hundirse, como si el agua se negara a tragarla. Sin sol, solo un resplandor bioluminiscente tenue desde debajo que dibuja ondas y partículas suspendidas, convirtiendo la línea de agua en un filo enfermo. Canon EOS R5 24mm f/1.4 Cinestill 800T, grano visible, ligera subexposición, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: drow-hand.jpg
+role: mid_01 (placed after sentence "Los dedos eran grises en las puntas, como si los hubieran sumergido en ceniza.")
+prompt:Primerísimo plano en la visión: un brazo delgado sale del agua negra y dedos demasiado largos y angulosos rozan la superficie; puntas grises como ceniza, articulaciones que se doblan donde no deberían, gotas pegándose y cayendo en arcos lentos. Un brillo tenue desde debajo ilumina la parte inferior de los dedos y hace relucir la tensión superficial y las ondas espesas, mientras el borde del bote queda como silueta casi negra. Canon EOS R5 100mm macro Cinestill 800T, grano visible, poca profundidad de campo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drow-face-mid.jpg
+role: mid_02 (placed after sentence "Y ojos. Ojos que brillaban con una tenue luminiscencia en la oscuridad absoluta, como brasas enterradas en ceniza húmeda.")
+prompt:[Face_Reference: Drusniel] Cabello empapado pegado, ojos con luminiscencia tenue, mirada desesperada pero deliberada. Retrato cercano en la línea de agua: el agua negra distorsiona la parte baja del rostro, ondas deformando reflejos como si la superficie se resistiera. La única luz es un brillo apagado desde debajo del agua y la luminiscencia de sus ojos, creando reflejos fríos en piel mojada y destellos como cuentas en el borde del agua. Canon EOS R5 85mm f/1.4 Cinestill 800T, grano visible, poca profundidad de campo, textura natural de piel, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: help-me-scream.jpg
+role: mid_03 (placed after sentence "Su boca se abrió.")
+prompt:[Face_Reference: Drusniel] Boca abierta en dolor, garganta tensándose, ojos fijos al frente. Momento de impacto: burbujas suben y una onda de choque distorsiona la superficie negra; cámara demasiado cerca, la línea de agua tiembla y emborrona los reflejos. El brillo bajo el agua y la luminiscencia de los ojos atrapan bordes de labios y gotas, volviendo las ondas en brillos deformados. Canon EOS R5 50mm f/1.4 Cinestill 800T, grano visible, ligero desenfoque de movimiento en ondas, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-waking.jpg
+role: mid_04 (placed after sentence "Volvió gritando.")
+prompt:[Face_Reference: Maris] Convulsionando y gritando, ojos desorbitados, sangre saliendo de la nariz y mojando la boca. [Face_Reference: Balin] Sujetándola por los hombros, terror en la cara. [Face_Reference: Eldric] Inmovilizando las piernas, urgencia controlada. [Face_Reference: Xandor] Presionando un trapo contra la nariz, manos firmes, ojos no. Noche en un barranco poco profundo: tierra, roca fría, vaho del aliento y un charco de sangre oscureciendo el suelo mientras el Faro pulsa al otro lado del campamento. Linterna entornada tiembla cálida y el Faro añade destellos azul-blanco fríos, mezclándose en reflejos duros y sombras profundas. Canon EOS R5 35mm f/1.4 Cinestill 800T, grano visible, leve vibración de mano, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

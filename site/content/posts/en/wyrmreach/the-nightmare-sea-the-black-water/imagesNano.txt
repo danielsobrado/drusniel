@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: The Nightmare Sea: The Black Water
+Language: en
+Canon Sequence: D-009-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: boat-waiting-in-tooth-rock-cove.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Tense, scanning the water, artifact glow under his tunic. Drusniel stands at the mouth of a cove framed by jagged black rocks shaped like broken teeth. A small reinforced boat on wooden rollers behind him. Flat black water stretching into featureless grey beyond.
+Environment: Nightmare sea shoreline. Pale sourceless grey light illuminates everything without casting shadows. Cold sheen on obsidian-like rock surfaces, vitreous fracture patterns in the stone. Water surface behaves like a non-Newtonian fluid, viscous and still, absorbing light rather than reflecting it. Grey ambient light scatters evenly through heavy air, no directional source. Metal bands on the boat catch faint highlights where moisture beads on oxidized iron.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: reinforced-hull-and-supplies.jpg
+role: mid_01 (placed after sentence "Oars lay secured inside, and there was a coil of rope, a waterskin, and nothing else.")
+prompt: Close-up of the small boat resting on wooden rollers in a dark cove. Treated wood banded with cold metal strips. Slick sheen on the hull that is not quite moisture. Oars lashed inside beside a coil of rope and a single waterskin. Spare and functional.
+Environment: Cave mouth opening onto black water. Pale grey ambient light enters from the cove opening, bouncing off wet stone walls and pooling on the boat hull. Metal bands show oxidation patina, greenish tarnish where moisture collects at joints. Wood grain preserved under tar-like sealant, fibrous texture visible. Rope fibers are coarse hemp, frayed at cut ends. Light refracts through the sheen on the hull surface in oily rainbow micro-patterns.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: shore-disappears-behind.jpg
+role: mid_02 (placed after sentence "The shore behind him had vanished.")
+prompt: [Face_Reference: Drusniel]. Stunned calculating stare, looking back over his shoulder. Drusniel rows a small boat on flat black water extending in every direction. No shore visible. No horizon. No reference point.
+Environment: Featureless nightmare sea. Grey sourceless illumination with no directional shadows. Black water surface behaves like liquid obsidian, viscous and unnaturally still between oar strokes. Oar blades break the surface tension with thick meniscus clinging to the wood. Grey light scatters uniformly through the air column, no falloff with distance. The water absorbs all light below the first centimeter of surface depth. Mist hangs at water level, diffusing the boundary between liquid and air.
+Camera: Sony A7R V 35mm f/1.8 GM Cinestill 800T, underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: wave-with-wrong-angle.jpg
+role: mid_03 (placed after sentence "A wave rose ahead of him.")
+prompt: [Face_Reference: Drusniel]. Gripping the gunwales, jaw clenched, fighting for balance. An unnatural wave rises from the flat black surface at a wrong angle. The boat tilts violently. Heavy black liquid sloshes over the gunwales into the hull around his boots.
+Environment: Open nightmare sea. Grey sourceless light catches the wave crest, revealing the liquid's non-Newtonian viscosity as it stretches and folds unnaturally. Water pooling in the hull clings to boot leather like tar, surface tension too high. Droplets from the wave hang suspended mid-air longer than physics allows. The wave face is glassy smooth, reflecting nothing, a wall of liquid obsidian. Grey light diffuses through spray particles at the crest.
+Camera: Sony A7R V 24mm f/2.0 GM Cinestill 800T, underexposed, motion blur on the wave. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: something-circles-below.jpg
+role: mid_04 (placed after sentence "And below him, in the darkness beneath the hull, something stirred.")
+prompt: [Face_Reference: Drusniel]. Leaning over the side of the boat, face tight with dread, eyes locked downward. A vast indistinct shadow shifts beneath the hull. Not attacking. Only circling. Black water surface too calm between wrong swells.
+Environment: Nightmare sea surface. The shadow beneath is darker than the surrounding depths, suggesting massive displacement without defined edges. Grey ambient light penetrates the water surface only millimeters deep before total absorption. The hull underside reflects faintly in the water, distorted by the circling mass beneath. Surface tension around the boat creates an unnatural meniscus, water pressing inward against the wood. Faint concentric ripples emanate outward from the hull with no visible cause.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

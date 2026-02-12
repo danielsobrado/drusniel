@@ -1,0 +1,32 @@
+{
+  "name": "Bragni",
+  "title": "Dwarf Foreman",
+  "titlees": "Capataz Enano",
+  "description": "A dwarf mining foreman in Stonehold. Thick fingers, dusty beard, measuring tape always in hand. He runs his tunnels the way a surgeon runs a theater — precise, methodical, and deeply unhappy when things go wrong.",
+  "descriptiones": "Un capataz minero enano en Stonehold. Dedos gruesos, barba polvorienta, cinta métrica siempre en mano. Dirige sus túneles como un cirujano dirige un quirófano — preciso, metódico, y profundamente infeliz cuando algo sale mal.",
+  "thumbnail": "bragni.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Foreman",
+    "Miner"
+  ],
+  "skillses": [
+    "Capataz",
+    "Minero"
+  ]
+}

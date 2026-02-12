@@ -1,0 +1,27 @@
+# Image Prompts
+Title: The One Who Walks Free: The Escape
+Language: en
+Canon Sequence: D-013-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: opening-the-cage.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, urgent focus; breath held as he pushes the last bit of control through a thin thread of magic. [Face_Reference: Elion] Hands locked on the bars, eyes wide with a freedom he doesn't trust yet; chest lifting like he forgot how to breathe. Drusniel presses his palm to the corroded lock as Elion clings to the cage door; the metal resists, then gives, and the door cracks open while guards remain turned outward at the perimeter. A nearby lantern throws warm tungsten light that glints off damp iron and highlights condensation on bars, while the red-grey sky and distant volcanic glow keep everything else dim and cold. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, subtle halation, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: corroded-lock-mechanism.jpg
+role: mid_01 (placed after sentence "Drusniel pressed his hand against the lock.")
+prompt:Photorealistic extreme close-up of an old cage lock: pitted metal, rust seams, and stubborn internal pins resisting as if designed to stick; fingertips press steady and the mechanism shifts with a tiny decisive click, iron bars framing the shot as grit vibrates with the wagon's settling. Lantern tungsten light creates hard specular points on worn metal and warm halation on edges, with cold twilight fill flattening the background into dark red-grey. Canon EOS R5 100mm f/2.8 Macro Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: oil-on-the-fourth-wagon.jpg
+role: mid_02 (placed after sentence "Drusniel upended the oil across the wagon's cargo.")
+prompt:[Face_Reference: Drusniel] Photorealistic, face blank while the eyes stay locked on the task; hands moving fast and precise. [Face_Reference: Elion] Guarding, head turning at an angle that feels wrong, scanning without fear. Drusniel tips a container and pours thick lamp oil over the fourth wagon’s cargo, wet sheen soaking into rough wood and rope while Elion keeps watch; a distant guard begins to turn at the wrong moment, lanterns shifting as confusion starts to bloom. Lantern spill paints warm orange reflections on the oil surface and container rims, while red-grey twilight keeps the ground and rock cold and desaturated. Sony A7R IV 35mm f/1.8 Kodak Portra 400, film grain visible, slight motion blur in the pour, natural texture. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: running-into-stone-teeth.jpg
+role: mid_03 (placed after sentence "They plunged into the twisted stone formations that bordered the road.")
+prompt:Photorealistic chase angle as two prisoners sprint off the road and plunge into twisted stone formations that rise like broken teeth; boots pound over jagged rock and black grit as lanterns and guards shrink behind them into scattered points of light. The eternal red-grey twilight keeps the landscape flat and hostile, while the caravan lanterns add warm moving highlights that flicker across sharp stone edges and briefly catch on dust in the air. Canon EOS R5 24mm f/2.8 Kodak Ektar 100, film grain visible, motion blur in their sprint, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: distant-wagon-burns.jpg
+role: mid_04 (placed after sentence "Behind them, very distant now, something caught fire.")
+prompt:[Face_Reference: Drusniel] Photorealistic, shaking with exhaustion and adrenaline; shoulders hunched as he fights for air. [Face_Reference: Elion] Breathing hard, eyes still alert, body coiled to move again. Hidden between jagged rock teeth, they press into cold stone and listen; far behind them the fourth wagon finally burns, flames licking the red-grey sky as a distant orange smear and reflecting faintly on dust. The distant fire provides the only warm light, a weak orange pulse that barely reaches the rocks, while everything near them stays cold and dim under volcanic haze. Sony A7R IV 50mm f/1.8 Cinestill 800T, film grain visible, slightly underexposed, subtle lens flare from distant flame. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

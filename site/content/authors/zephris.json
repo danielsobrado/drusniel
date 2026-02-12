@@ -1,0 +1,31 @@
+{
+  "name": "Zephris",
+  "title": "The Tempestuous Balance",
+  "titlees": "El Equilibrio Tempestuoso",
+  "description": "Zephris, known as the Tempestuous Balance is a being representing the force of both the heavens and the oceans. They symbolize tranquility preceding turmoil and peace following the waves hitting the coast. Zephriss impact can be sensed in the wind guiding a vessel to its port. The fierce storm wreaking havoc along its route. Those devoted to Zephris comprehend that existence teeters, on an equilibrium of construction and devastation as they endeavor to discover serenity amidst disorder.",
+  "descriptiones": "Zephris, conocida como el Equilibrio Tempestuoso, es un ser que representa la fuerza tanto de los cielos como de los océanos. Simboliza la tranquilidad que precede a la agitación y la paz que sigue a las olas que golpean la costa. El impacto de Zephriss puede percibirse en el viento que guía a un navío hacia su puerto. La feroz tormenta que causa estragos a lo largo de su ruta. Los devotos de Zephris comprenden que la existencia se tambalea, en un equilibrio de construcción y devastación, mientras se esfuerzan por descubrir la serenidad en medio del desorden.",
+  "thumbnail": "zephris.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

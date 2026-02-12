@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Cámara Sagrada
+Language: es
+Canon Sequence: D-001-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: obsidian-antechamber.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Tense stillness, eyes tracing wall cracks, thin ceremonial tunic. [Face_Reference: Annariel] Crouching beside him, fingers drumming against his knee. Two young drow set apart from a dozen praying candidates in a sacred antechamber carved from living rock. Cold obsidian walls veined with pale fractures, bioluminescent fungi clusters on the ceiling casting sickly blue-green light downward. Damp mineral air. Sony A7R IV 24mm f/2.8 Kodak Portra 400, slight lens distortion at edges. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: counting-nervous-habit.jpg
+role: mid_01 (placed after sentence "Tu pulgar.")
+prompt:[Face_Reference: Drusniel] Thumb frozen mid-tap against index finger. Close-up of his hand against cold obsidian wall, ceremonial sleeve edge visible, sweat on knuckles. Candidates blurred in the background under blue-green fungal light. Canon EOS R5 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, slight motion blur on the thumb. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: annariel-whisper.jpg
+role: mid_02 (placed after sentence "Tenemos algo que ellos no.")
+prompt:[Face_Reference: Annariel] Leaning close, speaking low with urgent conviction, touching his own temple. [Face_Reference: Drusniel] Listening with tense focus, wanting to believe. Intimate two-shot in the antechamber, blue-green fungal light washing their faces from above, other candidates whispering prayers in soft focus behind them. Canon EOS R5 50mm f/1.4 Cinestill 800T, skin pores and fabric weave visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: priest-arrival.jpg
+role: mid_03 (placed after sentence "Venemora juzga.")
+prompt:Wide shot as a drow priest emerges from the inner chamber doorway, dark robes dragging on obsidian floor. The doorway behind him is a deeper black than the walls. Candidates fall silent and turn toward him, bodies stiffening. Fungi light dims near the threshold, casting the priest half in shadow. Sony A7R IV 35mm f/2 Kodak Portra 400, dust motes caught in the fungal glow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: entering-darkness.jpg
+role: mid_04 (placed after sentence "Drusniel entró en la oscuridad.")
+prompt:[Face_Reference: Drusniel] Rigid posture, jaw clenched, stepping forward into the dark corridor. [Face_Reference: Annariel] Just released his hand, fingers still curling closed. Both at the front of the candidate line, obsidian walls carved with eye-like symbols narrowing ahead, fungi light thinning into blackness. The corridor swallows them. Canon EOS R5 35mm f/1.8 Cinestill 800T, chromatic fringe at light-dark border. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

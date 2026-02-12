@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: La Misión
+Language: es
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:[Face_Reference: Zaelar] Photorealistic, controlled calm in the middle of ruin; posture relaxed as if chaos cannot touch him. [Face_Reference: Drusniel] Grief hardened into focus; listening without blinking, body still held together by will. In the wrecked study, broken glass and scattered papers surround a table where a surface-world map and travel notes lie spread with a marked sea crossing (no readable labels), Zaelar speaking across it while Drusniel tracks every line like a lifeline. Warm candlelight pools across the map and throws long shadows from debris, while cold grey daylight from a cracked window flattens the far corners of the room. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "—La venganza requiere poder.")
+prompt:[Face_Reference: Zaelar] Photorealistic, calm certainty sharpened into persuasion; eyes steady, voice implied by the forward lean. [Face_Reference: Drusniel] Tight jaw and fixed stare; exhaustion present but overridden by purpose. Intense two-shot framed by shattered objects and scattered documents as Zaelar sells power and Wyrmreach as the only path, the wrecked study pressing in around them. Low candlelight provides warm amber from below, catching pores and knuckle ridges, while cold grey window spill cuts across the opposite side of their faces and leaves the background flat. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "Su nombre es Szoravel.")
+prompt:[Face_Reference: Zaelar] Photorealistic, practiced precision in his hands; expression composed as he reveals the contact. [Face_Reference: Drusniel] Tension in the jaw, attention narrowed to the cabinet and the name behind it. Cabinet-side scene as Zaelar works a locked cabinet with deliberate turns, old metal locks and worn wood filling the frame while Drusniel listens in the near foreground, half out of focus. A single candle throws warm amber onto the lock faces and floating dust, while cold dawn fill from the window keeps the shadows heavy and blue-grey. Sony A7R IV 50mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "Drusniel se puso de pie.")
+prompt:[Face_Reference: Drusniel] Photorealistic, exhausted but resolute; shoulders squaring as purpose crystallizes, eyes steady, jaw locked. Medium close portrait as he rises from the chair in the ruined study, smoke and debris blurred behind him and the map table just out of frame like a decision already made. Cold grey daylight from the window cuts across one cheek, while candlelight adds weak warm fill from below that catches natural skin texture without smoothing it. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "Detrás de él, el viejo mago estudió el artefacto en su palma.")
+prompt:[Face_Reference: Zaelar] Photorealistic, unreadable focus; fingers steady as he studies what he has just set in motion. Quiet aftermath shot: Zaelar alone at the table studying a small dark metal plate in his palm, a faint pulse reflecting on fingertips; hourglasses tick nearby and scattered notes sit open with no readable text, an empty stairwell beyond implying Drusniel has gone. Low candlelight is the only warm source, throwing amber onto skin and brass while the rest of the room drops into deep shadow and smoke haze. Sony A7R IV 50mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the candle, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

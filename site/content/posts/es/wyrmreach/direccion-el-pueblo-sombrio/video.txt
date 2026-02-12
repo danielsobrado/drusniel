@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Dirección: El Pueblo Sombrío
+Language: es
+Canon Sequence: D-019-003
+Source Image: srietz-trades-gems.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dolly in lento entre humo y sombras de hueso mientras Srietz deja dos gemas en el mostrador; la lente del comerciante se abre con un clic y Drusniel barre al gentío con la mirada mientras Elion cubre la retaguardia.  
+[00:03-00:05] El dolly continúa y un panel oculto se desliza: aparecen raciones secas y una cuerda delgada, y varias siluetas giran la cabeza al mismo tiempo, atención tensándose.  
+[00:05-00:08] Srietz mete las provisiones en un saco sin dudar; Drusniel aprieta la correa de la mochila cuando el pulso del Faro se intensifica bajo la tela, y los tres se giran y salen con pasos más rápidos hacia la salida.
+
+Movimiento de cámara: Dolly in lento desde el callejón hacia el puesto.  
+Audio: murmullo lejano de mercado, crujido de pasarelas, golpe seco de gema en madera, clic de lente, roce de tela, zumbido tenue del Faro, chasquido de antorchas, silbido de viento sulfurosa. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

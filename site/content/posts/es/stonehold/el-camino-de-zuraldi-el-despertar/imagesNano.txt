@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Camino de Zuraldi: El Despertar
+Language: es
+Canon Sequence: W-008-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: road-from-zuraldi.jpg
+role: header
+prompt: [Face_Reference: Dulint]. Weathered focus, shoulders heavy under pack straps, eyes forward. [Face_Reference: Balin]. Irritated squint, mouth mid-complaint, kicking dust. They walk the empty trade road from Zuraldi through sun-bleached hills with no other travelers in sight.
+Environment: Dusty road with wagon ruts cut into dry earth, scrub grass and cracked stones, distant ridgelines washed pale by heat haze. Harsh high-noon sunlight is the only light, flat and bright from overhead; hard highlights catch dust and worn leather, and short shadows fall tight under boots. Dust hangs in the air column, scattering light into a warm beige veil.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight vignetting. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: glowing-pack.jpg
+role: mid_01 (placed after sentence "Una luz tenue, sin color, se filtraba a travÃ©s de las costuras â€”aguda y delgada, como luz solar cortando a travÃ©s de una grieta en un pozo de mina.")
+prompt: Close-up on Dulint's worn leather pack swinging at his side as a thin, colorless blade of light leaks through a seam, unnaturally sharp against the noon day. Dust grains sparkle as they drift past the beam.
+Environment: Cracked full-grain leather, sweat-stained, stitch holes stretched, buckles scuffed bright at edges. Sunlight is bright and flat from above, but the seam-light is colder and directional, casting a narrow line across leather curvature and cloth weave; dust particles crossing the beam flash as tiny bright points. Background road falls into blur with heat shimmer.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: warm-cube.jpg
+role: mid_02 (placed after sentence "El cubo saliÃ³ tibio.")
+prompt: [Face_Reference: Dulint]. Startled disbelief, hands trembling slightly as he draws the cube into the open; breath held. [Face_Reference: Balin]. Stepping back, eyes wide, hand dropping toward the knife. The cube radiates warmth and begins to glow.
+Environment: Dusty roadside pause, pack clasp open. The cube's cold blue-white internal glow becomes a diegetic light source, spilling onto knuckles and leather seams; heat shimmer warps air above the metal edges. Noon sun remains harsh and high, bleaching the hills, but the cube glow creates crisp cold highlights on fingertips and metal carvings, contrasting with warm sunlit dust.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: pointing-northeast.jpg
+role: mid_03 (placed after sentence "Una cara brillaba mÃ¡s que las otras.")
+prompt: [Face_Reference: Dulint]. Turning the cube in his hands, eyes tracking the fixed pull of the glow; jaw tight. [Face_Reference: Balin]. Leaning away, wary. One face burns brighter and throws a narrow beam that stays locked toward the north-east.
+Environment: Dusty air column on the road; the beam is cold blue-white and directional, lighting floating dust like tiny sparks and casting a thin stripe across cloth weave and leather straps. Distant mountains sit on the horizon through heat haze; harsh sun stays overhead, producing short shadows and washed highlights on hills. Cold beam reflections appear as small blue-white points on nearby dust and metal edges.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, subtle lens flare. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: bone-hum.jpg
+role: mid_04 (placed after sentence "MÃ¡s una vibraciÃ³n que evitaba sus oÃ­dos y se asentaba directamente en sus huesos.")
+prompt: [Face_Reference: Dulint]. Teeth gritted, eyes unfocused, face tightening as the vibration hits; breath turning shallow. Dust grains on the cube's surface jitter and lift in tiny bursts as his grip clamps down hard.
+Environment: Macro-to-portrait: cube surface shows fine scratches, worn edges, geometric carvings with cold glow bleeding from seams. Cold cube glow underlights fingertips and metal edges; noon sun adds a thin rim along cheek and pack strap. Dust vibrating on metal catches alternating cold highlights and warm sun glints, creating a visible shimmer that implies the hum.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

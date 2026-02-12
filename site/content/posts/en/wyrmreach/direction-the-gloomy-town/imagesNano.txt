@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Direction: The Gloomy Town
+Language: en
+Canon Sequence: D-019-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ribcage-settlement-establishing.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Calculating approach, guarded eyes, moving cautiously together. Settlement grown inside a colossal ribcage: cathedral bone arches, ramshackle shacks and rope walkways clinging to ribs, ash-dark ground and sulfur haze swirling at their boots. Distant volcanic glow and brazier fires inside the ribs push warm orange points into grey twilight; smoke diffuses the light and throws amber reflections onto damp bone while ash grit catches cyan-teal bounce in the haze. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: entering-bone-alleys.jpg
+role: mid_01 (placed after sentence "Drusniel counted exits as they entered.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel threat-mapping; Srietz hunched and ready to bolt; Elion steady but wary. Entering bone-shadow alleys of scrap-wood stalls and rope bridges, eyes and weapons half-hidden in darkness, sulfur and sweat in the air. Torch and brazier pools cast warm amber stripes while cold twilight leaks through rib gaps, alternating grey and orange across faces; smoke turns highlights into soft halos on wet bone and greasy tarps. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: srietz-trades-gems.jpg
+role: mid_02 (placed after sentence "Srietz found his trader in a stall that smelled of preserved meat and something chemical.")
+prompt:[Face_Reference: Srietz, Drusniel, Elion]. Srietz slides two gems forward; Drusniel scans the crowd; Elion half-turns to cover their back. Bone-shadow stall with stained wood counter, hanging tarps, hidden compartments; a blurred merchant lifts a tiny lens to inspect the gems. Gem-glow throws sharp blue-white specular points on fingertips and glass; a smoky oil lamp adds warm spill that reflects off damp rib-bone and greasy surfaces, casting double-toned shadows under the counter edge. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, film grain visible, subtle lens flare off the lens glass, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: provisions-from-hidden-compartments.jpg
+role: mid_03 (placed after sentence "They began pulling items from hidden compartments: dried rations, water purification tablets, a thin rope that looked stronger than it should.")
+prompt:Macro on supplies on stained wood: dried rations, water purification tablets, and a thin cord coiled tight; hidden panel ajar, worn clasps. Gem light and a guttering lamp create mixed highlights on foil packets, rope fibers, and wet wood grain; reflections skate across moisture while background eyes blur into soft bokeh. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, film grain visible, shallow depth of field, slightly out of focus background, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: leave-ribcage-town-east.jpg
+role: mid_04 (placed after sentence "They left quickly after that.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Fast, urgent stride; Srietz clutching supplies; Elion scanning once over shoulder. Exiting crude gates into ash flats as rib arches loom behind like a dark cathedral. Warm torchlight and brazier smoke fade behind them while cold twilight and distant volcanic glow flatten the world ahead; ash grit sparkles in the air and damp bone catches last amber reflections. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

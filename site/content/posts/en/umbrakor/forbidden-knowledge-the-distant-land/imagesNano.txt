@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Forbidden Knowledge: The Distant Land
+Language: en
+Canon Sequence: D-007-009
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: map-overview.jpg
+role: header
+prompt: [Face_Reference: Zaelar]. Leaning over the desk with calm control, one hand anchored on the map. [Face_Reference: Drusniel]. Guarded posture held back from the desk, eyes narrowed. A massive surface-world map covers the entire desk, crowded with coastlines and warning symbols.
+Environment: Old tower study in Umbra'kor with stone walls and a cluttered desk. Warm desk lamp is the primary light, amber pooling across paper fibers, ink stains, wax drips, and worn fold-creases; cool grey daylight from the window adds a thin rim along sleeves and the map edge. Warm reflections bounce off varnished wood grain; ink has a slight sheen with tiny specular highlights, while any writing remains unreadable.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, natural skin with pores. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: pointing-finger.jpg
+role: mid_01 (placed after sentence "And at the eastern edge, beyond a stretch of water marked with warning symbols, a landmass labeled in faded ink.")
+prompt: [Face_Reference: Zaelar]. Fingertip tracing the far eastern coastline, pressing hard enough to wrinkle the paper slightly. [Face_Reference: Drusniel]. Hand hovering nearby, hesitating. Close-up on the map edge as the point of Wyrmreach is indicated.
+Environment: Map surface fills the frame: worn paper fibers, smudged ink, scratched corrections, dense warning marks around the sea margin; any labels remain unreadable. Single lamp casts warm amber at a low angle, making paper texture pop; amber highlights skim knuckle ridges and fingertip, and warm reflections bounce off slightly glossy ink. Faint cool window fill softens shadows without overpowering the lamp.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: looking-out-window.jpg
+role: mid_02 (placed after sentence "Zaelar moved to the window, looking out at gray sky.")
+prompt: [Face_Reference: Zaelar]. Back half-turned at the window, posture rigid, pause calculated. [Face_Reference: Drusniel]. Still by the desk, watching Zaelar's back, suspicion tightening his mouth. The map stays spread behind them, heavy and unavoidable.
+Environment: Cold grey daylight from the window silhouettes Zaelar and washes the stone wall; warm desk lamp behind Drusniel throws amber across the map and catches dust motes in the mixed light. Tea steam fades in thin ribbons. Warm light reflects off ceramic cup rims and wood grain; cool fill creates a thin blue rim along shoulders and map edges.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, slightly underexposed, subtle lens flare. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: boat-cave.jpg
+role: mid_03 (placed after sentence "Look for the black rocks shaped like broken teeth.")
+prompt: Jagged black rocks like broken teeth hide a narrow cove. A small reinforced boat sits inside the shadowed mouth of a low sea cave as waves slam and retreat in foaming sheets.
+Environment: Stormy coastline at dusk, wet basalt-like rock faces slick with spray; sea mist hangs in the air. Overcast sky provides cold blue-grey ambient light, while reflected waterlight flickers up onto wet stone, creating moving highlights and deep shadow pockets inside the cave. Rope fibers glisten with moisture; puddles on rock reflect pale sky in broken shards.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: warning-signs-map.jpg
+role: mid_04 (placed after sentence "Drusniel looked at the map, at the stretch of water between Astalor and Wyrmreach marked with warning symbols.")
+prompt: [Face_Reference: Drusniel]. Focused dread held behind control, fingertips hovering above the paper as if measuring distance. Macro-to-medium view of the sea crossing section, dense with warning symbols and corrections.
+Environment: Map ink is slightly glossy, catching warm lamp glints as tiny specular highlights; paper fibers are worn and soft-edged from handling. Warm lamp is the only strong light, amber pooling on fingertips and paper edges; background desk clutter drops into deep shadow with soft falloff. Any writing remains unreadable and secondary to the marks.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

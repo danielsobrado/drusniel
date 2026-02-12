@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Direction: Recovery
+Language: en
+Canon Sequence: D-019-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: three-days-in-the-cave.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel awake and counting pulses; Srietz muttering inventory over neat piles; Elion asleep but color returning. Low cave lined with wet volcanic glass, Beacon wrapped in the pack leaking cold blue-white, fungi pulsing cyan. Beacon edges cast sharp highlights on buckles and eyes; cyan light breathes across condensation and throws teal bounce on stone ceiling. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: bioluminescent-fungi-hour-markers.jpg
+role: mid_01 (placed after sentence "Drusniel had counted every hour.")
+prompt:Bioluminescent fungi cluster used as hour marks; caps slick, light pulsing cyan. Condensation beads refract the glow and paint ripples of teal across wet obsidian streaks where scratch tallies sit. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, film grain visible, shallow depth, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elion-awakens-gaunt.jpg
+role: mid_02 (placed after sentence "Elion stirred, eyes flickering open.")
+prompt:[Face_Reference: Elion]. Gaunt but aware, pushing up on one elbow; [Face_Reference: Drusniel]. Leaning close, urgent gaze. Rough bedding on cooled volcanic sand; Beacon glow hidden in pack paints cold blue across Elion’s cheek while cyan fungus light lattices the shadows. Sony A7R V 50mm f/1.2 GM Cinestill 800T, film grain visible, slight halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: srietz-inventories-again.jpg
+role: mid_03 (placed after sentence "The goblin's long fingers sorted dried meat into precise piles.")
+prompt:[Face_Reference: Srietz]. Crouched, long fingers sorting dried meat into identical stacks, ears angled. Route sketch and marked stones beside him. Beacon light rims knuckles blue-white while cyan fungi make salt crystals sparkle and cast emerald bounce on volcanic grit. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slight motion blur at fingertips, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: direction-to-the-east.jpg
+role: mid_04 (placed after sentence "He moved to the cave entrance, looking out at the perpetual twilight.")
+prompt:[Face_Reference: Drusniel]. Standing at the cave mouth, eyes narrowed toward the east, breath fogging. Outside: jagged volcanic crystal and ash plains in slate violet twilight; inside: the pack’s Beacon glows steady behind him. Cyan fungi fade near the threshold while the Beacon casts a cool rim along his profile and reflects faintly on glassy stone. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight vignetting, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

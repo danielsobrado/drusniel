@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Visión Clara: Las Consecuencias
+Language: es
+Canon Sequence: W-024-005
+Source Image: maris-declaration.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris sits straighter despite devastation. Blood drying on her face, eyes bloodshot but blazing with certainty. She speaks — mouth moving with cracked-lip determination, every word costing her. The group around her goes still.
+[00:03-00:06] She pauses. Swallows hard. Her hand rises and points north. Her arm trembles but holds steady. Cold flat overcast light falls unforgiving across the dried blood on her cheeks. Wind moves her hair across her face.
+[00:06-00:08] Dulint nods once. No one argues. Maris's arm lowers. Her expression doesn't soften — it hardens. The five figures on the hillside united in a decision none of them voted on.
+
+Slow dolly-in from group medium shot to tight on Maris's face.
+Audio: cold wind through yellow grass, distant silence, her cracked breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

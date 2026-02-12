@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: La Muerte
+Language: es
+Canon Sequence: W-018-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: staring-at-body.jpg
+role: header
+prompt:[Face_Reference: Balin] De pie solo en un pequeño claro, espada tirada en la hierba, ojos fijos en el cuerpo fuera de cuadro; manos colgando, aliento visible en el frío. El bosque está silencioso, ramas aún goteando de la pelea y un círculo de hierba pisoteada marca donde se rompió la emboscada. Luz gris plana de cielo nublado aplana los colores y deja un tenue contorno en mejillas y nudillos; el suelo húmedo lanza destellos suaves donde la sangre se mezcla con el rocío. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: grukmar-dead-eyes.jpg
+role: mid_01 (placed after sentence "La forma en que sus ojos se volvieron planos y vacíos.")
+prompt:Primer plano en ángulo alto del rostro del Grukmar muerto, ojos abiertos y vidriosos, boca floja, pintura de guerra corrida por lodo y sangre; la muerte vuelve los rasgos vulnerables y casi humanos. Luz nublada plana sin sombras duras, reflejos pálidos en las pupilas y brillo húmedo en la piel; la hierba mojada y la sangre oscura enmarcan el rostro con verdes fríos y charcos casi negros. Canon EOS R5 100mm macro Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: balin-vomits.jpg
+role: mid_02 (placed after sentence "Balin apenas dio tres pasos antes de quedar de rodillas")
+prompt:[Face_Reference: Balin] De rodillas, vomitando, hombros sacudidos, una mano clavada en la hierba húmeda. [Face_Reference: Eldric] A su lado, una mano en el hombro de Balin y la otra con la espada lista, mirada vigilante con compasión. Sombra moteada bajo el dosel mezclada con la luz fría nublada, dejando a Balin en luz irregular mientras la tierra húmeda y las hojas pisoteadas muestran el rastro de la pelea. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slight motion blur in Eldric’s sword hand, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: maris-haunted.jpg
+role: mid_03 (placed after sentence "Maris se puso a su lado. Su rostro estaba pálido, ojos atormentados.")
+prompt:[Face_Reference: Maris] Pálida, mirada lejana y atormentada, labios en línea tensa. [Face_Reference: Balin] Entumecido, mirada sin foco al frente, mandíbula apretada. Caminan uno junto al otro alejándose de la cámara por un sendero del bosque, equipo pesado, hombros rozándose sin tocarse. La luz del día que se apaga se enfría hacia el azul, tocando pómulos y capas húmedas; los árboles del fondo se difuminan mientras el sendero se oscurece. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: leaving-the-dead.jpg
+role: mid_04 (placed after sentence "El cuerpo Grukmar alimentaría carroñeros al caer la noche.")
+prompt:Plano amplio realista; el cuerpo del Grukmar yace pequeño en la hierba junto a una mancha oscura de sangre mientras carroñeros empiezan a girar alto. Lejos en el sendero, el grupo se reduce a siluetas diminutas que se alejan, el bosque cerrándose detrás. Luz baja de atardecer rompe nubes, proyecta sombras largas y frías sobre el claro y un tenue borde cálido en las figuras lejanas; el suelo mojado refleja destellos apagados donde la sangre se mezcla con el rocío. Canon EOS R5 35mm f/1.4 Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

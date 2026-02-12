@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Jardín Negro: El Jardín
+Language: es
+Canon Sequence: D-021-003
+Source Image: crystals-open-a-corridor.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] El muro de cristales chirría y empieza a rotar — agujas girando en incrementos exactos mientras cae una lluvia de polvo. El zumbido cambia y se instala detrás de los dientes, presión sin viento.
+[00:03-00:05] El corredor queda abierto. Varesh retrocede en el borde del claro. El vapor de tres tazas se retuerce en el aire químico mientras Drusniel mantiene las manos quietas y Srietz se niega a beber.
+[00:05-00:08] Nyxara entra sin prisa por el hueco. La luz violeta se curva hacia ella cuando llega a la mesa y toma la silla de la cabecera. Los cristales pulsan una vez, violeta más profundo, y vuelven a quedarse inmóviles.
+
+Movimiento de cámara: Dolly in lento a través de la mesa hacia Nyxara.
+Audio: chirrido de cristales al girar, golpeteo fino de polvo, zumbido grave resonante, siseo tenue de vapor, roce de tela, pasos sobre grava, una respiración contenida, el zumbido profundizándose en el pulso. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

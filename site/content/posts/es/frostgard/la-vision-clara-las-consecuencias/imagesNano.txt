@@ -1,0 +1,42 @@
+﻿# Image Prompts (Nano Banana Pro)
+Title: La Vision Clara: Las Consecuencias
+Language: es
+Canon Sequence: W-024-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-wakes-devastated.jpg
+role: header
+prompt:[Face_Reference: Maris] [Face_Reference: Xandor] Maris lies on cold wet ground, slowly opening bloodshot eyes. Blood runs from both nostrils, face pale and drawn with exhaustion. Xandor kneels beside her with hands on her temples.
+Environment: Cold ground with yellow grass and grey sky above. Cold flat daylight from overcast sky falls directly on her devastated upturned face, flat light reflects off the wet blood on her upper lip and the moisture in her bloodshot eyes, no warm tones.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, shallow depth of field. Aspect: 2:3
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: maris-tries-to-speak.jpg
+role: mid_01 (placed after sentence "Lo vi.")
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] [Face_Reference: Eldric] [Face_Reference: Balin] [Face_Reference: Xandor] Maris propped up sitting on wet ground, trembling, forcing words through a raw throat. Blood still wet on her upper lip and chin. Four companions lean in close to hear her barely audible voice.
+Environment: Low hills with dry grass around them, northern wilderness. Diffused grey daylight from overcast sky, cold and even across all faces. Flat overcast light falls uniformly on the group, grey light absorbed by damp clothing and reflected dully off wet blood on Maris's face.
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible, slightly out of focus background. Aspect: 3:2
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: group-processes-description.jpg
+role: mid_02 (placed after sentence "Nada en el es humano.")
+prompt:[Face_Reference: Dulint] [Face_Reference: Balin] [Face_Reference: Eldric] [Face_Reference: Xandor] Dulint frowns deeply, Balin looks bewildered, Eldric calculating, Xandor places a steadying hand on the woman's shoulder. Four travelers exchange confused glances on a northern hillside clearing.
+Environment: Northern hillside, dry yellow grass, grey sky. Cold flat overcast daylight, grey and shadowless across their faces. Flat diffused light falls evenly on all four faces, no directional shadows between figures, cold ambient light catches the different emotional expressions uniformly.
+Camera: Sony A7R V 50mm f/1.8 Kodak Portra 400, not perfectly exposed, film grain visible. Aspect: 3:2
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: beacon-glows-in-response.jpg
+role: mid_03 (placed after sentence "Como si hubiera encontrado lo que buscaba.")
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] Maris's bloody hand points at a heavy pack on the ground where the artifact inside has gone completely still and dark for the first time. Dulint holds the pack, looking down at it with new understanding and dread.
+Environment: Northern hillside, cold overcast sky. The absence of the usual pulsing light leaves only cold northern daylight on their faces. Cold flat overcast daylight falls on the scene with no warm tones, the artifact's conspicuous darkness creates a visual void in the pack where light should be, grey ambient light is the only illumination.
+Camera: Sony A7R V 50mm f/1.8 Kodak Portra 400, natural skin with pores, shallow depth of field. Aspect: 2:3
+Material: Dark metal cube artifact now inert, no internal glow, cold matte surface absorbing ambient light.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-declaration.jpg
+role: mid_04 (placed after sentence "Entonces lo encontramos antes de que terminen.")
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] [Face_Reference: Eldric] [Face_Reference: Balin] [Face_Reference: Xandor] Maris sits up with blood drying on her face, fierce certainty in bloodshot eyes. Dulint stands with jaw set in determination. Five travelers united on a northern hillside under cold overcast sky stretching north.
+Environment: Northern wilderness, yellow grass hills, heavy grey cloud cover. Flat grey daylight from heavy cloud cover falls cold and unforgiving across the group, overcast light reflects off dried blood on Maris's face and catches the determination in multiple sets of eyes uniformly.
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible, slightly out of focus background. Aspect: 3:2
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

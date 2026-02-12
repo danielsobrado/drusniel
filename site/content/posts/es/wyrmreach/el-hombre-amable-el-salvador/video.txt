@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Hombre Amable: El Salvador
+Language: es
+Canon Sequence: D-011-001
+Source Image: protected-drow-mage.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel tries to push up on one elbow and slips, breath catching; steam rolls from the pot as the fire pops.
+[00:03-00:05] He steadies, mouth moving through a raw throat; Merrik’s stirring slows, then stops, eyes locking as the canvas snaps in ash wind.
+[00:05-00:08] Merrik stirs again, spoon scraping harder; Drusniel’s hand slides to his chest and he eases back, eyes still sharp in the flicker.
+
+Slow dolly-in from the fire and pot to Drusniel and Merrik’s faces.
+Audio: fire crackle, broth bubbling, spoon on metal, canvas snapping, distant sea hiss, breathing, dry swallow. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

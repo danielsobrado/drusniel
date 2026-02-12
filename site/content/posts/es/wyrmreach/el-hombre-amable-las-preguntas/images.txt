@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Hombre Amable: Las Preguntas
+Language: es
+Canon Sequence: D-011-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: questions-by-the-pot.jpg
+role: header
+prompt:[Face_Reference: Merrik] Photorealistic, easy smile that never reaches his eyes; voice implied in the steady rhythm of questions while he stirs. [Face_Reference: Drusniel] Guarded stare, measuring every word, posture still despite fatigue. Under the tarp shelter, Merrik stirs broth in a dented pot over a small fire while Drusniel sits opposite, listening, counting, and refusing to give away more than he must; the black coast and wrong twilight stain the canvas beyond the shelter mouth. Firelight from low center frame throws warm orange across hands, spoon, and faces in uneven pulses, while red-grey ambient from the outside sky fills the shadows flat and cold. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the fire, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: thirty-four-questions-counted.jpg
+role: mid_01 (placed after sentence "*Treinta y cuatro preguntas ahora*, contó Drusniel.")
+prompt:[Face_Reference: Drusniel] Photorealistic, focused and clinical; fingers steady despite weakness as he records the count. Close shot of Drusniel scratching tally marks into black sand beside the bedding (no legible words), eyes tracking the marks like coordinates while the cold, silent artifact hangs heavy against his chest under damp fabric. Low firelight rakes across knuckles and the sand surface, catching sharp highlights on each fresh groove and leaving the rest of the shelter in deep shadow. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: convenient-caravan.jpg
+role: mid_02 (placed after sentence "He estado preguntando por ahí—hay una caravana yendo al este en unos días.")
+prompt:[Face_Reference: Merrik] Photorealistic, pleasant expression held too smoothly; eyes calculating as he mentions a safe caravan and contacts. [Face_Reference: Drusniel] Suspicion hardening, restraint tightening in his jaw as the pattern clicks. Tight two-shot under the tarp as Merrik speaks of networks along the coast and a caravan heading east in a few days, the dented pot and supplies crowding the edge of frame like evidence. Firelight warms one side of each face from below, while red-grey twilight from the shelter mouth fills the other side cold and flat, emphasizing the split between kindness and calculation. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: too-many-steps-at-night.jpg
+role: mid_03 (placed after sentence "Pero los sonidos parecían mal.")
+prompt:[Face_Reference: Drusniel] Photorealistic, eyes open in shadow, listening hard; body still, mind racing. Late in the red-grey night, Drusniel lies awake under the tarp as too many footsteps move outside the shelter; packed bundles and supplies sit staged for departure, and the fire has collapsed to embers that barely hold a glow. Ember light provides the only warm illumination, low and weak, casting orange points on the rim of a bowl and the edge of fabric while the rest of the frame sinks into cold twilight shadow. Sony A7R IV 35mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: caravan-arrives-early.jpg
+role: mid_04 (placed after sentence "La caravana había llegado temprano.")
+prompt:Photorealistic wide shot on the black-sand coast as wagon wheels roll in and a covered caravan arrives early, silhouettes resolving through ash haze and drifting grit; fresh ruts and churned sand lead straight toward the shelter. Diffuse red-grey twilight from the sky provides flat, unsettling fill, while distant volcanic glow adds faint warm edges to wagon frames and moving figures as they cross the dunes. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slight motion blur in the nearest wheel. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

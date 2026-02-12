@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: El Mar de Pesadillas: La Cuenta
+Language: es
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rowboat-on-nightmare-sea.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Soaked, exhausted, cloak clinging, oars in hand. Wide shot of a small battered rowboat on the Nightmare Sea. Water is wrong, tar-dark, waves arriving from impossible angles. Ankle-deep black water sloshes inside the boat.
+Environment: Nightmare Sea open water. Sourceless gray ambient light from every direction erases all shadow. The water surface is tar-dark and too dense, reflecting nothing. Waves approach from contradictory angles simultaneously. Black liquid inside the boat has visible viscosity, heavier than water. Cold mist sits at surface level. No horizon line distinguishable from the water.
+Camera: Sony A7R V 16mm f/2.8 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: bailing-wrong-water.jpg
+role: mid_01 (placed after sentence "Cada puñado que arrojaba por la borda parecía jalar sus manos, reacio a irse, y para cuando había limpiado una sección, otra ola había vuelto a llenarlo.")
+prompt: [Face_Reference: Drusniel]. Raw knuckles, shaking hands bailing thick black water overboard. The water clings to his fingers, droplets stretching unnaturally before falling. Skin wet and chilled against gritty wet wood grain.
+Environment: Inside the rowboat. Flat gray light catches the unnatural viscosity of the black liquid, showing it stretching like cooling pitch between fingers and hull. Wet wood grain shows salt deposits and swelling from wrong-water absorption. Droplets defy normal surface tension, elongating before separating. Cold mist blurs the background water surface.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin texture with pores. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: rowing-while-counting-breaks.jpg
+role: mid_02 (placed after sentence "Tres remadas. Cuatro.")
+prompt: [Face_Reference: Drusniel]. Face locked in concentration, muscles tensing in confusion. Grips the oars and pulls through water whose density changes mid-stroke. One oar biting like tar while the other slips like fog. Boat tilting as the sea pushes from below.
+Environment: Nightmare Sea mid-crossing. Sourceless gray light from no fixed direction illuminates without casting shadow. The oar blades show different resistance on each side, one submerged deep in thick water, the other barely cutting surface. Water splashes asymmetrically. Hull wood shows stress grain from the wrong physics. Mist clings to the boat at waterline.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: air-magic-jerk-forward.jpg
+role: mid_03 (placed after sentence "Drusniel alcanzó su magia de aire.")
+prompt: [Face_Reference: Drusniel]. Expression showing effort and fear of drawing attention. Forces a short unnatural gust at the stern that shoves the rowboat forward in jerking bursts. Artifact at his chest pulses hard, resisting. Spray and mist tear sideways.
+Environment: Nightmare Sea. The gust is visible as compressed air distortion at the stern, catching spray particles and shoving them in a tight cone. Gray light flickers through the spray. Mist tears sideways in unnatural lines. The water surface behind the boat shows brief wake patterns that immediately dissolve as the sea refuses to record the movement.
+Camera: Sony A7R V 24mm f/2.0 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: something-brushes-the-hull.jpg
+role: mid_04 (placed after sentence "Algo rozó el fondo del casco.")
+prompt: [Face_Reference: Drusniel]. Frozen with oars suspended mid-stroke, eyes wide, refusing to reach with water magic. Something soft and deliberate brushes the underside of the hull, stabilizing the boat too gently. Ankle-deep wrong water presses against his boots.
+Environment: Nightmare Sea surface. Flat gray ambient, no directional source. Faint pressure ripples radiate outward from beneath the hull in concentric rings. The boat sits unnaturally level, held from below. The ankle-deep black water inside the boat presses against boot leather with visible weight. Gray fog extends to infinity. The surface is glassy calm in the immediate area, wrong compared to the distant chop.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, slightly underexposed, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

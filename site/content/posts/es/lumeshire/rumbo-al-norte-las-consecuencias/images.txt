@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: Las Consecuencias
+Language: es
+Canon Sequence: W-018-005
+
+Genera 5 imágenes JPG en esta carpeta con estos nombres exactos y luego ejecuta el script convertidor en la raíz.
+
+1. filename: camp-after-battle.jpg
+role: header
+prompt:[Face_Reference: Xandor] Sereno, manos firmes mientras venda el brazo de Eldric; hombros tensos por la responsabilidad. [Face_Reference: Eldric] Mandíbula apretada contra el dolor, mirada fija. [Face_Reference: Dulint, Balin, Maris] Derrengados cerca, con golpes y tierra, observando o perdidos. Refugiados al anochecer bajo un saliente rocoso; vendajes ensangrentados y equipo sobre la piedra húmeda, la mochila con el artefacto en medio. Crepúsculo frío baña todo en azul; una linterna entornada deja sólo una rendija ámbar que resalta ojos y nudillos al rebotar en la roca mojada. Canon EOS R5 35mm f/1.4 Kodak Portra 400, grano visible, viñeteo ligero, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: dulint-broken.jpg
+role: mid_01 (placed after sentence "Su cara se veía más vieja de lo que se había visto esa mañana—con líneas de algo más allá del agotamiento.")
+prompt:[Face_Reference: Dulint] Ojos cerrados, surcos más profundos, abrazando la mochila como si pudiera desaparecer; labios comprimidos, respiración contenida. Sentado contra la piedra rugosa dentro del refugio, rodillas al pecho, dedos blancos en la correa. Azul de crepúsculo sobre su rostro mientras una rendija de linterna perfila mejilla y nudillos; el basalto húmedo detrás devuelve un brillo frío y gotas mínimas reflejan la luz. Canon EOS R5 50mm f/1.4 Kodak Portra 400, grano visible, profundidad de campo reducida, ligera subexposición. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-isolation.jpg
+role: mid_02 (placed after sentence "Maris se sentó aparte de los demás, rodillas contra el pecho")
+prompt:[Face_Reference: Maris] Rodillas abrazadas, capa cerrada, mirada perdida en una mancha oscura; labios apenas separados como si contuviera palabras. [Face_Reference: Balin] Silueta desenfocada sobre el hombro en primer plano, cabeza girada hacia ella. Sentada a pocos pasos del campamento sin fuego, sobre musgo y piedra fría; el vacío entre ella y los otros es visible. Luz de luna se cuela entre ramas ralas, delineando pómulo y borde de la capa mientras el resto cae en sombra; su aliento forma una leve nube. Canon EOS R5 85mm f/1.4 Kodak Portra 400, grano visible, poca profundidad de campo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: balin-phantom-blood.jpg
+role: mid_03 (placed after sentence "Balin miró sus manos. Manchadas, a pesar del agua")
+prompt:[Face_Reference: Balin] POV de sus propias manos alzadas; piel limpia pero en su mente queda una mancha roja fantasma, los pulgares la frotan con más fuerza, mandíbula tensa al borde del encuadre. Arrodillado sobre piedra húmeda; la linterna entornada y la mochila del artefacto al lado, su brillo atrapado en la humedad y en la supuesta sangre en la textura de la piel. La rendija de luz crea sombras frías y un fino contorno ámbar en los dedos; musgo y roca al fondo se desenfocan. Canon EOS R5 50mm f/1.4 Cinestill 800T, grano visible, ligera halación, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: broken-survivors.jpg
+role: mid_04 (placed after sentence "Eran una colección de personas rotas")
+prompt:[Face_Reference: Balin, Dulint, Eldric, Maris, Xandor] Los cinco encogidos bajo el saliente, miradas en direcciones distintas, manos inertes, rostros huecos; la mochila del artefacto como ancla en el centro. El crepúsculo se vuelve noche; una sola linterna entornada aporta un mínimo destello cálido mientras el bosque alrededor se cierra en siluetas azul-negras. Suelo húmedo refleja diminutos brillos ámbar y cian; el aliento frío se queda suspendido. Canon EOS R5 35mm f/1.4 Kodak Portra 400, grano visible, viñeteo ligero, ligera subexposición. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

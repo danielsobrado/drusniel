@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Clear Sight: The Building
+Language: en
+Canon Sequence: W-024-001
+Source Image: maris-grabs-arm.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris's fingers tighten on Dulint's forearm — knuckles whitening, tendons visible. Her eyes are wide, locked on something only she can see. Her lips part. A tremor runs through her hand into his arm.
+[00:03-00:05] Dulint looks down at her grip, alarmed. His free hand hovers, uncertain whether to pry her off or hold her steady. The yellow grass behind them sways in a gust of cold wind. Grey overcast light shifts.
+[00:05-00:08] Maris's breathing quickens. Visible breath in the cold air, rapid and shallow. A single drop of blood appears at her left nostril. Dulint sees it. His expression hardens with resolve.
+
+Static camera, tight on the gripping hands widening to faces.
+Audio: wind through dry grass, rapid breathing, faint heartbeat building in tempo. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy, shallow depth of field.

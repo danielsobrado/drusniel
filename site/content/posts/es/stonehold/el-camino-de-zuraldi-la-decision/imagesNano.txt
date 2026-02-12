@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Camino de Zuraldi: La DecisiÃ³n
+Language: es
+Canon Sequence: W-008-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: exhausted-hiding.jpg
+role: header
+prompt: [Face_Reference: Dulint]. Sweat-streaked exhaustion, chest heaving, eyes squeezed tight between breaths. [Face_Reference: Balin]. Controlled urgency, scanning ahead with scout focus. They slow from a run into a stumbling pace as the pursuit closes.
+Environment: Late-day road between hills, dust and dirt streaking clothes; long shadows cut across uneven ground. Warm low sun is hard and directional, catching dust in the air as glittering points while the hills fall into cooler shade. Leather straps and buckles flash with warm highlights; background compresses into heat haze.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: glass-shards-lungs.jpg
+role: mid_01 (placed after sentence "Sus pulmones ardÃ­an.")
+prompt: [Face_Reference: Dulint]. Breath burning and ragged, mouth open as he tries to pull air, one hand braced on a knee; eyes watering. Tight portrait as he bends over from the sprint, Balin hovering ready to haul him forward.
+Environment: Warm late-afternoon sun from the side catches sweat sheen and road dust as bright specks; deep shadows carve cheek and jaw. Fabric weave and beard hair show grit and moisture; dust hangs in the air column, scattering light into a warm haze.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: drop-the-rock.jpg
+role: mid_02 (placed after sentence "Dulint sacÃ³ el cubo.")
+prompt: [Face_Reference: Balin]. Desperation breaking through, pointing toward the woods. [Face_Reference: Dulint]. Torn, staring at the cube in his hands. Balin urges him to throw it and keep running as the chase tightens.
+Environment: Cube's cold blue-white glow underlights fingers and carved seams as a diegetic source; warm sun still hits dust and grass from the side, creating harsh warm-cool contrast on skin and leather. Dust particles crossing the cube glow flash as tiny cold points; distant road behind is blurred, suggesting closing threat.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: thrain-legacy.jpg
+role: mid_03 (placed after sentence "PensÃ³ en su bisabuelo.")
+prompt: [Face_Reference: Dulint]. Stubborn resolve replacing fear, hand tightening the pack strap instead of letting go. [Face_Reference: Balin]. Grim acceptance, lowering his knife hand. Dulint tucks the cube away and commits to the road ahead.
+Environment: Cube glow leaks through leather seams as sterile blue-white edge light on buckles and stitching; the last warm daylight fades at the hills, leaving the scene more shadowed. Cold highlights reflect as small blue points on nearby dust and cloth weave; shadows deepen, with film-like grain and slight halation on bright edges.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: push-into-dark.jpg
+role: mid_04 (placed after sentence "Alcanzaron el borde del bosque.")
+prompt: [Face_Reference: Dulint]. Bent forward with age and fatigue but moving anyway, jaw set. [Face_Reference: Balin]. Close beside him, guarding the rear. They enter the dense forest, canopy closing overhead, cube glow muffled but visible through the pack.
+Environment: Near-black forest interior with damp bark and wet leaves; only faint ambient green-blue and the cube glow provide light. Cold glow casts tiny highlights on nearby foliage and bark texture; shadows pool deep between trunks. Motion blur hints at fast, careful movement into darkness.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, subtle lens flare. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

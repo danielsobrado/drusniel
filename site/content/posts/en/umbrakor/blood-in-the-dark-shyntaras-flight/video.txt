@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Blood in the Dark: Shyntara's Flight
+Language: en
+Canon Sequence: D-010-005
+Source Image: burning-compound.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Shyntara stands at the garden edge, staring back as flames surge and smoke climbs toward the cavern ceiling. Embers drift past her face.
+[00:03-00:05] A distant timber snaps and collapses inside the compound. She wipes at the blood above her eye, then turns sharply as if catching movement in the air.
+[00:05-00:08] She breaks into a sprint along the wet stone path, firelight shrinking behind her as she vanishes toward the tunnel mouth swallowed by darkness.
+
+Slow pull-back revealing the burning compound behind her as she moves.
+Audio: roaring fire, ember hiss, distant collapse crack, wet stone footsteps, cloth flutter, controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Un viaje complicado
+Language: es
+Canon Sequence: P-002
+Source Image: cliff-fall.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Loose stones cascade past as Dulint's boots scrape for purchase and fail. The slope gives way under their weight, bodies slamming into rock and spinning through grit and pine needles.
+[00:03-00:05] Balin catches a strap and it snaps free, the pack whipping sideways and kicking up a burst of dust that briefly blinds them. Pebbles ping off stone and vanish into the darkness below.
+[00:05-00:08] They slam into a harder ledge and stop in a heap, coughing and breathing ragged. The rockfall continues for a beat after, rattling down the mountain like a warning that refuses to end.
+
+Slow pull-back revealing the full drop.
+Audio: rockfall clatter, fabric flapping, heavy impacts on stone, short grunts of effort, pine needles scraping, pebbles rattling into distance. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

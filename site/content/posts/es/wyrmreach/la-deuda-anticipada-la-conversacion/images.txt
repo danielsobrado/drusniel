@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Deuda Anticipada: La Conversación
+Language: es
+Canon Sequence: D-023-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: drusniel-elion-night-camp.jpg
+role: header
+prompt:Volcanic campsite at night, two figures sitting close on a rock ledge overlooking steaming fissures, a small goblin curled tight sleeping nearby, embers of a low fire casting amber light, a female silhouette patrolling the dark perimeter. Campfire glow and distant volcanic vents provide warm orange light against deep shadow. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: elion-sits-beside-drusniel.jpg
+role: mid_01 (placed after sentence "Elion se sentó junto a él.")
+prompt:[Face_Reference: Elion] Settling down, quiet weight in his posture. [Face_Reference: Drusniel] Still, staring at the horizon. Both sit on a rock ledge looking at the same smoking volcanic distance, silence visible in their body language. Low campfire glow from the right warms their profiles, volcanic haze diffusing the light. Canon EOS R5 50mm f/1.8 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-admits-dependency.jpg
+role: mid_02 (placed after sentence "Esperé que viniera.")
+prompt:[Face_Reference: Drusniel] Guarded vulnerability, jaw tight, eyes fixed on a distant point. Speaking quietly, the admission costing visible effort. Sits on volcanic rock at night. Campfire glow lights one side of his face warm orange, the other side falls into cold shadow. Canon EOS R5 85mm f/1.4 Cinestill 800T, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: elion-reveals-count.jpg
+role: mid_03 (placed after sentence "Unas cuarenta.")
+prompt:[Face_Reference: Elion] Weight of long experience visible in his face. [Face_Reference: Drusniel] Expression shifting to dawning horror. Tight two-shot, both sitting side by side on volcanic rock, campfire embers reflected in their eyes. Ember glow from below casts deep shadows upward on both faces. Canon EOS R5 85mm f/1.4 Kodak Portra 400, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-observes-distance.jpg
+role: mid_04 (placed after sentence "Trazó una grieta en la roca junto a su pierna con la uña del pulgar.")
+prompt:[Face_Reference: Drusniel] Hand tracing a crack in dark volcanic rock with his thumbnail, compulsive grounding gesture. Close detail of the hand and stone, campfire embers glowing nearby. In background a female silhouette completes another patrol circuit through darkness. Ember light catches the thumbnail and rock texture from below. Canon EOS R5 100mm f/2.8 Macro Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

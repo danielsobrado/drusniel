@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Blood in the Dark: The Evidence
+Language: en
+Canon Sequence: D-010-004
+Source Image: finding-meren.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel kneels close, gripping Meren’s wrist as the old steward struggles for breath. Lantern light trembles across the stone as dust drifts in the air.
+[00:03-00:05] Meren’s fingers slacken and slide free. A wet cough shudders his chest once, then stops; the corridor settles into a heavy, ringing silence.
+[00:05-00:08] Drusniel’s gaze drops to the dagger near Meren’s hand. He reaches out, lifts it with shaking fingers, and closes his fist as the lantern flame gutters.
+
+Slow dolly-in from the corridor toward Drusniel and Meren.
+Audio: lantern hiss, wet cough, fabric rustle, distant water drip, shallow breathing that fades, metal scrape as the dagger lifts. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

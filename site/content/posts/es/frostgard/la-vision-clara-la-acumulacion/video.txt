@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Visión Clara: La Acumulación
+Language: es
+Canon Sequence: W-024-001
+Source Image: maris-grabs-arm.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris's fingers tighten on Balin's arm — knuckles whitening, tendons visible. Her eyes are wide, locked on something only she can see. Her lips part. A tremor runs through her hand.
+[00:03-00:05] Balin looks down at her grip, alarmed. His free hand hovers, uncertain. The yellow grass behind them sways in a gust of cold wind. Grey overcast light shifts across the hills.
+[00:05-00:08] Maris's breathing quickens. Visible breath in the cold air, rapid and shallow. A single drop of blood appears at her left nostril. Balin sees it. His expression shifts from alarm to dread.
+
+Static camera, tight on the gripping hands widening to faces.
+Audio: wind through dry grass, rapid breathing, faint heartbeat building in tempo. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy, shallow depth of field.

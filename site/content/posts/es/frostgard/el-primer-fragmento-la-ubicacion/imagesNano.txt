@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Primer Fragmento: La Ubicación
+Language: es
+Canon Sequence: W-020-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ice-cave-entrance.jpg
+role: header
+prompt:[Face_Reference: Xandor, Eldric, Dulint, Maris, Balin]. Xandor reverente en la costura; Eldric con espada lista; Dulint con el fardo; Maris foco de dolor; Balin vigilando la cresta. Mediodía en granito desnudo: fisura estrecha oculta tras una cresta, aire mineral helado respirando, viento levantando polvo frío. Luz alpina dura rebota en hielo pálido; una linterna tenue añade un pequeño charco cálido sobre el borde y el vaho, reflejos ámbar corren por grano húmedo de granito. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: map-consultation.jpg
+role: mid_01 (placed after sentence "—Construcción pre-reino —dijo Xandor, pasando los dedos por el borde de la fisura.")
+prompt:[Face_Reference: Xandor, Maris, Dulint, Eldric, Balin]. Xandor trazando el encaje; Maris inclinada; Dulint apretando fardo; Eldric y Balin vigilando sombras. Borde de fisura con piedra sin mortero ni marcas, bruma fría tocando dedos. Pulso azul-blanco del Faro tiñe hielo cercano; luz del día revela cristales de escarcha, puntos especulares brillan en el granito, sombras suaves bajo la neblina. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, grano visible, fondo ligeramente desenfocado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: broken-seal.jpg
+role: mid_02 (placed after sentence "Esa puerta había sido empujada hacia adentro. El hielo alrededor del marco estaba agrietado, astillado, forzado.")
+prompt:Macro del marco de hielo-sello: hielo grueso empujado y fracturado, líneas de ruptura radiando, astillas colgando de piedra perfecta. Linterna calienta la translucidez; el pulso azul-blanco del Faro se filtra y hace brillar grietas con puntos especulares fríos, sombras dobles sobre fracturas. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, grano visible, poca profundidad de campo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: entering-darkness.jpg
+role: mid_03 (placed after sentence "Avanzaron en fila india, Eldric primero con la espada desenvainada, luego Dulint con el fardo y una linterna, después Maris, y por último Xandor y Balin cubriendo la retaguardia.")
+prompt:[Face_Reference: Eldric, Dulint, Maris, Xandor, Balin]. Avance en fila india, tensión contenida. Túnel de hielo cristalino mostrando huesos de piedra, vaho suspendido y arrastrado, charcos cálidos de linterna en paredes y borde frío del Faro. Luz mixta se refracta en hielo, reflejos azul-blanco se deslizan, ámbar se queda en zonas húmedas, sombras se duplican. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, leve vibración de mano, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: ancient-markings.jpg
+role: mid_04 (placed after sentence "Marcas antiguas cubrían cada superficie, escritura que Maris no podía leer, patrones que parecían desplazarse cuando apartaba la vista.")
+prompt:Cámara de hielo vivo: marcas antiguas en paredes translúcidas, escritura ilegible moviéndose al borde; fragmento pequeño sobre pedestal emite luz fría y el Faro responde con pulso más profundo. Luz azul-blanco se refracta con franjas violetas en líneas grabadas, reflejos ondulan en curvas; la linterna queda como ámbar débil en bordes. Sony A7R V 24mm f/1.4 GM Cinestill 800T, grano visible, ligera halación en brillo fuerte, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Surface Mage: The Return
+Language: en
+Canon Sequence: D-007-005
+Source Image: family-chaos.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Servants rush through the corridor in opposite directions, trays and rolled reports jolting in their hands. Lantern and fungal light throw restless shadows that slide across carved stone.
+[00:03-00:05] Drusniel slips in through the service entrance and stops, taking in the controlled panic. His mother snaps a quick gesture to redirect a servant, relief flashing and then disappearing.
+[00:05-00:08] A raised voice echoes from deeper in the compound. The corridor flow tightens as people squeeze past each other, and Drusniel turns toward the sound, jaw setting before he moves.
+
+Slow tracking shot following Drusniel from the service entrance into the corridor flow.
+Audio: hurried footsteps on stone, cloth rustle, tray clink, distant muffled shouting, lantern chain rattle, faint wet hum of bioluminescent fungi. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

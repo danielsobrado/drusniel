@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro)
+Title: La Deuda Anticipada: La Conversacion
+Language: es
+Canon Sequence: D-023-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: drusniel-elion-night-camp.jpg
+role: header
+prompt:Volcanic campsite at night, two figures sitting close on a rock ledge overlooking steaming fissures. A small goblin curled tight sleeping nearby. Embers of a low fire casting amber light. A female silhouette patrolling the dark perimeter. Campfire glow reflects off wet vesicular basalt ledge surface, distant volcanic vents provide warm orange-red light against deep shadow. Steam from fissures refracts the vent light into soft amber bands across the middle ground. Shadows tinged warm orange at their edges where firelight meets volcanic darkness. Sony A7R V 35mm f/2.8, Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: elion-sits-beside-drusniel.jpg
+role: mid_01 (placed after sentence "Elion se sento junto a el.")
+prompt:[Face_Reference: Elion]. Settling down with quiet weight in his posture, careful movement. [Face_Reference: Drusniel]. Still, staring at the smoking volcanic distance. Both sit on a rock ledge looking at the same horizon, silence visible in their body language. Low campfire glow from the right warms their profiles with interactive highlights along jawlines and shoulder edges, volcanic haze diffuses the light into amber halos behind them. Porous basalt ledge texture visible beneath their seated forms. Sony A7R V 50mm f/1.8, Kodak Portra 400, shallow depth of field. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: drusniel-admits-dependency.jpg
+role: mid_02 (placed after sentence "Espere que viniera.")
+prompt:[Face_Reference: Drusniel]. Guarded vulnerability, jaw tight, eyes fixed on a distant point. Speaking quietly, the admission costing visible effort. Sitting on volcanic rock at night. Campfire glow lights one side of his face with warm orange interactive highlights on cheekbone and temple, the other side falls into cold blue-grey shadow. Firelight reflects off the porous basalt surface beside him, creating a warm pool of light that isolates his figure against the surrounding darkness. Sony A7R V 85mm f/1.4 GM, Cinestill 800T, natural skin with pores. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: elion-reveals-count.jpg
+role: mid_03 (placed after sentence "Unas cuarenta.")
+prompt:[Face_Reference: Elion]. Weight of long experience visible in his face, deep weariness behind steady eyes. [Face_Reference: Drusniel]. Expression shifting to dawning horror, subtle recoil. Tight two-shot, both sitting side by side on volcanic rock. Campfire embers reflected in their eyes as tiny orange points. Ember glow from below casts deep interactive shadows upward on both faces, lighting the underside of brows and nostrils with warm orange while foreheads remain in darkness. Sony A7R V 85mm f/1.4 GM, Kodak Portra 400, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: talryn-observes-distance.jpg
+role: mid_04 (placed after sentence "Trazo una grieta en la roca junto a su pierna con la una del pulgar.")
+prompt:[Face_Reference: Drusniel]. Hand tracing a crack in dark volcanic rock with his thumbnail, compulsive grounding gesture. Close detail of the hand and stone. Campfire embers glowing nearby. In background a female silhouette completes another patrol circuit through darkness. Ember light catches the thumbnail and vesicular basalt texture from below, interactive warm highlights on knuckle ridges and the rough porous surface of the crack. Volcanic darkness swallows the background beyond the ember radius. Sony A7R V 100mm f/2.8 macro, Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

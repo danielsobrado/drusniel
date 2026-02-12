@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The regions of Astalor
+Language: en
+Canon Sequence: AST-L-003
+Source Image: sage-witnesses-stonehold-forge.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The massive drop-hammer rises, the glowing billet dimming slightly as air hits it. Smiths brace, tongs locked tight.
+[00:03-00:05] The hammer slams down. A radial burst of sparks erupts and arcs outward; the molten channel nearest the anvil ripples in response to the vibration.
+[00:05-00:08] Sparks hiss as they strike wet stone and die. The billet flares brighter for a beat, then settles back to a steady glow as the forge rhythm resumes.
+
+Static wide shot from the gallery railing.
+Audio: deep metallic clang, overlapping anvil rhythm, hiss of sparks on damp stone, low roar of molten channels, brief shouted warning without intelligible words. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

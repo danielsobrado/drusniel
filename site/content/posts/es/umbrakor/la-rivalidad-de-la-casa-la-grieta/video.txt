@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La Rivalidad de la Casa: La Grieta
+Language: es
+Canon Sequence: D-009-002
+Source Image: isolation.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] In the darkness, Drusniel’s fingers clench under the blanket; the candle flame leans hard to one side and dust lifts off the stone floor.
+[00:03-00:05] The dust snaps into a fast ring around the bedposts, tugging the blanket edge and making a tin cup on the nightstand chatter; the fungal glow flickers as if the air is being squeezed.
+[00:05-00:08] He forces his grip to loosen and exhales; the ring breaks into drifting motes, the cup settles, and the flame straightens—silence returns, but the last specks keep circling for a heartbeat.
+
+Slow dolly-in from the doorway to the bed.
+Audio: candle crackle, cloth rustle, faint whoosh of moving air, metal cup rattle, distant water drip in the tunnels, one sharp inhale and a long exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

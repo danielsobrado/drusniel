@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Nada y el Segundo Sol
+Language: es
+Canon Sequence: AST-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sage-examines-ancient-book.jpg
+role: header
+prompt:[Face_Reference: Sage]. Eyes narrowed in careful focus; gloved fingers tense as the leather resists. Lifting the cracked cover of an ancient tome, binding splitting like dried skin and releasing a faint plume of ash above a cluttered desk in a vaulted archive; shelves of scroll cases recede into darkness; five candle flames reflect in polished wood.
+Environment: Candlelight is the only illumination, warm amber with steep falloff into shadow. Ash particles float through the light as bright points; page edges glow unevenly through water damage; polished wood throws soft warm reflections back onto gloves.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation around candle flames. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: sage-pays-merchant.jpg
+role: mid_01 (placed after sentence "Le pagó al mercader el doble de lo que pedía. Él se fue rápidamente, como aliviado de deshacerse de su carga.")
+prompt:[Face_Reference: Sage]. Hand extended with coins; expression unreadable, all caution. Paying a hooded merchant in the study doorway; rain falls in the cobblestone alley behind him; cloak dripping; the ancient book wrapped in oilcloth sits on the desk behind her.
+Environment: Cool overcast daylight from the open door washes the merchant in grey while a small oil lamp inside throws warm amber across Meridia's glove and the wrapped book, creating a hard warm-cold split at the threshold; raindrops catch brief highlights as they fall past the doorway.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: sage-reads-about-gods.jpg
+role: mid_02 (placed after sentence "Cada voz estaba segura. Cada voz estaba segura de manera diferente.")
+prompt:[Face_Reference: Sage]. Eyes narrowed; fingertip tracing a line as if trying to hold it still; fatigue gathering at the corners. Leaning over the open book, surrounded by multiple pages of notes in three columns with headings not readable; margins crowded with arguments in different inks; crumpled drafts on the floor.
+Environment: Single beeswax taper provides warm directional light that throws a long shadow and reveals ink ages as different tones. Warm highlights catch the wet ink meniscus on the newest notes; the rest of the archive falls into black with only faint amber bounce under the wrists.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: sage-studies-marginal-notes.jpg
+role: mid_03 (placed after sentence "La mano marginal estaba de vuelta, más afilada ahora:")
+prompt:Extreme macro of an open manuscript page: angular bronze-tinted script and marginalia in multiple hands, one note violently scratched out leaving torn fibers; gloved fingertip rests beside the obliterated line; modern quill and ink pot at edge; no readable words.
+Environment: Candlelight sidelight turns bronze ink into faint metallic sheen and throws micro-shadows into torn paper terrain. Ink pools in script grooves with a visible meniscus; wax drips harden into glossy ridges that catch pin highlights.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: sage-contemplates-contradictions.jpg
+role: mid_04 (placed after sentence "La Academia no toma posición oficial sobre autenticidad.")
+prompt:[Face_Reference: Sage]. Exhaustion around the eyes; shoulders heavy; book held with care like a weight. Sliding the closed tome onto a shelf in a restricted archive corridor while a notebook hangs open, final page blank except a single line of handwriting not readable; brass placards glint faintly.
+Environment: Distant wall oil lamp provides a thin amber glow that leaves her mostly in shadow. Book spines catch only edge-light; brass throws small hard specular glints; dust motes disturbed by the book insertion drift through the lamplight as faint sparks.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

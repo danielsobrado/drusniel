@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Rumbo al Norte: La Emboscada
+Language: es
+Canon Sequence: W-018-003
+Source Image: balin-first-kill-moment.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The underbrush explodes and Balin swings on instinct; the impact jolts his arms and hot breath catches as dark spray hits his cheek.
+[00:03-00:05] The attacker grabs his sword arm and yanks him forward; a cleaver-whistle cuts past as Eldric slams into Balin from the side, driving both of them into wet leaves.
+[00:05-00:08] Balin scrambles up, shakes his head once, and thrusts again with shaking hands; the attacker drops and Eldric hauls him backward without letting him look, dragging him into the moving knot of the fight.
+
+Handheld.
+Audio: underbrush crash, boots on wet leaves, metal clash, heavy breathing, a dull thud, fabric rip, distant animal panic. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

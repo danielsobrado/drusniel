@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Dirección: El Pueblo Sombrío
+Language: es
+Canon Sequence: D-019-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ribcage-settlement-establishing.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Avance cauteloso, miradas calculando, tensión contenida. Asentamiento dentro de una caja torácica colosal: arcos de costillas, chabolas y pasarelas de cuerda pegadas al hueso, suelo de ceniza y bruma de azufre alrededor. Resplandor volcánico distante y braseros dentro de las costillas empujan puntos naranjas al crepúsculo gris; el humo difumina la luz y deja reflejos ámbar en hueso húmedo mientras el polvo de ceniza atrapa rebotes teal en la neblina. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: entering-bone-alleys.jpg
+role: mid_01 (placed after sentence "Drusniel contó salidas mientras entraban.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel mapeando salidas; Srietz encorvado listo para huir; Elion firme pero vigilante. Callejones bajo sombras de hueso con puestos de madera chatarra y puentes de cuerda, demasiados ojos y armas mal ocultas; azufre y sudor en el aire. Antorchas y braseros pintan franjas ámbar mientras el crepúsculo frío entra por grietas, alternando gris/naranja en los rostros; el humo convierte los brillos en halos suaves sobre hueso mojado y lonas grasientas. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, fondo ligeramente desenfocado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: srietz-trades-gems.jpg
+role: mid_02 (placed after sentence "Srietz encontró a su comerciante en un puesto que olía a carne preservada y algo químico.")
+prompt:[Face_Reference: Srietz, Drusniel, Elion]. Srietz desliza dos gemas; Drusniel escanea el gentío; Elion cubre la espalda. Puesto bajo costillas con mostrador manchado, lonas colgantes y compartimentos ocultos; comerciante borroso levanta una lente para inspeccionar. El brillo de las gemas crea puntos especulares azul-blanco en dedos y vidrio; una lámpara humeante añade derrame cálido que se refleja en hueso húmedo y superficies grasientas, dejando sombras de doble tono bajo el borde del mostrador. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, grano visible, sutil lens flare en el vidrio de la lente, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: provisions-from-hidden-compartments.jpg
+role: mid_03 (placed after sentence "—Comenzó a sacar objetos de compartimentos ocultos: raciones secas, tabletas de purificación de agua, una cuerda delgada que parecía más fuerte de lo que debería—.")
+prompt:Macro de provisiones sobre madera manchada: raciones secas, tabletas y una cuerda delgada enrollada; panel oculto entreabierto, herrajes gastados. Luz de gema y lámpara titilante crean brillos mixtos en sobres, fibras y vetas húmedas; reflejos se deslizan por la humedad mientras ojos del fondo quedan en bokeh suave. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, grano visible, poca profundidad de campo, fondo ligeramente desenfocado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: leave-ribcage-town-east.jpg
+role: mid_04 (placed after sentence "Se fueron rápidamente después de eso.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Salida rápida y urgente; Srietz apretando provisiones; Elion mira una vez atrás. Cruzan puertas toscas hacia llanuras de ceniza mientras las costillas quedan como catedral oscura detrás. Antorchas y humo cálido se apagan a su espalda y el crepúsculo frío con resplandor volcánico distante aplana el horizonte; la ceniza brilla en el aire y el hueso húmedo guarda los últimos reflejos ámbar. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

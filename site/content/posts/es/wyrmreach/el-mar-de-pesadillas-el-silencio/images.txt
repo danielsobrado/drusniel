@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mar de Pesadillas: El Silencio
+Language: es
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: endless-gray-nightmare-sea.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Hunched over oars, salt and grime on his skin, rowing into a horizon that never moves. A small battered wooden boat alone on an impossible flat expanse of black water under uniform gray light with no sun and no true shadows. The silence of the scene is heavy and wrong. Sourceless gray illumination from every direction, no shadows. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: numb-hands-on-oars.jpg
+role: mid_01 (placed after sentence "Drusniel no podía sentir sus manos más.")
+prompt: Close-up on hands gripping wet oar handles with white knuckles, skin raw and numb, water splashing against the boat and soaking his legs. The black surface looks too thick and lightless, the air dead and still. Flat gray ambient light catching the wet grain of the oar handles. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: wall-of-black-water.jpg
+role: mid_02 (placed after sentence "Una ola se levantó adelante.")
+prompt: [Face_Reference: Drusniel] Exhaustion and terror on his face, rowing straight toward it. A vertical wall of black water rises ahead of the boat, not a normal wave but a suspended dark cliff defying gravity. Skin tight with strain. Gray sky reflected nowhere, water surface swallowing light. Faint luminescence along the crest of the wave, gray ambient from above. Canon EOS R5 16mm f/2.8 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drowning-vision-silence.jpg
+role: mid_03 (placed after sentence "La proa golpeó la pared de agua, y la realidad se rompió.")
+prompt: [Face_Reference: Drusniel] Eyes wide and unfocused, mouth open, sinking without a boat. Underwater view in pitch-black liquid as black water invades his mouth and nose. The scene is impossibly still, the entire sea holding its breath. Faint gray light dying above him, vast presence suggested only by pressure and empty space. Dying gray light from above, fading to black in every other direction. Canon EOS R5 35mm f/1.4 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: back-in-the-boat-debt.jpg
+role: mid_04 (placed after sentence "El dolor explotó a través de su pecho.")
+prompt: [Face_Reference: Drusniel] Jolting upright in the boat with a ragged gasp, clutching his chest as pain and a new invisible weight settle beneath his ribs. Oars locked in his grip as if his body kept rowing through the nightmare. Black water laps at his shins. A faint colder pulse presses at his sternum under wet clothing. Gray light ahead shifts almost imperceptibly toward distance and direction. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The First Fragment: The Search
+Language: en
+Canon Sequence: W-020-001
+Source Image: xandor-sensing.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow dolly in begins on Xandor's hovering hands as the Beacon's glow tightens into a narrower pulse; wind tugs cloaks and grit skitters across rock around the open pack.  
+[00:03-00:05] The dolly continues; Dulint shifts closer protectively, Eldric's hand drifts toward his sword, and Balin glances between Maris's trembling fist and the light as if waiting for the next vision to hit.  
+[00:05-00:08] The camera settles as the Beacon stutters—quick flashes, then a low steady hum—throwing sharp blue-white highlights across canvas weave and knuckles; the group falls silent, listening for footsteps behind them that never quite arrive.
+
+Camera movement: Slow dolly in toward Xandor's hands and the pack.  
+Audio: cutting wind, cloth snap, grit scraping stone, faint Beacon hum that rises and falls, soft breathing, distant treeline hiss. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Paquete: El Instrumento Roto
+Language: es
+Canon Sequence: D-011-001
+Source Image: entering-ruin.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] He steps over broken glass, boots scraping softly as dust lifts from the floor and hangs in the cold beam of dawn.
+[00:03-00:05] A nearby candle flame gutters and flares; loose papers shiver and slide as a draft pushes through the shattered doorway.
+[00:05-00:08] He freezes, then takes one more careful step toward the overturned instrument, fingers hovering over debris as ash drifts down from the rafters.
+
+Slow dolly-in following him into the violated study.
+Audio: glass crunch, faint paper rustle, candle flicker, distant timber creak, soft ash fall, forest wind outside. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

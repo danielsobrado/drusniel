@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Grieta
+Language: es
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arguing-with-air.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Sleepless alarm, eyes fixed on the dark as if listening to someone just out of reach; breath shallow, shoulders tense against the cold. Drusniel sits half-upright in his narrow bed inside a cramped Umbra’kor chamber—rough black stone walls, a thin blanket twisted at his waist, a small nightstand with a stub candle and scattered worn notes, dust floating in the still air. A faint blue-green fungal glow seeps from a ceiling crevice as cold fill, while the candle provides the only warm diegetic key light, throwing soft amber across his hands and carving hard shadows into the stone. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, subtle lens flare at the candle edge. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: voice-distortion.jpg
+role: mid_01 (placed after sentence "Drusniel se incorporó en la cama.")
+prompt:[Face_Reference: Drusniel] Confusion hardening into suspicion, brow tightening as he realizes the “familiar” voice isn’t quite right. Tight portrait as he tilts his head toward the empty air, one hand hovering at his temple; the space in front of him shimmers with barely-visible ripples and drifting motes like interference in the connection. The same candle and faint fungal glow light the scene: warm amber flicker catches moisture in his eyes and glints off dust, while cold blue-green spill edges his cheekbone and turns the ripples into thin, wavering highlights. Sony A7R IV 85mm f/1.4 Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: broken-mirror.jpg
+role: mid_02 (placed after sentence "El pulgar de Drusniel golpeteó contra sus dedos.")
+prompt:[Face_Reference: Drusniel] Jaw clenched in counting discipline, fear kept on a leash; thumb mid-tap against his fingers. Close-up on a cracked obsidian mirror shard propped on the nightstand: it reflects only a fractured slice of Drusniel’s face and one eye, while his tapping hand sits sharp in the foreground, knuckles taut. Candlelight paints warm amber across the mirror’s glossy fracture lines and the ridges of his fingers; cool fungal glow adds a thin cyan rim on the obsidian edge, making the cracks look like fault-lines. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: shyntara-watching.jpg
+role: mid_03 (placed after sentence "La presencia pulsó con urgencia.")
+prompt:Extreme macro on a hidden peephole set into black stone—an old surveillance aperture lined with polished obsidian. Inside it, a faint violet scry-glow wavers like a living iris, implying someone is listening in; moisture beads on the stone and dust clings to the rim. The only light is diegetic: a thin violet pulse from within the hole and a distant blue-green fungal wash along the wall, creating cold specular highlights on the obsidian lining and deep shadow everywhere else. Sony A7R IV 100mm macro Cinestill 800T, film grain visible, shallow depth of field, slight dust on lens, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: isolation.jpg
+role: mid_04 (placed after sentence "El aire en la habitación se agitó, respondiendo a su ira.")
+prompt:[Face_Reference: Drusniel] Anger pressed into silence, fingers clenched under the blanket; eyes wide and unblinking in the dark. Wide shot of the small chamber as the air around the bed subtly moves—dust motes lifting in a slow spiral, the candle flame bending, a loose scrap of paper on the nightstand twitching as if tugged by a breath that isn’t there. Blue-green fungal glow provides cold ambient fill while the candle throws warm, jittering highlights across the bedframe and Drusniel’s hands; shadows pulse with the flicker. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, slight motion blur in drifting dust, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

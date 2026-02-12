@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The First Fragment: The Location
+Language: en
+Canon Sequence: W-020-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: ice-cave-entrance.jpg
+role: header
+prompt:[Face_Reference: Xandor, Eldric, Dulint, Maris, Balin]. Xandor reverent at the seam; Eldric sword ready; Dulint holding pack and lantern; Maris headache-tight focus; Balin scanning the ridge. Midday on a sheer granite face: narrow fissure hidden behind a ridge, mineral-cold air breathing out, wind whipping frost dust. Harsh alpine daylight reflects off pale ice inside the crack; lantern adds a small warm pool on the fissure edge and breath fog, amber reflections skating across wet granite grain while cold light stays flat and desaturated. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: map-consultation.jpg
+role: mid_01 (placed after sentence "\"Pre-kingdom construction,\" Xandor said, running his fingers along the edge of the fissure.")
+prompt:[Face_Reference: Xandor, Maris, Dulint, Eldric, Balin]. Xandor tracing the join; Maris leaning in; Dulint steadying lantern; Eldric and Balin watching angles. Close at the fissure edge: seamless stone fit with no mortar or tool marks, cold mist threading out onto their hands. Lantern warmth rakes granite grain and ice crystals; daylight adds cold fill, specular points sparkle on frost, shadows soften under overcast haze. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: broken-seal.jpg
+role: mid_02 (placed after sentence "This door had been pushed inward. The ice around the frame was cracked, splintered, forced.")
+prompt:Macro on the ward-ice doorframe: thick ice shoved inward, fracture lines radiating, shards and frost splinters hanging from perfect seamless stone. Lantern warmth glows through ice translucency; the Beacon's blue-white pulse leaks through canvas folds and makes cracks glitter with cold specular highlights, casting double shadows across splinters. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: entering-darkness.jpg
+role: mid_03 (placed after sentence "They pressed forward single file, Eldric first with his sword drawn, then Dulint with the pack and a lantern, then Maris, then Xandor and Balin guarding the rear.")
+prompt:[Face_Reference: Eldric, Dulint, Maris, Xandor, Balin]. Single-file advance, tense and controlled. Ice-lined tunnel with crystal-clear walls showing stone bones beneath; breath fog hangs then smears as they move, lantern warm pools on ice and Beacon glow adds cold edges. Mixed light refracts through ice, sharp blue-white highlights skitter along the wall, amber reflections cling to damp patches, shadows stretch and double. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight handheld shake, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: ancient-markings.jpg
+role: mid_04 (placed after sentence "Ancient markings covered every surface, script that Maris couldn't read, patterns that seemed to shift when she looked away.")
+prompt:Living-ice chamber detail: ancient markings on translucent walls, unreadable script shifting at the edge of vision; a small fragment on a seamless stone pedestal emits cold light while the Beacon answers with a deeper pulse inside the pack. Blue-white light refracts through ice with faint violet fringes along etched lines, highlights ripple across curved surfaces; lantern warmth lingers only as a weak amber at the edges. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slight halation in the brightest glow, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

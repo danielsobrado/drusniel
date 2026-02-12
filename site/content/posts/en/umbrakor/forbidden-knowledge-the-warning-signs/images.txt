@@ -1,0 +1,27 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Warning Signs
+Language: en
+Canon Sequence: D-007-008
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: letter-examined.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Controlled shock, hands trembling as he opens the letter; breath caught, eyes locked on the page. In a cramped library alcove between tall shelves of elemental theory volumes, he unfolds a newer sheet of paper found wedged between dusty books, parchment edges worn and the handwriting present but blurred and unreadable, leather spines and loose pages crowding the frame while dust motes drift through still air. Warm lamplight from a single oil lantern pools across parchment texture and catches floating dust, leaving the shelves behind him in deep shadow. Canon EOS R5 100mm f/2.8 macro Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: zaelar-explanation.jpg
+role: mid_01 (placed after sentence "The explanation fit.")
+prompt: [Face_Reference: Zaelar] Deliberate calm, eyes cold behind patience, one hand mid-gesture as he explains. [Face_Reference: Drusniel] Holding the letter at the edge of the table, suspicion tightening his mouth, shoulders braced. In an old library study lined with ancient volumes, two cups of tea steam on a cluttered reading table among scattered papers and book stacks, the air heavy and quiet. A single table lamp casts warm amber across faces and wood grain, throwing hard shadows into the shelves; candle-like halation blooms softly around the lamp glass. Canon EOS R5 50mm f/1.4 Kodak Portra 400, slightly underexposed, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: mental-contact-doubt.jpg
+role: mid_02 (placed after sentence "Trust him. The words echoed.")
+prompt: [Face_Reference: Drusniel] Wary exhaustion, eyes open and fixed, jaw set; fingers gripping the sheet until knuckles tighten. In a bare stone bedroom, he lies awake in total stillness as a familiar warmth seems to press at the edge of his awareness, breath shallow and controlled, rumpled bedding creased under tense hands. Thin cold corridor light leaks under the door and a tiny bedside candle ember provides the only warm glow, painting faint amber on his cheek while the rest of the room falls to black. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: cracked-ceiling.jpg
+role: mid_03 (placed after sentence "Drusniel lay in darkness, eyes fixed on a thin crack in the stone above him.")
+prompt: [Face_Reference: Drusniel] Eyes wide with sleepless focus, hands slowly steadying on the blanket, breathing measured. Low angle from the pillow looking up at a thin crack running across the rough stone ceiling like a fault line, dust drifting lazily in the air while the room holds its breath. Cold blue moonlight from a high slit window traces the crack and rims the edge of his face, with a weaker warm spill from the door gap fading across the bedding. Canon EOS R5 24mm f/2.8 Cinestill 800T, natural low-light grain, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: shadows-remain.jpg
+role: mid_04 (placed after sentence "Everything else was shadows.")
+prompt: [Face_Reference: Drusniel] Hollow-eyed fatigue, shoulders slumped; staring at his own hands as if testing what is real. Wide shot in near-total darkness: Drusniel sits on the edge of the bed with the letter lying beside him on the blanket, dust haze lingering in the air and a barely stirred candle flame bending with a draft he catches without thinking. A thin line of cold corridor light under the door is the main illumination, with a weak warm candle glow adding soft highlights on fingertips and paper edges while the corners of the room vanish into black. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Nightmare Sea: The Black Water
+Language: en
+Canon Sequence: D-009-001
+Source Image: something-circles-below.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The hull tilts as a slow pressure wave rolls under the boat; the surface dimples in a wide ring and the oars shiver in Drusniel's grip.
+[00:03-00:05] The ring tightens. The boat steadies unnaturally, held from below. Drusniel flinches back from the gunwale, knuckles whitening as he refuses to reach for magic.
+[00:05-00:08] The dark mass passes directly beneath. The boat rocks once, heavy and delayed, then settles into dead calm; Drusniel exhales through clenched teeth and forces the oars back down.
+
+Slow push-in from the boat's midline to a tight close-up on Drusniel's face and the waterline.
+Audio: wet wood creaking, thick liquid lapping with wrong viscosity, a low sub-bass pressure hum swelling then fading, restrained breathing, a small oar tap against the gunwale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

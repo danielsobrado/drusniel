@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Aftermath
+Language: en
+Canon Sequence: W-012-001
+Source Image: vision-fragment-hand.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The black water swells and tightens like oil; a long-fingered hand rises, trembling, and drags a wake that refuses to behave like normal ripples.
+[00:03-00:05] Fingers splay for purchase and then slip; the surface folds over the knuckles with unnatural resistance as a cold glow pulses from below.
+[00:05-00:08] The hand is pulled under; bubbles burst in a fast chain and the water smooths to a glossy stillness, leaving only a widening ring of distortion.
+
+Slow push-in on the hand as it breaks and then loses the surface.
+Audio: thick liquid slosh, muffled underwater thrum, bubble pops, brief wind drop to hush, then a distant bird call returning. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

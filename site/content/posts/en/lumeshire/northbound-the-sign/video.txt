@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Northbound: The Sign
+Language: en
+Canon Sequence: W-018-002
+Source Image: Eldric-halts-group.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Eldric throws his fist up and the whole group freezes mid-step, boots stopping on damp needles as the birds cut off at once.
+[00:03-00:05] He drops to one knee and drags a finger through moss and pressed earth, eyes narrowing; Balin leans in and still can't see what Eldric sees.
+[00:05-00:08] Maris turns toward the east, breath catching as if something presses on her senses; Eldric rises and signals them forward toward defensible ground, and they move again with slower, quieter steps.
+
+Handheld.
+Audio: boots on needles, wet leaf rustle, birdsong cut, fingertip scrape in dirt, a distant twig snap, shallow breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: La Elección
+Language: es
+Canon Sequence: W-012-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: inn-common-room.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, cautious hesitation at the threshold; eyes adjusting, shoulders tight as she steps into warmth she doesn't trust. View from just inside the inn entrance: warm crowded common room packed with merchants and locals finishing dinner, a large fireplace throwing orange light, serving girls weaving between tables with practiced efficiency; Maris pauses in the doorway while no one notices her, crowd held in slight motion blur. Hearth fire and lanterns provide warm amber pools and flicker across faces and wood, while cooler dusk from the door edges Maris in faint blue-grey rim. Sony A7R IV 24mm f/2.8 Kodak Portra 400, film grain visible, slight lens flare from the hearth, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: xandor-with-plants.jpg
+role: mid_01 (placed after sentence "Un hombre anciano sentado solo en una mesa de esquina")
+prompt:[Face_Reference: Xandor] Photorealistic, calm certainty in a crowded room; hands gentle as he murmurs and adjusts leaves with practiced precision. Character introduction at a back corner table: Xandor sits alone surrounded by small potted herbs and unfamiliar flowers arranged along the tabletop, a quiet pocket of calm amid tavern chaos. Warm firelight and a small table candle catch moisture on leaves and the lines of his hands, while smoke haze softens the background into warm blur. Canon EOS R5 50mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: xandor-pale-eyes.jpg
+role: mid_02 (placed after sentence "Sus ojos eran pálidos, casi sin color")
+prompt:[Face_Reference: Xandor] Photorealistic, pale nearly colorless eyes locking onto Maris with the precision of someone who was waiting; expression calm, attention exact. Eye-level close portrait as he looks up, the corner table and plant pots blurred around him while warm firelight catches cheekbones and lashes and the rest falls into soft shadow. Candlelight reflection provides a small warm point in the eye, emphasizing focus. Sony A7R IV 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: plant-ritual-pattern.jpg
+role: mid_03 (placed after sentence "Sus manos... se movían con la certeza de larga práctica.")
+prompt:Photorealistic close detail of Xandor’s hands working among the pots, rotating a small plant toward the light with careful pressure on fragile stems; dirt under fingernails and the pots arranged in a deliberate pattern across worn wood. Firelight reflects off moist soil and ceramic rims, warm specular highlights sliding across damp leaf surfaces while smoke haze softens the background. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible, slight vignetting. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-choice-made.jpg
+role: mid_04 (placed after sentence "Y Maris Hale tomó su decisión.")
+prompt:Photorealistic close detail at Xandor’s table: Maris’s hand rests on worn wood beside a small plant pot, fingers finally still after hours of tension, knuckles relaxing by degrees. Warm firelight and soft tavern haze fill the background, amber reflections sliding across ceramic glaze and the fine fibers of her sleeve while the rest of the inn dissolves into blur. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

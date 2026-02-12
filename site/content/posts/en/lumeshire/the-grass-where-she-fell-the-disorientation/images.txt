@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Disorientation
+Language: en
+Canon Sequence: W-012-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-road.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, exhausted and worn down; posture stubbornly upright as she keeps moving through the disorientation. Wide establishing shot of a dusty road leading toward the distant fortified town of Riverhold as Maris walks alone and a merchant cart rumbles past, kicking up dry dust that hangs in the air. Late afternoon sun is harsh and hazy, flattening the landscape into warm glare while dust turns into a glowing veil around wheels and boots. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: reality-check-pain.jpg
+role: mid_01 (placed after sentence "The only way to come back was to anchor herself in sensation. Pain worked best.")
+prompt:[Face_Reference: Maris] Photorealistic, dazed eyes unfocused; fingers press into her cheek and mouth as she anchors herself in sensation, pain working best. Close portrait with the road and field behind her rendered with subtle ghosting and slight double exposure, like black-water ripples are trying to overlay reality without becoming literal. Bright sun lights her face hard, while the shadow side stays heavy and cool, emphasizing the fight to stay awake. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: riverhold-gate-check.jpg
+role: mid_02 (placed after sentence "The guard grunted and waved her through.")
+prompt:[Face_Reference: Maris] Photorealistic, tight controlled composure; lying with her eyes while her hands still tremble. Medium shot over the guard's shoulder as Maris stands before a bored Riverhold gate guard under the stone arch, answering questions with short words while a line of travelers waits behind. Gate shadow swallows most of the frame in cool grey, while a strip of late sun cuts across her face and the guard's armor, catching dust on fabric and stone. Sony A7R IV 50mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: riverhold-streets.jpg
+role: mid_03 (placed after sentence "The town was busy but not crowded. Shops lined the main street")
+prompt:Photorealistic high angle looking down Riverhold's main street: shops lining the road with hanging signs swinging in an evening breeze, an inn corner glowing warm, people moving with purpose to finish the day. Maris is a still point in the moving crowd, looking out of place as the ordinary world flows around her. Golden hour light warms the street, while deep shadows pool under awnings and doorways, emphasizing the contrast between normal life and her private terror. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-waits-wall.jpg
+role: mid_04 (placed after sentence "So she waited. Leaned against the wall as the sun sank lower.")
+prompt:[Face_Reference: Maris] Photorealistic, hollow patience and stubborn fear; arms wrapped tight around herself as she waits for the pull to become a direction. Maris leans against a rough stone wall in a side street, breathing slowly while market sounds and distant laughter blur away; the last light slips lower and Riverhold's ordinary life continues without noticing her. Setting sun provides a fading warm edge, while twilight shadows deepen under her eyes and along the wall texture. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La llamada a Zuraldi
+Language: es
+Canon Sequence: P-001
+Source Image: secret-pact.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The cube's symbols accelerate and its low hum swells as Dulint and Balin tighten their forearm clasp. The lantern flame gutters sideways, as if pulled by a draft that is not there.
+[00:03-00:05] A single cold pulse flashes from the cube, and both men flinch. Dust on the tabletop shivers in place, then settles as the hum drops to a steady, dangerous throb.
+[00:05-00:08] Dulint breaks the clasp and clamps his palm over the cube to smother the glow. Balin nods once without speaking, then reaches for the pack straps, already moving toward departure.
+
+Slow dolly-in from the clasped forearms to the cube.
+Audio: lantern crackle, low resonant hum rising and falling, one sharp metal tick, soft scrape of hands on wood, faint grit vibrating, tight breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

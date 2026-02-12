@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Choice
+Language: en
+Canon Sequence: W-012-005
+Source Image: maris-choice-made.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris leans in and plants her elbows on the table; the candle flame steadies, then flickers as her breath tightens and the inn's noise dulls behind her.
+[00:03-00:05] Xandor’s hands stop over the pots; a faint glow trembles through the leaves and a ceramic rim clicks softly as one cup shifts a fraction.
+[00:05-00:08] She nods once, slow and final; the hearth crackle swells back in and the plants settle, the pattern holding as if it just accepted her.
+
+Slow dolly-in toward Maris across the candlelit table.
+Audio: inn murmur, hearth crackle, candle flicker, ceramic clink, chair creak, soft cloth rustle. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

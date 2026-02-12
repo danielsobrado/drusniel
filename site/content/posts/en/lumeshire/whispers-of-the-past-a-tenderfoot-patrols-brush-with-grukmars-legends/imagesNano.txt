@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Tavern Talk
+Language: en
+Canon Sequence: P-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rusty-axe-tavern.jpg
+role: header
+prompt:Wide tavern interior under low beams and smoky air, guards hunched at rough tables near the hearth, a battered lute singing at the far end while sweat and sour beer hang thick. Hearth fire and candle stubs are the only light, warm amber pooling on tabletops and catching smoke in soft ribbons; reflections shimmer on wet mugs, corners fall to deep black. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: guards-gossiping.jpg
+role: mid_01 (placed after sentence "Five other guards already hunched around a table near the hearth.")
+prompt:[Face_Reference: Varian]. Expression: guarded half-relief, cloak still damp. [Face_Reference: Elric]. Expression: sardonic fatigue, eyes scanning the room. Varian and Elric join five other guards hunched around a rough table, Tormund leaning in to gossip as mugs of bitter ale crowd the wood. Hearth fire from the side throws warm amber; orange highlights catch cheekbones, knuckles, and mug rims, reflections slide across damp glass and pooled ale, smoke softens everything behind into shadow. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly out of focus background. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elara-story.jpg
+role: mid_02 (placed after sentence "Elara's voice was soft but carrying.")
+prompt:[Face_Reference: Elara]. Expression: serious intensity, voice low but carrying. Elara leans toward the table as the men listen despite their forced jokes, tavern air thick with smoke and sour beer. Hearth fire is the only light, warm amber rim light catching the edge of her cheek and reflecting as tiny points in irises; the far side of her face drops into deep shadow with soft halation around the flame. Sony A7R V 85mm f/1.4 GM Cinestill 800T, natural skin with pores, film grain visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: varian-reflection.jpg
+role: mid_03 (placed after sentence "Varian stared into his mug, watching firelight play on the dark surface.")
+prompt:[Face_Reference: Varian]. Expression: distant unease, eyes fixed downward. Over-the-shoulder into the mug as firelight plays on the dark ale surface, the reflection warping into something clawlike for a heartbeat before resolving back to ripples. Hearth fire is the only light; amber reflections move across the liquid, specular highlights catch the mug rim and wet tabletop, background falls to smoky black with shallow depth of field. Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: gruesome-trees.jpg
+role: mid_04 (placed after sentence "the trees stood silent, holding their secrets like teeth holding a tongue")
+prompt:Low-angle view up into the Grukmar treeline at night, trunks and branches crowding together like teeth, canopy swallowing the sky. Cold moonlight is the only light, silver rim on bark and wet leaves; black negative space pools between branches with no bounce, mist faintly catching the light at the edges. Sony A7R V 16mm f/2.8 GM Cinestill 800T, film grain visible, underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

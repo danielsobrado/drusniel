@@ -1,0 +1,30 @@
+{
+  "name": "Marrek",
+  "title": "Border Guard",
+  "titlees": "Guardia Fronterizo",
+  "description": "A border guard with a clay pipe and a thousand-yard stare. He stands his watch, smokes, and watches the treeline like it owes him money. Whatever he saw out there, he's decided not to talk about it.",
+  "descriptiones": "Un guardia fronterizo con una pipa de arcilla y una mirada perdida. Monta su guardia, fuma, y observa la línea de árboles como si le debiera dinero. Lo que sea que vio allá afuera, ha decidido no hablar de ello.",
+  "thumbnail": "marrek.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Guard"
+  ],
+  "skillses": [
+    "Guardia"
+  ]
+}

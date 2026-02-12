@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: Border Sign
+Language: en
+Canon Sequence: P-005
+Source Image: yard-report.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Torch flames gutter in the damp air and throw restless shadows across the yard. Soldiers shift around the cookfires, boots squelching in mud.
+[00:03-00:05] Varian finishes the report and swallows hard, shoulders tightening as he waits for a reaction. Eldric's stare stays distant for a beat too long, as if measuring something beyond the words.
+[00:05-00:08] Eldric turns his head toward the treeline beyond the palisade, listening. The fire pops and briefly flares brighter, then settles, leaving the yard in uneasy hush.
+
+Slow dolly-in from Varian to Eldric.
+Audio: torch crackle, low fire pop, muddy footsteps, armor and spear-haft creaks, distant wind through trees, quiet breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

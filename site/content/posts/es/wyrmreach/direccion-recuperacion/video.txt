@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Dirección: Recuperación
+Language: es
+Canon Sequence: D-019-001
+Source Image: direction-to-the-east.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dolly out lento desde la mochila del Faro: el resplandor azul blanco se filtra por la lona, hongos cian palpitan en las paredes, Srietz susurra números y Elion se mueve bajo la manta.  
+[00:03-00:05] La cámara despeja la mochila y llega a Drusniel en el umbral, hombros cuadrados, ojos entrecerrados hacia el crepúsculo violeta exterior; su aliento se vuelve niebla y ceniza fina pasa flotando.  
+[00:05-00:08] El movimiento se detiene fuera de la cueva, encuadrando cristal volcánico dentado mientras Drusniel da un paso adelante, dejando atrás el pulso del Faro.
+
+Movimiento de cámara: Dolly out lento desde el interior de la cueva hacia la salida.  
+Audio: Goteo en la cueva, murmullo de Srietz contando, zumbido bajo del Faro, roce de tela, viento exterior con arena volcánica y un retumbo lejano. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

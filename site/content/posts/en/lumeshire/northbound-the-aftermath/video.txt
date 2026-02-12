@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Northbound: The Aftermath
+Language: en
+Canon Sequence: W-018-005
+Source Image: camp-after-battle.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dusk wind pushes past a rocky overhang as the camera dollies in slowly on the wounded camp; Xandor tightens a bandage on Eldric’s arm while Dulint clutches the artifact pack and Balin stares at his clean-but-haunted hands.  
+[00:03-00:05] The dolly continues inward; Maris sits apart in the blue half-light, knees hugged, watching nothing. A hooded lantern leaks a narrow amber slit that glints on damp stone and tired eyes while cold twilight drains the rest of the color.  
+[00:05-00:08] The move settles near the artifact pack at the center as all five faces drift into frame, each looking a different direction; breath fogs in the chill and the lantern gutter flares once before dimming.
+
+Camera movement: Slow dolly in from camp edge toward the pack.  
+Audio: Wind over stone, distant branches creaking, soft cloth rustle as bandages tighten, faint clink of gear, muted breathing and a single lantern gutter pop. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

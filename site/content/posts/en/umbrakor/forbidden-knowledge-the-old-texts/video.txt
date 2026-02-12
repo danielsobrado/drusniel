@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Forbidden Knowledge: The Old Texts
+Language: en
+Canon Sequence: D-007-006
+Source Image: name-on-list.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] His eyes scan the page once, then stop dead. Fingers tighten until the paper creases and his breath catches, the lamplight trembling across the ink texture.
+[00:03-00:05] He swallows hard and glances toward the door as if expecting it to open. The lamp flame flickers and throws a brief shadow-jump across the shelves.
+[00:05-00:08] He folds the page with careful speed and slides it into his sleeve, forcing his face back into control. He turns the next page of the book as if nothing happened, but his hand shakes once before it steadies.
+
+Slow push-in from the page to his eyes.
+Audio: paper rustle, soft lamp wick crackle, a single sharp inhale, distant settling creak of old shelves, faint sand hiss from an hourglass. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

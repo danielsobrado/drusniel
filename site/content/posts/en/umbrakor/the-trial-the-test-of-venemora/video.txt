@@ -1,0 +1,17 @@
+# Video Prompt
+Title: The Trial: The Test of Venemora
+Language: en
+Canon Sequence: D-003-001
+Source Image: the-void-feeling.jpg
+
+## Veo 3 Prompt
+
+[0-3s] Drusniel kneels on the black stone platform, eyes closed, hands flat on the warm obsidian. His fingers press harder. The purple bioluminescent light from the fungi overhead flickers once. A faint heat-shimmer appears above his hands, then collapses. His breathing quickens.
+
+[3-6s] He reaches one hand forward into the air above the altar. The purple light bends toward his fingertips and dies. A sphere of absolute blackness blooms where the light was, expanding slowly. His fingers lose their color at the edges. The shimmer is gone. Only absence remains, growing.
+
+[6-8s] Drusniel's hand drops. He opens his eyes. The void vanishes instantly, leaving only the ordinary purple chamber light. He stares at his empty palm. Behind him, out of focus, a mage checks something off a slate without looking up.
+
+Slow crane down from overhead to eye-level as the void expands, settling into a static frame when his hand drops.
+Audio: deep stone resonance, a low thrumming that cuts to silence when the void appears, the scratch of a stylus on slate, Drusniel's ragged exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

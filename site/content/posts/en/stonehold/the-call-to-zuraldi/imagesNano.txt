@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Call to Zuraldi
+Language: en
+Canon Sequence: P-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-examines-cube.jpg
+role: header
+prompt:[Face_Reference: Dulint]. Expression: puzzled squint, dust on his beard; thick fingers tracing odd angles. [Face_Reference: Balin]. Expression: impatient curiosity, leaning in over his shoulder. In a mine tunnel, Dulint turns a dark metal cube with shifting geometric symbols while Balin watches the scroll and the artifact, rough stone and timber supports closing in. A hanging lantern is the primary light, warm amber that pools on knuckles and beard braids; the cube adds cold blue-white spill that reflects off dark metal edges and bounces faintly onto nearby fingers. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: thrain-flashback.jpg
+role: mid_01 (placed after sentence "Did I ever tell you about my great-grandfather, old Thrain Ironbeard?")
+prompt:[Face_Reference: Thrain]. Expression: legendary pride, chin lifted. Thrain Ironbeard stands in an idealized memory pose, beard heavy with rings as he holds a worn map close, parchment edges curled, ink lines faintly glowing like old legend. Firelight is the primary light, warm gold that blooms softly on metal and paper; specular highlights travel across rings, smoke haze catches the glow into gentle halation, shadows fall deep behind with no bounce. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, slight halation. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: balin-plotting.jpg
+role: mid_02 (placed after sentence "A slow grin spread across Balin's face.")
+prompt:[Face_Reference: Balin]. Expression: slow grin, mischief and excitement replacing boredom. Balin leans close over the artifacts in the mine, eyes flicking between Dulint and the cube as the plan takes shape, soot and stone dust on the table. Lantern flame is the primary light, warm amber that catches cheekbones and the edge of the smile; orange reflects off dusty wood grain and leaves the background in mine-dark, shallow depth of field. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: secret-pact.jpg
+role: mid_03 (placed after sentence "Dulint nodded, suddenly serious.")
+prompt:[Face_Reference: Dulint]. Expression: sudden seriousness, eyes hard. [Face_Reference: Balin]. Expression: eager resolve, grin fading to focus. Dulint and Balin clasp forearms over a rough table, the cube between them humming with shifting symbols, mine dust and scattered gear around their elbows. Lantern light is warm and low from the side; the cube adds cold blue-white glow from below, splitting shadows across hands and faces, blue reflections skating along metal edges and rope fibers. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, subtle lens flare. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: dawn-departure.jpg
+role: mid_04 (placed after sentence "First light tomorrow.")
+prompt:Two dwarven silhouettes with packs step out through a stone doorway at first light, boots crossing from interior shadow into cold mountain air as the path turns toward looming peaks. Sunrise is the only light, pale gold grazing granite edges and pine needles; long shadows stretch behind them, light bouncing off bright snow patches into the lower frame while the doorway interior stays black. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

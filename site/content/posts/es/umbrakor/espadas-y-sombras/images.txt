@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Espadas y Sombras
+Language: es
+Canon Sequence: D-002-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bamboo-grove-spar.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Focused strain, shoulders tight, grip set for a hard exchange. [Face_Reference: Shyntara] Effortless cold focus, body relaxed but ready, attention locked on him. Two drow siblings circle with drawn blades in a misty bamboo grove, footwork silent on damp leaf litter; tall stalks rise like bars around them and the air hangs wet and quiet. Dim canopy light filters down in cool broken patches, catching steel edges and turning drifting fog into pale ribbons; everything beyond the sparring ring falls into deep shadow. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: shyntara-strike.jpg
+role: mid_01 (placed after sentence "Su cabello alabastro azotaba el aire mientras esquivaba y se movía.")
+prompt:[Face_Reference: Shyntara] Zero exertion in her expression, a hint of disdain as she slips the strike. Action frame: Shyntara twists aside with liquid footwork, hair whipping through the mist as her blade streaks past at waist height; Drusniel is visible behind her slightly off-balance in soft blur. A thin shaft of cool canopy light cuts through the bamboo and hits the moving blade, throwing a sharp glint into fog while the rest of her body stays in shadowed contrast. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight motion blur in the blade arc, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: blade-at-throat.jpg
+role: mid_02 (placed after sentence "Metal frío besó su garganta.")
+prompt:[Face_Reference: Drusniel] Shock and forced stillness, breath caught, eyes wide as he realizes he lost. [Face_Reference: Shyntara] Flat, pitiless calm, the look of someone teaching a lesson. Extreme close-up at throat level: Shyntara’s blade presses against Drusniel’s neck with surgical steadiness, her fingers tight on the hilt while mist and bamboo blur into soft bokeh behind them. Cool filtered canopy light paints a thin line along the steel edge and catches moisture on skin; shadows fall hard under jaw and collar, tension visible in every tendon. Sony A7R IV 85mm f/1.4 Kodak Portra 400, natural skin with pores, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: magic-failure.jpg
+role: mid_03 (placed after sentence "\"¿Sigues aferrado a esa fantasía? La magia solo fluye por sangre noble, y la nuestra se ha vuelto débil y endeble.\"")
+prompt:[Face_Reference: Drusniel] Frustration hardening into quiet desperation, jaw clenched as he tries to deny the words. Drusniel stares at his own open hands, fingers slightly curled, willing something that will not come; Shyntara stands in the background out of focus with her weapon lowered, posture unimpressed. Dim canopy light filters through bamboo, laying cold highlights across his palms and leaving the gaps between fingers in deep shadow—no glow, no magic, only damp skin and stillness. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: shyntara-exit.jpg
+role: mid_04 (placed after sentence "\"Por tu bien. Pero si te equivocas... no esperes piedad del Consejo. Ni de mí.\"")
+prompt:[Face_Reference: Drusniel] Jaw set, swallowing anger, hand resting on his sword hilt as the warning lands. [Face_Reference: Shyntara] Surprisingly gentle touch gone, expression unreadable as she turns away. Wide shot through bamboo stalks: Shyntara steps backward into the darkest gaps of the grove until she’s half-absorbed by shadow, her retreating silhouette breaking into mist; Drusniel remains in the sparring ring, alone and motionless. Cool canopy light falls in broken patches across fog and wet stalks, while the shadows between bamboo deepen to near-black and swallow her as she goes. Sony A7R IV 50mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

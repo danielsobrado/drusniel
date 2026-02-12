@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: Los Días Vacíos
+Language: es
+Canon Sequence: D-006-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: pacing-room.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Expression: hollow and sleepless, jaw clenched; shoulders tight, pacing in a tight loop. Private stone training room adjoining his quarters, bare floor worn smooth, a dark training mat pushed off-center, knife rack and practice gear half-lost in shadow, folded clean clothes on a bench, untouched food tray and cup left outside the closed door. Only light is a thin line of corridor torchlight leaking under the door, cool amber skimming low across dust motes and catching the edges of his moving hands while the corners fall to black. Canon EOS R5, 35mm f/1.4, Kodak Portra 400, film grain visible, slight motion blur in the body while the face stays sharp. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: floor-crack.jpg
+role: mid_01 (placed after sentence "El patrón le daba algo a lo que aferrarse.")
+prompt: Hairline fracture in a cold gray stone training floor, the crack forking twice before vanishing under the edge of a worn black training mat, fine grit and chalk dust packed into the seam; Drusniel's boot toe and shadow hover at the edge of frame, implying fixation. Only light is low corridor torchlight leaking from under the door, grazing the stone texture and turning the crack into a sharp black thread. Sony A7R IV, 100mm macro f/2.8, Kodak Portra 400, shallow depth of field, slightly underexposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: shyntara-visit.jpg
+role: mid_02 (placed after sentence "Mírame.")
+prompt: [Face_Reference: Drusniel]. Expression: cracked exhaustion, defensive set to the mouth; posture rigid. [Face_Reference: Shyntara]. Expression: controlled concern, eyes narrowed, hand half-raised and then stopping short. In the bare stone training room, Shyntara stands close behind him as if catching him mid-pacing, the mat and knife rack pushed to the edges, the closed door and the untouched tray just beyond. Corridor torchlight leaks under the door in a narrow band, warm amber cutting across their feet and climbing one cheekbone while the rest of their faces sit in cold shadow. Canon EOS R5, 50mm f/1.4, Kodak Portra 400, natural skin with pores, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: thumb-tapping.jpg
+role: mid_03 (placed after sentence "Los números ya no significaban nada.")
+prompt: [Face_Reference: Drusniel]. Tense tendons, knuckles whitening; thumb tapping and then stopping mid-count. Extreme close-up on his hand hovering above the dark training mat, grit ground into the stone under his palm, a faint tremor caught in the fingertips. Low corridor torchlight skims from the side, turning the ridges of knuckles into warm highlights while the rest of the frame falls into soft blur. Sony A7R IV, 100mm macro f/2.8, Kodak Portra 400, film grain visible, shallow depth of field. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: first-contact.jpg
+role: mid_04 (placed after sentence "Una voz en su mente.")
+prompt: [Face_Reference: Drusniel]. Eyes snap open wide, breath caught; fingers clutch the bedsheet hard enough to crease fabric. Tight close-up in near-total darkness of his stone-walled room, ceiling lost overhead, the bed pressed against cold masonry. A thin cyan spill from a distant corridor glow outlines his cheek and hands, then a faint amber pulse blooms across his brow and irises like a signal finally breaking through, throwing soft warm halation into the shadows. Canon EOS R5, 85mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

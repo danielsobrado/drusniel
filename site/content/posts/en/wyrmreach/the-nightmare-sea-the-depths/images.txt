@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Nightmare Sea: The Depths
+Language: en
+Canon Sequence: D-009-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: volcanic-light-ahead.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Drawn with exhaustion, eyes fixed on the reddish glow ahead. A battered boat rides black water as real volcanic light appears on the horizon, reddish and smoky, a coastline that finally holds still. The water around the hull looks slightly less impossible with each stroke. Distant red volcanic glow ahead backlighting smoke and haze, grey sourceless light fading behind. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: water-becomes-less-wrong.jpg
+role: mid_01 (placed after sentence "The water around the boat began to change.")
+prompt: Close detail of an oar blade cutting through black water as the surface begins to behave like real liquid again. Ripples make sense. Resistance looks measurable. The boat wake holds a consistent shape. Faint cold mist hangs over the water and a distant red glow stains the reflection. Red volcanic light from the horizon reflecting in broken lines on the water surface, grey ambient fading. Sony A7R IV 50mm f/2.0 Kodak Portra 400, slightly out of focus background, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: collapse-on-black-sand.jpg
+role: mid_02 (placed after sentence "His legs buckled when they hit solid ground, and he collapsed onto black sand that was warm, almost hot—volcanic origin.")
+prompt: [Face_Reference: Drusniel] Arms failing, legs collapsing, streaked with salt and grime. Drusniel tumbles out of the boat onto hot black volcanic sand, hands sinking into coarse dark grains, breath ragged. The battered boat rests half in water behind him. Red-tinged perpetual twilight sky above, volcanic glow on the horizon pulsing. Red volcanic sky light from above casting warm tones on the sand and his skin, no sun visible. Canon EOS R5 35mm f/1.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: lines-in-the-sand.jpg
+role: mid_03 (placed after sentence "Drusniel's fingers traced the grain of the sand beneath him.")
+prompt: Close-up of fingers dragging lines into black volcanic sand, counting marks as if testing whether reality holds. Grains cling under the nails. The sand surface keeps its shape instead of shifting wrong. Red volcanic light from the sky casting warm tones across the sand without proper shadows, grains glinting faintly. Canon EOS R5 100mm f/2.8 macro Kodak Ektar 100, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: shadow-over-his-body.jpg
+role: mid_04 (placed after sentence "A shadow fell across him, blocking the red-tinged light.")
+prompt: [Face_Reference: Drusniel] Face-down on black sand, too exhausted to move. Ground-level view as approaching footsteps stop and a tall shadow falls across him, blocking the red light. Only the lower edge of a figure visible near his head. The sea and half-beached boat sit behind. Red-tinged twilight from the sky blocked by the standing figure, shadow cast across Drusniel and the sand. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

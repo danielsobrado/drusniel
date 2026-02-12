@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Black Garden: The Observers
+Language: en
+Canon Sequence: D-021-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arrows-in-the-crystal-field.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Reflex shock, hands snapped up; air-magic crackling at his fingertips as a survival cast triggers. In the ruler-straight corridor between dense faceted black crystal walls, a sudden volley of arrows slices through chemical haze; a violent gust explodes outward from his palms, bending shafts off-course and scattering them into soil and crystal bases while crystal dust and grit spiral in the disturbed air. Violet refraction glints on shard edges as orange fissure-glow from below lights the dust storm and catches arrows in brief specular flashes mid-tumble. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slight motion blur on arrows, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: arrow-passes-his-ear.jpg
+role: mid_01 (placed after sentence "Drusniel felt the displacement of air as a shaft passed his ear close enough to tug his hair.")
+prompt:[Face_Reference: Drusniel] Pupils tight, shock mid-breath; sweat and stinging tears mixed with grit, a strand of hair yanked by the passing shaft. An arrow whistles past his ear close enough to tug hair, feathered fletching blurred at the edge of frame; fine crystal powder hangs in the air like glittering grit while the black crystal corridor looms behind. Violet refraction catches in the suspended dust and a low orange underglow from hairline cracks adds harsh uplight under his jaw, haloing the drifting particles. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: armored-observers-emerge.jpg
+role: mid_02 (placed after sentence "They emerged from between the crystals like they'd been part of the formation.")
+prompt:[Face_Reference: Drusniel] Hands still half-raised, residual magic tension in his posture. [Face_Reference: Srietz] Pulled sideways between spires, ears flat, breath sharp. [Face_Reference: Elion] Protective stance, arms raised, face carefully blank. Thirty to forty scouts in earth-colored armor with covered faces step out from between the crystal formations as if birthed by stone, weapons drawn; they form a tightening ring on the narrow path while stray arrows stick in soil and crystal bases and dust still swirls in the charged air. Violet refraction from black facets draws cold edge highlights along armor plates; orange fissure-light rises from cracks at their feet, turning drifting dust into glowing specks. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: varesh-steps-forward.jpg
+role: mid_03 (placed after sentence "A figure stepped through the ring of scouts.")
+prompt:[Face_Reference: Varesh] Calm interest, head tilted, a thin smile starting; cloak shifting like water in low light. [Face_Reference: Drusniel] Lowering his hands slowly, spell-residue still buzzing; wrists bound in humming cord. Varesh steps through the frozen ring of scouts and studies scattered arrows buried in soil and crystal bases while crystal dust drifts in the disturbed air and weapons remain trained inward. Orange fissure-glow paints warm undersides as violet refraction from crystal walls casts cool bands across the cloak’s sheen, haze blooming highlights into soft halation. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, natural skin with pores, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: table-set-for-three.jpg
+role: mid_04 (placed after sentence "Three chairs. Three cups, still steaming.")
+prompt:A plain table set for three: three empty chairs and three steaming cups, steam twisting in the chemical air with an ominous sense of being expected. Circular clearing of packed black soil surrounded by towering inward-leaning faceted crystal spires like an audience watching a stage, the corridor opening into silence. Cold violet luminescence refracts through the crystal walls while faint orange underglow from hairline cracks catches the lower rims of steam plumes and throws warm edges into deep shadow. Sony A7R IV 35mm f/2.8 Cinestill 800T, film grain visible, slight vignette, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

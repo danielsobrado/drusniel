@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Voces en la Oscuridad: La Decisión
+Language: es
+Canon Sequence: D-006-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sneaking-past-study.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Expression: tense focus, breathing controlled; moving like a shadow in dark practical clothes.
+Environment: Family compound corridor at the third hour past midnight. Warm lamp light leaks under his father's study door in a thin strip, throwing amber bands across worn stone; sparse cyan fungal clusters add cold fill that turns the shadows blue-green, with dust suspended in the mixed light.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: surface-door.jpg
+role: mid_01 (placed after sentence "La manija estaba fría.")
+prompt: [Face_Reference: Drusniel]. Knuckles tight, grip firm; pausing with his palm on the cold handle at the threshold.
+Environment: Close-up on a scarred service corridor door marked with faded warning symbols and protocols, a hairline crack in the stone beside the hinges. Cyan fungal light glances off worn metal and gritty stone, catching rust texture as tiny warm-cool specular flecks; the tunnel beyond falls to near-black with no bounce.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, natural skin with pores, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: stepping-out-gray.jpg
+role: mid_02 (placed after sentence "El mundo de arriba.")
+prompt: [Face_Reference: Drusniel]. Squinting into unfamiliar light, posture braced; stepping out with cautious determination.
+Environment: Tunnel mouth opening onto a gray dawn, thick clouds pressing low over wet stone and gray trees with ash-colored leaves. Diffuse overcast daylight flattens shadows; moisture sheen on rock catches soft highlights and a thin mist softens the horizon into layered silhouettes.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: looking-back-tunnel.jpg
+role: mid_03 (placed after sentence "No volvió a mirar atrás.")
+prompt: [Face_Reference: Drusniel]. Shoulders set, gaze fixed forward; refusing the pull to look back as he walks away from the tunnel mouth.
+Environment: Medium-long view on the hillside: the tunnel entrance is a black cut in wet stone behind him, nearly invisible unless you know where to look. Overcast dawn flattens the landscape into cold grays; atmospheric mist softens distant hills while the tunnel stays pure black with no detail, swallowing any hint of home.
+Camera: Sony A7R V 35mm f/2.8 GM Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: tower-horizon.jpg
+role: mid_04 (placed after sentence "De pie sola en una colina como un dedo señalando las nubes.")
+prompt: [Face_Reference: Drusniel]. Still and intent, scanning; a subtle shift from doubt to determination as he finds the tower.
+Environment: Long view across rolling gray hills under heavy cloud. Overcast dawn desaturates the landscape; the tower reads as a near-black silhouette of sharp angles on a distant hill, softened by atmospheric mist, while wet grass and stone in the foreground catch faint cold highlights.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

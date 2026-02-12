@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Charla de Taberna
+Language: es
+Canon Sequence: P-004
+Source Image: varian-reflection.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The ale surface ripples as Varian's grip tightens on the mug. Firelight skates across the liquid in restless bands.
+[00:03-00:05] The reflection distorts further, briefly forming a clawlike shape that seems to reach upward before breaking apart into normal ripples. A coal pops in the hearth, showering tiny sparks.
+[00:05-00:08] Varian exhales and the mug steadies, but the firelight flickers again and the surface darkens as if something passes between flame and glass; conversation behind him fades to a dull murmur.
+
+Slow dolly-in from the mug rim to the reflection.
+Audio: hearth crackle, one sharp coal pop, low tavern murmur, mug scrape on wood, Varian's steady breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,31 @@
+{
+  "name": "Vondar",
+  "title": "The Eternal Forgemaster",
+  "titlees": "El Forjador Eterno",
+  "description": "Vondar, the Eternal Forgemaster, is the neutral dwarven deity who presides over the creation of weapons, armor, and other objects of war. His mark is believed to be imbued in every piece of dwarven-crafted metal, from the humblest of nails to the mightiest of warhammers. The ringing of hammer on anvil is said to be the beat of Vondar's heart, and as long as the dwarves continue to create, he will guide and protect them, emphasizing the importance of skill, dedication, and innovation in their work.",
+  "descriptiones": "Vondar, el Forjador Eterno, es la deidad enana neutral que preside la creación de armas, armaduras y otros objetos de guerra. Se cree que su huella está imbuida en cada pieza de metal forjado por los enanos, desde el más humilde de los clavos hasta el más poderoso de los martillos de guerra. Se dice que el tañido del martillo sobre el yunque es el latido del corazón de Vondar, y que mientras los enanos continúen creando, él los guiará y protegerá, enfatizando la importancia de la habilidad, la dedicación y la innovación en su trabajo.",
+  "thumbnail": "vondar.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Shyntara",
+  "title": "Dark Elf",
+  "titlees": "Elfa Oscura",
+  "description": "Shyntara, a fierce dark elf warrior, embodies the unyielding spirit of Umbra'kor. Her glacial eyes, framed by an untamed mane of ivory hair, pierce through any façade. Each fluid movement exudes lethal grace, honed by relentless training. Shyntara's unwavering loyalty to tradition stands as an immovable bulwark against her brother's magical ambitions.",
+  "descriptiones": "Shyntara, una feroz guerrera elfa oscura, encarna el espíritu inquebrantable de Umbra'kor. Sus ojos glaciales, enmarcados por una melena indomable de cabello marfil, atraviesan cualquier fachada. Cada movimiento fluido irradia una gracia letal, perfeccionada por un entrenamiento implacable. La inquebrantable lealtad de Shyntara a la tradición se erige como un baluarte inamovible contra las ambiciones mágicas de su hermano.",
+  "thumbnail": "shyntara.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Warrior"
+  ],
+  "skillses": [
+    "Guerrera"
+  ]
+}

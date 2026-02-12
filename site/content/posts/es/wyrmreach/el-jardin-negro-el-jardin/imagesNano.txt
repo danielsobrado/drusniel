@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Jardín Negro: El Jardín
+Language: es
+Canon Sequence: D-021-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: nyxara-enters-the-clearing.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion, Nyxara]. Drusniel en quietud vigilante; Srietz orejas aplastadas y respiración contada; Elion brazos cruzados, midiendo salidas; Nyxara entra sin prisa con vestido color tinta y sin armas visibles. Claro circular de tierra negra apisonada rodeado por agujas de cristal facetado inclinadas hacia dentro como público; mesa sencilla preparada para tres con tres tazas humeantes mientras los cristales chirrían y rotan para abrir un corredor. Refracción violeta dentro del cristal lanza caústicas finas en labios de tazas y pómulos, y subresplandor naranja desde grietas capilares subilumina manos y vapor; la bruma química dispersa ambas luces en halation suave sobre facetas húmedas. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligera tensión de pulso, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: untouched-tea-cups.jpg
+role: mid_01 (placed after sentence "Drusniel no tocó la suya.")
+prompt:Tres tazas de cerámica oscura sobre mesa gastada, té mineral transparente humeando en hilos finos; una mano delgada se queda suspendida sobre la taza y se niega a tocar, polvo de cristal apretado en ranuras y arañazos. Muros de cristal negro fuera de foco, el zumbido sugerido por microvibración en el vapor. Refracción violeta marca bordes fríos en labios y hebras de humo, y subresplandor naranja desde grietas finas atrapa la parte inferior del vapor y convierte motas de polvo en puntos ámbar; la grava húmeda refleja pinpricks especulares. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, poca profundidad de campo, grano visible, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: crystals-open-a-corridor.jpg
+role: mid_02 (placed after sentence "Los cristales se desplazaron.")
+prompt:Una ola mecánica recorre el muro de cristales negros cuando agujas facetadas chirrían y giran sobre sus bases, tallando un pasillo deliberado de piedra desnuda; cae polvo fino, sin viento, solo control. La refracción violeta se desplaza por los bordes como una costura móvil, y el subresplandor naranja desde grietas capilares ilumina el polvo desde abajo para que cada grano destelle ámbar antes de caer en sombra; streaks especulares se deslizan por facetas vítreas al girar. Sony A7R V 24mm f/1.4 GM Cinestill 800T, grano visible, leve desenfoque de movimiento en la caída del polvo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: nyxara-obsidian-portrait.jpg
+role: mid_03 (placed after sentence "Se sentó en la silla vacía a la cabecera de la mesa, acomodó las manos en su regazo, y miró a Drusniel con ojos muy oscuros y muy quietos.")
+prompt:[Face_Reference: Nyxara]. Ojos perfectamente quietos, interés frío; manos en el regazo, vestido tinta absorbiendo luz, postura sin esfuerzo. Retrato en la cabecera de la mesa, cristales inclinados hacia dentro como público, tazas humeantes cayendo en bokeh al frente, aire químico pesado. Refracción violeta perfila la silueta y un subresplandor naranja desde grietas capilares subilumina barbilla y dedos; halation suave en aristas y esmalte cerámico. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, poca profundidad de campo, textura natural de piel con poros, grano visible, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: nyxara-and-drusniel-conversation.jpg
+role: mid_04 (placed after sentence "—¿Qué quiere? —preguntó.")
+prompt:[Face_Reference: Drusniel, Nyxara]. Drusniel mandíbula tensa, respiración controlada, dedos obligados a quedarse quietos; Nyxara mirada estable, sonrisa fina sin calidez. Dos planos tensos a través de la mesa, té intacto humeando entre ambos, muros de cristal cerca como congregación escuchando; detrás de Nyxara el campo pulsa una vez en violeta más profundo y se calma. Refracción violeta talla bordes duros en facetas y tazas, y subresplandor naranja desde fisuras calienta la base del vapor; la bruma mezcla ambas luces en bloom suave, reflejos en streaks serrados sobre facetas húmedas. Sony A7R V 50mm f/1.4 GM Cinestill 800T, grano visible, ligeramente subexpuesto, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

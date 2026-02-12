@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Mago de Superficie: La Evaluación
+Language: es
+Canon Sequence: D-007-002
+Source Image: bending-candle.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The candle flame bows sharply sideways as if grabbed by an unseen hand. Wax trembles at the rim and the light flickers across the tabletop in fast, jittering shadows.
+[00:03-00:05] The flame collapses and dies in a single snap. A thick ribbon of dark smoke pours upward, twisting as the redirected draft continues to push it sideways.
+[00:05-00:08] The smoke thins and breaks into wisps that coil toward the vent overhead. Nearby candles flare and then settle back to a steady burn, leaving the snuffed wick glowing dull orange for a beat before fading.
+
+Slow pan from the snuffed wick to the remaining candle flames.
+Audio: sudden rush of air, candle flutter, soft pop as the flame dies, smoke hiss, wax drip, faint hourglass sand hiss in the background. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

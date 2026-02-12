@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Espadas y Sombras
+Language: es
+Canon Sequence: D-002-001
+Source Image: mid-02.png
+
+## Veo 3 Prompt
+
+[00:00-00:03] Shyntara's blade rests against Drusniel's throat. Neither moves. His chest heaves. A bead of sweat rolls down his jaw and catches the dim gray light. Her eyes hold his without blinking. Mist drifts slowly between bamboo stalks behind them.
+[00:03-00:06] She withdraws the blade in a single clean motion. The steel edge flashes as it catches the canopy light. Drusniel exhales hard, shoulders dropping. Shyntara sheathes the weapon with a decisive click. She speaks, close to his face, her breath visible in the cool air.
+[00:06-00:08] She turns and walks away between the bamboo stalks. Mist closes behind her. Drusniel stands alone, chest still heaving, hand rising slowly to touch his throat where the blade was.
+
+Locked-off medium shot, eye level, shallow depth of field.
+Audio: bamboo creaking in wind, dripping condensation, heavy breathing, steel sliding into sheath. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

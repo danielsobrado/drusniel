@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Jardín Negro: Las Tierras Fronterizas
+Language: es
+Canon Sequence: D-021-001
+Source Image: corridor-through-crystals.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] El zumbido del corredor se profundiza bajo sus pasos. Granos de polvo se levantan y tiemblan en círculos apretados. La mano de Drusniel tiembla hacia su gesto de anclaje, luego se obliga a quedarse quieta.
+[00:03-00:05] Hebras de vapor ventilan desde grietas finas y ruedan por los tobillos. Refracciones violetas parpadean por las facetas más cercanas, como si el campo cristalino se reajustara a su calor.
+[00:05-00:08] Más adelante, una sola espira se inclina unos grados hacia dentro. Elion se congela a mitad de paso y levanta dos dedos: alto. El zumbido baja medio tono y se siente como presión en el pecho.
+
+Movimiento de cámara: Dolly lento hacia adelante por el corredor, justo detrás del hombro de Drusniel.
+Audio: zumbido subgrave del cristal, crujido granular de grava, silbido de viento químico, siseo tenue de vapor, tic vítreo de facetas, una inhalación contenida. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

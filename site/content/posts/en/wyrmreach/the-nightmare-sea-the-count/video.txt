@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Nightmare Sea: The Count
+Language: en
+Canon Sequence: D-009-002
+Source Image: something-brushes-the-hull.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A soft scrape travels along the hull and the boat goes unnaturally level; the ankle-deep black water inside slides toward Drusniel's boots without a matching tilt.
+[00:03-00:05] Concentric ripples bloom beneath the planks. Drusniel freezes mid-stroke, grip tightening until the oar handles creak; his breath stalls as the pressure tests the wood.
+[00:05-00:08] The scraping stops. The boat releases and rocks once, natural and sloppy. Drusniel drops the oars into the water and pulls hard, wake tearing open for a heartbeat before the surface swallows it.
+
+Locked-off static shot centered on the boat.
+Audio: low wet creak of timber under load, faint scraping under the planks, thick water sloshing inside the hull, a subsonic hum that cuts out, two sharp oar splashes. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

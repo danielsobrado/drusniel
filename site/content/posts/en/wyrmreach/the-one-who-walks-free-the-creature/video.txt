@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The One Who Walks Free: The Creature
+Language: en
+Canon Sequence: D-013-002
+Source Image: walk-free-smile.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Guard boots crunch closer through black grit; the lantern swings and throws striped light across the cages as chains settle and go still.
+[00:03-00:05] Elion leans back from the bars and flashes a sharp, too-fast smile; Drusniel's hand tightens on iron and his breathing stays controlled.
+[00:05-00:08] A guard taps the cage with a spear butt; Elion's smile vanishes as he becomes motionless again, and the campfire pops, sending a brief burst of sparks into the smoky air.
+
+Dolly in.
+Audio: boot crunch on grit, iron bar creak, chain clink, lantern metal squeak, spear butt tap, fire crackle and spark pop, low wind hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

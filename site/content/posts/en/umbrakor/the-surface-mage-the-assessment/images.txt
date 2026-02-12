@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Surface Mage: The Assessment
+Language: en
+Canon Sequence: D-007-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: assessing-affinity.jpg
+role: header
+prompt: [Face_Reference: Zaelar]. Expression: focused intensity, gaze gone distant; one hand closed around Drusniel's wrist at the pulse point, the other tracing small patterns in the air. [Face_Reference: Drusniel]. Tense and trying to hold still, breathing shallow. Candlelit tower room with hourglasses on shelves and old texts in unreadable scripts behind them, the tea table between, steam and dust hanging in the warm air. Candlelight is the primary light, warm and low, carving deep shadows across knuckles and glass while faint gray daylight adds a cool rim at the room edges. Canon EOS R5, 50mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: finding-the-key.jpg
+role: mid_01 (placed after sentence "Wrong key, wrong lock.")
+prompt: [Face_Reference: Zaelar]. Calm certainty, explaining with a small controlled smile. [Face_Reference: Drusniel]. Wary, hungry focus, eyes fixed on the object. Close two-shot at the table as Zaelar holds up a small hourglass filled with pale blue sand, candle flame steady between them and reflecting in the glass. Warm candlelight glints along the hourglass curve and throws amber reflections across fingertips; cold gray window spill adds a thin cool rim to the glass edge while the background books dissolve into blur. Sony A7R IV, 85mm f/1.4, Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: air-current-demo.jpg
+role: mid_02 (placed after sentence "His fingers curved slightly.")
+prompt: [Face_Reference: Zaelar]. Controlled precision, fingers curved slightly as he redirects the draft. [Face_Reference: Drusniel]. Startled attention, feeling the air on his face. Demonstration beneath the wrought-iron vent in the ceiling: a cool current visibly shifts through candle smoke and dust motes, bending the nearest flames and lifting a loose page edge on the table. Candlelight is warm and directional, catching moving smoke as soft ribbons and throwing flickering highlights across the iron grate while the rest of the room stays dark. Canon EOS R5, 35mm f/1.4, Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: bending-candle.jpg
+role: mid_03 (placed after sentence "The candle on the nearest table flickered.")
+prompt: Tight tabletop close-up as a redirected draft bends a candle flame hard to one side and then snuffs it out, wax drips and soot marks visible on the lip while neighboring flames flicker violently. The candle itself is the primary light, warm orange glow reflecting off melted wax and ceramic glaze; the moving air is visible in the shifting smoke and flame shape as shadows jump across the table grain. Sony A7R IV, 100mm macro f/2.8, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: still-candle-lesson.jpg
+role: mid_04 (placed after sentence "Drusniel stared at the candle flame.")
+prompt: [Face_Reference: Drusniel]. Expression: fierce concentration forced into stillness, jaw unclenching by effort; fingers tapping once and then stopping. Intimate shot with a single candle placed between them on the table, Drusniel staring at the steady flame while hourglasses and unreadable books blur behind in soft shadow. Warm candlelight is the only strong illumination, carving cheekbones and catching tiny highlights in the eyes; the surrounding room falls off into near-black with a faint cool rim from distant daylight. Canon EOS R5, 85mm f/1.4, Kodak Portra 400, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

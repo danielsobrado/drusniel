@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Grito
+Language: es
+Canon Sequence: P-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: watchtower-night.jpg
+role: header
+prompt:[Face_Reference: Varian]. Expression: tired skepticism, leaning into the wind. [Face_Reference: Elric]. Expression: sleepless tension, eyes narrowed into the mist. They stand on the watchtower above a village swallowed by fog, huts dark below and the forest looming behind, timbers creaking in the wind. Cold moonlight from above gives thin blue rim light on wet boards and rooftops while a small brazier below throws warm amber uplight onto their faces; the mist catches both colors, fog edges glowing cyan-blue on top and amber at lower rims. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: grukmar-legend-discussion.jpg
+role: mid_01 (placed after sentence "Me contó cosas. Cosas que no quieren que se sepan.")
+prompt:[Face_Reference: Elric]. Expression: intense urgency, voice lowered; eyes flicking over his shoulder. [Face_Reference: Varian]. Expression: skeptical but uneasy, jaw tight. Elric speaks low while Varian stirs coals in the brazier, sparks lifting and dying, mist coiling below the tower and the village streets empty beneath them. Brazier fire is the primary light, warm and underlit; orange highlights catch undersides of brows and cheekbones, reflections shimmer on wet timber, while moonlight adds a cold blue rim along shoulders and railings. Sony A7R V 50mm f/1.4 GM Cinestill 800T, natural skin with pores, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: the-scream-reaction.jpg
+role: mid_02 (placed after sentence "Un grito rasgó la oscuridad.")
+prompt:Village at night at the instant a scream tears the darkness, low hut rooftops and chimney smoke under a pale moon as bats burst up and the empty muddy square sits framed by leaning walls, mist crawling through streets. Moonlight is the only light, cold and diffuse; wet roof edges and fog strands catch faint silver highlights while the square below falls into deep shadow, underexposed with film grain. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: girl-fighting-shadows.jpg
+role: mid_03 (placed after sentence "Se tambaleó al descubierto con los brazos agitándose, luchando contra sombras que solo ella podía ver.")
+prompt:[Face_Reference: Girl]. Expression: raw terror, tear tracks cutting grime, hands flailing. [Face_Reference: Varian]. Expression: urgent concern, lantern held out; grip steadying her sleeve. The girl staggers into the muddy square and fights empty air as if something is on her skin, clutching Varian while shutters stay closed and the village holds its breath. Varian's lantern is the primary light, warm and directional; the beam jitters with motion, orange highlights streak across faces and wet mud, shadows stretch long between huts, while cold moonlight fills edges to blue-grey. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly out of focus background. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: empty-alley-watch.jpg
+role: mid_04 (placed after sentence "Solo oscuridad. Solo un callejón vacío.")
+prompt:POV down a narrow alley between leaning huts, empty but heavy with the feeling of being watched, damp ground and scattered debris leading into black. A lantern beam is the only light, warm and fading fast into shadow; specular highlights catch on wet wood grain and puddle skins, then die into deep black with no bounce. Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

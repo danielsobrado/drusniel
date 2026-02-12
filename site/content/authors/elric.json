@@ -1,0 +1,32 @@
+{
+  "name": "Elric",
+  "title": "Border Guard",
+  "titlees": "Guardia Fronterizo",
+  "description": "Varian's patrol partner and the sharper eye of the two. He spots patterns where others see nothing and masks a quick mind behind tired sarcasm. The frontier hasn't broken him yet, but it's working on it.",
+  "descriptiones": "El compañero de patrulla de Varian y el ojo más agudo de los dos. Ve patrones donde otros no ven nada y esconde una mente rápida detrás de sarcasmo cansado. La frontera aún no lo ha quebrado, pero está en ello.",
+  "thumbnail": "elric.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Guard",
+    "Scout"
+  ],
+  "skillses": [
+    "Guardia",
+    "Explorador"
+  ]
+}

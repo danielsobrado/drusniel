@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Direction: The Gloomy Town
+Language: en
+Canon Sequence: D-019-003
+Source Image: srietz-trades-gems.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow dolly in through smoke and bone-shadow as Srietz places two gems on the counter; the merchant's small lens snaps open and Drusniel's eyes sweep the watching crowd while Elion shifts to cover their back.  
+[00:03-00:05] The dolly continues as a hidden panel slides back; dried rations and a coil of thin rope appear, and nearby silhouettes turn their heads in sync, attention tightening.  
+[00:05-00:08] Srietz sweeps the supplies into a sack without hesitation; Drusniel tightens his grip on the pack strap as the Beacon pulse flares under cloth, and the trio pivots and moves out, footsteps quickening toward the exit.
+
+Camera movement: Slow dolly in from alley into stall.  
+Audio: distant market murmurs, bone-walkway creaks, gem clink on wood, lens click, cloth rustle, faint Beacon hum, torch crackle, sulfur wind hiss. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Fracture: The Challenge
+Language: en
+Canon Sequence: W-022-002
+Source Image: fording-river.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Eldric steps into the grey-white current first, rope tightening around his waist. The line snaps taut behind him as the others follow, boots searching for rock through the pull of the water.
+[00:03-00:05] A foothold slips — Balin’s shoulder dips and the rope jerks hard. Dulint braces, leaning backward with the pack held high as spray blasts into faces and breath turns to white vapor.
+[00:05-00:08] They regain rhythm. Eldric signals with a sharp hand motion and drives them forward; one by one they clear the deepest section and stagger onto the far bank, soaked and shaking, rope still tight until the last person is out.
+
+Handheld tracking alongside the rope line, staying low to the water.
+Audio: roaring current, rock scrape under boots, rope fibers creaking, sharp breath and grunts, splashes and spray, wet cloth slapping, river hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

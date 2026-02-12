@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Second Choice: The Wait
+Language: en
+Canon Sequence: D-017-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: twelve-hours-like-twelve-days.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Eyes tired but alert, lips moving as he counts turns; one hand sketching routes in the air. [Face_Reference: Srietz] Still as a perched watcher, shoulders tight, gaze fixed toward the entrance. Drusniel paces the near passages during the long wait, moving from a cathedral-wide chamber into a squeeze-tight throat of obsidian and back, while Srietz holds the shelter line and listens for anything returning from the dark. Slow cyan-green phosphorescent growth on the ceiling provides the only light, pooling softly in hollows and skimming wet volcanic glass to create dim mirrored reflections that make distances feel wrong. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: srietz-talks-about-vexrath.jpg
+role: mid_01 (placed after sentence "In the sixth hour, Srietz started talking.")
+prompt:[Face_Reference: Srietz] Flat controlled honesty, mouth held tight; posture careful, hands kept close, eyes reflecting light without warmth. He sits near Drusniel and talks about losing a name and belonging to Vexrath, voice echoing off volcanic glass, each sentence measured like a cost and paid anyway. Cold cyan phosphorescence from the ceiling gives weak top-light that leaves deep shadows under cheekbones, and wet obsidian throws faint ghost reflections around him that jitter with every pulse. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, natural skin with pores, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-finds-ancient-writing.jpg
+role: mid_02 (placed after sentence "Carved into the obsidian wall, nearly invisible until his fingers brushed across it.")
+prompt:[Face_Reference: Drusniel] Sudden stillness, breath held, eyes narrowing in recognition; fingertips pressed to the wall. In the deep passage where the glow thins to almost nothing, he brushes damp obsidian and faint carved grooves catch under his touch, shallow chisel cuts forming archaic glyph-shapes that only appear when his hand shifts the angle of light. Weak cyan phosphorescence grazes the wall at a low angle, turning carved lines into thin specular highlights while everything else falls into black; a reflected blue-white flicker from the Beacon adds a brief edge along his fingers. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: carved-text-gouged-away.jpg
+role: mid_03 (placed after sentence "The text ended abruptly.")
+prompt:Photorealistic macro detail of smooth black obsidian with shallow chisel-cut grooves forming an archaic script, then a section violently gouged out with fresh scrape marks and splintered edges, as if someone erased the ending by force; dust and tiny shards cling inside the cuts. Cyan-green ceiling phosphorescence skims across the surface, creating razor specular highlights on glossy stone and deep shadow inside gouges, with a faint blue-white reflection pulsing once across the polish. Canon EOS R5 100mm macro Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: waiting-with-a-new-mystery.jpg
+role: mid_04 (placed after sentence "He made his way back to where Srietz waited, the goblin's eyes tracking his return with an expression that might have been concern.")
+prompt:[Face_Reference: Drusniel] Eyes unsettled, shoulders heavy, one hand rubbing fingertips as if still feeling the grooves. [Face_Reference: Srietz] Measured caution, head slightly tilted, watching for tells. Drusniel returns to the shelter chamber and sits hard against obsidian, the discovery sitting between them like a third presence; Srietz tracks him in silence while the hours continue to pass with no sign of Elion. Slow ceiling phosphorescence pulses cold cyan, painting soft top-light on drawn faces and throwing dim mirrored reflections across wet volcanic glass; shadows stay thick and patient. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

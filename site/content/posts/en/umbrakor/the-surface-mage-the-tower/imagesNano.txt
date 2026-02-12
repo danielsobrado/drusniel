@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Surface Mage: The Tower
+Language: en
+Canon Sequence: D-007-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tower-interior.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Cautious, alert; shoulders tight as he steps inside and scans the hall.
+Environment: Tower entry hall lit by iron candle brackets, shelves crammed with old books in unreadable scripts, hourglasses everywhere with sand in white, black, red, and gold steadily falling. Warm candlelight flickers across paper edges and glass curvature; cold gray daylight leaking through high windows adds cool rim highlights and reveals dust motes drifting in thin shafts, while shadows pool deep with minimal bounce.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: zaelar-reveal.jpg
+role: mid_01 (placed after sentence "A drow stood at the top of a spiral staircase.")
+prompt: [Face_Reference: Zaelar]. Expression: measured calm, faint almost-gentle smile; descending with deliberate slowness. [Face_Reference: Drusniel]. Guarded suspicion, chin tilted up as he watches.
+Environment: Tight spiral staircase, candle brackets throwing warm flicker across stone steps. Hourglasses on nearby shelves catch specular glints; candlelight backlights the descending figure and reflects as shifting highlights in the eyes while the stairwell behind stays dense and matte black.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: tea-for-two.jpg
+role: mid_02 (placed after sentence "Two cups, still steaming.")
+prompt: Two teacups on a small table near the staircase, both still steaming; a simple tea service placed with careful precision.
+Environment: Warm candlelight is the primary light, flickering orange across ceramic glaze and rising steam; reflections ripple across the dark tea surface while cold gray daylight spill adds a faint cool rim along the table edge. Condensation beads cling to the cup lip and catch as tiny highlights.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: hourglass-turned.jpg
+role: mid_03 (placed after sentence "Then Zaelar reached over and flipped it.")
+prompt: [Face_Reference: Zaelar]. Long fingers steady, unhurried; flipping a nearby hourglass as red sand begins to fall again.
+Environment: Extreme close-up on glass curvature and sand stream. Candle flame reflections warp through the hourglass body, warm halation blooming around the brightest highlights; individual grains catch and release tiny points of light as they pour, while surrounding shelves dissolve into soft blur.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, film grain visible, slightly out of focus background. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: handshake-trap.jpg
+role: mid_04 (placed after sentence "Drusniel reached out and placed his hand")
+prompt: [Face_Reference: Drusniel]. Fingers tense, wrist rigid; forcing himself to commit. [Face_Reference: Zaelar]. Still and open-palmed, too calm.
+Environment: Tight shot at the tea table as their hands meet, pressure visible in knuckles and tendons. Candlelight is warm and low, carving contrast across fingers and catching tiny highlights in the eyes; hourglasses and unreadable books blur behind into soft bokeh while shadows pool beyond the table edge.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, natural skin with pores, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

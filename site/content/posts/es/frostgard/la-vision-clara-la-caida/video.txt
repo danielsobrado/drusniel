@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Visión Clara: La Caída
+Language: es
+Canon Sequence: W-024-002
+Source Image: vision-pulls-maris-in.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The seam between reality and vision pulses across Maris's face. The hillside-half flickers — yellow grass, grey sky — while the void-half deepens, black water swirling in her eye. Her mouth opens in a silent gasp.
+[00:03-00:06] The darkness spreads. It bleeds across the seam, consuming more of the frame. The real-world side distorts, bending like a reflection in disturbed water. Her visible eye rolls upward. Blood traces a line from her nostril.
+[00:06-00:08] The void wins. Darkness floods the entire frame, swallowing the last sliver of overcast hillside. A faint sickly green glow begins to build from below — the first hint of where she's going.
+
+Slow dolly-in from medium to extreme close-up on her face.
+Audio: heartbeat slowing, deep sub-bass rumble building, crackling like ice fracturing, faint whispers emerging from the void. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

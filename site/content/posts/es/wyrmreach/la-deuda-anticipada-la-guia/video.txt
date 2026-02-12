@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Deuda Anticipada: La Guía
+Language: es
+Canon Sequence: D-023-001
+Source Image: talryn-watches-drusniel-sleep.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Static shot. Talryn stands motionless over the sleeping figure, seen from below through half-closed eyes. Only her eyes move — a slow deliberate scan downward, cataloguing. Dying campfire embers pulse faintly orange on her jaw.
+[00:03-00:06] Her weight shifts imperceptibly. Steam drifts across the background from a volcanic vent, catching the ember glow. Ash particles drift through the frame. Elion's silhouette sits motionless against a rock beyond her.
+[00:06-00:08] She lifts her gaze to the dark perimeter. Her jaw sets. She turns and walks into the darkness, boots soundless on volcanic rock.
+
+Locked-off camera, low angle from ground level.
+Audio: deep volcanic rumble, faint crackling embers, wind through stone. Controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Black Garden: The Lady
+Language: en
+Canon Sequence: D-021-004
+Source Image: nyxara-leaves-through-flowers.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Nyxara rises from the table. Behind her, the flower field parts — stems splitting and petals lifting like a living curtain. The air stays dead-still as the low hum deepens.
+[00:03-00:05] She steps into the path. The blooms close behind her in a smooth wave, sealing the gap. Steam from untouched cups twists between Drusniel and the empty chair.
+[00:05-00:08] The last petals meet and her silhouette disappears completely, as if swallowed. The field looks untouched again. At the clearing’s edge, Varesh materializes and raises a hand in a silent directive: follow.
+
+Slow pull back from Nyxara toward the table, keeping her centered until she vanishes.
+Audio: soft petal rustle, stems creaking, low crystal hum, faint steam hiss, grit underfoot, fabric whisper, a held breath, then sudden quiet as the petals seal. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

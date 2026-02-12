@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: Naming Without Explaining: The Recognition
+Language: en
+Canon Sequence: W-014-001
+Source Image: xandor-touches-artifact.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Xandor’s hand hovers, then settles onto the cube; candle flames flutter as if the room inhales, and dust lifts from the table in slow spirals.
+[00:03-00:05] The cube’s internal lines surge brighter and ripple outward; papers twitch and slide a fraction, blue reflections crawl across faces, and Maris flinches in the corner.
+[00:05-00:08] Eldric shifts at the door and steadies his grip; the light pulse drops to a steady throb, leaving the room in tense quiet as everyone freezes, listening for what comes next.
+
+Dolly in.
+Audio: candle crackle, soft paper rustle, table wood creak, a low electrical hum rising with the pulse, a sharp inhale, distant boot shift on floorboards. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Mysteries of the Wyrmreach Dominion
+Language: en
+Canon Sequence: WYR-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: compass-loses-meaning.jpg
+role: header
+prompt:[Face_Reference: Vorogarth] Eyes narrowed in distrust; mouth set in tired refusal; compass held out as if expecting betrayal. Vorogarth leads a small survey team across grey ground with a cracked, skin-dry texture under a bruise-purple sky fading to sick yellow at the edges; the compass needle refuses to settle and the lanterns on packs glow uselessly in the already shadowless air. The sky emits flat, directionless ambient illumination that erases shadows and makes faces read evenly lit from every angle, as if the world refuses to provide a key light. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: brass-compass-needle.jpg
+role: mid_01 (placed after sentence "The needle swung lazily, then pointed behind him.")
+prompt:Macro close-up of a brass compass in a weathered hand: the needle blurred mid-spin, pointing somewhere impossible; condensation beads on the glass, fine grey grit lodged in the hinge, cracked grey ground like dried skin beneath. The same sourceless skyglow lights the scene evenly, removing normal specular direction on brass and making highlights feel wrong, as if reflected from nowhere. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, razor-thin focal plane, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: the-seam-in-the-ground.jpg
+role: mid_02 (placed after sentence "A line, straight and deliberate, cut into the earth.")
+prompt:[Face_Reference: Vorogarth] Kneeling, hand braced; expression: reluctant recognition. [Face_Reference: Helvine] Rigid posture, eyes wide; hands lowered from her temples as if pulled by a thread. Vorogarth presses his palm to a straight seam cut into the grey earth while Helvine stands behind him staring at it; guards hover with hands near weapons and a young scholar grips a journal, frozen between fear and curiosity. Flat shadowless skyglow makes the seam read as a darker line against grey; a cold pocket around the seam pulls condensation onto skin and metal, leaving the surrounding air unchanged. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: stairs-into-black-chamber.jpg
+role: mid_03 (placed after sentence "Beneath it, stairs descended into darkness—smooth, even stairs, carved with a precision that seemed obscene in this place of wrongness.")
+prompt:[Face_Reference: Vorogarth] Arms locked as he catches her; jaw clenched; eyes fixed on the stairwell. [Face_Reference: Helvine] Mid-recoil, one hand half-raised; expression: shock and pain; one eye changed and unfocused. The grey ground folds open like peeled skin to reveal smooth black stone stairs descending into absolute dark; below, a chamber glow resolves walls etched with shifting glyphs (not readable). The chamber is lit by a colorless glow from the wall marks that does not behave like firelight; it spreads too evenly across the black stone, leaving the darkness beyond the stair mouth absolute. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: sealed-report-in-the-tower.jpg
+role: mid_04 (placed after sentence "The High Archivist read it twice, then placed it in the sealed archives.")
+prompt:[Face_Reference: Vorogarth] Posture rigid; eyes lowered; expression: knowing the answer already. In an austere archive tower office, the High Archivist reads his handwritten report by oil lamplight, then slides it into a sealed cabinet with wax closures and iron fittings; shelves of bound documents loom in the gloom behind. A single oil lamp throws warm amber light across paper and hands, leaving the far corners in heavy shadow; the cabinet iron catches hard highlights as the wax seals gleam. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

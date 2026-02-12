@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Package: The Mission
+Language: en
+Canon Sequence: D-011-002
+Source Image: power-promise.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The storm-sphere tightens and brightens; tiny arcs snap outward and crawl back as loose papers lift at the edges and candle flames lean away from the charge.
+[00:03-00:05] The sphere stutters, then flares; glass shards on the table tick and vibrate while shadows jitter across the diagram.
+[00:05-00:08] The light collapses into a single sharp spark and dies; smoke drifts back into stillness as the candle steadies and a hand lowers, fingers flexing once.
+
+Slow push-in toward the crackling sphere above the palm.
+Audio: electric crackle, paper flutter, candle hiss, glass tinkle, distant timber creak, soft wind outside. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

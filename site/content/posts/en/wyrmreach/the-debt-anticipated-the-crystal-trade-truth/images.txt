@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Debt Anticipated: The Crystal Trade Truth
+Language: en
+Canon Sequence: D-023-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: srietz-reveals-crystal-truth.jpg
+role: header
+prompt:[Face_Reference: Srietz] Urgent intensity, holding up a black crystal, ears forward. [Face_Reference: Drusniel] Listening with sharp focus. Srietz holds a black crystal that drinks light rather than reflects it, speaking urgently to Drusniel in a narrow volcanic pass with black crystal formations jutting from the ground like broken teeth. Faint violet luminescence from the crystal facets, dim volcanic twilight from above. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: black-crystal-closeup.jpg
+role: mid_01 (placed after sentence "The crystalline structure is a delivery system.")
+prompt:A black crystal held between small clawed goblin fingers, its surface showing an inner lattice structure that catches and absorbs light, faint violet luminescence in the facets, geometric precision visible in the formation. Crystal's own violet glow illuminating the goblin's fingertips from within, volcanic rock blurred behind. Canon EOS R5 100mm f/2.8 macro Kodak Ektar 100, slightly out of focus background, natural skin with pores on the fingers. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: talryn-returns-angry.jpg
+role: mid_02 (placed after sentence "But they'd all seen it.")
+prompt:[Face_Reference: Talryn] Professional mask cracked by controlled anger, tightness around eyes and mouth, discipline reasserting itself. Talryn stands at the bend of a rocky volcanic pass, eight feet from three travelers frozen mid-conversation. Dim volcanic twilight filtering through sulfuric haze above, faint ground-glow from nearby fissures. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drusniel-stops-counting.jpg
+role: mid_03 (placed after sentence "Elion had already stepped in front of him and corrected his path with a hand on his shoulder.")
+prompt:[Face_Reference: Elion] Corrective hand on shoulder, calm and steady. [Face_Reference: Drusniel] Disorientation and self-directed frustration, caught drifting off trail. Elion places a firm hand on Drusniel's shoulder to redirect him back to the safe path on volcanic terrain, subtle faction markers carved into nearby stone. Dull red veins in the dark earth glowing faintly, providing low ambient light. Canon EOS R5 50mm f/1.8 Kodak Portra 800, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-reveals-bet.jpg
+role: mid_04 (placed after sentence "The whether was never in question.")
+prompt:[Face_Reference: Talryn] Eyes fixed on the darkening horizon, delivering cold words downward. [Face_Reference: Srietz] Gone very still, ears rigid with alarm. [Face_Reference: Drusniel] Watching from nearby with calculating eyes. Campfire scene at dusk, Talryn sits on high ground above Srietz, fire between them casting long shadows across volcanic rock. Campfire light from below casting upward shadows, dusk glow fading on the horizon behind. Canon EOS R5 50mm f/1.8 Cinestill 800T, subtle lens flare from the fire. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

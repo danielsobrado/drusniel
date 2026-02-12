@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Primer Fragmento: El Fragmento
+Language: es
+Canon Sequence: W-020-003
+Source Image: maris-collapse.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Push-in tembloroso mientras Maris cae como desconectada; Balin la atrapa con fuerza y la sacude, el vaho helado estalla en el aire de la cámara.  
+[00:03-00:05] El push-in continúa hacia el pedestal; el Faro y el fragmento pulsan en sincronía perfecta, una costura del Faro se flexa como si algo dentro se moviera.  
+[00:05-00:08] La cámara se queda cerca cuando Dulint vuelve en sí, abre las manos y el fragmento golpea la piedra; Eldric se gira hacia la salida y el zumbido se hace más grave, como si la cámara estuviera escuchando.
+
+Movimiento de cámara: Push-in tembloroso desde Maris hacia el pedestal.  
+Audio: tos húmeda y respiración entrecortada, roce de tela en hielo, zumbido grave en ascenso, tintineo cristalino, botas rozando piedra, siseo de mecha. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

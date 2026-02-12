@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Pacto del Dominio Umbra'kor con la Oscuridad
+Language: es
+Canon Sequence: UMB-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: transcription-chamber.jpg
+role: header
+prompt:[Face_Reference: Sylaera] Hand shaking as she copies; lips pressed thin; eyes tracking the line like it might bite. Wide interior of a temple transcription chamber: rows of scribes hunched over long stone desks, beeswax candles pooled in wax-drip halos, and Sylaera in the foreground with an ancient manuscript open to dense script and marginal notes (not readable). Cold green-blue phosphorescent crystal glyphs high on the back wall provide steady ambient glow while each candle adds warm amber pools below, creating a visible cold-warm split across stone, ink, and skin. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: conflicting-texts.jpg
+role: mid_01 (placed after sentence "En Venemora encontramos propósito.")
+prompt:Macro close-up of weathered parchment on a stone desk: marginal annotations from multiple hands in different faded inks argue along the edges, one reply crossed out hard enough to tear the fibers; candle wax has dripped and hardened at the corner; no readable words. A single candle provides warm sidelight that reveals paper grain and ink absorption, throwing deep shadow into the torn depression and catching tiny wax ridges as glossy highlights. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, razor-thin focal plane, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: venemora-statue.jpg
+role: mid_02 (placed after sentence "Una tercera tradición, preservada solo en fragmentos, sugería que Venemora no era ni diosa ni fe sino algo más perturbador: una presencia que había estado esperando en las cavernas mucho antes de que el primer drow descendiera.")
+prompt:Low-angle view of a Venemora temple idol: a tall polished obsidian statue with chipped edges, offerings at the base (dark flowers, small bones, a bowl of dark liquid), and a surrounding chamber that vanishes into shadow beyond its reach. Cold blue-green phosphorescence from a floor-level crystal basin uplights the statue, distorting its face in shadow and drawing hard specular lines along obsidian planes while concavities swallow light. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: rift-patrol-report.jpg
+role: mid_03 (placed after sentence "Sylaera completó su transcripción y archivó el texto original de vuelta en el archivo restringido.")
+prompt:Top-down desk shot of misfiled patrol reports on rough grey paper: creases, soot smudges, cracked red wax seals, and black classification bars along the edges; handwriting is rushed and not readable; Sylaera's ink-stained fingertips hold the corner of the top page while temple correspondence lies underneath, showing the mistake. A single desk lamp throws harsh warm downlight that makes wax shine and paper texture pop, casting sharp shadows into folded corners and under her fingers. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: phosphorescent-proverb.jpg
+role: mid_04 (placed after sentence "En la cámara de transcripción, las letras fosforescentes continuaban brillando:")
+prompt:[Face_Reference: Sylaera] Tired eyes lifted; expression: doubt she cannot say aloud; quill hand paused mid-stroke. Night in the transcription chamber with most desks empty: guttered candles reduced to stubs, dust drifting through the air, Sylaera looking up at a wall of phosphorescent crystal glyphs forming a proverb (not readable). The crystal glow dominates as cold green-blue light, washing the far wall and catching in her eyes; a few dying candle stubs add weak warm accents near the desk edges. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, subtle halation in the glow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

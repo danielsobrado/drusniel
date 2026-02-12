@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: Nombrar Sin Explicar: La Advertencia
+Language: es
+Canon Sequence: W-014-002
+Source Image: beacon-pulse.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon pulses; candle flames lean and straighten, and dust lifts from the table in thin sheets as cold light crawls across wood grain.
+[00:03-00:05] The pulse strengthens and the shadows stretch; Eldric turns toward the window, hand on hilt, as if he feels movement outside before he sees it.
+[00:05-00:08] Maris flinches and clamps her hand to her temple; the pulse drops to a steady throb, leaving the room in tight silence while the candle crackle sounds suddenly too loud.
+
+Dolly in.
+Audio: candle crackle, low electrical hum swelling with each pulse, paper fibers shifting, distant street wind, a leather strap creak, a single boot scrape on floorboards. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

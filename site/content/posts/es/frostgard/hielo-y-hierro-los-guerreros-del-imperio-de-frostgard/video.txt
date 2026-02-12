@@ -1,0 +1,15 @@
+Source image: messenger-frozen.jpg (header — half-dead messenger carried through Jotunheim's iron gates in a blizzard, furs stiff with ice)
+
+Prompt:
+The two guardsmen heave the messenger through the gate; his ice-stiff body sags between them. Snow drives horizontally through the opening, swirling into the sheltered courtyard. The torch on the wall gutters violently in the wind, its flame stretching sideways. Ice crystals on the messenger's beard glint orange in the torchlight before the gate begins to grind shut.
+
+Camera: Slow tracking shot alongside the guardsmen as they pass through the gate, 24 mm, from blizzard exterior to sheltered interior.
+
+0 s – blizzard exterior, messenger being dragged toward the gate, visibility near zero, only the torch glow visible.
+3 s – they cross the threshold, the warm-cold light divide visible on their bodies, snow swirling past.
+7 s – gate begins closing, wind noise diminishes, torch steadies, ice crystals on the messenger's face catch the warm light.
+
+Audio: howling blizzard wind, crunch of boots on packed snow, metallic groan of the iron gate, guttering torch flame, a faint moan from the messenger. No music. No dialogue. No subtitles.
+
+Keywords: Photorealistic, cinematic, slightly grainy.
+Aspect: 16:9

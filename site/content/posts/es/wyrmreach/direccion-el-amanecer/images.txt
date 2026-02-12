@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Dirección: El Amanecer
+Language: es
+Canon Sequence: D-019-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sickly-dawn-black-crystals.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Capa tironeada por el viento, suciedad de viaje, ojos entrecerrados midiendo el descenso. Vista medio amplia desde una cresta de piedra negra en el amanecer enfermizo de Wyrmreach: abajo, millones de cristales negros salpican la ladera, facetas bebiendo la luz volcánica y devolviéndola como violeta tenue; hilos de vapor suben desde grietas en el suelo oscuro de ceniza. Bruma gris verdosa llena el aire mientras el resplandor rojo lejano del horizonte oriental sangra hacia las nubes como una herida, y destellos violetas saltan sobre el campo de cristales. Canon EOS R5 35mm f/1.4 Cinestill 800T, grano visible, ligera halación alrededor del rojo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: packed-camp-sulfur-smell.jpg
+role: mid_01 (placed after sentence "Drusniel despertó con el olor a azufre.")
+prompt:[Face_Reference: Srietz] Ya empacado, manos cruzadas en impaciencia precisa, mirada calculadora. [Face_Reference: Drusniel] Incorporándose del sueño, nariz tensándose por el azufre, gesto endureciéndose. [Face_Reference: Elion] Rotando hombros tras la última guardia, atención despierta y afilada. Campamento de mañana temprana entre rocas negras dentadas; ceniza pegada a correas y tela, mochilas listas, aire metálico como si el suelo respirara. Luz plana gris verdosa del amanecer mientras una linterna con brasa cubierta añade un parpadeo cálido que atrapa hebillas y condensación. Canon EOS R5 35mm f/1.4 Kodak Portra 400, grano visible, fondo ligeramente desenfocado, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: boots-on-ash-pulsing-veins.jpg
+role: mid_02 (placed after sentence "Luego la piedra se desmoronó en tierra que crujía como ceniza bajo los pies.")
+prompt:Plano bajo de botas pasando de roca volcánica vítrea a tierra que cruje como ceniza; venas rojas apagadas laten bajo el suelo negro como brasas enterradas, levantando motas con cada paso mientras hilos de vapor se enroscan desde grietas finas. Las venas pulsantes dan una luz roja interna tenue que roza suelas y granos de ceniza, y el amanecer enfermizo rellena el resto con bruma gris verdosa. Canon EOS R5 100mm macro Kodak Ektar 100, grano visible, ligero desenfoque de movimiento en ceniza flotante, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: march-toward-red-wound.jpg
+role: mid_03 (placed after sentence "El goblin señaló el horizonte.")
+prompt:[Face_Reference: Srietz] Brazo extendido, dedo rígido, objeción formal en la postura. [Face_Reference: Drusniel] Sin pestañear, mandíbula firme, paso constante. [Face_Reference: Elion] Cerca, medio girado como si escuchara peligros invisibles. Plano medio en marcha sobre suelo de ceniza mientras el resplandor del horizonte sangra rojo en nubes agitadas por calor; costuras deshilachadas y arena en el viento muestran días sin descanso. El rojo volcánico contraluz perfila un borde cálido y el amanecer gris verdoso añade relleno frío, partiendo rostros entre contorno tibio y sombra verde-gris. Canon EOS R5 50mm f/1.4 Cinestill 800T, grano visible, ligera halación en el borde rojo de las nubes, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: crest-over-disputed-lands.jpg
+role: mid_04 (placed after sentence "Las tierras en disputa se extendían debajo de ellos.")
+prompt:Vista amplia desde la cresta hacia las tierras en disputa: tres figuras pequeñas empiezan el descenso juntas hacia la distancia roja, rodeadas por racimos densos de cristales negros y respiraderos de vapor sulfuroso; crestas y fisuras tallan territorios distintos abajo. La luz roja volcánica se refleja como violeta tenue en las facetas, y el calor distorsiona el aire sobre las grietas mientras la bruma de la mañana suaviza el horizonte lejano. Canon EOS R5 24mm f/1.4 Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

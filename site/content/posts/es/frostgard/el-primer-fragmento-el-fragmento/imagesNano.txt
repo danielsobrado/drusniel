@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Primer Fragmento: El Fragmento
+Language: es
+Canon Sequence: W-020-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-touching-fragment.jpg
+role: header
+prompt:[Face_Reference: Dulint]. Estupor, nudillos blancos, manos envolviendo el fragmento. Cámara de hielo vivo con pedestal de piedra sin junturas, Faro al lado pulsando en sincronía, vaho helado y marcas antiguas ilegibles en paredes translúcidas. Brillo azul-blanco puentea dedos y piedra; la luz se refracta en hielo con franjas violetas sutiles en líneas grabadas, puntos especulares en condensación y piedra húmeda. Sony A7R V 50mm f/1.2 GM Cinestill 800T, grano visible, ligera halación en el brillo fuerte, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: beacon-alive.jpg
+role: mid_01 (placed after sentence "El Faro parecía vivo.")
+prompt:Macro del Faro: costuras finas como venas, una abriéndose para mostrar movimiento húmedo orgánico antes de sellar. Pulso azul-blanco como única luz, gotas de condensación y micro-arañazos brillan; bordes de costura proyectan sombras dobles dentro de la grieta. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, grano visible, poca profundidad de campo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-collapse.jpg
+role: mid_02 (placed after sentence "Directo al suelo, como si alguien te hubiera cortado los hilos.")
+prompt:[Face_Reference: Maris, Balin]. Maris cae flácida, boca con sangre; Balin la sujeta con pánico, manos en hombros. Acción amplia en cámara de hielo, brillo del pedestal detrás, marcas antiguas enmarcando el desplome. Luz del fragmento y pulso del Faro congelan el movimiento, reflejos azul-blanco saltan por hielo con ligera halación en bordes brillantes. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero desenfoque en manos de Balin, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: fragment-pack.jpg
+role: mid_03 (placed after sentence "Lo recogió y lo colocó junto al Faro en su fardo.")
+prompt:Fardo abierto: manos colocan fragmento junto al Faro, pulso sincronizado inunda el cuero. Doble luz azul-blanco hace brillar costuras y correas; herrajes lanzan puntos especulares duros, polvo de escarcha y cuero húmedo muestran textura mientras el fondo cae en blur. Sony A7R V 85mm f/1.4 GM Cinestill 800T, grano visible, ligera halación alrededor del brillo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: fleeing-cave.jpg
+role: mid_04 (placed after sentence "Se pusieron en marcha.")
+prompt:[Face_Reference: Eldric, Dulint, Balin, Maris, Xandor]. Eldric empuja adelante; Dulint aprieta el fardo; Balin mira atrás; Maris tambalea pero avanza; Xandor urgente. Escape por la fisura a luz fría del día, viento con nieve-polvillo y arena, botas resbalan; detrás, brillo azul se apaga en sombra. Luz invernal plana desatura; pulso oculto añade borde frío en correas y mejillas, cristales de hielo al vuelo parpadean como puntos. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, leve vibración de mano, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

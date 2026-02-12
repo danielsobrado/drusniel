@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Grito
+Language: es
+Canon Sequence: P-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: watchtower-night.jpg
+role: header
+prompt:[Face_Reference: Varian] Expression: tired skepticism, leaning into the wind. [Face_Reference: Elric] Expression: sleepless tension, eyes narrowed into the mist. Varian and Elric stand on the watchtower above a village swallowed by fog, huts dark below and the forest looming behind, old timbers creaking as the wind knifes through. Cold moonlight from above gives pale rim light on wet boards and rooftops while a small brazier below throws warm amber uplight onto their faces and drifting mist. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: grukmar-legend-discussion.jpg
+role: mid_01 (placed after sentence "Me contó cosas. Cosas que no quieren que se sepan.")
+prompt:[Face_Reference: Elric] Expression: intense urgency, voice lowered; eyes flicking over his shoulder. [Face_Reference: Varian] Expression: skeptical but uneasy, jaw tight. Elric speaks low on the watchtower while Varian hovers near the brazier, one hand stirring coals as sparks lift and die, mist coiling below the tower and the village streets empty beneath them. Brazier firelight is the primary light, warm and underlit, throwing flickering shadows upward across both faces while cold moonlight adds a thin blue rim along wet timber. Canon EOS R5 50mm f/1.4 Cinestill 800T, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: the-scream-reaction.jpg
+role: mid_02 (placed after sentence "Un grito rasgó la oscuridad.")
+prompt:The village at night at the instant a scream tears the darkness, low hut rooftops and chimney smoke under a pale moon as bats burst up and the empty muddy square sits framed by leaning walls, mist crawling through the streets. Moonlight is the only light, cold and diffuse, catching wet roof edges and drifting fog while the square below falls into deep shadow. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: girl-fighting-shadows.jpg
+role: mid_03 (placed after sentence "Se tambaleó al descubierto con los brazos agitándose, luchando contra sombras que solo ella podía ver.")
+prompt:[Face_Reference: Girl] Expression: raw terror, tear tracks cutting grime, hands flailing. [Face_Reference: Varian] Expression: urgent concern, lantern held out; grip steadying her sleeve. A small girl staggers into the muddy square and fights empty air as if something is on her skin, clutching Varian for safety while shutters stay closed and the village holds its breath. Varian's lantern is the primary light, warm and directional, jittering across faces and wet mud and throwing long shadows between huts while cold moonlight fills the edges to blue-grey. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: empty-alley-watch.jpg
+role: mid_04 (placed after sentence "Solo oscuridad. Solo un callejón vacío.")
+prompt:A narrow alley between leaning huts sits empty, absolute darkness pooling at the far end with the sick feeling of an unseen gaze, damp ground and scattered debris leading into black. A lantern beam is the only light, warm and fading fast into shadow, catching slick highlights on wet wood and the edge of puddles before it dies into nothing. Sony A7R IV 35mm f/2.8 Cinestill 800T, slightly underexposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

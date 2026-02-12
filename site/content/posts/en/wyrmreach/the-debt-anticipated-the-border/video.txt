@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Debt Anticipated: The Border
+Language: en
+Canon Sequence: D-023-005
+Source Image: nyxara-warning-delivery.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel is still, absorbing the words. Cold spreads across his expression — a slow constriction, jaw locking, eyes going distant. The violet glow from the crystal pillar behind pulses once, casting shifting highlights across his face.
+[00:03-00:05] His eyes refocus. They find Talryn's face. Recognition passes between them — not warmth, but understanding. She knows what lives in his head. He knows she knows. The volcanic haze drifts between them.
+[00:05-00:08] Drusniel exhales. Barely visible. His hand moves to his temple, touches it once, then drops. Talryn watches the gesture with the stillness of someone confirming a suspicion.
+
+Static camera. Tight on Drusniel's face, Talryn soft-focus beside him.
+Audio: wind through crystal formations, faint vibrational hum from the pillar, distant volcanic rumble. His exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Voces en la Oscuridad: Los Días Vacíos
+Language: es
+Canon Sequence: D-006-001
+Source Image: first-contact.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A faint amber pulse flares across his brow and fades, like a heartbeat trying to sync. His eyes track the dark as if listening, and his fingers tighten on the sheet.
+[00:03-00:05] The warmth returns stronger, pushing a second pulse that briefly lights the room edge; he jerks half upright, breath held, then goes perfectly still.
+[00:05-00:08] The glow breaks into two quick pulses and then steadies to a thin thread, pulling his gaze off-frame. Dust in the cyan spill drifts as the room settles back toward near-black.
+
+Slow dolly-in from chest-up to tight on the eyes.
+Audio: distant corridor hush, fabric creak, shallow breathing, heartbeat thump, faint low hum that swells with each amber pulse. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

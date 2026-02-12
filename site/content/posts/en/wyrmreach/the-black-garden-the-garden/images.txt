@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Black Garden: The Garden
+Language: en
+Canon Sequence: D-021-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: nyxara-enters-the-clearing.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Guarded stillness, hands kept close, gaze tracking the shifting corridor. [Face_Reference: Srietz] Ears pinned, breath controlled, eyes flicking between cups and crystal walls. [Face_Reference: Elion] Arms crossed behind them, cataloging exits without moving. [Face_Reference: Nyxara] Calm, unhurried approach, ink-dark dress with no visible weapons. Circular clearing of compacted black earth surrounded by inward-leaning faceted crystal spires like a silent audience; a plain table set for three with three steaming cups, and the crystal walls grind and rotate to open a corridor as Nyxara enters. Cold violet refraction glints off shard edges and bends toward her while low orange fissure-glow from hairline cracks adds harsh uplight under steam and hands, haze blooming the highlights. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight handheld tension, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: untouched-tea-cups.jpg
+role: mid_01 (placed after sentence "Drusniel didn't touch his.")
+prompt:Three fine dark ceramic cups on a worn table, clear liquid steaming in thin twisting threads; one slender hand hovers near the nearest cup but refuses to touch, crystal dust settled into tabletop grooves and hairline scratches. Faceted black crystal spires loom out of focus beyond the table, their hum implied by faint vibration in the steam and drifting grit, chemical air thick at ground level. Violet refraction from the crystal walls paints cold edge highlights along cup rims while a low orange underglow from hairline cracks catches the underside of steam plumes and turns dust motes into tiny amber points. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: crystals-open-a-corridor.jpg
+role: mid_02 (placed after sentence "The crystals shifted.")
+prompt:A slow mechanical wave travels through the black crystal wall as individual faceted spires grind and rotate on their bases, carving a deliberate corridor of bare stone into the clearing; fine grit rains from facets, no wind at all, only deliberate motion and the pressure of the hum. The geometry reorients in perfect increments, violet refraction shifting along edges like a moving seam while faint orange fissure-glow leaks up from hairline cracks and lights the falling grit from below. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slight motion blur in falling dust, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: nyxara-obsidian-portrait.jpg
+role: mid_03 (placed after sentence "She sat in the empty chair at the head of the table, arranged her hands in her lap, and looked at Drusniel with eyes that were very dark and very still.")
+prompt:[Face_Reference: Nyxara] Eyes perfectly still, calm interest without warmth; hands arranged in her lap, ink-dark dress absorbing light, posture claiming the space without effort. Portrait at the head of the table as the surrounding crystal spires angle inward like an audience, their hum deep and steady; the steaming cups sit untouched in the foreground bokeh. Cold violet refraction from the crystal walls bends toward her and outlines her silhouette while faint orange underglow from hairline cracks adds subtle uplight under chin and fingers, halation blooming along crystal edges. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, natural skin with pores, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: nyxara-and-drusniel-conversation.jpg
+role: mid_04 (placed after sentence "\"What do you want?\" he asked.")
+prompt:[Face_Reference: Drusniel] Jaw set, controlled breath, eyes refusing to drop; fingers kept still despite the urge to fidget. [Face_Reference: Nyxara] Steady gaze, thin smile that never reaches her eyes. Tense two-shot across the plain table with untouched tea steaming between them, crystal walls looming close like a congregation listening; behind Nyxara the crystal field pulses once with a deeper violet flare, then settles. Cold violet refraction carves sharp edge highlights across facets and cup rims while low orange underglow from fissures warms the underside of steam, mixed light turning the haze into soft bloom. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

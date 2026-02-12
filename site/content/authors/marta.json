@@ -1,0 +1,32 @@
+{
+  "name": "Marta",
+  "title": "Trade Matriarch",
+  "titlees": "Matriarca Comercial",
+  "description": "A Zuraldi trade matriarch who leads caravans through mountain passes that would make a goat nervous. Sharp-eyed and hard to impress, she's earned respect from dwarven merchants — and dwarven merchants don't hand that out for free.",
+  "descriptiones": "Una matriarca comercial Zuraldi que lidera caravanas por pasos de montaña que pondrían nervioso a un cabra. Mirada aguda y difícil de impresionar, se ha ganado el respeto de los comerciantes enanos — y los comerciantes enanos no regalan eso.",
+  "thumbnail": "marta.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Trader",
+    "Caravan Leader"
+  ],
+  "skillses": [
+    "Comerciante",
+    "Líder de Caravana"
+  ]
+}

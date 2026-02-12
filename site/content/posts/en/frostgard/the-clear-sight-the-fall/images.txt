@@ -1,0 +1,26 @@
+﻿# Image Prompts
+Title: The Clear Sight: The Fall
+Language: en
+Canon Sequence: W-024-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-collapse-mid-stride.jpg
+role: header
+prompt:[Face_Reference: Maris] Body going limp mid-stride, eyes unfocusing. [Face_Reference: Dulint] Lunging forward to catch her. [Face_Reference: Balin] Reaching too late. Maris collapses on a frost-covered forest trail between towering pines, fallen needles scattering. Overcast winter daylight, flat grey light through the canopy. Sony A7R IV 35mm f/2.0 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: group-scrambles-protect.jpg
+role: mid_01 (placed after sentence "The group closed around her like a fist.")
+prompt:[Face_Reference: Dulint] Cradling her head. [Face_Reference: Balin] Sword drawn, facing outward. [Face_Reference: Eldric] Scanning the tree line. [Face_Reference: Xandor] Kneeling, checking her pulse. Four travelers forming a protective circle around a collapsed woman on a forest trail, overhead angle. Diffused winter daylight falling through pine branches onto the group. Sony A7R IV 24mm f/2.8 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-eyes-roll-back.jpg
+role: mid_02 (placed after sentence "Her eyes rolled back and she was gone.")
+prompt:[Face_Reference: Maris] Eyes rolling back showing whites, face slack, thin line of blood from her left nostril, pine needles in her hair. [Face_Reference: Dulint] Thick hands supporting her head from below. Maris lies on the forest floor, the moment between consciousness and void. Cold winter light on her pale skin from above, blue-grey and fading. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: vision-pulls-maris-in.jpg
+role: mid_03 (placed after sentence "This isn't how it works. This isn't how it's ever worked.")
+prompt:[Face_Reference: Maris] Face half in reality, half dissolving into darkness. One eye reflecting frost-covered pines, the other consumed by black water. Her features torn along a seam between the real world and vision, pine canopy above bleeding into void below. Cold daylight from the forest competing with darkness swallowing the other half of the frame. Canon EOS R5 50mm f/1.8 Cinestill 800T, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-body-defenseless.jpg
+role: mid_04 (placed after sentence "Her body was defenseless and her mind was somewhere else entirely.")
+prompt:[Face_Reference: Maris] Motionless on the trail, unconscious. [Face_Reference: Dulint] Closest, hand on her shoulder. [Face_Reference: Eldric] Facing outward, weapon ready. [Face_Reference: Balin] Pacing with nervous energy. Maris lies still while her companions hold a perimeter in the winter forest, vulnerable body contrasted with armed vigil. Grey overcast daylight falling flat through the pines. Sony A7R IV 35mm f/2.0 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Clear Sight: The Distance
+Language: en
+Canon Sequence: W-024-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: vast-distance-between-worlds.jpg
+role: header
+prompt: [Face_Reference: Maris]. Floating in void-space, reaching downward with outstretched fingers. [Face_Reference: Drusniel]. In a small boat on black water far below, reaching upward. Immense distance between two figures separated by translucent layers of reality, warm connection light dimming across the gap. Fading amber glow from below and cold void-light from above, the two light sources unable to meet in the middle, amber subsurface glow diminishing with distance, cold void illumination flattening features on Maris's face. Sony A7R V 16mm f/2.8 Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: barrier-visible.jpg
+role: mid_01 (placed after sentence "Something stood between them that had nothing to do with distance.")
+prompt: [Face_Reference: Maris]. Straining fingers pressed from above against invisible resistance, skin whitening at the fingertips. [Face_Reference: Drusniel]. Reaching up from below, fingers bent against the same barrier. A translucent barrier distorts light and bends space like heat haze between their hands, neither able to touch the surface. Amber light from Drusniel's side refracting through the barrier, scattering into cold desaturated tones on Maris's side, chromatic aberration at the barrier edge where warm light shifts to cold. Sony A7R V 100mm macro Cinestill 800T, subtle lens flare. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-helpless-watching.jpg
+role: mid_02 (placed after sentence "She could only watch.")
+prompt: [Face_Reference: Maris]. Tears running from eyes that cannot look away, hands pressed flat against an invisible barrier, fingertips white with pressure. Suspended in vision-space, watching something below with agonized helplessness. Vision light reflecting off wet tear tracks on her cheeks, amber glow from the world below catching in the moisture creating warm streaks on otherwise cold-lit skin, tears acting as tiny refractive lenses for the amber light beneath. Sony A7R V 85mm f/1.4 GM Cinestill 800T, natural skin with pores. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: vision-snaps.jpg
+role: mid_03 (placed after sentence "The vision snapped like a rope pulled too tight.")
+prompt: [Face_Reference: Maris]. Recoiling violently, face twisted in shock from sudden disconnection. The vision of black water and a small boat fragmenting into sharp geometric shards flying outward, reality cracking apart around her. Amber light shattering into fragments, each shard carrying its own fading glow against encroaching darkness, light scattering at fractured edges creating prismatic breakup, warm amber decaying to cold nothing at shard boundaries. Sony A7R V 35mm f/2.8 Cinestill 800T, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-screaming-alone.jpg
+role: mid_04 (placed after sentence "She was alone in the dark, screaming a name she didn't know.")
+prompt: [Face_Reference: Maris]. On her knees, eyes squeezed shut, mouth open in a scream, hands clutching the sides of her head. Alone in black void, the vision gone, transitioning back to real-world forest floor beneath her knees. Last traces of amber light dying in the void above her, fading warm glow casting final diminishing highlights on her forehead and knuckles before darkness presses in completely, ground transitioning from void-black to frosted pine needles. Sony A7R V 50mm f/1.8 Cinestill 800T, film grain visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,17 @@
+# Video Prompt
+Title: Swords and Shadows
+Language: en
+Canon Sequence: D-002-001
+Source Image: blade-at-throat.jpg
+
+## Veo 3 Prompt
+
+[0-3s] Shyntara's blade is already at Drusniel's throat. Neither moves. A bead of sweat slides down his jaw and touches the steel edge. His pulse is visible in his neck. Her fingers adjust their grip a fraction tighter.
+
+[3-6s] She leans forward, her lips parting to speak. The blade withdraws slowly, dragging a faint red line across his skin. Drusniel exhales. Mist swirls between them in the disturbed air. Bioluminescent light from the fungal canopy shifts as a spore cloud drifts overhead.
+
+[6-8s] Shyntara steps back and sheathes her blade in one fluid motion. She turns away. The fungal grove shadows close around her retreating figure. Drusniel stands alone, breathing hard, hand rising to touch his throat.
+
+Slow push-in from medium two-shot to close-up on Drusniel's face as the blade withdraws.
+Audio: steel scraping skin, a sharp exhale, the wet click of a blade entering its scabbard, faint dripping condensation in the cave, distant spore-fall rustling. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

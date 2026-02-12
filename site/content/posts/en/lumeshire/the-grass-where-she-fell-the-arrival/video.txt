@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Arrival
+Language: en
+Canon Sequence: W-012-006
+Source Image: beacon-screaming.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon’s pulse tightens and brightens; symbols shift faster and the air around the cube ripples as nearby candle flames lean away.
+[00:03-00:05] The pulse peaks; wax drips jump, a metal cup rattles once, and a hand slaps the tabletop to steady it as the room holds its breath.
+[00:05-00:08] The light drops back to a steady throb; smoke curls upward again and the candle flames recover, leaving the cube quietly broadcasting.
+
+Slow push-in toward the Beacon as the pulse intensifies.
+Audio: candle hiss, faint metal resonance, ceramic tick, soft chair creak, cloth rustle, distant inn murmur muffled by the closed door. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

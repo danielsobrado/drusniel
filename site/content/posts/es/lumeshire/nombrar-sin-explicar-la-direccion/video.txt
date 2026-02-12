@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Nombrar Sin Explicar: La Dirección
+Language: es
+Canon Sequence: W-014-004
+Source Image: compass-with-teeth.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon's pulse rolls through the room; candle flames flutter and the paper map lifts at the edges, then settles. Xandor stiffens and swallows hard, jaw tightening as if his teeth hurt.
+[00:03-00:05] The blue-white surge spikes brighter; dust motes spin in a sudden draft and the directional beam snaps north with a sharp, unnatural precision. Dulint clamps the map flat with his palm, refusing to flinch.
+[00:05-00:08] The light steadies into a colder, harsher rhythm; one candle gutters and coughs smoke. Xandor exhales through clenched teeth while Dulint folds the map with finality, pushing the Beacon toward the north edge of the table as the last pulse insists on the same direction.
+
+Dolly in.
+Audio: candle sputter and wax crackle, paper rustle, a low cold hum from the Beacon swelling and tightening, a single chair-leg scrape, shallow breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

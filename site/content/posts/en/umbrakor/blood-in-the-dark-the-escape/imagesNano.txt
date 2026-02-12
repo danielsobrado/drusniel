@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Blood in the Dark: The Escape
+Language: en
+Canon Sequence: D-010-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tunnel-run.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Hyperfocused fear, breath ragged; sprinting with one hand brushing the stone for bearings as footsteps echo behind. Claustrophobic servant passages and storage corridors with ventilation grates and old fittings, smoke haze lingering, condensation on stone. Distant torch flicker and occasional lantern spill break into amber streaks through haze; cold blue-green fungal stains add thin rim highlights along wet stone and floor grit, specular glints sliding as he passes. Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible, slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: air-push-success.jpg
+role: mid_01 (placed after sentence "The air-push caught the attacker center-mass.")
+prompt:[Face_Reference: Drusniel]. Calm forced through panic, eyes narrowed; braced and releasing a compressed burst from an outstretched palm. Narrow corridor beside a ventilation grate as the air-push slams a masked assassin backward into a second attacker, smoke and dust snapping sideways in a sharp pressure wave. Warm torch/lantern flicker glints on blade edges and wet stone; cold fungal rim light traces the grate and wall edges, interactive highlights trembling in the smoke bands. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: nosebleed.jpg
+role: mid_02 (placed after sentence "Blood trickled from his nose, warm against his upper lip.")
+prompt:[Face_Reference: Drusniel]. Exhaustion and dizziness fighting with survival; wiping fresh blood from his nose with a shaking hand mid-run. Corridor walls blur into stone and shadow behind him as breath tears. Torchlight flicker catches wet blood sheen and sweat on knuckles; occasional cold rim from fungal stains outlines cheek and fingers, background falling into smoky darkness. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: rusty-door.jpg
+role: mid_03 (placed after sentence "The ancient mechanism gave way—rust and dust and decades of neglect surrendering to desperate momentum.")
+prompt:Hidden servant door bursts inward under impact: ancient metal fittings bend, rust flakes and dust plume into the air, stone frame cracking where the mechanism fails; beyond is the darker outer tunnel system swallowing light. Warm torchlight behind paints amber highlights across rust texture and airborne dust; the tunnel beyond stays cold and nearly black, a hard contrast at the doorway edge with specular grit flashes as particles tumble. Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible, slight motion blur in dust plume, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: hiding-place.jpg
+role: mid_04 (placed after sentence "Then he dragged himself into a crevice barely large enough to hold him and pressed his back against cold stone.")
+prompt:[Face_Reference: Drusniel]. Terror held perfectly still, tears and blood mixing; wedged inside with knees pulled tight, trying not to breathe. Cramped rock crevice deep in the outer tunnels, hands smeared with fresh nosebleed blood, wet stone beading with condensation. Near-total darkness with only faint reflected glimmer from distant torchlight; tiny specular points sparkle on moisture and grit, leaving most of his face swallowed by shadow. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, very low light, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

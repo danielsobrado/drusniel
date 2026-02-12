@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Nombrar Sin Explicar: Los Fragmentos
+Language: es
+Canon Sequence: W-014-003
+Source Image: incomplete-danger.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Xandor’s fingers drag through ash and dust, carving a five-part diagram beside the cube as the pulse brightens and the candle flame gutters.
+[00:03-00:05] The cube surges; ash lifts in a thin ring and the empty impressions around it shimmer, as if something unseen is trying to lock into place.
+[00:05-00:08] The pulse drops to a steady throb; dust settles back onto the wood grain, and the room holds its breath in silence while the candle crackle continues.
+
+Dolly in.
+Audio: fingertip scrape through ash, soft paper shift, low electrical hum swelling, candle crackle and sudden wick hiss, a chair creak, distant tavern murmur muffled by the door. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

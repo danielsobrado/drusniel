@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Segunda Elección: El Regreso
+Language: es
+Canon Sequence: D-017-006
+Source Image: drusniel-catches-him.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A dragging scrape approaches and Elion lurches into the cave, the heavy pack snagging on stone as he forces two more steps, breath ragged and wet.
+[00:03-00:05] His legs fold; Drusniel lunges and catches him before he hits the floor, and Srietz is already tearing at straps, hands moving faster than thought.
+[00:05-00:08] Food and containers thud onto obsidian; Drusniel hauls Elion deeper into the chamber while Srietz stacks supplies in a tight pile, and Elion's breathing stutters then steadies to a shallow tremor.
+
+Handheld.
+Audio: pack scrape, grunt, fabric tear, containers thud, water drips, strained breathing, faint low hum from the Beacon, distant rock tick. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

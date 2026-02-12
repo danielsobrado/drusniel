@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Que Camina Libre: El Después
+Language: es
+Canon Sequence: D-013-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wake-after-the-escape.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Bruised exhaustion; eyes opening, breath shallow and controlled. [Face_Reference: Elion]. Awake and watching, head tilted slightly wrong as if listening for pursuit. Jagged rock shelter off the road: Drusniel slumps against cold stone with grit smeared on clothing; Elion sits a few meters away, still as a guard; far behind a thin smoke plume marks where the caravan burned. The twilight has brightened by a degree, cold grey-red fill that flattens shadows; distant fire adds a weak orange edge that barely reaches the rocks, catching on dust motes and leaving faint rim highlights on stone texture. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, natural texture. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: you-are-a-person.jpg
+role: mid_01 (placed after sentence "—Eres una persona.")
+prompt:[Face_Reference: Drusniel]. Stunned stillness like a hit to the chest; throat working before words come. [Face_Reference: Elion]. Simple certainty, no pity, no fear; eyes steady. Close two-shot framed by stone teeth as both sit on rough rock and black grit, ash haze drifting in the still air after running. Shifted twilight provides flat cold fill; distant fire reflection warms one edge of their faces and creates interactive highlights in damp eyes, making breath vapor and dust visible as layered haze. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, background softly out of focus, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elion-offers-a-hand.jpg
+role: mid_02 (placed after sentence "Elion extendió una mano—.")
+prompt:Elion extends a long-fingered grey hand, palm open in invitation; a scraped blue-ash skinned hand takes it, grip firm and deciding. Macro on skin creases packed with fine ash and grit, knuckles raw, fingernails dirty, stone texture blurred behind. Cold twilight fill keeps tones muted; weak orange edge from distant fire catches on fingernails and creates tiny warm specular points on dust and moisture, highlighting pores and grit grains. Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, film grain visible, shallow depth of field, natural skin texture. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: elion-stands-wrongly.jpg
+role: mid_03 (placed after sentence "Elion se levantó, su cuerpo desplegándose de maneras que hacían que los ojos de Drusniel quisieran desviarse.")
+prompt:[Face_Reference: Elion]. Calm as he rises; body unfolding with subtle wrongness, joints bending just a fraction too far. [Face_Reference: Drusniel]. Wary attention, eyes tracking movements he doesn't want to see. Elion stands in the cramped rock shelter, stone teeth framing him, while Drusniel stays seated against the wall; the space feels too small for something that moves like that. Cold twilight fills shadows; a faint orange pulse from far-off flames paints a thin rim along Elion’s profile and nearest rock edge, with halation blooming on the warm edge and dust drifting through the beam. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: walking-east-together.jpg
+role: mid_04 (placed after sentence "Delante de ellos, el resplandor volcánico pulsaba contra el cielo crepuscular.")
+prompt:Two figures leave the rock shelter and walk east across broken basalt toward a pulsing volcanic glow; far behind, smoke rises from the ruined caravan as a thin dark column. Starless red-grey sky, black grit underfoot, heat-fractured ridges and scattered crystal shards catching stray light. Volcanic glow throws low orange highlights along ridge edges and cloak hems; cold twilight fill keeps shadows blue-grey, and dust drifts in shallow layers with orange reflections smearing across damp stone. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, atmospheric haze, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

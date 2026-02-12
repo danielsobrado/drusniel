@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Rivalidad de la Casa: La Advertencia (Cortada)
+Language: es
+Canon Sequence: D-009-005
+Source Image: ceiling-collapse.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel and Shyntara sprint through choking smoke as torchlight flickers in broken pulses. Dust drifts from the ceiling with each distant impact.
+[00:03-00:05] A deep crack rolls overhead. Shyntara yanks Drusniel back a half step as stones start to fall; the smoke bursts outward from the shock like a wave.
+[00:05-00:08] The ceiling slams down between them in a violent cascade. Sparks and grit explode; Drusniel staggers, blinking through dust, then surges toward the rubble as the far side disappears behind rolling smoke.
+
+Handheld pull-back down the corridor as they run, ending at the collapse.
+Audio: distant steel clang, torch crackle, stone groan, debris impacts, dust cough, ragged breathing, smoke hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

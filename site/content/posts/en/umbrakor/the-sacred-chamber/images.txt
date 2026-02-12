@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Sacred Chamber
+Language: en
+Canon Sequence: D-001-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: obsidian-antechamber.jpg
+role: header
+prompt: [Face_Reference: Architecture]. Carved obsidian antechamber deep beneath Umbra'kor, pale bioluminescent fungi clustered on the ceiling casting sickly blue-green light across a dozen young drow candidates sitting in tight groups along the walls, whispering, eyes closed, thin ceremonial robes catching the glow. Wide establishing shot framed through the antechamber archway, fungi overhead throwing uneven pools of cold light downward, deepening every carved groove in the obsidian. Canon EOS R5, 16mm f/2.8, Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: counting-nervous-habit.jpg
+role: mid_01 (placed after sentence "Your thumb... tapping.")
+prompt: [Face_Reference: Drusniel]. Tense jaw, gaze locked downward. Close-up of Drusniel's dark-skinned hand resting against a thin ceremonial robe, thumb frozen mid-press against the index finger, knuckles taut. Macro detail on the hand pressing into linen fabric, a faint blue-green fungal glow reflecting off the obsidian wall behind, casting a cold rim along his fingers. Sony A7R IV, 100mm macro f/2.8, Kodak Portra 400, natural skin with pores, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: annariel-whisper.jpg
+role: mid_02 (placed after sentence "We have each other.")
+prompt: [Face_Reference: Annariel]. Earnest half-smile, eyes bright with forced confidence. Annariel leaning close to Drusniel, mouth near his ear, both faces lit from above by a cluster of pale fungi clinging to the low ceiling. Two-shot at intimate distance, fungal bioluminescence falling from upper-left, painting blue-green across Annariel's cheekbone while Drusniel's far side falls into deep shadow. Canon EOS R5, 85mm f/1.4, Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: priest-arrival.jpg
+role: mid_03 (placed after sentence "A priest emerged from the inner chamber")
+prompt: [Face_Reference: Priest]. Impassive authority, hollow cheeks. A drow priest standing in the doorway of the inner chamber, robes trailing darkness that moves wrong against the fungal light, candidates below looking up from their seated positions. Low-angle shot from candidate level, the priest backlit by a deeper violet glow bleeding from the inner chamber behind him, his silhouette sharp against the bruised light while the antechamber remains dim. Canon EOS R5, 35mm f/1.4, Cinestill 800T, slightly out of focus background, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: entering-darkness.jpg
+role: mid_04 (placed after sentence "Drusniel stepped into the darkness.")
+prompt: [Face_Reference: Drusniel]. Shoulders drawn tight, head slightly bowed. Drusniel walking alone into absolute blackness beyond a carved obsidian threshold, the pale blue-green light of the antechamber fading on his back and robe hem. Tracking shot from behind at mid-distance, the last fungal light catching the edge of his ceremonial robe and the tips of his white hair, the corridor ahead pure black swallowing the frame. Sony A7R IV, 50mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

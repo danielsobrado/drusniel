@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Ice and Iron: The Warriors of the Empire of Frostgard
+Language: en
+Canon Sequence: FRO-L-002
+Source Image: messenger-frozen.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The guards stagger forward into the blizzard, hauling the messenger between them as his boots drag and his body sags. Snow lashes sideways and swirls around their knees.
+[00:03-00:05] They cross the threshold. Torchlight snaps warm across ice crystals on the messenger's beard while snow spirals into the sheltered courtyard behind them. The message pouch swings and thumps against his hip.
+[00:05-00:08] The iron gate begins to grind shut. Wind noise drops as the gap narrows; the torch steadies. The messenger releases a weak breath that fogs and freezes in the warm-cold boundary.
+
+Slow tracking shot alongside the guards, moving from storm exterior to sheltered interior.
+Audio: howling wind, crunch of boots on packed snow, leather creak, strained breathing, metallic groan of the gate, torch sputter and flare. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

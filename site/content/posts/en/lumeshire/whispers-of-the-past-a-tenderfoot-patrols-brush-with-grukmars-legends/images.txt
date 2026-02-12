@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Tavern Talk
+Language: en
+Canon Sequence: P-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rusty-axe-tavern.jpg
+role: header
+prompt:The Rusty Axe tavern interior under low beams and smoky air, guards hunched at rough tables near the hearth, a battered lute singing at the far end while sweat and sour beer hang thick. Hearth fire and candle stubs are the only light, warm amber that pools on tabletops and catches smoke in soft ribbons while corners fall to deep shadow. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: guards-gossiping.jpg
+role: mid_01 (placed after sentence "Five other guards already hunched around a table near the hearth.")
+prompt:[Face_Reference: Varian] Expression: guarded half-relief, cloak still damp. [Face_Reference: Elric] Expression: sardonic fatigue, eyes scanning the room. Varian and Elric join five other guards hunched around a rough wooden table near the hearth, mugs of bitter ale in hand as Tormund leans forward conspiratorially and the group listens despite themselves. Hearth fire from the side throws warm amber across faces and knuckles, reflections sliding on wet mugs while smoke softens the background into shadow. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: elara-story.jpg
+role: mid_02 (placed after sentence "Elara's voice was soft but carrying.")
+prompt:[Face_Reference: Elara] Expression: serious intensity, voice low but carrying. Elara leans toward the table as the men listen despite their forced jokes, the hearth behind her and the tavern air thick with smoke and sour beer. Firelight is the only light, warm amber that rims her cheek and catches wet reflections in her eyes while the far side of her face drops into shadow. Canon EOS R5 85mm f/1.4 Cinestill 800T, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: varian-reflection.jpg
+role: mid_03 (placed after sentence "Varian stared into his mug, watching firelight play on the dark surface.")
+prompt:[Face_Reference: Varian] Expression: distant unease, eyes fixed downward. Over-the-shoulder view as Varian stares into his mug, firelight playing on the dark surface of bitter ale, the reflection warping into something clawlike for a heartbeat before resolving back to ripples. Hearth fire is the only light, warm amber reflecting off the liquid and catching the rim of the mug while the table and room fall into smoky shadow. Sony A7R IV 100mm macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: gruesome-trees.jpg
+role: mid_04 (placed after sentence "the trees stood silent, holding their secrets like teeth holding a tongue")
+prompt:Night outside the village, low-angle view up into the Grukmar treeline as trunks and branches crowd together like teeth, silent and secretive, a claustrophobic canopy swallowing the sky. Cold moonlight is the only light, silver rim on bark and wet leaves while the spaces between trees drop to black. Sony A7R IV 16mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

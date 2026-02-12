@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Nothingness and the Second Sun
+Language: en
+Canon Sequence: AST-L-002
+Source Image: sage-examines-ancient-book.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Meridia lifts the cover another inch. The leather binding cracks audibly and a visible plume of fine ash rises from the pages, drifting upward through candlelight.
+[00:03-00:05] The five candle flames flicker in response to the displaced air. Ash particles swirl in warm glow, spiraling toward the vaulted ceiling.
+[00:05-00:08] The ash plume thins, but motes keep floating, catching light as they pass through darker air. Meridia steadies the book with both hands, refusing to blink.
+
+Slow dolly in from medium to tight on the opening book and rising ash.
+Audio: dry leather crack, soft rush of displaced air, candle flame flutter, faint ash hiss near heat, distant shelf creak. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

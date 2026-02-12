@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Trial: The Test of Venemora
+Language: en
+Canon Sequence: D-003-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: trial-chamber-reveal.jpg
+role: header
+prompt: [Face_Reference: Architecture]. Vast obsidian trial chamber with massive carved columns rising into darkness overhead, the Altar of Wings at the center on a circular platform of black stone, three mages in dried-blood-colored robes standing near the altar, bioluminescent fungi casting bruised purple light across the space. Grand wide shot from the entrance looking inward, pale fungi clusters on the distant walls throwing uneven purple-violet light that catches the carved prayers on the column surfaces, the altar's folded-wing shape casting a long angular shadow across the polished floor. Canon EOS R5, 16mm f/2.8, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: annariel-success.jpg
+role: mid_01 (placed after sentence "'Adequate connection.'")
+prompt: [Face_Reference: Annariel]. Tears streaming, mouth open in silent relief, eyes shining. Annariel kneeling on the black stone platform beneath the Altar of Wings, a faint heat-shimmer distorting the air above him. Medium shot at eye level, the altar's purple-lit wings framing him from behind, the shimmer bending the light just above his head like a mirage, tears catching the violet glow as they track down his dark cheeks. Canon EOS R5, 85mm f/1.4, Kodak Portra 400, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-platform.jpg
+role: mid_02 (placed after sentence "Drusniel settled into that borrowed warmth")
+prompt: [Face_Reference: Drusniel]. Eyes closed, jaw tight, brow furrowed in intense concentration. Drusniel kneeling on the black stone platform, hands flat on the warm surface, the obsidian columns looming around him, darkness pressing close. Eye-level shot, a single overhead fungi cluster casting a narrow cone of purple light down onto Drusniel, his ceremonial robe pooling on the dark stone, the rest of the chamber falling into heavy shadow beyond the light's reach. Sony A7R IV, 50mm f/1.4, Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: the-void-feeling.jpg
+role: mid_03 (placed after sentence "The void was larger now.")
+prompt: [Face_Reference: Drusniel]. Pain cracking through concentration, eyes squeezed shut, veins visible at the temple. Drusniel's face and reaching hand in the foreground, the space before his outstretched fingers distorting into pure black absence, the purple chamber light bending and dying at the edge of the void as if light itself is being consumed. Close-up from slightly below, the purple bioluminescence warping at the boundary where Drusniel's fingers meet the expanding darkness, his skin at the fingertips going colorless as the light drains away. Canon EOS R5, 85mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: annariel-horror.jpg
+role: mid_04 (placed after sentence "pure, undiluted horror.")
+prompt: [Face_Reference: Annariel]. Mouth slightly open, eyes wide with undiluted horror, the joy from before completely gone. Annariel standing among the successful candidates near the far wall, his face frozen in recognition of something terrible, the other candidates oblivious around him. Telephoto close-up isolating Annariel's face from the crowd, the dim purple light of the chamber catching the wet shock in his eyes, the blurred shapes of other candidates framing him on both sides, his earlier tears dried into pale tracks on his cheeks. Sony A7R IV, 85mm f/1.4, Kodak Portra 400, natural skin with pores, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

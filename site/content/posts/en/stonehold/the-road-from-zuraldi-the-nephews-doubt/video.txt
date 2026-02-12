@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Road from Zuraldi: The Nephew's Doubt
+Language: en
+Canon Sequence: W-008-003
+Source Image: fluid-pursuers.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The figures finish cresting the rise and slide down the slope with steady purpose, dust lifting in thin plumes behind them. None of them break stride.
+[00:03-00:05] One shape shifts its path without slowing, angling toward the road as if correcting by instinct. The line tightens, coordination too clean for tired travelers.
+[00:05-00:08] Heat haze ripples and briefly smears their silhouettes, then snaps back. They keep coming, silent and inexorable, closing distance while the road stays empty between them.
+
+Slow pull-back that reveals more of the road in the foreground as the pursuers advance.
+Audio: dry wind, distant boot scrape softened by distance, grit sliding down the slope, faint cloth flutter, a low ambient pressure hum under the air. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

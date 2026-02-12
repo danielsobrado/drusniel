@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Prueba: La Separación
+Language: es
+Canon Sequence: D-005-001
+Source Image: annariel-look-back.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Annariel is pulled backward through a crowd by a mage's grip on his arm. His face is tight with panic. He twists to look back. Through the shifting bodies, Drusniel stands motionless on the polished obsidian floor, frozen. Purple bioluminescent light pulses faintly from the cavern ceiling above.
+[00:03-00:06] The distance grows. Annariel's mouth moves, forming words lost in the crowd noise. His hand stretches outward. Tears catch the purple light at his eyes. Other successful candidates stream past him toward the dark carved door. Drusniel does not move.
+[00:06-00:08] The carved wooden door opens behind Annariel, dark beyond. He is pulled through. His outstretched hand disappears last. The door swings shut. Drusniel stands alone on the obsidian, the crowd gone, the platform empty.
+
+Slow dolly backward, pulling away from Drusniel as the door closes.
+Audio: shuffling feet on stone, distant muffled voices, the heavy groan of the wooden door closing, then silence broken only by a faint drip echoing in the chamber. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

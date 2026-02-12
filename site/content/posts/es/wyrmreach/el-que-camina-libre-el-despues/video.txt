@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Que Camina Libre: El Después
+Language: es
+Canon Sequence: D-013-005
+Source Image: walking-east-together.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel pushes off the rock wall and steadies; Elion waits without moving, then turns east as the twilight brightens by a shade.
+[00:03-00:05] Their boots crunch into black grit; a distant smoke column bends in the wind and the volcanic glow pulses once, throwing a brief orange edge across stone.
+[00:05-00:08] They walk on without speaking, silhouettes shrinking against the wasteland as dust lifts around their ankles and the last echoes of pursuit fade into silence.
+
+Pull back.
+Audio: boot crunch on grit, fabric scrape, shallow breathing, wind hiss across fractured rock, distant low volcanic rumble, faint crackle carried from far-off fire. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Dirección: La Noche
+Language: es
+Canon Sequence: D-019-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: refuge-between-volcanic-needles.jpg
+role: header
+prompt:[Face_Reference: Elion, Srietz, Drusniel]. Elion quieto en la boca; Srietz desempacando y contando; Drusniel recostado mirando al este. Refugio estrecho entre dos agujas volcánicas negras, veta mineral en basalto, campamento mínimo, horizonte oriental con mancha roja distante. El resplandor rojo tiñe el aire; una linterna entornada deja un hilo cálido sobre provisiones, reflejos ámbar corren por la roca húmeda mientras la ceniza atrapa rebotes teal en la neblina. Sony A7R V 24mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: srietz-organizes-guard-rotation.jpg
+role: mid_01 (placed after sentence "Srietz organizó sus provisiones en filas ordenadas, contando en voz baja.")
+prompt:[Face_Reference: Srietz, Elion, Drusniel]. Srietz alineando y contando; Elion vigilando la boca; Drusniel escuchando sin relajarse. Dentro del hueco tibio, piedra con ceniza, filas de raciones y agua, sin fuego. El rojo del este perfila rostros; la linterna entornada añade relleno ámbar mínimo en manos y envoltorios, sombras largas sobre basalto y puntos especulares en humedad. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, fondo ligeramente desenfocado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: drusniel-stares-at-red-horizon.jpg
+role: mid_02 (placed after sentence "Drusniel se recostó contra la piedra tibia y miró fijamente el resplandor rojo en el horizonte hasta que le ardieron los ojos.")
+prompt:[Face_Reference: Drusniel]. Ojos llorosos, mandíbula trabada, enfoque sin sueño. Retrato cercano contra roca tibia, el rojo del horizonte palpita más allá. La mancha volcánica deja un lavado rojo-gris frío; la linterna perfila mejilla y nudillos con ámbar, sombras de doble tono bajo cejas y línea de mandíbula. Sony A7R V 85mm f/1.4 GM Cinestill 800T, grano visible, poca profundidad, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: trust-is-expensive.jpg
+role: mid_03 (placed after sentence "Elion se volvió entonces, su perfil cortando una línea afilada contra el resplandor volcánico.")
+prompt:[Face_Reference: Elion, Drusniel]. Elion girando en perfil, expresión controlada; Drusniel observando con escepticismo. Plano a dos en la entrada, paredes de basalto, ceniza flotando. El rojo del horizonte contraluz dibuja un borde nítido; la linterna entornada añade relleno cálido atrapando humedad y vaho, brillos ámbar bajo pómulos y en nudillos. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, grano visible, ligera vibración de mano, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: uneasy-rest-before-dawn.jpg
+role: mid_04 (placed after sentence "Drusniel cerró los ojos.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel ojos cerrados; Srietz cambia de guardia contando; Elion vigila la nunca-oscuridad. Campamento silencioso, provisiones en filas, horizonte rojo más allá. La linterna titila una vez y deja un destello ámbar sobre raciones y basalto húmedo antes de bajar, reflejos rompiéndose en puntos sobre la veta mineral. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, ligero viñeteo, ligera subexposición. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

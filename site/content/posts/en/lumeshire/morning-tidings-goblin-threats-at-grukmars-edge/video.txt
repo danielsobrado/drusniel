@@ -1,0 +1,16 @@
+# Video Prompt
+Title: No Tracks
+Language: en
+Canon Sequence: P-006
+Source Image: inhuman-prints.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Water beads tremble on the edges of the footprint as a faint gust ripples the grass. Mud slowly slumps inward, threatening to soften the sharp ridges.
+[00:03-00:05] A boot steps into frame beside the print and stops. Another pair of boots shifts behind it, careful not to smear the mark.
+[00:05-00:08] The camera reveals the treeline beyond as the wind dies again. A single twig snaps from the forest, and everyone freezes; the footprint begins to fill with seeped water.
+
+Slow pull-back from macro to include the surrounding boots and the treeline.
+Audio: wet mud squelch, leather and buckle creaks, distant wind through pine, soft drip of water, one sharp twig snap. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

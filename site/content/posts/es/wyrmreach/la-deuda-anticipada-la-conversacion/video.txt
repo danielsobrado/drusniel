@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Deuda Anticipada: La Conversación
+Language: es
+Canon Sequence: D-023-003
+Source Image: elion-reveals-count.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Elion speaks with measured calm, delivering weight. Campfire embers flicker, casting shifting orange light upward across both faces. Drusniel is still, listening intently.
+[00:03-00:06] Drusniel's expression shifts — subtle, devastating. His jaw tightens. His eyes widen fractionally, then go flat. The ember glow pulses unevenly, shadows dancing across volcanic rock.
+[00:06-00:08] Drusniel looks away. His hand finds the rock beside him and grips it, thumbnail tracing the crack. Elion watches him, waiting. Ash drifts between them in the silence.
+
+Static camera, locked off. Let the faces carry the shot.
+Audio: crackling embers, faint wind, distant volcanic rumble. The scrape of a nail on stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

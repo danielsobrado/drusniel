@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Fracture: The Compromise
+Language: en
+Canon Sequence: W-022-005
+Source Image: beacon-pointing.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon’s glow steadies, then pulses brighter; blue-white light crawls across wet leaves and lays a straight corridor between trunks.
+[00:03-00:05] Dulint snaps the pack closed and shoulders it. Eldric lifts a hand toward the corridor and the group rises, gear clinking as Maris wipes blood and forces her legs to move.
+[00:05-00:08] They set off under canopy at a steady pace. The corridor of light slides over bark and ferns, narrowing ahead; behind them the clearing falls quiet and a distant rustle hints something is following.
+
+Slow pull-back from the Beacon to reveal the group stepping into frame and moving north.
+Audio: faint artifact hum synced to the pulse, leaf-brush on cloth, boots on damp needles, leather strap creaks, metal buckle clink, distant wind through branches, far-off forest rustle. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

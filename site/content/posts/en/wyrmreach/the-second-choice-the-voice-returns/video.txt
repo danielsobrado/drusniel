@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Second Choice: The Voice Returns
+Language: en
+Canon Sequence: D-017-002
+Source Image: knowledge-like-a-migraine.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel walks in the dark with lips barely moving, counting under his breath; he touches the obsidian wall to mark a junction, then stops hard as the Beacon pulse flares against his chest.
+[00:03-00:05] He staggers a half step, eyes widening, and jerks a hand to his temple as if struck; the blue-white glow flashes across wet stone, reflections jumping like broken mirrors.
+[00:05-00:08] Drusniel drops to his knees, breath ragged, forcing himself not to scream; after a beat he swallows, steadies on one palm, and turns his head back toward the return path as the pulse settles.
+
+Handheld.
+Audio: boot scuff on obsidian, damp cloth scrape, sharp inhale, water drips, faint low hum from the Beacon, distant rock tick, strained breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

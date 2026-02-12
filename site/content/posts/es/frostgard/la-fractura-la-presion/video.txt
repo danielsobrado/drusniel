@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La Fractura: La Presión
+Language: es
+Canon Sequence: W-022-001
+Source Image: dulint-worry.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] El pulso del Faro se filtra por la lona y enciende la mano de Dulint en destellos fríos. Ascuas del fuego saltan y el humo se queda pegado bajo las ramas; el bosque se siente demasiado quieto.
+[00:03-00:05] Balin entra, se acuclilla y le ofrece un vaso de agua. Dulint duda y lo toma sin mirarlo. El siguiente pulso se refleja como una línea azul-blanco dura sobre la superficie del agua.
+[00:05-00:08] Dulint bebe. La luz del fuego calienta sus nudillos y luego el Faro pulsa otra vez — más fuerte — y las sombras de los árboles caídos se cierran alrededor del campamento. Baja el vaso y mantiene la mano sobre la mochila como si contuviera la luz.
+
+Movimiento de cámara: Dolly in lento desde la lona pulsante hasta el rostro de Dulint.
+Audio: crepitar del fuego, crujido suave de hojarasca, viento lejano entre agujas, zumbido eléctrico tenue con cada pulso, golpecito del vaso, respiración contenida, siseo del humo. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

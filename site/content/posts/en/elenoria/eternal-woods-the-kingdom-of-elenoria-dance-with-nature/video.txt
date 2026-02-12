@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Eternal Woods: The Kingdom of Elenoria's Dance with Nature
+Language: en
+Canon Sequence: ELE-L-002
+Source Image: mid-04.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A cold draft slides across the table; paper corners lift and settle. Faelyn's fingertip hesitates. Dust motes drift through the window light.
+[00:03-00:05] The forest border ink line on the newest map creeps a few millimeters under her fingertip, as if tugged from below. A wax-tag thread tightens, then relaxes.
+[00:05-00:08] The ink line shudders, splits into a faint double trace, then stills. The living-wood walls creak once, deep and close. Faelyn jerks her hand back.
+
+Slow overhead push-in, tightening on the moving ink line.
+Audio: paper rustle, faint leaf hiss behind the walls, soft creak of living wood, thread fibers squeaking under tension, a single dry tap as her fingertip pulls away. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

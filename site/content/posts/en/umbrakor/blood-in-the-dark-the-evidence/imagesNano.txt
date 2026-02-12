@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Blood in the Dark: The Evidence
+Language: en
+Canon Sequence: D-010-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: finding-meren.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Shocked focus, eyes wide and wet; kneeling as he grips Meren’s hand at the wrist, trying to keep him present. Silent corridor near the wine cellar: old steward slumped against damp stone, torn formal jacket, blood pooling beneath, dust and smoke residue hanging in the air. Single lantern from the cellar doorway provides warm low light that catches wet blood sheen and floating dust; faint blue-green fungal stains add cold edge highlights on knuckles and wall micro-texture, specular glints sliding on damp stone. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: pristine-dagger.jpg
+role: mid_01 (placed after sentence "The dagger was pristine. Perfect.")
+prompt:Macro close-up of a pristine dagger on cold stone near a limp hand: blood smears nearby, but the grip remains clean; stamped emblem of three interlocking circles above a curved blade catches a sharp glint. Lantern/firelight produces warm specular highlights along hilt ridges and insignia while surrounding dust and dried droplets stay matte; background falls into smoky blur with soft amber bokeh. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, shallow depth of field, film grain visible, slight halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: mental-doubt.jpg
+role: mid_02 (placed after sentence "Why is there no blood on the hilt?")
+prompt:[Face_Reference: Drusniel]. Suspicion flickering through grief, brow tightening; holding the dagger in his palm and staring at the spotless hilt. Dried nosebleed crust on his face, fingers smeared red, corridor behind blurred into shadow and distant bodies. Warm lantern light hits metal and knuckles in amber; cool fungal rim outlines cheek and ear, interactive highlights catching on moisture at the lower eyelid. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed, shallow depth of field. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: rage-drowning-logic.jpg
+role: mid_03 (placed after sentence "The grief slammed back, drowning the doubt like a wave erasing marks in sand.")
+prompt:[Face_Reference: Drusniel]. Doubt crushed into cold rage, jaw set; fist closing around the dagger until knuckles whiten. Aftermath corridor: smoke haze, blood traces on stone, dead silence with dust settling. Harsh side lantern beam carves his features and throws a long shadow; warm highlights catch on the dagger’s clean metal while the background fades into murk, reflections trembling in the haze. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: taking-the-weapon.jpg
+role: mid_04 (placed after sentence "He tucked the dagger into his belt and kept moving.")
+prompt:Waist-level close shot of Drusniel sliding the pristine dagger into his belt with a decisive controlled motion; hands stained with dried and fresh blood, fabric and leather dusty from tunnels, corridor behind dark and empty. Warm lantern light catches the dagger’s clean edge and worn leather grain; faint blue-green fungal rim traces stone edges and makes dust motes glitter as small points. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

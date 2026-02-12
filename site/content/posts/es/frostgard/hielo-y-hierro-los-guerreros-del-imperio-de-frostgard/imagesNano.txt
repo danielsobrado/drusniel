@@ -1,0 +1,31 @@
+# Image Prompts — Nano Banana Pro
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: es
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt: Two guardsmen in heavy iron-studded fur armour carrying a half-dead messenger through the massive iron-and-timber gates of Jotunheim fortress — messenger's furs stiff with ice, beard a frozen white mask, vegetable-tanned leather message pouch hanging from belt; beyond the gates a blizzard with horizontal snow driving at 40 mph, visibility twenty feet — fortress walls of rough-hewn granite rising into whiteout — blizzard providing cold 7 500 K blue-white ambient desaturating everything outside the gates, a single wall-mounted wrought-iron torch bracket casting warm 2 200 K orange cone of light reaching only the nearest guardsman's face, creating a sharp warm-cold colour-temperature divide at the gate threshold, ice crystals on eyelashes exhibiting prismatic micro-refraction, snow accumulation on shoulder plates showing compacted granular texture. Sony A7R V, Voigtländer 21 mm f/1.4, Kodak Vision3 500T, deep depth of field. Negative: blurry, overexposed, cartoon, 3-D render, extra fingers, text, logo, watermark.
+Aspect: 3:2
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "Palabras vacías.")
+prompt: [Face_Reference: Thorvald] Heavy-set older warrior, deep scars across eyebrow and jaw, grey-streaked beard; seated in a carved oak chair beside a roaring stone hearth, holding a folded letter bearing a broken Lumeshirean golden-sun beeswax seal; face lit on one side by fire glow while the other falls into cold shadow — behind him a narrow loophole window showing only white blizzard — hearth fire at 2 200 K providing sole illumination casting deep sculpted shadows across weathered features, beeswax seal exhibiting warm-toned subsurface scattering at its broken edge, parchment glowing warm where firelight transmits through its thin margin, the narrow window introducing a countering 8 000 K cold fill at minimal intensity on the shadow side. Sony A7R V, Voigtländer 50 mm f/1.2, CineStill 800T halation bloom, shallow depth of field. Negative: blurry, overexposed, cartoon, 3-D render, extra fingers, text, logo, watermark.
+Aspect: 3:2
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "Ecos de gigantes.")
+prompt: Wide interior of the Jotunheim great hall — a vast timber-beamed longhouse with a skald standing near the central fire pit, hands raised, mouth open in song; smoke rising in soft blue-grey layers, warriors at long oak trestle tables with hammered-copper drinking horns, their shadows enormous on the timber walls; iron chandeliers on forged chain hanging from ceiling beams, laden with tallow candles — central fire pit at 1 800 K providing warm shifting uplighting catching smoke layers and projecting giant flickering shadows, tallow candles above at 2 000 K adding a second warmer layer, smoke exhibiting Tyndall scattering creating a hazy amber atmosphere thickening toward the rafters, warrior silhouettes on walls exhibiting soft penumbral edges due to multiple fire-pit source points. Sony A7R V, Voigtländer 21 mm f/1.4, Fuji Eterna 400, deep depth of field. Negative: blurry, overexposed, cartoon, 3-D render, extra fingers, text, logo, watermark.
+Aspect: 3:2
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Huellas en el alma.")
+prompt: Two Frostgard scouts in white elk-fur cloaks crouching beside a massive three-foot-long footprint pressed deep into snow and frozen earth — soil cracked at edges as if the weight exceeded the substrate's compressive strength; one scout placing a bare hand inside the print for scale; behind, more tracks receding into a grey overcast landscape of sparse dead Scots pines and granite outcrops — flat 6 500 K grey overcast daylight washing the snowfield evenly, footprint depth creating its own interior shadow gradient darker at edges and lighter at compressed centre, scouts' white furs nearly matching snow albedo except where iron buckles and weapon hilts exhibit specular highlight, frost crystals reforming in the print shadow exhibiting hexagonal dendritic growth pattern. Sony A7R V, Sony 35 mm f/1.4 GM, Kodak Vision3 250D, medium depth of field. Negative: blurry, overexposed, cartoon, 3-D render, extra fingers, text, logo, watermark.
+Aspect: 3:2
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "Silencio blanco.")
+prompt: Interior of a Frostgard settlement cottage — a meal frozen solid on a rough-hewn pine table, bowls of stew crystallised into solid ice, a wooden spoon standing upright in frozen broth, an overturned chair on flagstone floor; front door hanging open to a wall of white snow, cold air flowing in visibly as frost creeps across every surface — no bodies, no struggle marks, only abandonment — cold 7 000 K blue daylight pouring through the open door, illuminating the frozen meal and advancing frost front on the table surface, deeper cottage in shadow with dead hearth showing no embers, icicles forming on ceiling beams near the door exhibiting transparent columnar ice structure, frost crystal formations on the stew showing radial dendritic growth from nucleation points. Sony A7R V, Voigtländer 21 mm f/1.4, Fuji Eterna 400, deep depth of field. Negative: blurry, overexposed, cartoon, 3-D render, extra fingers, text, logo, watermark.
+Aspect: 3:2

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Que Camina Libre: La Fuga
+Language: es
+Canon Sequence: D-013-004
+Source Image: running-into-stone-teeth.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A shout cuts through the camp; lanterns jerk and scatter as Drusniel and Elion break from the road, boots slipping on black grit.
+[00:03-00:05] They plunge into the stone teeth; sharp shadows swallow them between jagged edges while the caravan's lights flare behind in frantic motion.
+[00:05-00:08] The gap narrows and then opens; they vault a fractured ridge and vanish deeper into the maze as distant voices fade and one lantern beam sweeps past, missing them by inches.
+
+Handheld.
+Audio: frantic footfalls on rock, grit skid, iron gear clatter, distant guard shouts muffled by stone, lantern chain rattle, wind hiss through gaps, breath and fabric scrape. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

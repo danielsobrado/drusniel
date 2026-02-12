@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Forbidden Knowledge: The Growing Power
+Language: en
+Canon Sequence: D-007-007
+Source Image: dummy-hit.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The practice dummy finishes its backward flight and slams into the stone wall. Padding tears and dust bursts outward in a short, heavy plume.
+[00:03-00:05] The dummy rebounds and collapses sideways, wood joints popping. A few splinters skid across the floor while torch shadows whip across the room.
+[00:05-00:08] Drusniel staggers one step, hand lowering as the force leaves him. He swipes under his nose, realizing the blood, and steadies his breathing as the dust hangs and slowly settles.
+
+Slow dolly-in from a medium view to tighter on Drusniel as the aftermath hits.
+Audio: torch flame flutter, wood impact, splinter crack, grit sliding on stone, a sharp exhale, distant forge draft, cloth scrape as he wipes his nose. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

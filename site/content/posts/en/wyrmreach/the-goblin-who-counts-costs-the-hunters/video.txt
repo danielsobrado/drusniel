@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Goblin Who Counts Costs: The Hunters
+Language: en
+Canon Sequence: D-015-003
+Source Image: no-magic-it-hears-you.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Coatly tumbles sideways through the trees, tearing a line of leaves free as it slams into branches and recovers in midair. Loose grit and shredded foliage hang for a beat, then start to fall.
+[00:03-00:05] The shriek changes pitch and is answered from multiple directions; overlapping wing-beats thicken into a wet leather storm as shadow bands sweep across the ground and faces. Drusniel clamps down hard, forcing his hands still.
+[00:05-00:08] Srietz yanks them toward the narrow rock crack; the three surge forward and duck into the slit as another Coatly snaps past the opening and misses, clipping stone and throwing sparks of grit. The sound outside keeps circling, hunting for another way.
+
+Handheld.
+Audio: harsh layered shrieks, wet leather wing-beats, leaves tearing and falling, grit skittering on stone, fast footfalls, strained breathing, a sharp rock scrape as someone squeezes through. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

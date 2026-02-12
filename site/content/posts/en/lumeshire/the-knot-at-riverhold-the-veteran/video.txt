@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: The Knot at Riverhold: The Veteran
+Language: en
+Canon Sequence: W-010-001
+Source Image: riverhold-streets-alert.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Eldric pushes through the market crowd without breaking stride, eyes snapping left and right; Sera fights to stay on his shoulder as muddy boots splash and a cart rattles past inches away.
+[00:03-00:05] Eldric stops short and turns his head, locking onto something off-frame; the crowd surges between them, briefly swallowing the line of sight.
+[00:05-00:08] He catches Sera by the sleeve and pulls her into a narrow side passage, pressing them to the wall as the street noise muffles and the unseen tail slips away.
+
+Handheld tracking shot moving with Eldric through the crowd.
+Audio: market chatter, wagon wheels on wet cobbles, boots splashing in mud, leather creak, a distant bell, short hard breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

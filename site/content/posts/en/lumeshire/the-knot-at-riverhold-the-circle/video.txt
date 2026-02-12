@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: The Knot at Riverhold: The Circle
+Language: en
+Canon Sequence: W-010-005
+Source Image: vigil-at-window.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Mist drifts through the alley as rainwater drips from stone; inside the window, Eldric shifts his weight and scans the street, candlelight fluttering behind him.
+[00:03-00:05] A shadow in the foreground leans and stills, almost breathing; Eldric pauses mid-turn as if he feels the gaze, his hand tightening near his belt.
+[00:05-00:08] Eldric steps back from the glass and the window glow dims for a beat; the watcher retreats deeper into darkness, leaving only wet stone and silence below.
+
+Slow push-in from the alley toward the lit window.
+Audio: distant night hush, water dripping, soft cloth scrape, a single footstep on wet stone, faint candle crackle through glass, a held breath. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

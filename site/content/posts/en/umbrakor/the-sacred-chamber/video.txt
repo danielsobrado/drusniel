@@ -1,0 +1,17 @@
+# Video Prompt
+Title: The Sacred Chamber
+Language: en
+Canon Sequence: D-001-001
+Source Image: entering-darkness.jpg
+
+## Veo 3 Prompt
+
+[0-3s] Drusniel stands at the obsidian threshold, the blue-green bioluminescent glow of the antechamber painting the back of his thin ceremonial robe. His shoulders rise with a slow breath. His thumb presses against his index finger once, then stills.
+
+[3-6s] He steps forward. The fungi light slides off his shoulders and down his back as he crosses into the corridor. The darkness ahead swallows his silhouette from the feet upward. His white hair catches the last glow like a fading signal.
+
+[6-8s] The corridor consumes him. Only a thin rim of cyan light traces the edge of one shoulder, then that too disappears. The obsidian walls gleam faintly, then go black.
+
+Slow dolly forward following Drusniel from behind at mid-distance, never overtaking him.
+Audio: low cave reverb, bare feet on polished stone, a single distant drip of water echoing, faint wet hum of bioluminescent fungi. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

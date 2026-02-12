@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Defensa Resiliente del Imperio Divino de Lumeshire
+Language: es
+Canon Sequence: LUM-L-001
+Source Image: invisible-water.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A bead of dark water trembles on the boot toe, then begins to crawl downward against the leather grain. Dust on the floorboards stays perfectly still.
+[00:03-00:05] The bead reaches the sole and drops. The moment it touches the dry wood, it vanishes without a splash or stain, leaving the dust undisturbed.
+[00:05-00:08] A second bead follows the same path and disappears the same way. Morning light through the window shifts a fraction, but the wet boundary never spreads.
+
+Static floor-level shot, locked off.
+Audio: near-silence, faint creak of the barracks settling, a soft drip that cuts off mid-impact, distant wind against the window. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

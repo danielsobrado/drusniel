@@ -1,0 +1,32 @@
+{
+  "name": "Talryn",
+  "title": "Guide",
+  "titlees": "Guía",
+  "description": "A guide in Wyrmreach with military bearing she doesn't bother hiding. Sleeps four hours a night, never deeper than a doze, and always knows exactly where she is. Her face gives away nothing. People hire her to get them through dangerous territory, and she does — on her terms.",
+  "descriptiones": "Una guía en Wyrmreach con porte militar que no se molesta en ocultar. Duerme cuatro horas por noche, nunca más profundo que una cabezada, y siempre sabe exactamente dónde está. Su cara no revela nada. La gente la contrata para cruzar territorio peligroso, y lo hace — en sus términos.",
+  "thumbnail": "talryn.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Guide",
+    "Scout"
+  ],
+  "skillses": [
+    "Guía",
+    "Exploradora"
+  ]
+}

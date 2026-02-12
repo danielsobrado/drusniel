@@ -1,0 +1,27 @@
+# Image Prompts
+Title: El Camino de Zuraldi: El Despertar
+Language: es
+Canon Sequence: W-008-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: road-from-zuraldi.jpg
+role: header
+prompt: [Face_Reference: Dulint] Weathered focus, shoulders heavy under pack straps, eyes forward. [Face_Reference: Balin] Irritated squint, mouth mid-complaint, kicking dust off the road. The empty trade road from Zuraldi winds through sun-bleached hills and scrub, wagon ruts cut into dry earth, heat shimmer distorting the horizon, no other travelers in sight and the silence feeling wrong for a main route. Harsh high-noon sunlight from overhead creates short hard shadows and bright specular highlights on dust and worn leather, with pale haze washing distant ridgelines. Canon EOS R5 24mm f/2.8 Kodak Ektar 100, film grain visible, slight vignetting. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: glowing-pack.jpg
+role: mid_01 (placed after sentence "Una luz tenue, sin color, se filtraba a travÃ©s de las costuras â€”aguda y delgada, como luz solar cortando a travÃ©s de una grieta en un pozo de mina.")
+prompt: Close-up on Dulint's worn leather pack swinging at his side as a thin, colorless blade of light leaks through a seam, unnaturally sharp against the noon day, making dust grains sparkle as they drift past. The leather is cracked and sweat-stained, stitch holes stretched by years of use, and the seam glow looks like mine-shaft daylight where it shouldn't exist. Sunlight is bright and flat from above, but the seam-light is colder and directional, casting a narrow line across the pack's curve and the fabric of his tunic. Canon EOS R5 85mm f/1.8 Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: warm-cube.jpg
+role: mid_02 (placed after sentence "El cubo saliÃ³ tibio.")
+prompt: [Face_Reference: Dulint] Startled disbelief, hands trembling slightly as he draws the cube into the open; breath held. [Face_Reference: Balin] Stepping back, eyes wide, hand dropping toward the knife at his belt. Dulint holds a dark metal cube with geometric carvings that have begun to glow pale and steady, warmth radiating off it like banked coals and a faint heat shimmer warping the air above its edges. The cube's cold blue-white internal glow is the only unnatural light, spilling onto knuckles and the pack clasp, while harsh noon sun still flattens the dusty road around them. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: pointing-northeast.jpg
+role: mid_03 (placed after sentence "Una cara brillaba mÃ¡s que las otras.")
+prompt: [Face_Reference: Dulint] Turning the cube in his hands, eyes tracking the fixed pull of the glow; jaw tight. [Face_Reference: Balin] Leaning away, wary, watching the light cut the air. One face of the cube burns brighter and throws a narrow directional beam through the dusty road haze, pointing toward distant mountains on the north-eastern horizon, the beam staying locked in one direction even as Dulint rotates the cube. The beam is cold blue-white and directional, lighting floating dust like tiny sparks, while the sun remains harsh and high, bleaching the hills and casting short shadows under their boots. Canon EOS R5 35mm f/2.0 Kodak Portra 400, film grain visible, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: bone-hum.jpg
+role: mid_04 (placed after sentence "MÃ¡s una vibraciÃ³n que evitaba sus oÃ­dos y se asentaba directamente en sus huesos.")
+prompt: [Face_Reference: Dulint] Teeth gritted, eyes unfocused, face tightening as the vibration hits; breath turning shallow. Macro-to-portrait framing: dust grains on the cube's surface jitter and lift in tiny bursts as his fingers clamp down hard, knuckles whitening, the hum felt in jaw and teeth rather than heard. The cube's cold glow underlights fingertips and metal edges, while noon sun adds a thin rim along his cheek and the pack strap, leaving the background road to blur into heat haze. Canon EOS R5 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

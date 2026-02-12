@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Búsqueda de la Supremacía Mágica por la Teocracia Contiana
+Language: es
+Canon Sequence: CON-L-001
+Source Image: magic-fizzles-under-chain.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The shimmer tries to re-form above the prisoner's bound hands, flickering in short weak bursts. The silver chain vibrates against skin as he strains, breath hitching.
+[00:03-00:05] Halvek presses his palm closer. The blue-green light thins from the center outward as if drained, and the wall lamps briefly gutter.
+[00:05-00:08] The glow collapses to nothing. The prisoner gasps and sags; the chain settles with a last metallic tick while the bowls of water stop trembling.
+
+Slow macro push-in from wrists to the collapsing shimmer.
+Audio: tight breathing, chain links whispering, low hum rising then cutting out, lamp flame flutter, faint water tremor, one sharp metal click. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

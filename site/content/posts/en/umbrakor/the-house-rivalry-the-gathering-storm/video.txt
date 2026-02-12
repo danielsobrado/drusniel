@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The House Rivalry: The Gathering Storm
+Language: en
+Canon Sequence: D-009-001
+Source Image: drusniel-clenched-fist.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The candle flame gutters and leans as the air around Drusniel’s fist tightens. Dust motes lift off the desk in slow spirals, drawn toward his knuckles.
+[00:03-00:05] The swirl intensifies into a tight helix. Loose papers flutter and a hanging cord trembles; the oil-lamp glass gives a faint rattle as Drusniel’s fingers clamp harder.
+[00:05-00:08] He forces a controlled exhale and loosens his grip by a fraction. The helix collapses into drifting dust again, the flame steadies, and the room returns to heavy silence—only the last few motes still spinning as if reluctant to stop.
+
+Slow push-in from the drifting dust to the clenched fist.
+Audio: candle crackle, paper rustle, faint low hum synced to the motion, fabric creak, one sharp inhale and a slow exhale, distant house quiet. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

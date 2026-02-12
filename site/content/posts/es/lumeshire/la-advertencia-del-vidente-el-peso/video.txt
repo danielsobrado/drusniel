@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Advertencia del Vidente: El Peso
+Language: es
+Canon Sequence: W-016-001
+Source Image: embers-stonehold-vision.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint stays motionless, breathing shallowly as the embers pulse and dim; a few sparks lift and die, and fine ash drifts upward in the draft.
+[00:03-00:05] The heat shimmer tightens into a fleeting illusion: the ember glow momentarily resembles burning stone corridors and running silhouettes, then breaks apart as the coals shift and collapse.
+[00:05-00:08] Dulint blinks hard, fists tightening once, then loosening; the room creaks and settles around him while the firelight fades another step toward black.
+
+Dolly in.
+Audio: soft ember crackle, occasional pop of coals, faint wood creaks, distant wind at the door, a single quiet footstep upstairs, slow controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

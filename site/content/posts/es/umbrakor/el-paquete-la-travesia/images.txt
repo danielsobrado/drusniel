@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: La Travesía
+Language: es
+Canon Sequence: D-011-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, wary focus at the edge of a decision; posture braced against the wrongness ahead. [Face_Reference: Zaelar] Standing back with controlled distance, eyes fixed on the boundary. Wide shot at a cliff edge on the surface as Drusniel faces the barrier where the air looks like oily glass and colors shift at the line; faint red light and black rock hints show beyond, wind tugging at cloaks and grass. Overcast daylight keeps this side cold and grey, while the boundary throws purple-green iridescent sheen that slides across mist and damp stone. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, atmospheric haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: mid-01.jpg
+role: mid_01 (placed after sentence "Activó la placa.")
+prompt:[Face_Reference: Drusniel] Photorealistic, expression tightening as the familiar void sensation hits; breath caught, thumb pressing with precision. Medium-close shot of Drusniel activating the Null plate in his palm as the air ahead thickens like oil and his first step presses into the barrier; cold grey surface light falls behind him while red-black glow bleeds through in front. The plate's faint cool pulse adds thin reflections on his fingers, while overcast daylight stays flat on the cliff rock and the boundary sheen ripples across his sleeve. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed, slight motion blur at the barrier edge. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: mid-02.jpg
+role: mid_02 (placed after sentence "Creó una bolsa alrededor de su cara.")
+prompt:[Face_Reference: Drusniel] Photorealistic, jaw clenched and eyes wide with cold shock; panic forced down into function as he swims. Underwater in the Mar de Pesadilla: near-total darkness with suspended particulate as Drusniel kicks upward, compressing trapped surface air into a thin bubble around his mouth and nose; pack straps and fabric pull heavy in the current. No external light penetrates except a weak grey smear above, while bubbles catch tiny highlights and the water eats color into cold contrast. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed, subtle motion blur in bubbles. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: mid-03.jpg
+role: mid_03 (placed after sentence "Una de ellas se volvió hacia él.")
+prompt:[Face_Reference: Drusniel] Photorealistic, refusing to look down; muscles straining as he kicks toward the faintly lighter water above. Underwater perspective angled downward: Drusniel drives upward through murk while an enormous indistinct shape shifts in the depths below, a single distant glint hinting at a colossal eye; the water feels heavy and wrong, pack straps and clothing pulling in the current. Light is minimal, only grey from above, with deep black swallowing the lower frame and leaving the glint as the only hard point. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slight motion blur in his kicking legs, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: mid-04.jpg
+role: mid_04 (placed after sentence "Drusniel yació sobre las rocas, jadeando, temblando, mirando un cielo del color de sangre vieja.")
+prompt:[Face_Reference: Drusniel] Photorealistic, exhausted and stunned; coughing water, shaking hard as breath returns in ragged pulls. Shoreline on black volcanic rock as Drusniel collapses on the stones, wet fabric clinging and dripping; behind him the sea rolls in rhythmic breathing-like swells, and above him the sky is deep red like old blood. Diffuse red sky light provides flat, unsettling illumination, while wet rock and skin catch sharp specular sheen and throw small reflections into the shadows. Canon EOS R5 35mm f/1.4 Kodak Ektar 100, film grain visible, not perfectly exposed, slight water droplets on lens. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

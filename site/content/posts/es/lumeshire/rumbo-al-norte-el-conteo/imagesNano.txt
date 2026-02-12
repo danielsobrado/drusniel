@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Rumbo al Norte: El Conteo
+Language: es
+Canon Sequence: W-018-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: balin-Eldric-walking.jpg
+role: header
+prompt:[Face_Reference: Balin]. Counting ridgelines under his breath, eyes fixed on the horizon; travel dirt on cloak and straps. [Face_Reference: Eldric]. Vigilant scan of the treeline, jaw set, hand near his weapon. They hike a narrow mountain trail through damp pine forest, needles crushed under boots, cold mist hanging low while distant ridges stack beyond the trees like waves of stone. Early dawn sun breaks through branches in thin warm shafts that catch cheek edges and wet bark; cool blue fill in shadow keeps pine needles and gear muted, and dew highlights sparkle as tiny specular points on moss. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mountain-ridges.jpg
+role: mid_01 (placed after sentence "Dieciocho crestas. ¿Cuál es el propósito?")
+prompt:Wide landscape from the trail: eighteen mountain ridges layered into the distance like stone waves, far peaks softened by blue atmospheric haze and a single cloud break revealing an extra ridge half-hidden behind it; pine treetops frame the foreground and tiny birds wheel high above for scale. Clear daylight produces bright sunlit slopes and cooler valley shadows; haze scatters light so far ridges desaturate and soften, while nearer rock faces show crisp texture and hard edge-shadow. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: dulint-checks-ground.jpg
+role: mid_02 (placed after sentence "Dulint se volvió, su rostro ilegible. El suelo se ve mal aquí.")
+prompt:[Face_Reference: Dulint]. Face unreadable, crouched low, gloved hand hovering over moss. [Face_Reference: Xandor]. Patient, staff planted, eyes following the hand. [Face_Reference: Balin]. Frustrated, weight shifted, arms tight. Dulint stops on the forest trail and studies a patch of earth that looks ordinary but feels wrong, subtle irregularities in moss, soil, and crushed needles; the group bunches up behind him in reluctant pause. Overcast daylight filtered through pine canopy creates cool soft shadow; wet textures throw small specular highlights on mud and bark, and the damp ground reflects a faint green tint up into chins and knuckles. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, background slightly out of focus, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: maris-sees-echoes.jpg
+role: mid_03 (placed after sentence "Solo... ecos. Violencia antigua.")
+prompt:[Face_Reference: Maris]. Eyes unfocused, expression flat, breath caught as if listening to something far away. She stops mid-walk and stares into a small clearing where nothing moves quite right, scuffed stones and half-buried remnants hinting at old violence without showing it. Muted daylight shifts cooler in the clearing as cloud shadow slides over; a thin pale rim of sun catches grass edges and cheekbones, and the cool light reflects off wet leaves as tiny silver highlights that tremble in the breeze. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, natural skin with pores, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: balin-frustrated-patience.jpg
+role: mid_04 (placed after sentence "Primera vez entendiendo que la paciencia y la frustración pueden existir en el mismo momento.")
+prompt:[Face_Reference: Balin]. Dusty and tired, jaw clenched, eyes forward with determination fighting impatience. He walks the detour path a half step behind the others, shoulders tight, pretending not to seethe while the group continues on through pine and damp earth. Afternoon sun breaks through clouds in soft patches, warming nose ridge and cheek edges; cool shadow fills the background and turns wet ground into dark matte with occasional dew glints that sparkle and then vanish as he moves. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, film grain visible, shallow depth, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

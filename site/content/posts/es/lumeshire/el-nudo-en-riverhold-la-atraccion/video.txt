@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: El Nudo en Riverhold: La Atracción
+Language: es
+Canon Sequence: W-010-004
+Source Image: maris-arrival.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris sways in the doorway and takes one unsteady step forward, fingers scraping the doorframe as she tries to stay upright; candlelight flickers across her face.
+[00:03-00:05] The Beacon pulses brighter and the air shimmers with heat above the table; Maris’s unfocused eyes snap briefly toward the glow, as if pulled by a hook.
+[00:05-00:08] Eldric shifts to block the threshold, hand near his belt, while Balin moves to help and stops short; Maris exhales hard and grips the frame again, the room going silent.
+
+Slow dolly-in from the dark hallway toward Maris as she enters.
+Audio: stair creak, door hinge groan, candle hiss, rising artifact hum, cloth rustle, a single sharp breath, distant street noise muffled. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,30 @@
+{
+  "name": "Sylaera",
+  "title": "Drow Scribe",
+  "titlees": "Escriba Drow",
+  "description": "A young drow temple scribe in Umbrakor. Ink-stained fingers, pressed lips, the kind of person who reads every line twice — not because she's slow, but because she pays attention. Quiet in a way that makes you wonder what she's thinking.",
+  "descriptiones": "Una joven escriba drow del templo en Umbrakor. Dedos manchados de tinta, labios apretados, el tipo de persona que lee cada línea dos veces — no porque sea lenta, sino porque presta atención. Callada de una forma que te hace preguntarte qué está pensando.",
+  "thumbnail": "sylaera.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Scribe"
+  ],
+  "skillses": [
+    "Escriba"
+  ]
+}

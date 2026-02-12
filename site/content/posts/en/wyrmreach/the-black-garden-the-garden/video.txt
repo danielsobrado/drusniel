@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Black Garden: The Garden
+Language: en
+Canon Sequence: D-021-003
+Source Image: crystals-open-a-corridor.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The crystal wall grinds and begins to rotate — spires turning in perfect increments as grit rains down. The hum shifts and settles behind the teeth, pressure without wind.
+[00:03-00:05] The corridor opens fully. Varesh steps back from the clearing’s edge. Steam from three cups twists in the chemical air as Drusniel keeps his hands still and Srietz refuses to drink.
+[00:05-00:08] Nyxara enters unhurried through the gap. Violet light bends toward her as she reaches the table and takes the head chair. The crystals pulse once, deeper violet, then go still.
+
+Slow dolly in across the table toward Nyxara.
+Audio: grinding crystal rotation, fine grit pattering, low resonant hum, faint steam hiss, fabric rustle, boots on gravel, a held breath, the hum deepening at the pulse. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

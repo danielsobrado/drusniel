@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La magia en Astalor
+Language: es
+Canon Sequence: AST-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: oracle-overlooks-ruined-keeps.jpg
+role: header
+prompt:[Face_Reference: Sage]. Quiet concentration; eyes narrowed at the landscape like weighing invisible forces; cloak pulled tight against wind. Standing on a ruined mage-tower balcony at dusk, looking over a shattered valley where elemental phenomena braid and repel above broken stonework: wind-thread vortices, low tongues of flame, ribboned water mist, vein-like stone ridges splitting the ground; ivy reclaims carved ruins.
+Environment: Bronze brazier behind provides warm amber backlight and throws dust into view as floating points; cool violet twilight fills the valley and deepens shadows. Warm highlights ride brazier-side edges while distant ruins stay cold and desaturated under dusk.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, subtle lens flare from the brazier. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: sage-confronts-threat.jpg
+role: mid_01 (placed after sentence "Es una ley fundamental, inflexible y absoluta.")
+prompt:[Face_Reference: Sage]. Arm raised, palm out; expression: controlled strain. Standing between two granite lecterns in a subterranean hall: sphere of compressed water on one side and sphere of living flame on the other, both pushing toward center and repelling as the air shudders and hairline cracks race across the stone floor.
+Environment: Water sphere throws cold blue refraction and caustic patterns on damp stone; flame sphere burns harsh orange on the opposite wall. The collision zone flickers unstable grey-white; heat haze and spray mist interact, creating shifting highlights along crack edges.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: sage-moves-through-storm-plains.jpg
+role: mid_02 (placed after sentence "Convertida en polvo o en fragmentos inútiles.")
+prompt:Extreme close-up of a calloused hand cradling a translucent power-stone mid-disintegration: upper half crystalline and faintly glowing jade, lower half collapsing into fine grey dust sifting between trembling fingers; blurred workbench behind with unworked mineral specimens and a brass loupe.
+Environment: The dying stone glow is the primary light, soft green washing across palm creases and illuminating dust as it falls. A distant oil lamp adds weak warm backfill that catches dust grains as brief amber points before they disappear into shadow.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: ignimancy-clue-discovery.jpg
+role: mid_03 (placed after sentence "Ignimancia (Fuego): La disciplina de la pasión y la transformación.")
+prompt:[Face_Reference: Sage]. Jaw clenched; soot smudged across her glove; concentration visible in her stare. Crouched in a scorched ritual circle, cupping a controlled helix of white-hot flame that purifies a corroded iron ingot suspended above; molten droplets hiss on stone; carved channels glow cherry-red; tome lies open nearby with pages curling from heat.
+Environment: Flame is the only light, white-blue core with deep orange edges, casting hard shadows and creating heat distortion. Orange reflections bounce off stone and return as warmer fill under the ingot; sparks drift and leave faint motion trails.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation in the flame edge. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: miragery-consequence-realized.jpg
+role: mid_04 (placed after sentence "Mirajismo: El arte de falsear la realidad.")
+prompt:[Face_Reference: Sage]. Pupils uneven; fine sweat at the brow; expression: uneasy realization. Seated at a desk in a candlelit archive with an open grimoire; miniature illusory landscape hovers above the page, rippling and refusing to resolve under direct gaze; bronze mirror behind shows her posture half a beat out of sync.
+Environment: Three tallow candles provide warm flickering light; flames bend slightly toward the mirage and cast long crawling shadows across shelves. Wax pools catch tiny specular points; the mirage introduces subtle distortion in reflections and bends candlelight into warped highlights on nearby metal.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

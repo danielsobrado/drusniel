@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Nightmare Sea: The Depths
+Language: en
+Canon Sequence: D-009-004
+Source Image: collapse-on-black-sand.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel's fingers twitch in the black sand and a thin stream of hot grains slides off his knuckles; his breath rasps once, then stutters.
+[00:03-00:05] Behind him the half-beached hull scrapes and settles with a small wave; he tries to push up, elbows shaking, and collapses back into the warm grit.
+[00:05-00:08] Footsteps crunch closer. A long shadow falls across his back and the sand darkens under it; the steps stop and the air goes still as someone stands over him deciding.
+
+Slow dolly-in at ground level from the boat toward his collapsed body.
+Audio: hull scraping on grit, shallow waves, ragged breathing close to the sand, crunching steps, a distant volcanic rumble under the wind. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

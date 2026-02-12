@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Clear Sight: The Drowning Man
+Language: en
+Canon Sequence: W-024-003
+Source Image: moment-of-connection.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The amber thread of light between them pulses — once, twice — growing brighter. Drusniel looks upward from the boat with shocked recognition, hand reaching. Above him through the layers of void, Maris's face clarifies, equally stunned.
+[00:03-00:05] The thread intensifies. Their fingers strain toward each other across the impossible gap. The black water around the boat begins to glow sickly green from below, reacting to the connection. The boat rocks.
+[00:05-00:08] Something vast moves beneath the water. The surface distorts. The amber thread between them shudders, frays. Drusniel's expression shifts from recognition to alarm — not for himself, but for her. The connection snaps. Darkness floods the gap.
+
+Static camera, slowly tightening.
+Audio: deep resonant hum building, crackling amber energy, water lapping against wood, sudden bass impact at the snap. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

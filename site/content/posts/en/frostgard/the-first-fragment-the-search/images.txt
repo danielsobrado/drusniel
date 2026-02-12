@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Search
+Language: en
+Canon Sequence: W-020-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: snowy-search.jpg
+role: header
+prompt:[Face_Reference: Dulint] Sleepless edge in his expression, grip firm on the pack strap. [Face_Reference: Balin] Watchful now, hand hovering near his sword hilt out of habit. [Face_Reference: Maris] Strained and distant for a heartbeat, palm briefly to her temple. [Face_Reference: Eldric] Scanning the horizon like a soldier who expects trouble. [Face_Reference: Xandor] Steady pace, eyes on the mountains ahead. The group treks north through Frostgard borderlands as hills turn to rock, grass thins to grey soil, and sparse trees bend under cutting wind; cloaks snap, breath fogs in the cold, and travel grime clings to hems. Flat overcast daylight turns the world desaturated while the Beacon's faint blue-white glow leaks through canvas seams for a moment, then stutters. Canon EOS R5 24mm f/1.4 Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: beacon-stutter.jpg
+role: mid_01 (placed after sentence "Like a heartbeat learning to run.")
+prompt:[Face_Reference: Dulint] Asleep sitting upright, arms locked around the pack, brow faintly drawn as if the hum reaches him even through sleep. Night camp without a fire; cold wind pushes grit across rock while the Beacon stutters inside the bundle, quick blue-white bursts followed by silence, then a low sustained glow that makes the canvas fibers and Dulint's knuckles flash in rhythm. The Beacon's pulses are the primary light source, throwing hard-edged highlights on straps and beard hair while the rest of the camp falls into deep blue shadow. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight halation in the brightest pulses, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-trembling.jpg
+role: mid_02 (placed after sentence "Her hand was trembling.")
+prompt:[Face_Reference: Maris] Right hand shaking against her thigh, jaw tight as she forces it into a fist; a faint smear at one nostril hints at another vision. [Face_Reference: Balin] Concerned, stepping closer, eyes flicking from her hand to her face. On the road, bleak borderland trees bend in the wind and rock gives way to grey soil underfoot; the others continue ahead as blurred shapes, moving because stopping feels dangerous. Cold daylight from an overcast sky reveals raw fatigue and texture, breath fog curling briefly between them. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: xandor-sensing.jpg
+role: mid_03 (placed after sentence "Xandor knelt beside the pack.")
+prompt:[Face_Reference: Xandor] Eyes closed, hands hovering a finger's breadth above the artifact, calm focus under strain. [Face_Reference: Dulint] Crouched close, protective, watching the glow change. [Face_Reference: Eldric] Hand near his sword, posture ready. [Face_Reference: Maris] Pressing through headache pressure, gaze locked on the light. [Face_Reference: Balin] Trying to stay steady, tension in his mouth. On the trail, the pack lies open and the Beacon's glow has turned brighter and narrower, as if aimed; wind tugs cloaks and carries the smell of ice and old stone down from the passes. The Beacon's blue-white light throws sharp highlights on weathered hands and the inside canvas, while overcast daylight adds cold fill and soft shadow to faces watching in silence. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight halation at the brightest edges, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: hunters-behind.jpg
+role: mid_04 (placed after sentence "Something else is looking for it too.")
+prompt:[Face_Reference: Eldric] Turned back, eyes narrowed, breath held, reading a treeline that refuses to answer. Paranoia POV from behind a tree trunk: the group recedes ahead on the grey path while a dark, indistinct shape occupies the near foreground like a presence more than a body; thin branches hiss in the wind and frost-dust lifts from the ground. Overcast light is swallowed by dense shadows under the trees, leaving only a cold rim on Eldric's cheek and the faintest glint on his hand near the sword. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed, slight handheld shake. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

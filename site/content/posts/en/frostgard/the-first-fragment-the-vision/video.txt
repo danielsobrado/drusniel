@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The First Fragment: The Vision
+Language: en
+Canon Sequence: W-020-004
+Source Image: maris-waking.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Static shot as Maris convulses awake in the ravine; Balin holds her shoulders down while Xandor presses cloth to her nose and blood spills faster than anyone can stop.  
+[00:03-00:05] The frame stays locked as the Beacon pulses—cold blue-white flashes washing over faces—while Eldric shifts his weight to pin her legs and the lantern wick sputters, throwing warm light that fights the cold glow.  
+[00:05-00:08] Still static; Maris's scream breaks into ragged gasps, breath vapor billows, and the pulsing slows for one beat before returning, as if something far away just answered.
+
+Camera movement: Static.  
+Audio: ragged breathing, wet cough, cloth slap and rustle, lantern sputter, Beacon hum and pulse, wind muted by rock, blood dripping into dirt. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

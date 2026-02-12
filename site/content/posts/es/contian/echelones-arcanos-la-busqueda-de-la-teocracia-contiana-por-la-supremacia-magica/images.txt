@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Búsqueda de la Supremacía Mágica por la Teocracia Contiana
+Language: es
+Canon Sequence: CON-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: syrael-looks-up-at-tower.jpg
+role: header
+prompt:[Face_Reference: Syrael] Ink-stained fingertips; robe hem pinched up in two fingers; expression: held-breath awe. Syrael stands at the bottom of a spiraling tower stairwell, looking straight up through the helical void as pale limestone steps twist clockwise toward a ceiling lost in shadow; narrow slit windows puncture the wall at uneven intervals; the walls are carved with severe geometric doctrinal markings, not readable. Cold blue-white daylight from the slit windows slices in at hard angles, repeating planes of light and deep cool shadow as the spiral climbs. Canon EOS R5 16mm f/2.8 Kodak Ektar 100, extreme depth of field, film grain visible, slight chromatic aberration at the frame edges. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: halvek-addresses-assembly.jpg
+role: mid_01 (placed after sentence "habéis oído los rumores de la frontera.")
+prompt:[Face_Reference: Syrael] Expression: controlled concentration, head down; quill moving fast. Minister Halvek stands at an elevated dais before a semi-circle of scholars in gold-collared robes; a dull metal rod lies on black cloth at the center of the dais, unremarkable and heavy with implication; Syrael sits at his assigned scribe position at the far edge of the room, nearly invisible. Harsh pale morning daylight from tall unglazed windows washes the chamber in flat, clinical light with minimal shadow; dust floats in the window beams; the rod absorbs light rather than reflecting it. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: halvek-prepares-instruments.jpg
+role: mid_02 (placed after sentence "Halvek se volvió hacia un conjunto de instrumentos de latón dispuestos sobre una mesa más pequeña: cuencos de agua bendita, una pizarra grabada con círculos, una fina cadena de eslabones de plata, y un pequeño prisma de cristal.")
+prompt:Close-up of a smaller stone table bearing brass instruments arranged with surgical precision: shallow bowls of clear blessed water reflecting the ceiling, a grey slate etched with circles, a thin silver chain coiled in fine links, and a glass prism standing on felt; Halvek's manicured hands hover over the chain; behind the table, out of focus, two guards escort a bound young man. Cold window light falls directly onto the instruments, making brass glow and silver glint; the water surfaces act like mirrors; the prism splits a thin thread of light into faint color on the slate. Canon EOS R5 100mm f/2.8 macro Kodak Ektar 100, shallow depth of field, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: magic-fizzles-under-chain.jpg
+role: mid_03 (placed after sentence "El brillo regresó en débiles ráfagas, luego colapsó en nada.")
+prompt:Extreme close-up of the prisoner's bound wrists wrapped in a silver chain as a weak sickly blue-green shimmer struggles to form above his knuckles, thinning and hollowing as if something drains it from within; tendons stand out with strain, veins visible, skin reddened where rope bites. The dying shimmer provides the only colored light, a feeble blue-green glow that loses against cold window daylight; the chain seems to drink the color and leave grey in its wake. Canon EOS R5 85mm f/1.4 Cinestill 800T, halation around the dying glow, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: syrael-records-fear.jpg
+role: mid_04 (placed after sentence "Lo ataremos con la ley.")
+prompt:[Face_Reference: Syrael] White-knuckled grip on a goose-feather quill; bead of sweat at his temple; eyes slightly too wide. Tight portrait at his scribe station, parchment filled with dense handwriting (not readable), composure cracking at the edges; behind him, the empty dais and bare black cloth where the prisoner stood, guards' shadows retreating through a doorway. The same harsh window light falls on Syrael now, unforgiving and clinical, revealing the minute tremor at the corner of his mouth and the sheen of perspiration. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

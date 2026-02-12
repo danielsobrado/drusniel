@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Deuda Anticipada: La Verdad del Comercio de Cristales
+Language: es
+Canon Sequence: D-023-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: srietz-reveals-crystal-truth.jpg
+role: header
+prompt:[Face_Reference: Srietz] Urgent intensity, holding up a black crystal that absorbs light. [Face_Reference: Drusniel] Listening with narrowed focus. Goblin holds the crystal toward drow in a narrow volcanic pass flanked by black crystal formations. Faint violet luminescence from the crystal facets lights their faces from below. Canon EOS R5 50mm f/1.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: black-crystal-closeup.jpg
+role: mid_01 (placed after sentence "Un sustrato alquímico de altísima pureza que sirve como vehículo para compuestos psicoactivos.")
+prompt:Macro close-up of a black crystal held between small clawed goblin fingers, inner lattice structure visible absorbing light, faint violet luminescence in the facets. Volcanic rock blurred behind. The crystal's own violet glow provides the primary light source, catching the ridges of the goblin's fingertips. Canon EOS R5 100mm f/2.8 Macro Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: talryn-returns-angry.jpg
+role: mid_02 (placed after sentence "La primera emoción real que le habían visto. Y era rabia contenida.")
+prompt:[Face_Reference: Talryn] Professional mask cracked by controlled anger, tightness around eyes and mouth barely perceptible but unmistakable. Stands near a volcanic pass, body rigid. Dull red glow from veins in the rock wall behind her lights the edges of her jaw and shoulders. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drusniel-stops-counting.jpg
+role: mid_03 (placed after sentence "Elion se lo señaló con un toque en el hombro y un gesto de cabeza hacia donde Talryn se había reposicionado.")
+prompt:[Face_Reference: Elion] Placing a corrective hand on a shoulder. [Face_Reference: Drusniel] Disorientation and self-directed frustration, snapping back to awareness. Half-elf touches drow's shoulder and nods toward a repositioned figure in volcanic terrain. Ambient orange glow from a steaming vent to the left catches both faces in warm sidelight. Sony A7R IV 35mm f/2 Kodak Portra 400, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-changed-posture.jpg
+role: mid_04 (placed after sentence "Srietz cree que nos vendió exactamente lo mismo que a todos sus clientes.")
+prompt:[Face_Reference: Srietz] Ears flat, speaking with bitter precision. [Face_Reference: Drusniel] Calculating stillness. Goblin and drow by a campfire. [Face_Reference: Talryn] walks in background with rigid posture, each step heavier than before, casual competence gone. Campfire embers cast low orange light on the foreground pair, volcanic dusk behind. Canon EOS R5 50mm f/1.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

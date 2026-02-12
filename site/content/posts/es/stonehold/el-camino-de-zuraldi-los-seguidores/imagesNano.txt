@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Camino de Zuraldi: Los Seguidores
+Language: es
+Canon Sequence: W-008-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: flanking-maneuver.jpg
+role: header
+prompt: [Face_Reference: Dulint]. Grim endurance, eyes forward, forcing pace; one hand keeping the pack close. [Face_Reference: Balin]. Breath hard, scanning side to side. They push forward as silhouettes keep pace just inside the treeline on both sides.
+Environment: Dirt road corridor with dense treeline left and right, dappled light catching a blade hilt and a moving shoulder before vanishing. Warm late-afternoon sun is low, slicing through branches and turning road dust into floating gold; forest edge stays darker and cooler, swallowing details. Dust scatters sun into a warm haze; shadows under trees are deep and clean.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, subtle lens flare. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: organized-threat.jpg
+role: mid_01 (placed after sentence "Se separaron en la Ãºltima bifurcaciÃ³n: dos en el camino, dos a travÃ©s de los Ã¡rboles.")
+prompt: [Face_Reference: Balin]. Eyes wide with realization, sweat on the brow, pointing sharply toward both sides. [Face_Reference: Dulint]. Grim controlled stare, already calculating. Movement slips between trunks in time with their pace.
+Environment: Treeline frames the road; shifting shadows hint at flanking bodies just out of view. Warm low sun casts hard slats of light across faces and hands; cooler forest shade swallows the background. Dust rises around boots and packs, catching warm highlights as floating points; darker shade holds deep shadow pools.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: beacon-fire.jpg
+role: mid_02 (placed after sentence "Pero no solo estaba apuntando.")
+prompt: [Face_Reference: Dulint]. Cold realization settling, grip firm. [Face_Reference: Balin]. Fear breaking through, recoiling half a step. The cube's seams pulse brighter until its cold light reads like a signal.
+Environment: Cube glow becomes dominant diegetic light, cold blue-white spilling onto knuckles and leather straps and catching dust motes as glittering points. Surrounding forest falls into deeper shadow by contrast; warm sun is still present but muted, leaving a faint warm rim while the cube light creates crisp cold highlights and slight halation around the flare.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: indifferent-hum.jpg
+role: mid_03 (placed after sentence "El cubo zumbÃ³.")
+prompt: Macro close-up of the cube's perfect dark geometry in rough travel-worn hands; fine seams and carvings lit from within by sterile cold blue-white glow. Tiny grains of road dust tremble against the metal from a low vibration.
+Environment: Cube glow is the only strong light, creating crisp cold highlights on edges and leaving the world beyond the hands in soft shadow. Dust grains on metal jump in tiny bursts; micro-scratches and worn edges catch alternating cold specular points. Background falls into smooth blur with film-like grain.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: breaking-into-run.jpg
+role: mid_04 (placed after sentence "DetrÃ¡s de ellos, los seguidores empezaron a correr.")
+prompt: Telephoto view down the road as the followers finally break into a run, cloaks snapping, armor shifting under fabric, weapons drawn and steel glinting. Dust rises and the gap visibly closes.
+Environment: Low sun backlights the runners, turning dust into a glowing haze and flashing highlights across moving steel; treeline blurs on both sides like a corridor. Atmospheric haze compresses distance; foreground road texture stays sharp while the distant runners soften at edges from heat and dust.
+Camera: Sony A7R V 200mm f/2.8 GM Kodak Ektar 100, film grain visible, slight atmospheric blur. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

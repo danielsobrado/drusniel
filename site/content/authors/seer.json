@@ -1,0 +1,32 @@
+{
+  "name": "Seer",
+  "title": "Oracle",
+  "titlees": "Oráculo",
+  "description": "An old woman who lives alone above the treeline. Small, bird-boned, voice like paper tearing. She doesn't explain her visions or soften them. People climb the mountain to hear what she has to say, and most of them wish they hadn't.",
+  "descriptiones": "Una anciana que vive sola sobre la línea de árboles. Pequeña, huesos de pájaro, voz como papel rasgándose. No explica sus visiones ni las suaviza. La gente sube la montaña para escuchar lo que tiene que decir, y la mayoría desearía no haberlo hecho.",
+  "thumbnail": "seer.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Seer",
+    "Oracle"
+  ],
+  "skillses": [
+    "Vidente",
+    "Oráculo"
+  ]
+}

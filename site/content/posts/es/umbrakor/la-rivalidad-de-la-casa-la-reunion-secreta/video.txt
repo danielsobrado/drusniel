@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La Rivalidad de la Casa: La Reunión Secreta
+Language: es
+Canon Sequence: D-009-003
+Source Image: interrogation.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Zaelar’s calm questioning continues as Drusniel shifts his stance, sweat dripping onto the desk edge; the nearest hourglass ticks louder in the silence.
+[00:03-00:05] Zaelar leans forward and taps the map with one finger. An hourglass gets nudged and sand spills in a thin stream; Drusniel’s eyes snap to the falling grains like a warning.
+[00:05-00:08] Drusniel swallows, answers too carefully, then steps back a fraction. The lamplight flickers and the spilled sand keeps sliding across the desk as the room tightens around them.
+
+Slow lateral slide across the desk from Zaelar to Drusniel.
+Audio: hourglass tick, sand hiss, paper rustle, oil-lamp hiss, distant tower creak, controlled breathing, one quiet swallow. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

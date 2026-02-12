@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Goblin Que Cuenta Costos: El Humo
+Language: es
+Canon Sequence: D-015-006
+Source Image: run-through-choking-smoke.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] They keep sprinting through the whiteout, shoulders hunched and mouths covered; the smoke tears sideways in gusts, briefly revealing a black rock spur and then swallowing it again.
+[00:03-00:05] A Coatly silhouette slams into stone behind them and rebounds into the haze, shrieks cutting into choked confusion as the hunters collide and overcorrect.
+[00:05-00:08] The smoke thins just enough to expose a darker wound in the ground ahead: the obsidian cave opening. They lurch toward it and vanish into the shadow as the glowing smoke wall surges past.
+
+Handheld.
+Audio: pounding footsteps on basalt, cloth snap in wind, coughing breaths, muffled Coatly shrieks, impact thuds on stone, grit crunch, rushing smoke hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mago de Superficie: El Regreso
+Language: es
+Canon Sequence: D-007-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-chaos.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Arriving tense and alert, jaw set; slipping through the service entrance and stopping short at the chaos. Wide shot in the compound corridors as servants rush past with trays and documents, voices raised in the distance, the atmosphere controlled but panicked. Cyan fungal clusters and scattered lantern light cast restless moving shadows across carved stone, catching dust in the air and turning every corner into a half-lit threat. Canon EOS R5, 24mm f/1.4, Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: father-fear.jpg
+role: mid_01 (placed after sentence "Pero esta vez, algo más parpadeaba detrás de sus ojos. Algo que parecía casi miedo.")
+prompt: [Face_Reference: Father]. The mask slipping: fear barely held behind the eyes, jaw locked, shoulders tense. [Face_Reference: Shyntara]. Alert and ready near the door, posture rigid. [Face_Reference: Drusniel]. Quiet counting tension, jaw tight as he listens. Tight family study interior with a scarred wooden desk and maps and reports scattered, the air thick with controlled panic. Warm desk lamp is the primary light, throwing hard downward highlights across knuckles and carving the brow ridge while the rest of the room falls into deep shadow. Canon EOS R5, 50mm f/1.4, Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: mental-report.jpg
+role: mid_02 (placed after sentence "Después del apenas disimulado desdén de su padre, la aprobación se sentía como agua en un desierto.")
+prompt: [Face_Reference: Drusniel]. Face softening with relief, then tightening as he listens; lying still in the dark and reaching toward the warmth at the edge of awareness. Near-dark bedroom shot: Drusniel on a narrow bed with rumpled blankets, eyes fixed as if hearing meaning pressed into his mind, the stone room claustrophobic around him. Thin cyan spill under the door outlines his cheek and hands; a faint warm pulse blooms and fades near his brow like a comforting presence trying to feel familiar. Canon EOS R5, 85mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: generic-response.jpg
+role: mid_03 (placed after sentence "Genérico. Simpático pero vago.")
+prompt: [Face_Reference: Drusniel]. Suspicion sharpening, eyes open and focused as if listening; brow tightening, jaw set. Tight portrait in the dark as the response lands wrong, warmth present but hollow, with no curiosity behind it. Cold cyan spill under the door carves one edge of his face; the remaining amber afterglow is weak and delayed, leaving an uncanny emptiness in the shadows rather than comfort. Canon EOS R5, 85mm f/1.4, Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: something-wrong.jpg
+role: mid_04 (placed after sentence "Drusniel yació en la oscuridad, con los ojos fijos en una grieta irregular del techo de la torre.")
+prompt: [Face_Reference: Drusniel]. Eyes fixed and unblinking, unease tightening into certainty; refusing to say the thought out loud. Upward angle from the bed toward a jagged crack cutting across the stone ceiling, Drusniel's face partially visible at the bottom of frame as he tracks the line until his thoughts slow. The room is almost black except for a thin cyan spill from the corridor under the door; dust hangs in the air, barely catching the light, while the warmth of the presence is gone. Sony A7R IV, 35mm f/2.8, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

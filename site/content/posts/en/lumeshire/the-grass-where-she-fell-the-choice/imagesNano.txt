@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Grass Where She Fell: The Choice
+Language: en
+Canon Sequence: W-012-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: inn-common-room.jpg
+role: header
+prompt:[Face_Reference: Maris]. Expression: cautious hesitation at the threshold, eyes adjusting, shoulders tight as she steps into warmth she doesn't trust. Wide shot of The Wanderer's Rest common room: crowded tables of merchants and locals, serving girls weaving through, a large hearth fire burning while lanterns glow overhead; Maris stands just inside the doorway in travel-stained clothes, ignored like any other traveler. Hearth fire and lanterns are the key sources, warm amber pools and flicker across faces and wood; cooler dusk from the open door edges Maris in faint blue-grey rim, interactive highlights sliding on mugs and polished table edges. Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, slight lens flare from the hearth, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: xandor-with-plants.jpg
+role: mid_01 (placed after sentence "An elderly man sat alone at a corner table, surrounded byâ€”yes, plants.")
+prompt:[Face_Reference: Xandor]. Expression: calm certainty in a crowded room, eyes pale and attentive; hands gentle as he works. Medium shot in the back corner booth as he sits alone surrounded by small pots of herbs and unfamiliar plants, murmuring while he adjusts leaves with practiced precision. A single table candle is the key source, warm amber catching plant moisture and the lines of his hands; hearth glow provides soft ambient fill, interactive reflections sliding across ceramic rims and damp leaf surfaces. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: xandor-pale-eyes.jpg
+role: mid_02 (placed after sentence "His eyes were pale, almost colorless")
+prompt:[Face_Reference: Xandor]. Expression: pale almost colorless eyes razor sharp, focus landing on Maris with unsettling accuracy. Extreme close-up on his eyes with the candle flame reflected as a small warm point; the rest of the inn falls into darkness. Candlelight is the key source, warm and low, catching lashes and fine skin texture while leaving surrounding shadows deep, interactive highlights trembling in the eye reflection. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: plant-ritual-pattern.jpg
+role: mid_03 (placed after sentence "Up close, she could see that his plants were arranged in a pattern")
+prompt:Photorealistic top-down view of Xandor's corner table: small plant pots arranged in a deliberate geometric pattern, leaves positioned like markers in a ritual configuration, with a few faintly glowing tips; his hands adjust one pot by a finger's width. Candlelight provides warm amber from one side; the plants add subtle cool bioluminescence that creates thin highlights on wet leaves and ceramic rims, interactive reflections sliding across soil grains and wax drips. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation on the glow, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-choice-made.jpg
+role: mid_04 (placed after sentence "And Maris Hale made her choice.")
+prompt:[Face_Reference: Maris]. Expression: determination set hard over exhaustion, leaning forward, refusing to look away. [Face_Reference: Xandor]. Expression: still and attentive, hands paused over the plants. Over-the-shoulder from Xandor toward Maris as she sits opposite him, elbows on the table, the inn crowd dissolving into soft blur behind her. Table candlelight is the key source, warm and steady on her face; hearth flicker adds faint moving highlights on glass and plant leaves at frame edge, interactive sheen catching on pores and ceramic glaze. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

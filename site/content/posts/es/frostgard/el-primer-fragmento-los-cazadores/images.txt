@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Primer Fragmento: Los Cazadores
+Language: es
+Canon Sequence: W-020-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: message-carved.jpg
+role: header
+prompt:Plano alto sobre hierba mordida por escarcha cerca del barranco: un Gigante de Hielo muerto yace boca abajo, espalda enorme expuesta, piel y cuero con costra de hielo; un mensaje ha sido cortado profundo con trazos deliberados (letras sugeridas, no legibles), dejado lo bastante cerca para ser encontrado. Luz pálida del amanecer proyecta sombras largas y hace brillar cristales de escarcha; la sangre se seca en surcos mientras el viento arrastra polvo de hielo sobre el cuerpo. Canon EOS R5 24mm f/1.4 Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: hunters-tracks.jpg
+role: mid_01 (placed after sentence "Fíjate en las pisadas. Botas, no pies descalzos.")
+prompt:Detalle forense a ras de suelo: dos pares de huellas de botas en tierra congelada y hierba con escarcha, mismo tamaño y zancada, alineadas como formación; escarcha triturada, bordes nítidos en el dibujo, ramas partidas a un lado. La luz fría de la mañana raspa el suelo en ángulo bajo, sombras largas dentro del relieve y destellos brillantes en cristales de hielo. Canon EOS R5 100mm macro Kodak Ektar 100, grano visible, poca profundidad de campo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: beacon-pulse-strong.jpg
+role: mid_02 (placed after sentence "Permanecía de pie sobre el cuerpo con el fardo apretado contra el pecho, el Faro pulsando dentro, más fuerte ahora, más potente, como si la integración del fragmento hubiera subido el volumen de una señal que ya era demasiado fuerte.")
+prompt:[Face_Reference: Dulint] Rígido, expresión plana, fardo aplastado contra el pecho; ojos fijos, respiración corta. Plano emocional cercano junto al barranco: el Faro pulsa tan fuerte que luz azul-blanco se filtra por la lona en golpes nítidos, iluminando nudillos blancos y trama húmeda de la tela. El sol del amanecer añade un filo pálido en mejilla y bordes de capa mientras los destellos del Faro crean brillos fríos y sombras duras que parpadean sobre sus manos. Canon EOS R5 50mm f/1.4 Cinestill 800T, grano visible, ligera halación en los pulsos más fuertes, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: professional-restraint.jpg
+role: mid_03 (placed after sentence "Eso es contención profesional.")
+prompt:[Face_Reference: Eldric] De pie, escaneando dosel y línea de árboles, tensión controlada, sin sentarse. [Face_Reference: Dulint] Sujetando el fardo cerca, hombros tensos. [Face_Reference: Maris] Agotada, mirada perdida un segundo. [Face_Reference: Balin] Mandíbula apretada, escuchando. [Face_Reference: Xandor] Vigilando más los árboles que a la gente. Mediodía en bosque denso: beben rápido y se quedan de pie en un bolsillo de sombra, comprendiendo que los están manejando cazadores expertos. Luz invernal filtrada atrapa corteza mojada y escarcha; relleno frío verde-gris y sombra profunda, sin sol directo. Canon EOS R5 35mm f/1.4 Kodak Portra 400, grano visible, ligera subexposición, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-vision-face.jpg
+role: mid_04 (placed after sentence "La persona de mi visión —dijo—. El drow.")
+prompt:[Face_Reference: Maris] Ojos desenfocados, cara demacrada, parpadeo como si viera algo detrás de los párpados. [Face_Reference: Drusniel] Presencia reflejada muy tenue en una superficie húmeda oscura cercana (charco, hebilla metálica o hoja), sutil e inquietante, como si la visión se filtrara a la vigilia. Retrato cercano en sombra de bosque: hojas mojadas, troncos oscuros y un reflejo mínimo capturan un segundo rostro por un instante sin caer en un efecto estilizado. Luz filtrada crea brillos fríos en humedad y sombras profundas bajo los ojos, con el reflejo apenas más claro que la oscuridad alrededor. Canon EOS R5 85mm f/1.4 Kodak Portra 400, grano visible, poca profundidad de campo, exposición imperfecta. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

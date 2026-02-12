@@ -1,0 +1,32 @@
+{
+  "name": "Father",
+  "title": "Head of House Thel'varin",
+  "titlees": "Cabeza de la Casa Thel'varin",
+  "description": "Head of House Thel'varin. Runs his household the way he's run everything — with silence, control, and a stare that ends arguments before they start. His desk is scarred and so is his patience.",
+  "descriptiones": "Cabeza de la Casa Thel'varin. Dirige su hogar como ha dirigido todo — con silencio, control, y una mirada que termina las discusiones antes de que empiecen. Su escritorio tiene cicatrices, y su paciencia también.",
+  "thumbnail": "father.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Assassin",
+    "Noble"
+  ],
+  "skillses": [
+    "Asesino",
+    "Noble"
+  ]
+}

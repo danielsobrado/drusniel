@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Blood in the Dark: The Slaughter
+Language: en
+Canon Sequence: D-010-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: father-last-stand.jpg
+role: header
+prompt:[Face_Reference: Father] Cornered ferocity, wounded but unbroken, eyes locked on the next strike as he keeps his stance despite the blood loss. Wide action in the main hall: Father backed to a stone wall, fighting with a single blade while three masked armored assassins circle with disciplined spacing; two bodies already lie near his feet, the overturned dinner table behind him splintered amid crushed bioluminescent flowers and spilled wine on the stone. Firelight flickers through smoke and throws hard, moving shadows; dying flower-glow adds a faint teal underlight that catches on wet stone and metal edges. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slight motion blur in the circling attackers, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: mother-dead.jpg
+role: mid_01 (placed after sentence "Now his mother was dead, and his father was dying.")
+prompt:[Face_Reference: Mother] Stillness, eyes open and unfocused, hair loosened with a single strand across her cheek. Respectful close shot at the base of the main hall stairs: her hand near a fallen goblet, blood spreading into spilled wine beside crushed bioluminescent flowers from the dinner arrangement; smoke haze softens everything beyond the steps. Firelight from the hall paints warm flicker across stone texture and wet sheen on the pooled liquid; a faint teal glow from dying flowers adds cold edge highlights along the goblet rim and flower petals. Sony A7R IV 50mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: father-falls.jpg
+role: mid_02 (placed after sentence "He fell.")
+prompt:[Face_Reference: Father] The instant the strength goes out of him, expression caught between defiance and shock as his knees buckle. Brutal defeat in the smoke-lit hall: Father collapses as an assassin’s blade finishes the strike, his sword slipping from his hand toward the stone while two attackers crowd in close, armor scuffed and wet in the firelight. Torchlight flicker catches metal edges and the wet sheen on stone; smoke breaks the light into streaks and softens the far background into chaos. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, fast shutter look with slight motion blur, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drusniel-scream-air.jpg
+role: mid_03 (placed after sentence "He screamed.")
+prompt:[Face_Reference: Drusniel] Raw grief turning into rage, mouth open in a scream, tears cutting tracks through soot as he loses control for one heartbeat. At the hall entrance, a chaotic air burst explodes outward from him—dust and loose papers scatter, torch flames gutter sideways, smoke whips into a violent spiral; nearby assassins stagger half a step before regaining their footing. Firelight flicker and dying flower-glow mix into warm-and-teal highlights that strobe across the smoke, catching on drifting debris and armor edges. Sony A7R IV 24mm f/1.4 Cinestill 800T, film grain visible, slight motion blur in papers and smoke, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: vrinn-insignia.jpg
+role: mid_04 (placed after sentence "Three interlocking circles.")
+prompt:Extreme macro close-up of a blood-spattered chestplate insignia in firelight: three interlocking circles above a curved blade emblem stamped into dark metal, droplets and smears across raised edges, scratches and dents catching highlights; background blurred into smoke and motion. Firelight is the only diegetic source, producing warm specular glints on metal ridges and turning suspended smoke into soft amber bokeh. Sony A7R IV 100mm macro Cinestill 800T, shallow depth of field, film grain visible, slight halation, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

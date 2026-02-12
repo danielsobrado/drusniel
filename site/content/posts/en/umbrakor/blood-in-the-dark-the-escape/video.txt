@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Blood in the Dark: The Escape
+Language: en
+Canon Sequence: D-010-003
+Source Image: rusty-door.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel hits the hidden door at full speed. The mechanism groans and rust bursts into the air in a choking cloud.
+[00:03-00:05] The fittings snap and the door swings inward. He stumbles through into cold darkness, hands catching the stone to keep from falling.
+[00:05-00:08] Boots pound closer behind him; gear clatters in the corridor. Drusniel scrambles upright and runs deeper into the tunnel maze as the dust cloud rolls after him.
+
+Handheld push-through following Drusniel through the doorway into darkness.
+Audio: metal groan, rust crunch, dust cough, boot impacts, gear clatter, ragged breathing, fabric scrape on stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

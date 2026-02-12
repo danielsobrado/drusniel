@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Goblin Who Counts Costs: The Bargain
+Language: en
+Canon Sequence: D-015-004
+Source Image: cave-safe-until-dawn.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Srietz's breathing slows from ragged to controlled; dust motes drift and then settle as if the cavern is listening. The violet seam-glow pulses once, faintly, and the wet stone surface shivers with reflected highlights.
+[00:03-00:05] A muffled Coatly shriek echoes from the crack outside and then cuts off at the boundary, replaced by a low stone groan that feels like a warning without words. Elion shifts his weight but stays crouched.
+[00:05-00:08] The thin grey line of pre-dawn light at the high fissure brightens by a fraction. Drusniel turns his head toward it, then back to Srietz, and the three hold still in the temporary safety as if any sudden motion would break the agreement.
+
+Dolly in.
+Audio: slow water drip, distant muffled shriek outside the crack, low subterranean rumble, cloth scrape on stone, controlled breathing, a single pebble click settling. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

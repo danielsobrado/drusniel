@@ -1,0 +1,26 @@
+﻿# Image Prompts
+Title: La Fractura: El Compromiso
+Language: es
+Canon Sequence: W-022-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: defensive-camp.jpg
+role: header
+prompt:[Face_Reference: Eldric] Binding his sword arm one-handed, blood dark on the cloth, eyes never leaving the treeline. [Face_Reference: Dulint] Weighed down and watchful, pack close, posture tense from concession and exhaustion. [Face_Reference: Balin] Hollow stare, hands calloused now, blade held without realizing how tight. [Face_Reference: Maris] Uncontrolled shaking, nosebleed soaking through cloth into her hands, refusing to sit. [Face_Reference: Xandor] Steady support, one hand on Maris’s shoulder, the other offering fresh cloth. Morning defensive camp in a clearing of storm-felled ancient oaks: massive trunks form a maze of natural barriers on three sides with a steep slope on the fourth, only two approaches wide enough for a group. Cold morning daylight filters through broken canopy in pale grey sheets, catching wet bark texture and turning blood into dark glossy highlights; deep shadows pool between fallen trunks. Canon EOS R5 24mm f/2.8 Kodak Ektar 100, film grain visible, slight haze bloom, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: Eldrice-bandage.jpg
+role: mid_01 (placed after sentence "El brazo de la espada de Eldric sangraba por un corte que se había hecho durante la huida, una rama o una hoja.")
+prompt:[Face_Reference: Eldric] Stoic pain, jaw clenched, attention still on the treeline. Close-up on Eldric’s sword arm as he tightens a fresh bandage one-handed, blood soaking into cloth while the rest of the camp blurs behind fallen oak trunks. Cold morning daylight from above and behind reveals cloth fibers and wet blood sheen; shadows under the wrap go near-black, and tiny highlights catch on sweat and leather. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: map-planning.jpg
+role: mid_02 (placed after sentence "—Un camino intermedio —dijo Dulint.")
+prompt:[Face_Reference: Dulint] Speaking in reluctant concessions, finger steady on the route despite shaking fatigue. [Face_Reference: Eldric] Tired clarity, nodding once, eyes tracking the map like terrain. [Face_Reference: Balin] Silent, assembling the puzzle, grip tight on his blade. The group huddles over a hand-drawn map spread on a fallen log between storm-felled oak trunks; lines and marks are visible but no legible words, and Maris sits nearby with cloth to her nose while Xandor keeps a steadying hand on her shoulder. Dappled morning light through broken canopy paints moving patches across paper, knuckles, and bark; a faint intermittent blue-white pulse leaks from Dulint’s pack canvas as cold edge light on the map’s creases. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: maris-determined.jpg
+role: mid_03 (placed after sentence "Xandor ayudó a Maris a ponerse en pie.")
+prompt:[Face_Reference: Maris] Shaking held under control for a moment, eyes unnaturally clear despite the bleed; she wipes blood from her upper lip and steadies herself. [Face_Reference: Xandor] Calm focus, supporting her without hesitation, eyes scanning her face for warning signs. Medium portrait in the defensible clearing of fallen oaks as Maris sways, steadies, and meets Dulint’s gaze across the camp while Eldric keeps watch in the background. Cold morning light through the broken canopy falls in soft grey sheets; wet blood catches dark specular highlights and the fresh cloth glows pale against her hands. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: beacon-pointing.jpg
+role: mid_04 (placed after sentence "El Faro señalaba el camino.")
+prompt:Close-up of the Beacon resting in an opened pack on damp leaf litter: a dark metal cube with cold blue-white internal glow pulsing steady, its light forming a narrow straight corridor through ferns and trunks that implies true north, with no legible markings. Under-canopy forest gloom surrounds it; wet leaves and bark catch sharp blue-white specular highlights where the light strikes, and shadows drop to black outside the beam. Sony A7R IV 50mm f/1.4 Cinestill 800T, film grain visible, slight halation around the glow, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

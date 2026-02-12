@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Black Garden: The Lady
+Language: en
+Canon Sequence: D-021-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: nyxara-questions-like-a-blade.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Nyxara]. Nyxara leans in with surgical calm, eyes still; Drusniel holds his face perfectly still, jaw set, answers measured and incomplete. Intimate table scene in the crystal clearing, untouched tea steaming between them, chemical air heavy, crystal facets behind Nyxara angled inward like a congregation. Cold violet refraction bends toward her and outlines shoulders, while low orange fissure-glow uplights cup steam and knuckles; mixed light scatters through haze into soft halation along wet-black facets and ceramic glaze. Sony A7R V 50mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: flowers-turn-toward-his-pack.jpg
+role: mid_01 (placed after sentence "Nyxara touched the rim of her cup.")
+prompt:Ground-level detail beside the table: tough low red flowers and thick dark stems rotate in unison as if tracking, petals turning hard toward a worn travel pack at a seated traveler’s feet; motion subtle but unanimous, like a field aligning to a magnet. Chemical haze clings close to the ground, black crystal needles loom around the clearing, damp grit sticks to petals. Violet refraction flickers across wet petal surfaces and stem varnish, while low orange underglow from hairline cracks adds warm edge light under petals; drifting dust motes flash amber as they pass through the uplight. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: nyxara-leaves-through-flowers.jpg
+role: mid_02 (placed after sentence "The flowers behind her parted again, creating a path that hadn't existed a moment before.")
+prompt:[Face_Reference: Nyxara]. Turning away mid-offer, unhurried certainty in posture. She walks into the flower field as blooms part to create a path that didn’t exist a moment before; thick stems split and petals lift like a living curtain, then close behind her, swallowing her silhouette like water swallowing stone. Air remains perfectly still and chemical; dried petals and grit barely shift as the field moves around her. Violet refraction glints along wet petal edges while low orange fissure-glow warms undersides of closing blooms; haze blooms edges into soft halation. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur in petals, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: varesh-announces-the-guide.jpg
+role: mid_03 (placed after sentence "Varesh materialized at the edge of the clearing.")
+prompt:[Face_Reference: Varesh, Drusniel, Srietz, Elion]. Varesh formal posture, controlled expression; Drusniel listens flat and calculating; Srietz ears nearly flat; Elion arms crossed, ready to move. Varesh materializes at the clearing’s edge as if stepping out of the crystal field, the message of observation delivered without words. Violet refraction draws cold edge highlights along armor and cheekbones, while orange underglow from fissures uplights jaws and hands; chemical haze blooms the contrast and throws soft halation on crystal facets. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: quarters-in-the-flower-field.jpg
+role: mid_04 (placed after sentence "They were led to a structure built within the flower field itself, walls woven from thick stems, floor covered in dried petals that crunched underfoot.")
+prompt:Interior of a makeshift shelter built inside the flower field: walls woven from thick dark stems, floor carpeted with dried petals, supplies arranged with deliberate neatness; gaps in the weave reveal surrounding blooms like a living surveillance net. Warm flicker from a single shaded lantern catches on petal edges and woven stems, while faint violet refraction from outside leaks through gaps and paints cold highlights on the floor; deep shadows pool behind the weave and the air smells faintly chemical. Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignette, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

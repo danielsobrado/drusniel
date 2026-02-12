@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Deuda Anticipada: La Verdad del Comercio de Cristales
+Language: es
+Canon Sequence: D-023-004
+Source Image: srietz-reveals-crystal-truth.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Srietz holds the black crystal up, turning it slowly. Violet luminescence pulses faintly within the lattice, shifting with the rotation. His ears press forward with urgency as he speaks.
+[00:03-00:05] Drusniel leans closer, eyes narrowing on the crystal. The violet glow catches his face from below. Behind them, black crystal formations jut from the ground, their own luminescence echoing the handheld specimen.
+[00:05-00:08] Srietz's grip tightens. He pulls the crystal back to his chest. His expression shifts from urgency to something colder — a cost calculated and found too high.
+
+Slow dolly-in from waist to the crystal in his hand.
+Audio: low crystalline hum, faint crackling from the lattice, wind through the volcanic pass. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

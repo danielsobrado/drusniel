@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Goblin Que Cuenta Costos: Los Vagabundos
+Language: es
+Canon Sequence: D-015-001
+Source Image: screech-in-the-treeline.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The small shape snaps deeper behind the trunk; nearby leaves and thin stems tremble in a rhythm that does not match the air. Drusniel freezes mid-turn, hand hovering near his weapon but not committing.
+[00:03-00:05] A high thin shriek peels through the forest; grit skitters across the ground as if something just ran past out of frame. Elion tilts his head, eyes widening, tracking movement that keeps stopping when they stop.
+[00:05-00:08] Two more quick motions flicker between trees, closer now; shadows around the gap shift a fraction the wrong way, then settle. Drusniel takes a careful backward step without breaking eye contact, and Elion slides to match him, both retreating as if the forest is tightening.
+
+Handheld.
+Audio: sudden predatory shriek, wet leaf rustle without wind, crunch of boots on volcanic grit, a low distant hiss building in layers, cloth and leather creak, short controlled breaths. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

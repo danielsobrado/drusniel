@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Visión Clara: La Acumulación
+Language: es
+Canon Sequence: W-024-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-walking-dark-forest.jpg
+role: header
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] Maris presses two fingers against her left eye socket, wincing. Dulint walks close beside her. Five travelers move along a narrow trail through low hills of dry yellow grass under cold overcast sky, fog clinging to the hollows. Diffused blue-grey light filtering through thick cloud cover, no shadows. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: maris-reflection-dark-water.jpg
+role: mid_01 (placed after sentence "Le soltó el brazo con cuidado, pero se quedó a su lado.")
+prompt:[Face_Reference: Balin] [Face_Reference: Maris] Balin walks protectively beside Maris, his hand just released from her elbow, posture angled toward her. She strides forward with clenched jaw despite visible pain, yellow grass hills stretching behind them. Cold winter light from low overcast sky, flat and shadowless. Canon EOS R5 50mm f/1.8 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: dulint-catches-maris.jpg
+role: mid_02 (placed after sentence "Te sangra la nariz.")
+prompt:[Face_Reference: Maris] [Face_Reference: Xandor] Maris touches her upper lip with trembling fingers, finding fresh blood. Xandor watches her with the careful stillness of someone measuring invisible damage. Low yellow grass hills behind them under pale winter sky. Cold diffused daylight from above, no warm tones. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field on the blood, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: beacon-glow-through-pack.jpg
+role: mid_03 (placed after sentence "Incluso a través de ellas, la luz se filtraba en intervalos visibles.")
+prompt:[Face_Reference: Dulint] Dulint kneels beside his open heavy canvas backpack on cold ground. Inside, a wrapped object pulses warm amber-gold light through three layers of cloth in rhythmic surges. Amber glow from the artifact illuminates Dulint's weathered face from below, contrasting against cold grey sky behind. Canon EOS R5 50mm f/1.8 Kodak Portra 400, not perfectly exposed, warm-cool contrast. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-grabs-arm.jpg
+role: mid_04 (placed after sentence "Le está pasando ahora mismo.")
+prompt:[Face_Reference: Maris] [Face_Reference: Balin] Maris grips Balin's arm with white-knuckled desperation, eyes wide with urgent certainty, face pale and frightened. Balin looks down at her grip with alarm. Low hills of yellow grass under grey overcast sky behind them. Flat cold daylight from cloud cover, no directional shadows. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

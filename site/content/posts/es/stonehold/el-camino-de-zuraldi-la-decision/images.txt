@@ -1,0 +1,27 @@
+# Image Prompts
+Title: El Camino de Zuraldi: La DecisiÃ³n
+Language: es
+Canon Sequence: W-008-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: exhausted-hiding.jpg
+role: header
+prompt: [Face_Reference: Dulint] Sweat-streaked exhaustion, chest heaving, eyes squeezed tight between breaths. [Face_Reference: Balin] Controlled urgency, scanning ahead with scout focus as he keeps close. Under late-day light between hills, they slow from a run into a stumbling pace, dirt and dust streaking clothes as the pursuit closes behind them. Warm low sun cuts across the road in hard bands, throwing long shadows and catching dust in the air while the surrounding hills fall into cooler shade. Canon EOS R5 35mm f/2.0 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: glass-shards-lungs.jpg
+role: mid_01 (placed after sentence "Sus pulmones ardÃ­an.")
+prompt: [Face_Reference: Dulint] Breath burning and ragged, mouth open as he tries to pull air, one hand braced on a knee; eyes watering. Tight portrait as Dulint bends over from the sprint, old joints screaming, while Balin hovers nearby ready to haul him forward again. Late-afternoon sun is harsh and warm from the side, catching sweat sheen and road dust as bright specks while deep shadows carve his cheek and jaw. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drop-the-rock.jpg
+role: mid_02 (placed after sentence "Dulint sacÃ³ el cubo.")
+prompt: [Face_Reference: Balin] Voice cracking into desperation, pointing toward the forest as if the answer is obvious. [Face_Reference: Dulint] Torn between survival and the pull he can't explain, staring at the cube in his hands. Balin urges him to throw it into the woods and keep running, the choice hanging in the hot air as the distant glint of weapons closes behind them. The cube's cold blue-white glow underlights fingers and metal carvings, while warm sun still hits dust and grass from the side, creating a harsh warm-cool contrast on skin and leather. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: thrain-legacy.jpg
+role: mid_03 (placed after sentence "PensÃ³ en su bisabuelo.")
+prompt: [Face_Reference: Dulint] Stubborn resolve replacing fear, eyes lifting as the decision hardens; hand tightening the pack strap instead of letting go. [Face_Reference: Balin] Grim acceptance, lowering his knife hand as he understands the choice. Dulint tucks the cube back into the pack as if committing to a family legacy he can feel in his bones, the road stretching ahead toward Riverhold while the pursuit closes behind. The cube's cold glow leaks through leather seams as a sterile blue-white edge light on buckles and stitching, while the last warm daylight fades at the hills, leaving the scene more shadowed and tense. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, subtle halation. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: push-into-dark.jpg
+role: mid_04 (placed after sentence "Alcanzaron el borde del bosque.")
+prompt: [Face_Reference: Dulint] Bent forward with age and fatigue but moving anyway, jaw set. [Face_Reference: Balin] Close beside him, guarding the rear, fear turned into motion. Wide shot from behind as they enter the dense forest, canopy closing overhead and swallowing light and sound, the cube glow muffled but visible through the pack like a buried ember. The forest interior is near-black with damp bark and wet leaves, lit only by faint ambient green-blue and the cube's cold glow casting tiny highlights on nearby foliage. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

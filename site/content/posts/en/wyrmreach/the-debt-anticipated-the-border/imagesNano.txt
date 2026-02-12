@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: The Debt Anticipated: The Border
+Language: en
+Canon Sequence: D-023-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: crystal-border-pillar.jpg
+role: header
+prompt:[Face_Reference: Talryn]. Setting her pack down beside the pillar, composed and efficient. A lone black crystal pillar juts from volcanic soil marking a territorial boundary. Beyond it a flat expanse of grey basalt scarred with shallow fissures and pale lichen stretches to the horizon. Dense black crystal formations fading into the distance behind. Three travelers approaching.
+Environment: Territorial border, Wyrmreach. Faint violet luminescence from crystal pillar casts cold highlights on Talryn's nearby arm and pack. Crystalline lattice with subsurface scattering, faceted pillar surface refracting violet internally. Volcanic twilight above, diffused through haze. Violet light reflects off nearest basalt surface. Grey lichen catches no color, remains pale and cold beyond the pillar's influence.
+Camera: Sony A7R V 24mm f/2.8 Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: talryn-delivers-crystal-vial.jpg
+role: mid_01 (placed after sentence "She held it out to Drusniel.")
+prompt:[Face_Reference: Talryn]. Arm extended, professional and measured. [Face_Reference: Drusniel]. Receiving with guarded attention, eyes on the vial not her face. Talryn extends a small sealed container of black crystal toward Drusniel, no larger than a medicine vial and glowing faintly warm. Framed by the last black crystal formation at the territorial border.
+Environment: Border marker. The vial's own faint warm glow illuminates both their hands from within, casting amber on finger pads and knuckle ridges. Dim volcanic twilight behind. Crystalline vial surface with subsurface scattering, warmth radiating from internal lattice. Violet ambient from nearby crystal formation competes with vial's warm tone on skin.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, background softened, natural skin with pores. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: nyxara-warning-delivery.jpg
+role: mid_02 (placed after sentence "Lady Nyxara says: the thing in your head wants your body. The old ones always do.")
+prompt:[Face_Reference: Drusniel]. Cold spreading through his expression, the look of someone whose secret has been stripped bare. [Face_Reference: Talryn]. Watching him with recognition rather than warmth. Close portrait of Drusniel reacting to devastating words. Talryn beside him. The last black crystal pillar looming behind.
+Environment: Border pillar, close quarters. Crystal pillar's violet luminescence casts cold highlights on Drusniel's face, painting cheekbones and bridge of nose in pale violet. Volcanic haze diffuses ambient glow above. Violet subsurface scattering from crystalline lattice creates uneven light on pillar surface behind them. Shadows on Drusniel's face tinged violet-grey. No warm light source present.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, slightly underexposed, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: talryn-walks-into-crystals.jpg
+role: mid_03 (placed after sentence "Then the terrain swallowed her and there was nothing left to watch.")
+prompt:[Face_Reference: Talryn]. Silhouette shrinking, walking away with purpose between crystal rows. Wide shot of Talryn walking away between rows of black crystal formations. Her figure diminishing against the dark mineral forest. Three travelers watching from the border marker behind her.
+Environment: Crystal formation field. Faint violet glow from crystal formations creates thin rimlight along Talryn's shoulders and head as she walks between them. Crystalline lattice surfaces refract violet internally, each formation glowing independently. Volcanic dusk above. Violet reflects off basalt floor between crystal rows. Talryn's silhouette progressively consumed by dark formations. Shadows deep between crystal columns.
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible, subtle lens flare from crystal reflection. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: group-walks-northeast.jpg
+role: mid_04 (placed after sentence "They walked northeast into territory that belonged to no one and promised nothing.")
+prompt:[Face_Reference: Drusniel]. Leading, eyes forward, weight committed to the direction. [Face_Reference: Srietz]. At his side, scanning the ground ahead. [Face_Reference: Elion]. Rear position, watching behind. Three figures walking northeast into a flat barren expanse of grey basalt with pale lichen and occasional steam-leaking fissures. A row of dark crystal teeth marking the border behind them.
+Environment: Open grey basalt flats beyond crystal territory. Thin volcanic twilight from above, diffused and colorless. Faint steam catches dull orange from fissures in the ground, rising in thin wisps at knee height. Grey basalt surface scarred with shallow fissures, pale lichen growing in fracture lines. No violet light here, only grey and trace orange from steam vents. Emptiness dominates the frame ahead.
+Camera: Sony A7R V 35mm f/2.8 Kodak Ektar 100, film grain visible, foreground slightly soft. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

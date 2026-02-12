@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Kind Man: The Caravan
+Language: en
+Canon Sequence: D-011-004
+Source Image: led-to-the-second-wagon.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Lanterns sway as boots close in and hands clamp onto his arms; grit sprays from each step while wagon harnesses creak under shifting weight.
+[00:03-00:05] The cage door yanks open with a metallic rattle; he ducks inside and a guard shoves him forward as chain links clink against iron.
+[00:05-00:08] The door slams and the lock clicks; the wagon jerks into motion, lantern light streaking across the bars as the shoreline begins to slide away and the fire behind dims.
+
+Handheld tracking shot moving with the guards toward the second wagon.
+Audio: bootsteps on black sand, lantern chain squeak, cage rattle, chain clink, lock click, harness creak, wheel grind, rising wind, distant low volcanic rumble. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

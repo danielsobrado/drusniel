@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La magia en Astalor
+Language: es
+Canon Sequence: AST-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: oracle-overlooks-ruined-keeps.jpg
+role: header
+prompt:[Face_Reference: Sage] Quiet concentration; eyes narrowed at the landscape like she is weighing invisible forces; cloak pulled tight against wind. Sage stands on a ruined mage-tower balcony at dusk, looking over a shattered valley where elemental phenomena braid and repel above broken stonework: wind-thread vortices, low tongues of flame, ribboned water mist, and vein-like stone ridges splitting the ground; ivy reclaims carved ruins. A single bronze brazier behind her provides warm amber backlight, throwing her into partial silhouette and catching dust in the air; the valley beyond sits under cool violet twilight with deep shadows. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, subtle lens flare from the brazier. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: sage-confronts-threat.jpg
+role: mid_01 (placed after sentence "Es una ley fundamental, inflexible y absoluta.")
+prompt:[Face_Reference: Sage] Arm raised, palm out; expression: controlled strain. In a subterranean lecture hall, she stands between two granite lecterns: a sphere of compressed water hovers on one side and a sphere of living flame on the other, both pushing toward the center and visibly repelling each other as the air shudders and hairline cracks race across the stone floor. Twin diegetic light sources split the room: cold blue refraction from the water sphere paints the left wall while harsh orange from the flame sphere burns the right, with the collision zone flickering unstable grey-white. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: sage-moves-through-storm-plains.jpg
+role: mid_02 (placed after sentence "Convertida en polvo o en fragmentos inútiles.")
+prompt:Extreme close-up of a calloused hand cradling a translucent power-stone mid-disintegration: the upper half still crystalline and faintly glowing jade while the lower half collapses into fine grey dust sifting between trembling fingers; behind, a blurred workbench holds unworked mineral specimens and a brass loupe. The dying stone glow is the primary light, soft green washing across palm creases; a distant oil lamp adds a weak warm backfill that catches the dust as it falls. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, razor-thin focal plane, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: ignimancy-clue-discovery.jpg
+role: mid_03 (placed after sentence "Ignimancia (Fuego): La disciplina de la pasión y la transformación.")
+prompt:[Face_Reference: Sage] Jaw clenched; soot smudged across her glove; concentration visible in her stare. In a scorched ritual circle on fieldstone, she cups a controlled helix of white-hot flame that purifies a corroded iron ingot suspended above; molten droplets hiss on stone while carved channels in the circle glow cherry-red in sympathetic heat; a heavy tome lies open nearby, pages curling from the heat. The flame is the only light, white-blue core grading to deep orange edges, casting hard shadows and visible heat distortion above it. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, subtle halation in the flame edge. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: miragery-consequence-realized.jpg
+role: mid_04 (placed after sentence "Mirajismo: El arte de falsear la realidad.")
+prompt:[Face_Reference: Sage] Pupils uneven; fine sweat at the brow; expression: uneasy realization. In a candlelit archive, she sits at a desk with an open grimoire while a miniature illusory landscape hovers above the page, rippling and refusing to resolve under direct gaze; a polished bronze mirror behind her shows her posture half a beat out of sync. Three tallow candles provide warm flickering light, their flames bending slightly toward the mirage and casting long crawling shadows across shelves and scrolls. Canon EOS R5 85mm f/1.4 Cinestill 800T, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

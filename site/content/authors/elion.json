@@ -1,0 +1,31 @@
+{
+  "name": "Elion Wlux",
+  "title": "Skin Walker",
+  "titlees": "Metamorfo",
+  "description": "Elion Wlux, a shape-shifting trickster from Wyrmreach. His gift for changing faces has thrust him into a deadly game of intrigue, where loyalties shift like sand. Behind his ever-changing mask, a flicker of uncertainty betrays a history of hidden truths and a longing for acceptance in a world that fears his kind.",
+  "descriptiones": "Elion Wlux, un embaucador de Wyrmreach que cambia de forma. Su don para cambiar de rostro le ha empujado a un juego de intriga mortal, en el que las lealtades cambian como la arena. Detrás de su máscara siempre cambiante, un destello de incertidumbre traiciona una historia de verdades ocultas y un anhelo de aceptación en un mundo que teme a los de su clase.",
+  "thumbnail": "elion.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Skin Walker",
+    "Assassin"
+  ],
+  "skillses": [
+    "Metaforsis",
+    "Asesino"
+  ]
+}

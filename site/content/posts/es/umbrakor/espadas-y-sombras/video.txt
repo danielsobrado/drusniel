@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Espadas y Sombras
+Language: es
+Canon Sequence: D-002-001
+Source Image: blade-at-throat.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel’s throat tightens as he swallows and forces himself to breathe through his nose, eyes flicking to Shyntara’s hand on the hilt.
+[00:03-00:05] Shyntara eases the pressure and draws the blade back a finger’s width; mist curls into the gap and a single bead of moisture slides down the steel.
+[00:05-00:08] With a controlled exhale, she withdraws the blade fully and lets it slide into the sheath with a decisive click. Drusniel’s shoulders drop a fraction as the bamboo around them creaks and the fog settles back into stillness.
+
+Slow dolly-in from the blade line to both eyes.
+Audio: quiet breathing, faint cloth rustle, blade scrape, sheath click, bamboo stalk creak, soft foggy wind, distant drip. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

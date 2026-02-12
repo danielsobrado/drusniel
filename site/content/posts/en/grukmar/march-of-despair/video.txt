@@ -1,0 +1,16 @@
+# Video Prompt
+Title: March of Despair
+Language: en
+Canon Sequence: P-008
+Source Image: spear-at-the-eye.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The spear tip trembles in front of Varian's eye as he blinks hard and holds still. Smoke rolls past, briefly swallowing the point before torchlight finds it again.
+[00:03-00:05] A goblin laughs and nudges the spear closer until the metal almost touches skin. The net creaks as Varian's breathing tightens and he stops moving entirely.
+[00:05-00:08] The spear withdraws a fraction and then snaps back to the same threatening distance. Behind it, goblins shift and crowd closer, their shadows jittering across the net as the torch flares.
+
+Slow dolly-in from Varian's face to the spear tip.
+Audio: torch crackle, goblin chuckle, rope creak under tension, wet breathing, spear shaft scrape on net fibers, drifting smoke hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

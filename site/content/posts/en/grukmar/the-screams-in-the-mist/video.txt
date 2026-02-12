@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Screams in the Mist
+Language: en
+Canon Sequence: P-007
+Source Image: trap-net-collapse.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The net snaps taut and whips Varian sideways as loose dirt and roots rain down into the black pit. His dropped sword clatters once and the sound fades into nothing.
+[00:03-00:05] Elric skids to the edge, boots scraping wet leaves, and reaches down as the net swings; rope creaks under sudden weight and the mesh bites tighter with every jerk.
+[00:05-00:08] Fog curls inward toward the hole and then stalls, unnaturally still. Footsteps circle somewhere above the frame, and a woman's quiet chuckle drifts through the mist as Varian's struggle slows.
+
+Static camera, locked off.
+Audio: rope snap, falling dirt, sword clang fading below, boots scraping leaves, strained breathing, distant footsteps, one soft chuckle in the fog. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

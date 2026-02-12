@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Surface Mage: The Tower
+Language: en
+Canon Sequence: D-007-001
+Source Image: handshake-trap.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The moment their palms meet, Drusniel's fingers twitch as if hit by a small current. Candle flames dip and then flare, and the room seems to inhale with them.
+[00:03-00:05] Zaelar tightens his grip by a fraction, never changing expression. Drusniel swallows hard as a faint, invisible pressure builds up his arm toward his chest.
+[00:05-00:08] An hourglass nearby shivers and the sand stream stutters for a beat, then resumes. Drusniel tries to pull back but stops himself, holding the contact while the candlelight steadies into an uneasy calm.
+
+Slow push-in from the joined hands up toward Drusniel's face.
+Audio: candle crackle, soft ceramic creak from the table, cloth rustle, a single sharp inhale, faint glass tick from an hourglass, low hum rising and then settling. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

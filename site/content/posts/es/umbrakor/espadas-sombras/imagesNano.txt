@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro)
+Title: Espadas y Sombras
+Language: es
+Canon Sequence: D-002-001
+
+Generate 5 PNG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.png
+role: header
+prompt:[Face_Reference: Drusniel]. Coiled tension, dark drow-forged blade held low, scanning for openings. [Face_Reference: Shyntara]. Predatory calm, alabaster hair stark against gloom, blade raised. Two drow siblings circling each other on damp ground in a misty bamboo grove, stalks rising around them like a cage. Sparse gray light filtering through bamboo canopy scatters into soft diffuse illumination, mist catches the light and creates visible shafts between stalks, damp earth reflects a faint silver sheen upward onto the underside of their blades, shadows pool dark between the bamboo roots where the light cannot penetrate. Sony A7R V 24mm f/2.8, Kodak Portra 400, film grain visible, slight vignetting at corners. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mid-01.png
+role: mid_01 (placed after sentence "Siempre justo fuera de alcance. Siempre un paso por delante.")
+prompt:[Face_Reference: Shyntara]. Flowing around an attack with effortless precision, alabaster hair whipping through dark bamboo air as she dodges. [Face_Reference: Drusniel]. Straining forward with clenched teeth and trembling arms, blade cutting empty space where she was a heartbeat ago. Dynamic mid-fight shot in the grove, blades catch thin gray highlights and throw faint reflections onto nearby bamboo stalks, mist swirls from the force of their movement and diffuses the ambient light into halos around each figure, motion blur on hair and blade edges trails through the scattered light. Sony A7R V 70mm f/2.8 GM, Kodak Portra 400, slight motion blur on extremities. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: mid-02.png
+role: mid_02 (placed after sentence "Alzó los ojos, encontrando una mirada tan gélida e implacable como los ríos subterráneos de su tierra natal.")
+prompt:[Face_Reference: Shyntara]. Cold blade pressed to Drusniel's throat, calm and implacable, not a hair displaced. [Face_Reference: Drusniel]. Frozen, wide eyes, pulse visible in neck tendons. Close two-shot at the moment of defeat. The steel edge catches the dim gray canopy light and throws a thin bright line across Drusniel's throat, Shyntara's face lit from below by the reflected blade glow, their breath visible as condensation in the cool air catches the scattered forest light, bamboo silhouettes blur into vertical streaks of gray behind them. Sony A7R V 85mm f/1.4 GM, Kodak Portra 400, breath condensation visible, skin pores sharp. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: mid-03.png
+role: mid_03 (placed after sentence "Nunca demostraría su valor ante su familia.")
+prompt:[Face_Reference: Drusniel]. Glaring with frustration and wounded pride, blade lowered, knuckles white on the grip. [Face_Reference: Shyntara]. Speaking with cold certainty, weapon sheathed, arms at her sides. Post-spar confrontation standing apart in the bamboo grove. Overcast sky diffuses flat gray light evenly through the canopy, damp bamboo leaves on the ground reflect faint silver upward onto their boots and lower legs, fog threads between the stalks and softens the background into layered planes of diminishing contrast, dirt and sweat visible on their clothing and skin. Sony A7R V 50mm f/1.8, Kodak Portra 400, film grain visible, overcast diffused lighting. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: mid-04.png
+role: mid_04 (placed after sentence "Drusniel tocó la empuñadura de su espada.")
+prompt:[Face_Reference: Drusniel]. Turned partly away, one hand gripping sword hilt, jaw working in silence. Standing alone in the misty bamboo grove. Shyntara's silhouette dissolving between bamboo stalks in the background, nearly absorbed by the mist. Gray light fading as fog thickens, the mist scatters remaining light into a featureless glow that flattens depth and makes the grove feel emptier, the sword pommel catches the last directional light from the canopy gap above. Sony A7R V 50mm f/1.8, Cinestill 800T, film grain and halation on the mist. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,31 @@
+{
+  "name": "Valarian",
+  "title": "The Unrelenting Protector",
+  "titlees": "El Protector Implacable",
+  "description": "Valarian is the god of justice, duty, and unwavering dedication to the greater good. Known as the Unrelenting Protector, Valarian guides paladins and those who seek to defend the innocent and uphold the law. Valarian teaches that true justice requires strength, discipline, and the wisdom to discern right from wrong in a complex world. Paladins who follow Valarian aren't blind zealots. They are thoughtful warriors who understand that maintaining order and protecting the vulnerable is a constant struggle requiring personal sacrifice. They lead by example, showing compassion to the downtrodden while being implacable in the face of evil. Valarian's followers know justice can be unpopular and hard-earned. They remain steadfast in their convictions, even when faced with difficult choices and moral quandaries.",
+  "descriptiones": "Valarian es el dios de la justicia, el deber y la dedicación inquebrantable al bien mayor. Conocido como el Protector Implacable, Valarian guía a los paladines y a aquellos que buscan defender a los inocentes y hacer cumplir la ley. Valarian enseña que la verdadera justicia requiere fuerza, disciplina y la sabiduría para discernir el bien del mal en un mundo complejo. Los paladines que siguen a Valarian no son fanáticos ciegos, sino guerreros reflexivos que entienden que mantener el orden y proteger a los vulnerables es una lucha constante que requiere sacrificio personal. Lideran con el ejemplo, mostrando compasión hacia los oprimidos mientras son implacables frente al mal. Los seguidores de Valarian saben que la justicia no siempre es popular o fácil, pero se mantienen firmes en sus convicciones, incluso cuando se enfrentan a decisiones difíciles y dilemas morales.",
+  "thumbnail": "valarian.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

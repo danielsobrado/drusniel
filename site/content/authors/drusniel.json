@@ -1,0 +1,31 @@
+{
+  "name": "Drusniel",
+  "title": "Dark Elf",
+  "titlees": "Elfo Oscuro",
+  "description": "Drusniel, a young dark elf from a noble lineage, harbors a blend of naivety and an unyielding thirst for potent magic. His eyes, filled with youthful eagerness, contrast starkly against his dusky complexion. Every utterance and gesture exudes an earnest desire for power.",
+  "descriptiones": "Drusniel, un joven elfo oscuro de noble linaje, alberga una mezcla de ingenuidad y una sed inquebrantable de magia potente. Sus ojos, llenos de entusiasmo juvenil, contrastan con su tez oscura. Todos sus gestos y palabras irradian un ferviente deseo de poder.",
+  "thumbnail": "drusniel.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

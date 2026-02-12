@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Cámara Sagrada
+Language: es
+Canon Sequence: D-001-001
+Source Image: entering-darkness.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel and Annariel stand at the threshold of the narrowing obsidian corridor. Their clasped hands separate slowly. Annariel's fingers curl closed. Blue-green bioluminescent light from the antechamber behind them catches the last moisture on the carved eye symbols along the walls.
+[00:03-00:06] Drusniel steps forward. The corridor swallows him incrementally. Each step dims the fungal glow on his shoulders and face. The eye carvings on the walls seem to track him as the angle of light shifts. Other candidates shuffle behind in soft focus.
+[00:06-00:08] The last trace of blue-green light narrows to a thin line behind him. His silhouette compresses into the darkness. The obsidian walls close the frame to black.
+
+Slow dolly forward following Drusniel into the corridor.
+Audio: dripping mineral water echoing off stone, shuffling bare feet on obsidian, a low resonant hum from deep within the passage. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

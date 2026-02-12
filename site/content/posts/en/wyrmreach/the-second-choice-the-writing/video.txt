@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Second Choice: The Writing
+Language: en
+Canon Sequence: D-017-005
+Source Image: cannot-leave-the-writing-alone.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel kneels at the wall and drags two fingertips along shallow grooves; dust shivers loose and falls in small, silent bursts.
+[00:03-00:05] A phosphorescent pulse brightens and the carved lines flash into visibility; his eyes widen as he reads without moving his lips, then he shifts his hand to keep the angle.
+[00:05-00:08] He jerks back, presses a palm to his sternum as if the Beacon burns through cloth, then looks into the corridor as if expecting something to notice; after a beat, he leans back in despite himself.
+
+Dolly in.
+Audio: fingertip scrape on obsidian, dust fall, water drips, controlled breathing, faint low hum from the Beacon, distant rock tick. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Eternal Woods: The Kingdom of Elenoria's Dance with Nature
+Language: en
+Canon Sequence: ELE-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.jpg
+role: header
+prompt:[Face_Reference: Faelyn]. Fingers slightly trembling as she turns a brittle page; expression: intent, guarded. Seated at a mossy stone desk inside the Aelindril living library, braided branches and aerial roots grown into pointed arches, living bark shelves packed with leather-bound tomes, ivy tendrils on the tabletop, tight handwriting on the page not readable.
+Environment: Overcast daylight filtered through leaf canopy, green-gold tint and soft dapple shifting across hands and desk. Faint blue bioluminescent fungus along a root arch adds cold rim highlights to bark texture; blue reflections pool in shallow moss seams while deeper stacks fall to near-black.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mid-01.jpg
+role: mid_01 (placed after sentence "No. You don't.")
+prompt:[Face_Reference: Faelyn]. Jaw set, eyes narrowed; one hand hovering inches from the wall as if afraid to touch it. Standing beside a reading table, studying a root-and-stone wall where living bark has regrown to seal a narrow gap, the seam unnaturally straight; at frame edge, a robed shoulder and fingertips on a book spine, out of focus.
+Environment: Sunlight filtered through leaves paints slow-moving dapple across mossy stone. The sealed seam catches a colder, sharper highlight than surrounding older bark; specular glints ride the smoother fresh growth while matte weathered bark stays diffuse.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, subtle lens flare, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: mid-02.jpg
+role: mid_02 (placed after sentence "Carefully hidden, she thought. But she didn't say it.")
+prompt:[Face_Reference: Faelyn]. Expression held blank; throat tight; eyes flick from the empty space to the catalog hooks. Standing between towering living-timber shelves, staring at a gap where cross-referenced tomes should sit, rectangular dust ghosts on the wood, empty brass hooks hanging from a root bracket; nearby spines show no readable titles.
+Environment: Dim canopy light seeps down in green tones. Pinpricks of blue fungal bioluminescence catch on brass hooks and bounce onto the dust outlines as cold highlights; shadows pool deep in the shelf gap while the living edge creeps inward like slow growth.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, background softened. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: mid-03.jpg
+role: mid_03 (placed after sentence "Shaped.")
+prompt:Goose-feather quill scratches across an open trade ledger filled with dense handwriting (not readable); dark green ink beads at the nib; ink bottle, blotting sand shaker, and stacked documents tied with linen thread and red wax seals on a mossy stone desk while fine root tendrils creep through cracks.
+Environment: Single beeswax candle provides warm amber point light that reflects as tiny highlights in wet ink and on wax; cool green canopy light fills shadows. Warm amber bounces off parchment fibers and returns as softer glow under the quill hand; root tendrils cast hair-thin shadows across the page.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: mid-04.jpg
+role: mid_04 (placed after sentence "Faelyn was beginning to understand why.")
+prompt:Overhead on a stone map table: new cartography sheet unrolled beside stacks of older maps tagged and tied, edges frayed and damp-stained, many marked as superseded; no readable labels; one hand pins a corner while a finger traces a forest border that no longer matches the previous survey.
+Environment: Cold overcast daylight from a high window washes the papers in flat grey. Wax tags catch pale specular glints; shadows stay crisp and cool. The newer sheet reads brighter white against yellowed older maps; ink lines show subtle tonal differences where older iron-gall has faded.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, deep depth of field, not perfectly exposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

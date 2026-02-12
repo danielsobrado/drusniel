@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Zuraldarr
+Language: en
+Canon Sequence: LUM-L-002
+Source Image: magda-green-fire.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The bonfire burns normal amber for a beat. Magda lifts her staff higher, holding it steady as if pinning the air in place. Smoke thickens and begins to spiral upward.
+[00:03-00:05] The fire snaps to sickly green in an instant. Shadows stretch unnaturally across faces and timber walls; a few villagers recoil and raise hands to shield their eyes.
+[00:05-00:08] The green glow pulses once, then steadies. Embers rise like sparks from wet wood, glowing green before fading to black. Magda lowers the staff a fraction, keeping the crowd frozen in silence.
+
+Slow dolly in from the crowd toward Magda's raised staff.
+Audio: fire crackle shifting pitch, wind pushing smoke, a collective sharp inhale from the crowd, wooden beams creaking under heat, low hum that cuts out on the pulse. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

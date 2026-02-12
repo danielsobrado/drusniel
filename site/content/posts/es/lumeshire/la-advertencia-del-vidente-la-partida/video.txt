@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Advertencia del Vidente: La Partida
+Language: es
+Canon Sequence: W-016-005
+Source Image: dulint-final-look-back.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Boots crunch on the road as the group keeps walking; Dulint hesitates for half a step and turns his head back, breath held tight as if listening for something behind the walls.
+[00:03-00:05] Riverhold's sounds fade into mist and wind; the pack strap creaks as Dulint shifts the weight, and the Beacon gives a brief pulse of warmth against his back, forcing him forward.
+[00:05-00:08] Dulint faces front again and matches the group's pace, jaw setting as if sealing the choice; the distance grows in silence while the road pulls them north one step at a time.
+
+Dolly in.
+Audio: boots on gravel, leather strap creak, cloth rustle, distant city murmur fading, wind hiss, a single exhale, faint low hum from the Beacon. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

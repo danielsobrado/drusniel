@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: The Knot at Riverhold: The Summons
+Language: en
+Canon Sequence: W-010-002
+Source Image: xandor-explains.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon gives off a slow pulse, dust motes brightening as the blue-white glow thickens; Xandor’s hovering hands twitch back as if a pressure wave passes.
+[00:03-00:05] Candle flames bend and stutter, throwing moving shadows across the table; Eldric’s fingers tighten on the wood as his eyes track the cube’s orientation.
+[00:05-00:08] The luminous face rotates a few degrees as if it has found a new line, and both men freeze as soft footsteps start on the stairs outside the room.
+
+Slow dolly-in from the Beacon up to Xandor and Eldric’s faces.
+Audio: candle hiss and crackle, wax drip, faint electrical hum from the artifact, cloth rustle, floorboard creak, distant footsteps on stairs, held breath. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

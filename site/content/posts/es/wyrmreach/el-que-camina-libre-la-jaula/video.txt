@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Que Camina Libre: La Jaula
+Language: es
+Canon Sequence: D-013-001
+Source Image: the-creature-watches.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The wagon slams into a rut; iron bars rattle and the lantern swings wide, throwing bands of orange light that smear across faces.
+[00:03-00:05] Drusniel steadies himself and looks up; across the gap, the grey-skinned captive leans forward, tracking him in silence as the caravan keeps rolling.
+[00:05-00:08] A guard bangs a spear butt against the rear cage; the captive's almost-smile vanishes, dust gusts through the bars, and the volcanic glow pulses once on the horizon.
+
+Dolly in.
+Audio: wagon wheels grinding on black grit, iron bar rattle, chain clinks, lantern metal squeak, wind hiss, spear butt clang, distant low volcanic rumble. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

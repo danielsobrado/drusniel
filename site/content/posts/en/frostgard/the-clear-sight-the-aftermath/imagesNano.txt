@@ -1,0 +1,26 @@
+﻿# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Clear Sight: The Aftermath
+Language: en
+Canon Sequence: W-024-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-wakes-devastated.jpg
+role: header
+prompt: [Face_Reference: Maris]. Slowly opening bloodshot eyes, blood running from both nostrils, face drawn with exhaustion, pine needles caught in her hair. [Face_Reference: Dulint]. Kneeling beside her, pressing a cloth to her nose. Maris lies on the frost-covered forest floor, the worst physical toll yet visible on her face. Weak winter daylight filtering through dark pine branches above, cold and flat on her pale skin, overcast sky light casting diffuse shadowless illumination, faint frost reflection from ground creating subtle cool fill light under her jaw. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: maris-tries-to-speak.jpg
+role: mid_01 (placed after sentence "I saw him.")
+prompt: [Face_Reference: Maris]. Propped against a tree trunk, trembling, forcing words through cracked lips, blood still wet on her upper lip. [Face_Reference: Dulint]. Leaning in close to hear. [Face_Reference: Eldric]. Arms crossed, listening with tension. [Face_Reference: Balin]. Crouching nearby. [Face_Reference: Xandor]. Hand on her shoulder steadying her. Four companions gathered tight to hear her barely audible voice in the winter forest. Overcast daylight filtering through pines, grey and diffused on the group, cold even illumination on every face, tree bark texture catching flat ambient light behind Maris's head. Sony A7R V 50mm f/1.8 Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: group-processes-description.jpg
+role: mid_02 (placed after sentence "A dark elf. Grey-black skin. White hair. Pointed ears.")
+prompt: [Face_Reference: Dulint]. Frowning deeply, brow furrowed. [Face_Reference: Balin]. Bewildered expression, mouth slightly open. [Face_Reference: Eldric]. Calculating gaze, eyes narrowed. [Face_Reference: Xandor]. Placing a steadying hand on Maris's shoulder. Four travelers exchanging confused glances in a winter forest clearing as they process impossible information. Flat overcast daylight filling the clearing evenly, cold grey tones on every face, no directional shadows, diffuse sky illumination reflecting off frost-covered ground creating subtle uplighting on chins. Sony A7R V 35mm f/2.8 Kodak Portra 400, slightly out of focus background. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: beacon-glows-in-response.jpg
+role: mid_03 (placed after sentence "He's carrying the other half of this.")
+prompt: [Face_Reference: Maris]. Bloody hand pointing at the pack, dried blood cracking on her fingers. [Face_Reference: Dulint]. Looking down at the pack with new dread in his eyes. Amber-gold light pulses through the canvas of a heavy pack in steady rhythmic surges, responding to the declaration. Dark metal cube, amber-gold internal glow, pulsing through canvas weave, light bleeding through stitching seams. The Beacon's amber-gold glow competing with cold winter daylight on their faces, warm amber from below splitting against cold overcast from above, dual light sources creating warm-cool contrast across their features. Sony A7R V 50mm f/1.8 Kodak Portra 400, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-declaration.jpg
+role: mid_04 (placed after sentence "And something terrible is making him into a weapon.")
+prompt: [Face_Reference: Maris]. Blood drying on her face in dark streaks, fierce certainty in bloodshot eyes, sitting up straighter despite physical devastation. The group gone silent around her after her final declaration, winter forest framing the scene with dark pine trunks. Cold overcast light from above, flat and unforgiving on the dried blood and bruised skin, no warmth in the illumination, harsh reality of daylight exposing every mark of exhaustion on her face. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

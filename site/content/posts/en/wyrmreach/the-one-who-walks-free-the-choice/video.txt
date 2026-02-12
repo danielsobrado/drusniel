@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The One Who Walks Free: The Choice
+Language: en
+Canon Sequence: D-013-003
+Source Image: he-opens-his-lock-and-runs.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel presses his palm to the lock; air tightens, dust lifts, and the corroded mechanism shudders under invisible pressure.
+[00:03-00:05] The lock clicks; the door swings and he slips out in one fluid move, feet hitting the wagon plank with a dull thud.
+[00:05-00:08] He sprints toward the rear cage as lantern light whips across iron; two guards keep their backs turned to watch the perimeter, and chains rattle as the wagons settle.
+
+Handheld.
+Audio: quiet iron click, cage hinge creak, fast footfalls on wood, chain clinks, lantern metal squeak, wind hiss over grit, distant guard gear clatter. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

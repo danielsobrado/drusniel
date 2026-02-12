@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Seer's Warning: The Truth
+Language: en
+Canon Sequence: W-016-004
+Source Image: maris-watches-dulint.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The campfire sinks and spits; Maris draws a slow breath, fingers tightening on her cloak hem, eyes fixed on Dulint's back as if weighing whether to force the truth out of him.
+[00:03-00:05] Dulint shifts his stance toward the treeline, listening, then looks away again; his hand tightens once on a strap and the Beacon's faint pulse flickers through the pack like a cold heartbeat.
+[00:05-00:08] A gust stirs ash and makes the flame gutter; Maris exhales, shoulders dropping a fraction as the silence becomes the answer, while Dulint stays turned toward the dark as if guarding a secret.
+
+Dolly in.
+Audio: low fire crackle, ember pop, wind through leaves, cloth rustle, soft footsteps on damp ground, distant owl call, controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

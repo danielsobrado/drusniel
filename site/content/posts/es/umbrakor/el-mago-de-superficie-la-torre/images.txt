@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Mago de Superficie: La Torre
+Language: es
+Canon Sequence: D-007-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: tower-interior.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Cautious, alert; shoulders tight as he steps inside and scans. Wide view of Zaelar's tower entry hall: iron candle brackets burning low along the walls, shelves crammed with old books in unreadable scripts, and hourglasses everywhere on ledges and tables with sand in white, black, red, and gold steadily falling. Warm candlelight mixes with cold gray daylight leaking through high windows, catching dust motes in thin shafts and throwing long shadows across the clean stone floor. Canon EOS R5, 24mm f/1.4, Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: zaelar-reveal.jpg
+role: mid_01 (placed after sentence "Sus ojos capturaban la luz de las velas y la reflejaban de vuelta: violeta, cambiando hacia plata mientras descendía.")
+prompt: [Face_Reference: Zaelar]. Expression: measured calm, faint almost-gentle smile; descending with deliberate slowness. [Face_Reference: Drusniel]. Guarded suspicion, chin tilted up as he watches. Low-angle view up the tight spiral staircase, candle brackets throwing warm flicker across stone steps while hourglasses on nearby shelves catch specular glints in the background. Candlelight backlights the descending figure and reflects in eyes as shifting highlights, while the rest of the stairwell stays deep in shadow. Canon EOS R5, 35mm f/1.4, Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: tea-for-two.jpg
+role: mid_02 (placed after sentence "Dos tazas.")
+prompt: Two teacups on a small table near the staircase, both still steaming, dark surface of the tea catching candle reflections; a simple tea service placed with careful precision. Warm candlelight is the primary light, flickering orange across ceramic glaze and rising steam, while cold gray daylight spill from the entryway adds a faint cool rim along the table edge. Sony A7R IV, 50mm f/1.4, Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: hourglass-turned.jpg
+role: mid_03 (placed after sentence "—El tiempo es el único recurso que no puede recuperarse.")
+prompt: [Face_Reference: Zaelar]. Long fingers steady, unhurried; flipping a nearby hourglass as the last grains of red sand drop and begin to fall again. Extreme close-up on glass curvature and sand stream, reflections of candle flame warping through the hourglass body, surrounding shelves of other timers dissolving into blur. Candlelight glints on the glass with warm halation and throws moving highlights across the sand grains as they pour. Sony A7R IV, 100mm macro f/2.8, Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: handshake-trap.jpg
+role: mid_04 (placed after sentence "Drusniel se estiró y colocó su mano en la palma de Zaelar.")
+prompt: [Face_Reference: Drusniel]. Fingers tense, wrist rigid; forcing himself to commit. [Face_Reference: Zaelar]. Still and open-palmed, too calm. Tight shot at the tea table as Drusniel places his hand into Zaelar's palm, skin texture and pressure visible in the knuckles, both faces partially visible above the joined hands, unreadable books and hourglasses blurred behind. Candlelight is warm and low, carving contrast across fingers and catching tiny highlights in the eyes; shadows pool deep beyond the table edge. Canon EOS R5, 50mm f/1.4, Cinestill 800T, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

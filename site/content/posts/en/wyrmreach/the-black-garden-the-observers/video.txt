@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Black Garden: The Observers
+Language: en
+Canon Sequence: D-021-002
+Source Image: arrows-in-the-crystal-field.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The air snaps with a sudden volley — arrows hiss through chemical haze and thunk into crystal bases. Elion yanks Srietz sideways between spires as one shaft passes Drusniel’s ear with a sharp feathered flutter.
+[00:03-00:05] Drusniel throws both hands up. A raw air blast detonates outward, bending arrows mid-flight into spinning streaks; crystal dust erupts and whips around his arms in a tight vortex.
+[00:05-00:08] The gust collapses into silence. From between the crystal walls, armored silhouettes step out one by one, forming a tightening ring. A single commanding voice cuts through and everything freezes mid-motion.
+
+Handheld push-in down the path, tightening on Drusniel’s hands.
+Audio: arrow hiss, impacts into crystal and soil, explosive wind blast, rattling arrow shafts, rising crystal hum, grit swirling, boots scraping, sudden dead-still air at the command. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

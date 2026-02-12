@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: El Conteo
+Language: es
+Canon Sequence: W-018-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: balin-Eldric-walking.jpg
+role: header
+prompt:[Face_Reference: Balin] Counting ridgelines under his breath, eyes fixed on the horizon; travel dirt on cloak and straps. [Face_Reference: Eldric] Vigilant scan of the treeline, jaw set, hand near his weapon. They hike a narrow mountain trail through damp pine forest, needles crushed under boots, cold mist hanging low while distant ridges stack beyond the trees like waves of stone. Early dawn sun filters through branches in broken shafts, cool blue in shadow and warm where light catches bark and cheek edges. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight motion blur, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: mountain-ridges.jpg
+role: mid_01 (placed after sentence "Dieciocho crestas. ¿Cuál es el propósito?")
+prompt:Photorealistic wide landscape from the trail: eighteen mountain ridges layered into the distance like stone waves, far peaks softened by blue atmospheric haze and a single cloud break revealing an extra ridge half-hidden behind it; pine treetops frame the foreground and tiny birds wheel high above for scale. Clear daytime light falls from high sun, bright on exposed slopes and cooler in valley shadows, with atmospheric perspective increasing into the distance. Canon EOS R5 16mm f/2.8 Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: dulint-checks-ground.jpg
+role: mid_02 (placed after sentence "Dulint se volvió, su rostro ilegible. El suelo se ve mal aquí.")
+prompt:[Face_Reference: Dulint] Face unreadable, crouched low, gloved hand hovering over moss as if it might bite. [Face_Reference: Xandor] Patient, staff planted, eyes following Dulint's hand. [Face_Reference: Balin] Frustrated, weight shifted, arms tight at his sides, staring at "normal" ground. Dulint stops on the forest trail and studies a patch of earth that looks ordinary but feels wrong, subtle irregularities in moss and soil and a faint scuff of old disturbance that only he seems to notice; the group bunches up behind him in reluctant pause. Overcast daylight filtered through pine canopy creates cool soft shadow and wet texture shine on needles and boots, with gentle highlights on mud and bark. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, background slightly out of focus, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: maris-sees-echoes.jpg
+role: mid_03 (placed after sentence "Solo... ecos. Violencia antigua.")
+prompt:[Face_Reference: Maris] Eyes unfocused, expression flat, breath caught as if listening to something far away. She stops mid-walk and stares into a small clearing where nothing moves quite right, scuffed stones and half-buried remnants hinting at old violence without showing it; the rest of the forest keeps breathing while her attention is elsewhere. Muted daylight turns cooler in the clearing as cloud shadow slides over it, with a thin pale rim of light catching grass edges and her cheekbones. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, natural skin with pores, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: balin-frustrated-patience.jpg
+role: mid_04 (placed after sentence "Primera vez entendiendo que la paciencia y la frustración pueden existir en el mismo momento.")
+prompt:[Face_Reference: Balin] Dusty and tired, jaw clenched, eyes forward with determination fighting impatience. He walks the detour path a half step behind the others, shoulders tight, pretending not to seethe while the group continues on with deliberate slowness through pine and damp earth. Afternoon sun breaks through clouds in soft patches, warming the ridge of his nose and the edges of his cheek while the background stays cooler and slightly out of focus. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

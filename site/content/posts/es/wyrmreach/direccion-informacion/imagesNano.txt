@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Dirección: Información
+Language: es
+Canon Sequence: D-019-002
+
+Genera 5 imágenes JPG en esta carpeta con estos nombres exactos y luego ejecuta el script convertidor en la raíz.
+
+1. filename: header.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel escucha serio; Srietz deja provisiones con cautela; Elion medio despierto observa. Cueva estrecha de vidrio volcánico, mapa rayado en el polvo junto a montones exactos. Faro en la mochila filtra azul blanco; hongos cian pulsan, dividiendo la luz cálida/fría en rostros y equipo, reflejos corren por la roca húmeda. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mid-01.jpg
+role: mid_01 (placed after sentence "El goblin dejó las provisiones que había estado ordenando.")
+prompt:[Face_Reference: Srietz, Drusniel]. Srietz traza tres fronteras en un mapa manchado, expresión medida; Drusniel inclinado, mirada fija. Pilas precisas a su alrededor. El Faro perfila mapa y garras en azul blanco, una brasa de linterna aporta calor; la piedra húmeda devuelve destellos teal. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, grano visible, ligero desenfoque en el dedo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: mid-02.jpg
+role: mid_02 (placed after sentence "Drusniel miró el artefacto en su mochila, su pulso fosforescente constante y visible.")
+prompt:[Face_Reference: Drusniel, Elion]. Mochila abierta con el Faro pulsando azul blanco; la mano de Drusniel duda en cubrirlo, Elion observa desde la sombra. Luz del Faro tiñe cuero y piedra creando sombras dobles; hongos cian añaden retícula turquesa sobre la condensación. Sony A7R V 85mm f/1.4 GM Cinestill 800T, grano visible, ligera halación, poca profundidad, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: mid-03.jpg
+role: mid_03 (placed after sentence "La información se asentó sobre Drusniel como peso.")
+prompt:[Face_Reference: Drusniel, Elion, Srietz]. Drusniel cincha correas; Elion revisa equipo; Srietz coloca piedras y símbolos rayados marcando ruta. Luz cálida de linterna contra el frío del Faro; hongos cian tiñen las paredes, sombras de piedras se estiran sobre suelo con ceniza, hebillas reflejan brillos cruzados. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: mid-04.jpg
+role: mid_04 (placed after sentence "Drusniel miró hacia el este, hacia territorios que no podía ver pero casi podía sentir.")
+prompt:[Face_Reference: Drusniel]. De perfil en la entrada, mirando llanuras de ceniza y resplandor volcánico lejano; su aliento se vuelve niebla. El Faro oculto en la mochila detrás perfila su silueta; la luz cian interior se apaga en el umbral; partículas de ceniza brillan en el crepúsculo pizarra-violeta. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, ligera subexposición. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

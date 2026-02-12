@@ -1,0 +1,26 @@
+﻿# Image Prompts
+Title: La Advertencia del Vidente: La Ruta
+Language: es
+Canon Sequence: W-016-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: eldric-traces-lines.jpg
+role: header
+prompt:[Face_Reference: Eldric, Dulint, Balin, Xandor, Maris] Photorealistic, tense dawn debate; Eldric leans over the map with jaw tight and a gloved finger tracing the fast route, while Dulint holds a skeptical stare across the table and the others watch in silence, each reacting differently to the pressure to move. Inn common room turned planning table: worn map spread over scratched wood, candle stubs and travel gear pushed aside, mugs gone cold, and the artifact kept close enough to feel like a constant weight even when it is not in view. Warm dawn light slants in from a side window and rakes across the paper texture, while the last hearth embers add a faint low orange flicker that makes shadows shift across knuckles and the map edge. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: grukmar-patrol-sign.jpg
+role: mid_01 (placed after sentence "Hemos visto las seÃ±ales. EstÃ¡n organizados.")
+prompt:Photorealistic, ominous forest detail; a crude Grukmar totem and claw-scratched territory mark hang from a dead branch, damp bark dark with cold moisture, ash grit caught in crevices, and a faint smoke plume far beyond the treeline. The background falls into layered grey trunks and undergrowth, the path barely suggested, as if the sign is the only thing that matters. Flat overcast daylight from above turns the sky into a cold softbox and pulls texture from wood and rope, with a slight specular sheen on wet surfaces and deep shadows under the hanging charm. Sony A7R IV 100mm macro Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: dulint-remembers-seer.jpg
+role: mid_02 (placed after sentence "Pero la voz de la vidente resonaba en su mente. Lentamente.")
+prompt:[Face_Reference: Dulint] Photorealistic, burdened focus; he pauses beside the table and closes his eyes for a beat, then opens them with a decision hardening, as if the word will not stop echoing. His face is reflected in a shallow basin of water with slight ripple distortion, the inn room lights ghosting across the reflection while the background figures blur into soft shapes. Dawn spill from the window provides cold side light that sharpens the reflection edge and turns the water surface into a thin mirror, while warm candle remnants and ember glow add faint amber highlights that wobble with the ripples. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: balin-eager.jpg
+role: mid_03 (placed after sentence "El rostro de su sobrino estaba ansioso, queriendo moverse")
+prompt:[Face_Reference: Balin] Photorealistic, controlled impatience; eager eyes and shoulders pitched forward as he tightens a strap and keeps one hand hovering near a weapon grip, ready to march before the argument ends. He stands near the doorway where cold air leaks in and makes his breath faintly visible, scuffed gear and travel grime catching the morning. Bright morning light from outside the door gives clean cool illumination across his face and hands, while the darker room behind falls to warm shadow from the hearth and leftover candles. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, subtle lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: dulint-makes-decision.jpg
+role: mid_04 (placed after sentence "Tomamos la ruta lenta, dijo Dulint.")
+prompt:[Face_Reference: Dulint, Eldric, Balin, Xandor, Maris] Photorealistic, decision that costs time; Dulint anchors the foreground pointing firmly to the valley line on the map, Eldric faces him with restrained frustration, Balin looks disappointed, Xandor stays neutral and measuring, and Maris stands pale and quiet as if the artifact's constant pressure has drained her. The table becomes a battlefield of hands and glances, with the map creased and marked by rough travel use and packs stacked near the wall for immediate departure. Clear morning light from the window rakes across faces and paper, while a weak hearth ember flicker adds warm movement to the shadows under hands and along the map folds. Canon EOS R5 24mm f/1.4 Kodak Portra 400, film grain visible, slight motion blur in pointing hand, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

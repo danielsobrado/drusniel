@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Package: The Crossing
+Language: en
+Canon Sequence: D-011-004
+Source Image: void-experience.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] He drops into the black water and the cold hits like a punch; bubbles rip past his face as his limbs jerk into motion.
+[00:03-00:05] Something brushes his leg in the darkness; he kicks harder, forcing air into a small pocket at his mouth as a distant glow shifts far below.
+[00:05-00:08] Grey light appears overhead and grows; he breaks the surface with a harsh gasp and rides a violent swell, coughing water as he turns toward unseen shore.
+
+Handheld follow shot rising with him from the plunge toward the surface.
+Audio: muffled underwater rumble, bubbles tearing, strained breath, cloth drag in water, sudden surface crash, choking cough, wind, heavy wave slap. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

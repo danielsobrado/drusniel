@@ -1,0 +1,27 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Hesitation
+Language: en
+Canon Sequence: D-007-010
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: refusing-offer.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Steady refusal, jaw set, hands loose at his sides but ready; eyes locked on Zaelar. [Face_Reference: Zaelar] Calm calculation, tea cup just set down, expression patient and cold. In Zaelar's study, books and loose papers clutter the desk edge while the massive map is rolled away, leaving a charged quiet between them. Warm lamplight from the desk throws amber across faces and wood grain, while cool grey daylight from the window cuts a thin rim along sleeves and casts long shadows into the shelves. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: walking-back-paranoia.jpg
+role: mid_01 (placed after sentence "Movement where there should be stillness.")
+prompt: [Face_Reference: Drusniel] Neck hairs raised, eyes darting, glancing over his shoulder mid-step; breathing controlled, pace quickening without breaking into a run. In the surface passage tunnels between the tower and Umbra'kor, damp stone walls press close and bioluminescent fungus casts pale cyan pools that twist into strange shadows, while the last trace of gray surface light fades behind him. Fungal glow is the primary light, cold cyan from the walls and ceiling, catching wet sheen on stone and rim-lighting his cheek and shoulder as the rest of the tunnel drops into deep black. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: shyntara-silhouette.jpg
+role: mid_02 (placed after sentence "Shyntara was waiting.")
+prompt: [Face_Reference: Shyntara] Rigid stillness, eyes fixed like an appraisal, posture held with assassin discipline as she waits. In the family quarters common room, Shyntara stands by the window, half-silhouetted against pale fungal glow while Drusniel enters at the doorway, kept soft and secondary. Cold green-blue fungus light from outside the window is the main source, backlighting her outline and casting long hard-edged shadows across simple furniture, with only a faint warm interior ember-glow barely lifting detail on her nearer cheek. Canon EOS R5 35mm f/2.0 Kodak Portra 400, film grain visible, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: sister-confrontation.jpg
+role: mid_03 (placed after sentence "Close enough to kill.")
+prompt: [Face_Reference: Drusniel] Neutral mask held tight, jaw muscles flexing; eyes refusing to flinch. [Face_Reference: Shyntara] Predator-still calm, evaluating him at arm's length, a step too close. Close two-shot in the common room as Shyntara closes the distance, the window glow behind them and the room falling away into shadow, tension visible in hands kept deliberately still. Cold fungal window light provides hard backlight and green-blue rim on hair and shoulders, while a weak warm interior light adds minimal amber fill to keep skin texture real without softening the threat. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: sleepless-night.jpg
+role: mid_04 (placed after sentence "It was a long time before he slept.")
+prompt: [Face_Reference: Drusniel] Eyes wide and unblinking, listening, exhaustion held under discipline; fingers tense in the blanket. In his small stone bedroom, Drusniel lies in darkness on a narrow bed, waiting in silence as dust drifts and the room feels too still, the door gap and window slit the only breaks in blackness. Thin cold corridor light leaks under the door and faint fungal glow from outside adds a weak green-blue wash across the wall, leaving most of the room swallowed in shadow. Canon EOS R5 24mm f/2.8 Cinestill 800T, natural low-light grain, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

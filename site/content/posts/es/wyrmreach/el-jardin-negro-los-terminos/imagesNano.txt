@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Jardín Negro: Los Términos
+Language: es
+Canon Sequence: D-021-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: talryn-arrives-at-dawn.jpg
+role: header
+prompt:[Face_Reference: Talryn, Drusniel, Srietz, Elion]. Talryn interés profesional sin calidez, porte de oficial; Drusniel agotamiento rígido; Srietz tenso y escaneando; Elion ojos abiertos, inmovilidad incómoda. Amanecer en la entrada del refugio tejido: paredes de tallos gruesos, suelo de pétalos secos, puerta enmarcando hileras de flores negro-violeta perdiéndose en bruma química. Luz fría azul-gris entra por la puerta mientras una vela casi muerta dentro tiembla cálida sobre pétalos y tallos; brillos cálidos atrapan bordes de pétalo y fibras, y el brillo violeta de las flores de fuera entra como rim light frío, sombras duras se acumulan detrás del tejido. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: talryn-drops-provisions.jpg
+role: mid_01 (placed after sentence "—Talryn entró y dejó un fardo en el suelo—.")
+prompt:[Face_Reference: Talryn, Drusniel, Srietz, Elion]. Talryn deja el fardo con autoridad eficiente; Drusniel y Srietz empacan en silencio; Elion vigila la entrada sin parpadear. Interior del refugio: pétalos y brotes aplastados en el suelo, paredes de tallos con huecos hacia flores en sombra, aire con tang químico. Corte de luz fría desde la puerta sobre correas y pliegues, puntos cálidos débiles de velas gastadas reflejan en cuero y superficies húmedas; la neblina hace bloom suave y las sombras quedan tinta entre tallos. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, ligeramente subexpuesto, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: march-through-black-flowers.jpg
+role: mid_02 (placed after sentence "Empacaron en silencio y siguieron a Talryn fuera de la estructura tejida de flores, hacia una mañana que olía a químicos y parecía una pintura hecha en tonos de negro y violeta.")
+prompt:[Face_Reference: Talryn, Drusniel, Srietz, Elion]. Talryn guía con certeza practicada; Drusniel habla bajo a Srietz con manos quietas; Srietz escucha tenso; Elion cierra atrás atento. Toma amplia de seguimiento: sendero estrecho atravesando hileras interminables de flores negro-violeta cultivadas, pétalos orientándose sutilmente; la bruma química vuelve la mañana negra/violeta/gris. Luz fría de mañana en neblina aplana la escena y el rocío en pétalos lanza brillo violeta especular sobre botas y bordes de tela; filas al frente se disuelven en desenfoque con haze bloom. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, ligera floración de neblina, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: talryn-sends-a-signal.jpg
+role: mid_03 (placed after sentence "Lo presionó dos veces durante la marcha de la mañana.")
+prompt:[Face_Reference: Talryn]. Paciencia de araña en el borde del claro, mirada fija atrás; pulgar enguantado presiona un dispositivo pequeño oculto en la bolsa del cinturón, sin marcas legibles. Alto de mediodía: piedras de fogón, provisiones apiladas y una fuente simple; los demás borrosos comiendo en silencio tenso mientras las flores susurran en el perímetro como oyentes. Luz dura de mediodía recorta sombras limpias, brillo violeta de pétalos añade bordes fríos en costuras y nudillos; reflejos se deslizan sobre cuero gastado y remaches. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, poca profundidad de campo, grano visible, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: watched-march.jpg
+role: mid_04 (placed after sentence "Las flores los observaron marchar.")
+prompt:[Face_Reference: Talryn, Drusniel, Srietz, Elion]. Talryn adelante sin mirar atrás; Drusniel postura pesada y pensativa; Srietz pegado y callado; Elion atrás girando para revisar. Marcha final desde atrás a la altura de la cintura: flores negras bordean el sendero y parecen observar, pétalos siguiendo el movimiento en aire químico inmóvil. Luz tardía atraviesa la neblina como lámina gris fría, rocío y brillo de pétalo dejan destellos violetas tenues; sombras se acumulan entre hileras como tinta. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, fondo suavizado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

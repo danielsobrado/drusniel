@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Kind Man: The Questions
+Language: en
+Canon Sequence: D-011-003
+Source Image: caravan-arrives-early.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Wagon wheels grind deeper into the sand and then slow, grit spraying from the ruts as harness leather creaks and a covered canvas flap snaps in the wind.
+[00:03-00:05] The caravan shifts position, one wagon angling to block the open stretch of coast; shadows move between the wheels as footsteps multiply.
+[00:05-00:08] From inside the shelter, a figure steps across the mouth and briefly dims the light; the embers flare once, then settle as the line of wagons finishes forming.
+
+Slow push-in from the shelter mouth toward the arriving wagons.
+Audio: wheels scraping sand, harness creak, canvas snapping, bootsteps on grit, distant low volcanic rumble, ember crackle, rising wind. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Jardín Negro: Los Observadores
+Language: es
+Canon Sequence: D-021-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arrows-in-the-crystal-field.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Choque reflejo, manos arriba; magia de aire detonando desde las palmas. Corredor recto entre muros densos de cristales negros facetados cuando una salva de flechas silba a través de bruma química y la ráfaga dobla los astiles; polvo cristalino y grava giran en un anillo de presión. Refracción violeta en aristas y subresplandor naranja desde fisuras ilumina la nube, creando flashes especulares en plumajes y facetas húmedas. Sony A7R V 24mm f/1.4 GM Cinestill 800T, grano visible, desenfoque de movimiento en flechas, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: arrow-passes-his-ear.jpg
+role: mid_01 (placed after sentence "Drusniel sintió el desplazamiento de aire cuando un astil pasó junto a su oreja, tan cerca que le tiró del pelo.")
+prompt:[Face_Reference: Drusniel]. Pupilas cerradas, susto a media respiración; sudor y lágrimas mezcladas con polvo, un mechón tirado por el astil. Retrato apretado: una flecha pasa junto a la oreja, plumaje convertido en trazo; polvo cristalino suspendido como brillo, corredor detrás en bokeh. Refracción violeta atrapada en las motas y subiluminación naranja desde grietas pinta mandíbula y oreja desde abajo, partículas como puntos ámbar. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, poca profundidad de campo, grano visible, ligeramente subexpuesto, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: armored-observers-emerge.jpg
+role: mid_02 (placed after sentence "Emergieron de entre los cristales como si hubieran sido parte de la formación.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel con manos medio alzadas y residuo de hechizo; Srietz bajo tras el lanzamiento; Elion en postura protectora, brazos arriba. Docenas de exploradores con armadura color tierra y rostros cubiertos salen de entre los cristales como si el campo los pariera, armas fuera, anillo cerrándose; flechas clavadas en suelo y bases, polvo aún girando. Refracción violeta marca bordes fríos en placas mientras luz naranja de fisuras convierte el polvo en motas como brasas; reflejos se deslizan en streaks serrados sobre facetas negras. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, fondo suavizado, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: varesh-steps-forward.jpg
+role: mid_03 (placed after sentence "Una figura atravesó el anillo de exploradores.")
+prompt:[Face_Reference: Varesh, Drusniel]. Varesh con interés tranquilo, sonrisa fina comenzando; Drusniel baja las manos despacio, muñecas atadas con cuerda que zumba. Varesh atraviesa el anillo congelado de exploradores, estudia flechas dispersas y polvo cristalino flotando; la capa se mueve como agua con luz tenue. Subresplandor naranja pinta los bajos y enciende fibras de la cuerda; refracción violeta proyecta bandas frías sobre el brillo líquido de la capa, la neblina crea halation suave. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, textura de piel natural con poros, grano visible, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: table-set-for-three.jpg
+role: mid_04 (placed after sentence "Tres sillas. Tres tazas, aún humeando.")
+prompt:Mesa sencilla preparada para tres en un claro circular de tierra negra apisonada, tres sillas vacías y tres tazas humeantes al centro, rodeadas por agujas de cristal inclinadas hacia dentro como público. El vapor se enrosca en el aire químico y el zumbido se siente como presión detrás de los dientes; el corredor desemboca en silencio. Luminiscencia violeta fría refracta y dibuja bordes prismáticos; subresplandor naranja desde grietas calienta la base del vapor, reflejos saltan en streaks serrados sobre facetas vítreas. Sony A7R V 35mm f/2.8 Cinestill 800T, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Direction: The Dawn
+Language: en
+Canon Sequence: D-019-005
+Source Image: crest-over-disputed-lands.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow pull back starts at the ridge edge as sulfur wind carries ash grit past the lens; steam vents below exhale in rhythmic bursts and the crystal field begins to hum as footsteps approach.  
+[00:03-00:05] The pull back widens to reveal three travelers cresting the lip; they pause for one beat, then Srietz points east and Drusniel answers with a short hand signal to move fast and low.  
+[00:05-00:08] The pull back continues as they descend into the black crystals; violet reflections flicker across facets, heat shimmer bends the air over fissures, and their bootsteps crunch like ash while the red horizon glow pulses ahead.
+
+Camera movement: Slow pull back from ridge edge to wide reveal.  
+Audio: sulfur wind hiss, ash crunch under boots, distant volcanic rumble, steam venting, faint crystalline hum rising as they pass. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Dirección: Recuperación
+Language: es
+Canon Sequence: D-019-001
+
+Genera 5 imágenes JPG en esta carpeta con estos nombres exactos y luego ejecuta el script convertidor en la raíz.
+
+1. filename: three-days-in-the-cave.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel despierto contando; Srietz susurra inventario sobre montones ordenados; Elion duerme recuperando color. Cueva de vidrio volcánico húmedo, Faro envuelto en la mochila filtrando azul frío, hongos latiendo cian. El Faro dibuja bordes duros en hebillas y ojos; la luz cian respira sobre la condensación y rebota teal en el techo. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: bioluminescent-fungi-hour-markers.jpg
+role: mid_01 (placed after sentence "Drusniel había contado cada hora.")
+prompt:Hongos bioluminiscentes usados como marcas de hora, sombreros húmedos pulsando cian; gotas de condensación refractan el brillo y pintan ondas teal sobre obsidiana mojada con rayas talladas. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, grano visible, poca profundidad, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elion-awakens-gaunt.jpg
+role: mid_02 (placed after sentence "Elion se movió, los ojos abriéndose lentamente.")
+prompt:[Face_Reference: Elion]. Demacrado pero consciente, incorporándose; [Face_Reference: Drusniel]. Inclinándose con mirada urgente. Camastro sobre arena volcánica fría; el Faro oculto en la mochila proyecta azul frío en las mejillas, la luz cian de hongos reticula las sombras. Sony A7R V 50mm f/1.2 GM Cinestill 800T, grano visible, ligera halación, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: srietz-inventories-again.jpg
+role: mid_03 (placed after sentence "Los largos dedos del goblin separaban carne seca en pilas precisas.")
+prompt:[Face_Reference: Srietz]. En cuclillas, dedos largos formando montones idénticos; orejas atentas. Croquis de ruta y piedras marcadas a un lado. El Faro perfila nudillos en azul blanco; hongos cian hacen brillar la sal y rebotan verde esmeralda en la grava volcánica. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, grano visible, ligero desenfoque de movimiento en dedos, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: direction-to-the-east.jpg
+role: mid_04 (placed after sentence "Se movió hacia la entrada de la cueva, mirando hacia el crepúsculo perpetuo.")
+prompt:[Face_Reference: Drusniel]. De pie en la boca de la cueva, mirada estrecha hacia el este, aliento condensado. Afuera: cristal volcánico dentado y llanura de ceniza en crepúsculo pizarra-violeta; adentro: el Faro brilla constante detrás. Los hongos cian se apagan en el umbral mientras el Faro perfila su rostro con borde frío y se refleja en la piedra vítrea. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligero viñeteo, ligera subexposición. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

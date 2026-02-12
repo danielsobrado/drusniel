@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The First Fragment: The Fragment
+Language: en
+Canon Sequence: W-020-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-touching-fragment.jpg
+role: header
+prompt:[Face_Reference: Dulint]. Shock-blank stare, knuckles white, hands wrapped around the fragment. Living-ice chamber with seamless stone pedestal, Beacon beside the fragment pulsing in perfect synchrony, frost vapor and unreadable markings on translucent walls. Blue-white glow bridges over fingers and stone; light refracts through ice with faint violet fringes along etched lines, specular highlights pop on condensation and wet stone. Sony A7R V 50mm f/1.2 GM Cinestill 800T, film grain visible, slight halation in the brightest glow, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: beacon-alive.jpg
+role: mid_01 (placed after sentence "The Beacon looked alive.")
+prompt:Macro on the Beacon: smooth metal split by fine seam-lines like veins, one seam widening to reveal wet organic movement before sealing. Cold blue-white pulse is the only light, catching condensation beads and micro-scratches; seam edges gleam and cast hard double shadows into the crack. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-collapse.jpg
+role: mid_02 (placed after sentence "\"You dropped.\"")
+prompt:[Face_Reference: Maris, Balin]. Maris goes slack mid-step, blood-wet mouth; Balin catches her, panic, hands locked on her shoulders. Wide action in the ice chamber, pedestal glow behind, ancient markings framing the fall. Fragment light and Beacon pulse freeze motion, crisp highlights on breath fog and wet stone, blue-white reflections scatter across ice with slight halation at the brightest edges. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur in Balin's hands, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: fragment-pack.jpg
+role: mid_03 (placed after sentence "He picked it up.")
+prompt:Open travel pack close-up: Dulint's hands place the dark fragment beside the Beacon; synchronized pulse floods leather interior. Twin blue-white glow makes stitching and worn straps sparkle; metal clasps throw sharp specular points, frost dust and damp leather show tactile grain as background falls into blur. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, slight halation around the glow, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: fleeing-cave.jpg
+role: mid_04 (placed after sentence "We need to leave now.")
+prompt:[Face_Reference: Eldric, Dulint, Balin, Maris, Xandor]. Eldric drives forward; Dulint clutches the pack; Balin glances back; Maris unsteady but moving; Xandor urgent and watchful. Escape out of the fissure into cold daylight, wind throwing snow-dust and grit, boots skidding on rock; cave behind glows faint blue for a beat then vanishes into shadow. Flat winter light desaturates; hidden Beacon pulse adds cold rim catching on straps and cheek edges, reflections break into tiny points on blowing ice crystals. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight handheld shake, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

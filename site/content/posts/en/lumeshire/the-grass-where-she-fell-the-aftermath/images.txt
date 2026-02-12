@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Aftermath
+Language: en
+Canon Sequence: W-012-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: waking-in-field.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, disoriented pain and raw confusion; dirt smeared on her cheek, hair tangled, breath shallow as she comes back to herself. High angle looking down on Maris lying in wet grass and harvested stubble outside Riverhold, fingers curled into soil that squelches between them; a bird calls somewhere nearby as if nothing happened. Low golden sun throws long shadows across the field and catches dew on blades of grass, while her skin and clothes stay cold in the shade. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: blood-on-fingers.jpg
+role: mid_01 (placed after sentence "Her fingers came away with the copper taste of blood.")
+prompt:Photorealistic visceral macro: Maris's fingers touch her lips and tongue, coming away with bright blood on the fingertips; the field behind is a soft blur of wet grass and stubble. Soft golden hour sunlight rakes across skin texture and the wet shine of blood, while cool shadow fill keeps the background subdued. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible, slight vignetting. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: riverhold-in-distance.jpg
+role: mid_02 (placed after sentence "The town's silhouette was visible against the horizon")
+prompt:Photorealistic wide shot from behind Maris as she stands unsteadily in a harvested field and stares toward Riverhold in the distance, the town's walls and rooftops a dark silhouette against the low sun. Backlit golden hour sun sits near the horizon and turns drifting haze into warm flare, while the field foreground stays textured and scratchy with stubble and damp soil. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: vision-fragment-hand.jpg
+role: mid_03 (placed after sentence "A hand—grey-dark skin, long fingers—slipping beneath the surface")
+prompt:Photorealistic vision fragment: a blue-ash skinned hand with long fingers slips beneath oily black water, surface tension behaving wrong as the liquid folds over knuckles like thick oil; chaos ripples around the wrist and then swallows it. The only light is an unnatural cold glow from below the surface, turning the water into black glass with hard highlights and leaving everything above in darkness. Sony A7R IV 85mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, subtle halation on the glow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-walks-shakily.jpg
+role: mid_04 (placed after sentence "Each step was a negotiation with a body that wanted nothing more than to lie back down")
+prompt:[Face_Reference: Maris] Photorealistic, exhausted but determined; jaw clenched, eyes fixed toward Riverhold as she forces her body to obey. Side tracking shot as Maris walks through stubble that scratches her ankles, stumbling once and catching herself, wet grass brushing her boots as the field slopes toward the distant town. Fading golden light turns colder by the minute, long shadows stretching beside her while the sky stays warm near the horizon. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight motion blur in a swinging hand, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

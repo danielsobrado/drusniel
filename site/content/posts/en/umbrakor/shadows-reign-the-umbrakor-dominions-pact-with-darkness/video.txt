@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Umbra'kor Dominion's Pact with Darkness
+Language: en
+Canon Sequence: UMB-L-002
+Source Image: phosphorescent-proverb.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The chamber is quiet. Sylaera's quill stops. She lifts her head slowly toward the glowing wall as dust drifts through the cold light.
+[00:03-00:05] The phosphorescent glyphs pulse once, slightly irregular, as if breathing. A nearby candle gutters and goes out, smoke curling up into the glow.
+[00:05-00:08] The remaining candle flickers but holds. Sylaera does not look back down. The glow steadies, leaving the room colder and darker around the edges.
+
+Static medium shot, locked off.
+Audio: faint crystalline hum from the wall, candle wick sizzle, soft exhale, distant stone settling, cloth rustle. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

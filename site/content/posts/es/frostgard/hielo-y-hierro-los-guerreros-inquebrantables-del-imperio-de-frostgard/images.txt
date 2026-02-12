@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: es
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt:Two guards in iron-studded furs carry a half-dead messenger through the iron-and-timber gates of Jotunheim, his beard and lashes crusted with ice, message pouch still buckled at his belt; outside the threshold, a blizzard drives snow sideways and erases the fortress wall into whiteout. Cold blue blizzard light flattens the world beyond the gate while a single torch bracket inside throws a warm orange cone that catches ice crystals and turns them briefly amber. Sony A7R IV 24mm f/2.0 Kodak Ektar 100, film grain visible, slight motion blur in blowing snow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "Respecto al asunto de los acuerdos comerciales del norte y consideraciones de defensa mutua...")
+prompt:[Face_Reference: Thorvald] Eyes narrowed in tired disgust; jaw tight; gloved fingers pinching a broken wax seal. Thorvald stands just inside the gate, reading a folded letter while healers haul the messenger deeper into the fortress; melted snow beads on his fur shoulder and drips onto the stone. Torchlight from the wall to his left rakes across his face in hot amber while the open gate behind him spills cold blizzard fill into the shadows. Canon EOS R5 50mm f/1.4 Kodak Portra 400, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "En el gran salón, los escaldos cantaban sobre los Jotun.")
+prompt:Wide interior of Jotunheim's great hall: a skald near the central fire pit sings with hands raised, smoke rising in layered sheets; warriors crowd long tables with horns and iron cups, listening with shining eyes while shadows loom huge on timber walls and beam rafters. Firelight from the pit provides warm, shifting uplight that catches the smoke and throws flicker across faces; tallow candles in hanging iron chandeliers add a softer, steadier amber haze under the ceiling. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Las huellas sugieren al menos dos grupos distintos.")
+prompt:Two Frostgard scouts crouch beside a massive footprint pressed deep into snow and frozen earth, cracked soil at the rim and ice glazing the compressed center; one places a hand inside the print for scale while a second line of tracks recedes toward dead pines and granite outcrops under a grey sky. Flat overcast daylight turns the snowfield to cold grey, letting the footprint's depth create its own shadow gradient and making iron buckles and weapon hilts flash with faint, hard glints. Canon EOS R5 35mm f/1.4 Kodak Ektar 100, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "había comida todavía en algunas mesas.")
+prompt:Inside an abandoned Frostgard cottage, a meal sits frozen solid on a rough wooden table, bowls of stew turned to opaque ice and a spoon standing upright; a chair lies overturned on flagstone while the front door hangs open to a wall of white snow and cold air pushes frost across every surface. Cold blue daylight pours through the open door and hardens the edges of ice and wood grain; deeper into the room, the dead hearth and rafters fall into heavy shadow where icicles start to form. Sony A7R IV 24mm f/2.8 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

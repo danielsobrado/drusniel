@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Magic in Astalor
+Language: en
+Canon Sequence: AST-L-001
+Source Image: sage-confronts-threat.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The water sphere swells and pulses once, throwing new ripples of blue caustics onto the stone. The flame sphere answers by flaring brighter, pushing back.
+[00:03-00:05] The air between them shudders. A visible shockwave ripples outward and hairline cracks race across the floor in real time. Sage's raised hand trembles from the strain.
+[00:05-00:08] The spheres snap back toward equilibrium, still fighting. Sparks and mist scatter at the collision edge as the cracks stop spreading and settle into a jagged web.
+
+Slow push-in toward the collision zone, keeping both spheres in frame.
+Audio: low hum of compressed water, sharp crackle of flame, concussive thud at the shockwave, stone fracturing, strained breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

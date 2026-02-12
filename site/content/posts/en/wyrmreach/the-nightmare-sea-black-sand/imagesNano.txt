@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: The Nightmare Sea: Black Sand
+Language: en
+Canon Sequence: D-009-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: merrik-finds-him-on-black-sand.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Exhausted, lying on black sand, salt and grit crusted on his skin. [Face_Reference: Merrik]. Weathered face, calloused hands, assessing eyes, crouched by a small campfire. Black volcanic sand shore under a red-tinged perpetual twilight sky. Battered boat half submerged behind them. Black water lapping at the shore.
+Environment: Wyrmreach volcanic coastline, scavenger's stretch. Campfire burns black driftwood, flames tinted orange-yellow with occasional green flickers from mineral salts in the wood. Fire light bounces off wet sand grains in the immediate circle, creating warm specular highlights on individual vesicular basalt particles. Red volcanic sky casts diffuse ambient from above, mixing with firelight to create warm orange at ground level fading to rust-red at distance. Sulfurous haze scatters the distant volcanic glow. Salt deposits dry white on Drusniel's clothing as heat evaporates the nightmare sea residue. Sand retains geothermal warmth, faint steam wisps where wet clothing contacts hot grains.
+Camera: Sony A7R V 35mm f/2.0 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: waterskin-at-his-lips.jpg
+role: mid_01 (placed after sentence "He held it to Drusniel's lips, letting him drink in small sips that burned on the way down.")
+prompt: [Face_Reference: Drusniel]. Cracked lips, damp skin, eyes half-closed with exhaustion. [Face_Reference: Merrik]. Evaluating without softness, holding the waterskin steady. Tight close-up as Merrik holds a worn waterskin to Drusniel's lips. Small burning sips.
+Environment: Campfire proximity. Firelight flickers upward onto both faces from below, catching chin ridges, nostrils, brow bones with warm orange. The waterskin is worn leather with stitching visible at the seams, water beading on the exterior from condensation. Drusniel's lips show cracking and dehydration, skin around the mouth salt-crusted. Merrik's calloused fingers show roughened skin from manual labor, nails short and dirty. Red sky ambient fills shadows with rust tones instead of black. Firelight reflects in the water droplet at the waterskin spout.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: szoravel-name-spoken.jpg
+role: mid_02 (placed after sentence "Drusniel's mind worked sluggishly, trying to remember the name Zaelar had given him.")
+prompt: [Face_Reference: Drusniel]. Struggling upright by the fire, pale against the red sky, forcing out words. [Face_Reference: Merrik]. Expression flickering with brief recognition before turning carefully neutral. Small exposed camp on black sand. Strange crystalline formations and wrong-colored plants in the distance.
+Environment: Open volcanic shoreline camp. Campfire light illuminates both faces from below at close range. Crystalline formations in the middle distance catch red sky light, refracting it into dull prismatic scatters. The plants beyond show colors outside normal botanical range, muted purples and greys where green should be. Black sand surface around the camp shows footprints and disturbed areas. Red twilight sky provides ambient fill. Smoke from the driftwood fire drifts in thin streams, catching firelight as orange wisps against the dark sky.
+Camera: Sony A7R V 50mm f/1.8 GM Kodak Portra 400, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: strange-hot-broth.jpg
+role: mid_03 (placed after sentence "The broth was warm.")
+prompt: Close-up on a rough bowl of steaming broth held near the campfire. Fat and herbs swirling on the surface. Black driftwood feeds the flames. Ash and sulfur haze in the distance.
+Environment: Campfire edge. Warm firelight from below catches the steam rising from the broth, each particle of vapor lit orange from the fire and red from the sky. The broth surface shows fat globules reflecting pinpoint firelight, herbs of unfamiliar coloration floating in the liquid. The rough bowl is carved from dark stone or fired local clay, surface showing tool marks. Black driftwood in the fire has a mineral-impregnated grain, burning with occasional color variations. Heat shimmer above the broth distorts the background. Ash particles float in the still air, each catching a micro-highlight from the fire.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: sleep-by-the-coast-fire.jpg
+role: mid_04 (placed after sentence "He lay back on the black sand, still warm from the day's heat—if this place had days.")
+prompt: [Face_Reference: Drusniel]. Sleeping curled near the fire, face slack with exhaustion. Red-grey sky diffusing light without a visible sun. Nightmare sea whispering behind. Battered boat at the waterline. Fire throws a practical circle of warm light against the wrong-colored world.
+Environment: Wyrmreach volcanic shore, night-like twilight. Campfire light creates a warm orange circle on the black sand, falling off sharply at the edge into the rust-red ambient of the sky. Drusniel's face catches direct firelight on the near side, the far side falling into red-tinted shadow. The black sand around him retains body heat, faint warmth visible as subtle heat distortion at ground level. Beyond the fire circle, the wrong-colored landscape stretches in muted reds and greys. The nightmare sea behind reflects the red sky in broken patches. Driftwood embers glow at the fire base, collapsing occasionally with soft shifts.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

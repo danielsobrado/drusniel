@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Dirección: El Amanecer
+Language: es
+Canon Sequence: D-019-005
+Source Image: crest-over-disputed-lands.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un pull back lento comienza en el borde de la cresta mientras el viento sulfuroso arrastra ceniza frente a la lente; abajo los respiraderos exhalan en pulsos y el campo de cristales empieza a zumbar cuando se acercan pasos.  
+[00:03-00:05] El pull back se abre y revela a tres viajeros coronando el labio; se detienen un instante, Srietz señala al este y Drusniel responde con una seña corta: rápido y bajo.  
+[00:05-00:08] El pull back continúa mientras descienden entre cristales negros; reflejos violetas parpadean en las facetas, la reverberación de calor curva el aire sobre fisuras y sus botas crujen como ceniza mientras el rojo del horizonte late adelante.
+
+Movimiento de cámara: Pull back lento desde el borde de la cresta a un plano amplio.  
+Audio: silbido de viento sulfuroso, crujido de ceniza bajo botas, retumbo volcánico lejano, exhalación de vapor, zumbido cristalino creciendo al paso. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Fractura: La Casi Confesión
+Language: es
+Canon Sequence: W-022-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-watch.jpg
+role: header
+prompt:[Face_Reference: Dulint, Balin]. Dulint sits in quiet dread, one hand near the axe at his belt; Balin holds tense focus with his sword laid across his knees, scanning the treeline. Clear Frostgard night at a watch point on a flat rock above a dark pine canopy, breath fogging in the cold air, faint ember-glow from the sleeping camp far below. Cold moonlight and starlight are the only illumination; blue-grey highlights skate across wet stone and steel edges, shadows between trunks fall to near-black, and the ember-glow adds a thin warm rim on the lower edges of cloth. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: stonehold-memory.jpg
+role: mid_01 (placed after sentence "Sentados juntos en el muro sobre las minas inferiores de Stonehold, mirando la luz de las antorchas parpadear contra el techo de la caverna, hablando de cosas sin importancia.")
+prompt:[Face_Reference: Dulint, Balin]. Dulint’s eyes are softer, guarded weight absent; Balin is younger-bright, leaning in like he’s listening to a story. Memory scene in Stonehold: both dwarves sit side-by-side on a stone wall above the lower mines, soot-dark cavern ceiling overhead, orange torchlight flickering and dust motes drifting through warm air. Torch flames are the diegetic light source; amber highlights crawl across rough-hewn stone, soot smears, and floating dust, while the background drops into deep shadow beyond the torch radius. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignette, softened edges like a remembered moment, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: twig-snap.jpg
+role: mid_02 (placed after sentence "Una rama se partió.")
+prompt:Macro close-up of a snapped branch on the forest floor, fresh splinters exposed, crushed needles pressed into damp soil, a single boot print and disturbed leaf litter nearby. Cold moonlight cuts hard from above through bare branches; dew turns into sharp white specular points, broken wood glows pale against near-black ground, and shadows pool ink-dark under needles. Sony A7R V 100mm macro Kodak Ektar 100, shallow depth of field, film grain visible, slight motion blur in the nearest needles, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: hunters-probing.jpg
+role: mid_03 (placed after sentence "Estaban tanteando el perímetro.")
+prompt:Long-lens view into the treeline: multiple shadowy figures shift between trunks with controlled, deliberate timing, never fully stepping into the open; a faint glint of metal appears and vanishes as they probe the perimeter. Cold moonlight filters through high branches in thin blue-grey shafts; edge highlights catch on bark ridges and weapon metal, silhouettes stay mostly black, and slight haze makes the brightest edges bloom softly. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, high-ISO grain visible, slight motion blur on the moving silhouettes, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: running-away.jpg
+role: mid_04 (placed after sentence "Balin, corre.")
+prompt:[Face_Reference: Balin]. One-beat panic turned into purpose, eyes wide and locked on the camp ahead, breath ragged in the cold. Balin sprints through the dark Frostgard forest toward the sleeping camp, sword clutched tight as branches whip past and roots blur underfoot, watch point vanishing into shadow behind. Moonlight is the only key light; fast-moving highlights break across wet leaves and steel, while a faint warm ember-glow ahead adds a thin amber rim on sleeves and the trailing edge of beard hair. Sony A7R V 35mm f/1.4 GM Cinestill 800T, motion blur in the background, film grain visible, slight handheld shake, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

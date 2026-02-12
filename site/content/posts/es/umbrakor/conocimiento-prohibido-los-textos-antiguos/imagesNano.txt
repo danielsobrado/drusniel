@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Conocimiento Prohibido: Los Textos Antiguos
+Language: es
+Canon Sequence: D-007-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: library-stacks.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Absorbed and cautious, fingers tracing spines he cannot read. [Face_Reference: Zaelar]. Methodical focus, arranging hourglasses and notes with obsessive precision.
+Environment: Circular library chamber at the tower's heart with floor-to-ceiling shelves of ancient leather-bound volumes, dust motes suspended in warm lamplight, central reading table stacked with loose pages and translations. One oil lamp and scattered candles pool warm amber on paper fibers and glass while the shelves fall away into deep shadow with minimal bounce.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: misfiled-note.jpg
+role: mid_01 (placed after sentence "Drusniel se movió hacia la mesa.")
+prompt: [Face_Reference: Drusniel]. Tense focus, scanning fast; shoulders hunched over the evidence as he leans in.
+Environment: Obsessively organized research notes spread across a side table: diagrams, measurements, and timelines laid out with surgical precision beside a brittle ancient book cracked open. Warm lamplight catches ink sheen and paper grain; dust and preservation oil haze soften the far shelves into darkness.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: name-on-list.jpg
+role: mid_02 (placed after sentence "Un nombre captó su atención.")
+prompt: [Face_Reference: Drusniel]. Throat gone dry, expression flattened into shock; fingers gripping paper hard enough to crease it.
+Environment: Medium close portrait with the page held in the foreground, cramped handwriting present but unreadable as texture. Warm candlelight catches the edge of the paper and the moisture at the lower eyelid; shadows stay deep around jaw and neck while shelves of old texts blur behind into soft darkness.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: zaelar-tea.jpg
+role: mid_03 (placed after sentence "Se fue. La puerta se cerró con un suave clic.")
+prompt: [Face_Reference: Zaelar]. Unhurried, leaving without looking back. [Face_Reference: Drusniel]. Frozen in place, still staring at the page near the table.
+Environment: Wide interior of the circular library as Zaelar exits through a heavy door into shadow while Drusniel remains alone among towering shelves. One oil lamp casts a small pool of warm light and long shelf shadows; the closed door makes the silence feel sealed and deliberate.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: suspicion-begins.jpg
+role: mid_04 (placed after sentence "Guardó la página en su manga y continuó leyendo.")
+prompt: [Face_Reference: Drusniel]. Wary determination replacing shock, jaw set; hiding the page in his sleeve while he forces himself to keep reading.
+Environment: Intimate reading-table scene beneath a low oil lamp: an ancient brittle book open to unfamiliar symbols, stacks of translations and scraps arranged around it, hourglass glass catching faint highlights in the background. Warm lamp light pools on paper edges and knuckles; the rest of the chamber drops into deep shadow with dust motes barely visible.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slightly out of focus background. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Voces en la Oscuridad: La Semilla de la Duda
+Language: es
+Canon Sequence: D-006-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-whispers.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Eyes open and glassy, listening too hard; exhaustion pulling at the mouth. Drusniel lies awake in bed in a near-dark stone room as the messages arrive again, the corner shadows heavy and still as if the room is holding its breath with him. A thin cyan spill from under the door outlines his cheek and the sheet folds, while a faint warm amber flicker brushes his brow and then retreats, leaving the air feeling colder. Canon EOS R5, 50mm f/1.4, Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: three-taps.jpg
+role: mid_01 (placed after sentence "El viejo juego.")
+prompt: [Face_Reference: Drusniel]. Tendons tight, knuckles whitening; thumb tapping fingertip to fingertip in a slow three-count, then hovering as he waits for the read. Macro close-up on the hand against rumpled bedsheet linen, the stone wall and door blur behind. Low cyan spill from under the door grazes the skin texture; a faint warm pulse catches the nail edge and then slips away, leaving the background in soft black. Sony A7R IV, 100mm macro f/2.8, Kodak Portra 400, natural skin with pores, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: failed-test.jpg
+role: mid_02 (placed after sentence "Respuesta equivocada.")
+prompt: [Face_Reference: Drusniel]. Brow tightening, eyes narrowing; breath catching as the wrong answer lands. Tight close-up in darkness, his face half-turned on the pillow while he forces his thoughts carefully neutral. Cyan spill under the door carves a hard edge along one cheekbone; a delayed warm amber afterglow fades at the edge of frame like an echo arriving half a beat late, halation softening the warm side while the rest stays matte black. Canon EOS R5, 85mm f/1.4, Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: temptation-of-special.jpg
+role: mid_03 (placed after sentence "Temen tu mente.")
+prompt: [Face_Reference: Drusniel]. Exhaustion in the real face, but the reflection looks steadier, posture straighter, eyes held with practiced confidence. Over-shoulder view of Drusniel staring into a tarnished mirror in his dim quarters; scattered training gear and a knife rack blur behind him while the mirror reflection shows him in cleaner mage robes and a composed expression that doesn't quite match the room. Cold cyan spill under the door lights the real side; the mirror side catches a warmer amber contamination that makes the reflection feel too flattering, too rehearsed, with soft halation at the warm edge. Canon EOS R5, 35mm f/1.4, Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: ignoring-doubt.jpg
+role: mid_04 (placed after sentence "Confía en mí.")
+prompt: [Face_Reference: Drusniel]. Forcing his expression neutral, swallowing the warning; hand stilling mid-tap on the blanket. Medium close shot in bed as he pushes the doubt away and stares at the ceiling, jaw clenched tight enough to hurt. The warm afterglow lingers like a fading ember in the air and then dies, leaving only the cold cyan spill under the door and a room that feels suddenly more empty. Sony A7R IV, 50mm f/1.4, Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Blood in the Dark: The Chaos
+Language: en
+Canon Sequence: D-010-001
+Source Image: running-blind.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel drops to his knees, hands shaking as he reaches for his mother’s fingers. Smoke drifts past the stairwell in slow layers.
+[00:03-00:05] A distant steel clash erupts, followed by a single defiant scream from deeper in the hall. Drusniel’s head snaps up, eyes widening as he listens.
+[00:05-00:08] He forces himself to stand, releasing her hand as if it burns. He staggers one step, then breaks into motion toward the flickering light, disappearing into the haze.
+
+Slow dolly-in toward Drusniel at the stairs.
+Audio: torch crackle, distant combat clang, muffled scream, smoke hiss, wet footstep, ragged breath, fabric scrape on stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

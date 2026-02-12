@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Debt Anticipated: The Guide
+Language: en
+Canon Sequence: D-023-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: talryn-leads-volcanic-trail.jpg
+role: header
+prompt:[Face_Reference: Talryn] Military bearing, jaw set, scanning ahead. [Face_Reference: Drusniel] Guarded watchfulness. [Face_Reference: Srietz] Flat expression, ears low. [Face_Reference: Elion] Quiet alertness. Talryn leads three travelers along a narrow volcanic trail, cultivated rows of black flowers fading behind, steaming fissures splitting barren soil ahead. Orange underglow from cracks in the earth, sulfuric haze diffusing the light upward. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: srietz-failed-conversation.jpg
+role: mid_01 (placed after sentence "Srietz caught Drusniel's eye and shrugged.")
+prompt:[Face_Reference: Srietz] Flat resignation, usual sharp grin absent, ears angled back. [Face_Reference: Drusniel] Slight acknowledgment in the eyes. Srietz glances sideways at Drusniel while walking a volcanic ridge, thin flower fields behind them, ash drifting in still air. Dim overcast light filtered through volcanic haze above, faint warmth from ground fissures below. Canon EOS R5 85mm f/1.4 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-watched-by-talryn.jpg
+role: mid_02 (placed after sentence "She was not hostile. She was thorough.")
+prompt:[Face_Reference: Drusniel] Focused, analytical, crouching low. [Face_Reference: Talryn] Professional stillness, one eye on him, one on the terrain. Drusniel crouches beside a steaming fissure examining the ground, Talryn stands fifteen feet behind watching him with balanced military posture, volcanic wasteland stretching flat around them. Thin steam venting orange-tinted light from the crack below, catching ash particles in the air. Canon EOS R5 50mm f/1.8 Cinestill 800T, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: elion-warns-at-campfire.jpg
+role: mid_03 (placed after sentence "She's mapping us.")
+prompt:[Face_Reference: Elion] Speaking low, mouth near Drusniel's ear, eyes scanning the dark perimeter. [Face_Reference: Drusniel] Staring into flames, listening. Two figures sit shoulder to shoulder near a low contained campfire on volcanic ground at night, murmuring in the dark. Small efficient fire barely illuminates their faces, warm orange from below against cold black surroundings. Canon EOS R5 50mm f/1.8 Kodak Portra 800, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-standing-over-drusniel.jpg
+role: mid_04 (placed after sentence "She'd been watching him sleep.")
+prompt:[Face_Reference: Talryn] Utterly blank expression, standing motionless, looking down. [Face_Reference: Drusniel] Asleep on volcanic ground, tension visible even at rest. Talryn stands six feet from a sleeping Drusniel at a dying campfire reduced to coals, a boulder in the background where another figure sits watching the darkness. Faint orange underglow from dying coals catching Talryn from below, the rest swallowed in black. Sony A7R IV 24mm f/2.8 Cinestill 800T, low camera angle from ground level, subtle lens flare from coals. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

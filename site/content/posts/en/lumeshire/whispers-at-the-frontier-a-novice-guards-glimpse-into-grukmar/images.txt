@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Scream
+Language: en
+Canon Sequence: P-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: watchtower-night.jpg
+role: header
+prompt:[Face_Reference: Varian] Expression: tired skepticism, leaning into the wind. [Face_Reference: Elric] Expression: sleepless tension, eyes narrowed into the mist. Varian and Elric stand on the watchtower above a village swallowed by fog, huts dark below and the forest looming behind, old timbers creaking as the wind knifes through. Cold moonlight from above gives pale rim light on wet boards and rooftops while a small brazier below throws warm amber uplight onto their faces and drifting mist. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: grukmar-legend-discussion.jpg
+role: mid_01 (placed after sentence "My uncle served in the Grukmar campaigns.")
+prompt:[Face_Reference: Elric] Expression: intense urgency, leaning in close. [Face_Reference: Varian] Expression: skeptical but uneasy, jaw tight. Elric speaks low on the watchtower while Varian hovers near the brazier, one gloved hand stirring coals as sparks lift and die, mist coiling below the tower and the village streets empty beneath them. Brazier firelight is the primary light, warm and underlit, throwing flickering shadows upward across both faces while cold moonlight adds a thin blue rim along wet timber. Canon EOS R5 50mm f/1.4 Cinestill 800T, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: the-scream-reaction.jpg
+role: mid_02 (placed after sentence "A scream split the darkness.")
+prompt:[Face_Reference: Varian] Expression: instant alarm, head snapped toward the square. [Face_Reference: Elric] Expression: frozen shock, breath caught. Both men lock in place on the watchtower as the scream echoes through mist, hands moving for weapons and boots scraping the boards, the village below still shuttered and silent. Moonlight provides cold top light while the brazier flares warm from below, creating stark contrast and jittering shadows on their faces and the railing. Canon EOS R5 35mm f/1.4 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: girl-fighting-shadows.jpg
+role: mid_03 (placed after sentence "She lurched into the open with her arms flailing, fighting at shadows only she could see.")
+prompt:[Face_Reference: Girl] Expression: raw terror, tear tracks cutting grime, hands flailing. A small girl staggers into the muddy square and fights empty air as if something is on her skin, huts shuttered and still around her while Varian moves in from off-frame. Varian's lantern is the primary light, warm and directional, jittering across her face and throwing long shadows between huts while cold moonlight fills the edges to blue-grey. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: empty-alley-watch.jpg
+role: mid_04 (placed after sentence "Just darkness. Just an empty alley.")
+prompt:A narrow alley between leaning huts sits empty, darkness pooling at the far end with the sick feeling of an unseen gaze, wet mud and scattered straw leading into black. A lantern beam is the only light, warm and fading fast into shadow, catching slick highlights on wet wood and the edge of puddles before it dies into nothing. Sony A7R IV 35mm f/2.8 Cinestill 800T, slightly underexposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

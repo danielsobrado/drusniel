@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Deuda Anticipada: La Frontera
+Language: es
+Canon Sequence: D-023-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: crystal-border-pillar.jpg
+role: header
+prompt:[Face_Reference: Talryn] Setting her pack down, back to camera. A lone black crystal pillar juts from volcanic soil marking a territorial boundary, beyond it a flat expanse of grey basalt with pale lichen stretches to the horizon. Dense black crystal formations fade into the distance behind the pillar, three travelers approach. Dull violet glow from the crystal pillar and orange volcanic haze on the horizon. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: talryn-delivers-crystal-vial.jpg
+role: mid_01 (placed after sentence "Se lo tendió a Drusniel.")
+prompt:[Face_Reference: Talryn] Arm extended, offering a small sealed container. [Face_Reference: Drusniel] Receiving, guarded expression. Guide extends a small black crystal container that glows faintly warm toward the drow, both framed by the last crystal formation at the territorial border. The container's warm glow lights their hands and wrists from between them. Canon EOS R5 50mm f/1.8 Cinestill 800T, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: nyxara-warning-delivery.jpg
+role: mid_02 (placed after sentence "Lady Nyxara dice: la cosa que llevas en la cabeza quiere tu cuerpo. Las antiguas siempre quieren eso.")
+prompt:[Face_Reference: Drusniel] Cold spreading through his expression, the look of someone whose secret has been stripped bare. [Face_Reference: Talryn] Watching with quiet recognition. Drow reacts to devastating words while guide observes, the last black crystal pillar behind them. Violet glow from the crystal pillar backlights both figures, cold against the warm volcanic haze. Canon EOS R5 85mm f/1.4 Kodak Portra 400, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: talryn-walks-into-crystals.jpg
+role: mid_03 (placed after sentence "El terreno se la tragó y no quedó nada que observar.")
+prompt:Female silhouette walking away between rows of black crystal formations, three travelers watch her go from the border marker. The crystal field stretches deep, the sense of a door closing. Faint violet bioluminescence from the crystals lines her path, dimming as she recedes. Sony A7R IV 35mm f/2 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: group-walks-northeast.jpg
+role: mid_04 (placed after sentence "Caminaron al noreste hacia un territorio que no pertenecía a nadie y no prometía nada.")
+prompt:[Face_Reference: Drusniel] Leading, shoulders set. [Face_Reference: Srietz] At his side, ears up scanning. [Face_Reference: Elion] Walking point ahead. Three figures from behind walking northeast into flat barren basalt with pale lichen and steam-leaking fissures. Behind them a row of dark crystal teeth marks the border, emptiness ahead. Flat grey light from overcast volcanic sky, faint orange glow from distant fissures on the horizon. Sony A7R IV 24mm f/2.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

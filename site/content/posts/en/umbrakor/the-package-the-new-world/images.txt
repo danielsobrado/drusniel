@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The New World
+Language: en
+Canon Sequence: D-011-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-landscape.jpg
+role: header
+prompt:Photorealistic wide establishing shot of Wyrmreach: black rock like it was burned yesterday, darker soil between jagged outcrops, and a vast empty shore under a sky that presses down with diffuse rust-red glow. Strange vegetation pulses faintly in the distance, casting wrong-tinted shadows that jitter against the basalt, while the air looks hot and heavy with haze. The red ambient is the main light source, flat and sunless, with intermittent colored pulses from the plants adding thin highlights on nearby stone edges. Sony A7R IV 16mm f/2.8 Kodak Ektar 100, film grain visible, mild barrel distortion, atmospheric haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: drusniel-wet.jpg
+role: mid_01 (placed after sentence "Water streaming from his clothes.")
+prompt:[Face_Reference: Drusniel] Photorealistic, exhausted and stunned; water streaming from hair and clothes, breath working hard in heavy air. Drusniel kneels on warm black rock at the shoreline, one hand braced as he forces himself upright, eyes scanning an empty horizon while provisions and pack straps cling wet against him. Diffuse rust-red sky glow tints everything flat, while wet fabric and skin catch sharp specular sheen and throw tiny reflections into the shadows. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight water droplets on lens, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: strange-plants.jpg
+role: mid_02 (placed after sentence "Plants that pulsed faintly.")
+prompt:Photorealistic macro close-up on strange Wyrmreach vegetation: thick fibrous stalks and waxy leaves beaded with moisture, internal luminescence pulsing faintly beneath the surface like a slow heartbeat. The plant's own glow provides cool colored highlights that spill onto nearby grit and stone, while the diffuse red sky glow fills everything else flat and oppressive. Sony A7R IV 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the bioluminescence. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: giant-eye-mountain.jpg
+role: mid_03 (placed after sentence "One of the mountains moved.")
+prompt:Photorealistic extreme long shot of the horizon where a mountain-like silhouette shifts and resettles, revealing the truth in a slow impossible movement: one "peak" is a colossal shoulder and a single eye catches the red haze for an instant. The landscape foreground is empty black rock and sparse pulsing plants, emphasizing scale and isolation. Diffuse rust-red ambient light and atmospheric haze flatten distance, while the eye glint provides a single hard point of brightness before it disappears. Sony A7R IV 200mm f/2.8 Kodak Ektar 100, film grain visible, heat-haze shimmer, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: hiding-fear.jpg
+role: mid_04 (placed after sentence "Drusniel ducked behind an outcropping.")
+prompt:[Face_Reference: Drusniel] Photorealistic, terror contained into stillness; hands shaking as he forces quiet, eyes locked on a thin fissure in the rock. Drusniel ducks behind a jagged outcropping and presses flat against black stone, trying to cover the protective pouch in his pack as the artifact inside pulses stronger, blue light leaking between his fingers and stitching. Flat rust-red ambient from the sky fights with the cool blue pulse, creating hard color contrast on knuckles and wet fabric; deep shadows swallow everything beyond the hiding place. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the blue pulse, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Blood in the Dark: The Slaughter
+Language: en
+Canon Sequence: D-010-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: father-last-stand.jpg
+role: header
+prompt:[Face_Reference: Father]. Cornered ferocity, wounded but unbroken; stance braced, eyes locked on the next strike as he keeps fighting despite blood loss. Main hall chaos: backed to a stone wall with a single blade while three masked armored assassins circle; two bodies at his feet, overturned dinner table behind, crushed bioluminescent flowers and spilled wine on the stone. Firelight flickers through smoke and throws hard moving shadows; dying flower-glow adds faint teal underlight that catches wet stone and metal edges, reflections rippling across pooled liquid as the flames strobe. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mother-dead.jpg
+role: mid_01 (placed after sentence "Now his mother was dead, and his father was dying.")
+prompt:[Face_Reference: Mother]. Stillness, eyes open and unfocused; single loose strand across her cheek. Respectful close at the base of the main hall stairs: hand near a fallen goblet, blood spreading into spilled wine beside crushed bioluminescent flowers, smoke haze softening the hall beyond. Firelight flicker paints warm specular sheen on stone and pooled liquid; faint teal flower-glow adds cold edge highlights along the goblet rim and petals, mixed reflections sliding across the wet surface. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: father-falls.jpg
+role: mid_02 (placed after sentence "He fell.")
+prompt:[Face_Reference: Father]. Defiance collapsing into shock as knees buckle, sword slipping from his grip. Smoke-lit hall as he falls while two attackers crowd in close, armor scuffed and wet in the firelight, chaos blurred beyond. Torchlight flicker catches metal edges and wet stone; smoke breaks the light into streaks and soft amber bands, highlights skittering across armor plates as the scene moves. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, fast-shutter feel with slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: drusniel-scream-air.jpg
+role: mid_03 (placed after sentence "He screamed.")
+prompt:[Face_Reference: Drusniel]. Raw grief into rage, mouth open in a scream, tears cutting tracks through soot; losing control for one heartbeat. Chaotic air burst explodes outward—dust and papers scatter, torch flames gutter sideways, smoke whips into a spiral; assassins stagger half a step, then recover. Firelight and dying flower-glow mix warm-and-teal highlights that strobe through the smoke, turning debris into bright streaks and catching hard specular glints on armor edges. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur in papers and smoke, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: vrinn-insignia.jpg
+role: mid_04 (placed after sentence "Three interlocking circles.")
+prompt:Extreme macro close-up of a blood-spattered chestplate insignia in firelight: three interlocking circles above a curved blade emblem stamped into dark metal, droplets and smears across raised edges, scratches and dents catching highlights; smoke and motion blurred behind. Firelight is the only source, producing warm specular glints on ridges and turning suspended smoke into soft amber bokeh, reflections trembling with each flame flicker. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, shallow depth of field, film grain visible, slight halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

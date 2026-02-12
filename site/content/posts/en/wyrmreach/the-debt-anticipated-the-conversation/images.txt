@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Debt Anticipated: The Conversation
+Language: en
+Canon Sequence: D-023-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: drusniel-elion-night-camp.jpg
+role: header
+prompt:Volcanic campsite at night, two figures sitting close together on a rock ledge overlooking steaming fissures, a small goblin sleeping curled tight nearby, embers of a low fire casting orange light, a female silhouette patrolling the dark perimeter in the distance. Campfire embers glowing orange-red from below, volcanic haze diffusing faint red across the sky. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, subtle lens flare from embers. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: elion-sits-beside-drusniel.jpg
+role: mid_01 (placed after sentence "Elion sat beside him without asking.")
+prompt:[Face_Reference: Elion] Settling down with casual deliberation, watchful eyes fixed on the horizon. [Face_Reference: Drusniel] Still, looking outward at the same smoking volcanic distance. Elion sits beside Drusniel on a rock ledge, both facing the same direction, the silence between them visible in their posture, volcanic terrain stretching into darkness. Low campfire light rising from below, warm against cold black surroundings. Canon EOS R5 50mm f/1.8 Kodak Portra 800, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-admits-dependency.jpg
+role: mid_02 (placed after sentence "I expected help that didn't come.")
+prompt:[Face_Reference: Drusniel] Guarded vulnerability, jaw tight, eyes fixed on a distant point rather than his companion, the admission costing visible effort. Drusniel speaks quietly while seated on volcanic rock, campfire glow warming one side of his face and leaving the other in shadow, volcanic night stretching behind him. Warm campfire light from the left, cold darkness from the right, split lighting. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: elion-reveals-count.jpg
+role: mid_03 (placed after sentence "I stopped counting at forty.")
+prompt:[Face_Reference: Elion] Weight of long experience visible in his face, speaking with measured calm. [Face_Reference: Drusniel] Expression shifting to dawning horror at the number. Tight two-shot of Elion and Drusniel sitting side by side, campfire embers reflected in both sets of eyes, volcanic rock beneath them. Dying campfire embers casting unsteady orange light upward across both faces. Canon EOS R5 85mm f/1.4 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: talryn-observes-from-distance.jpg
+role: mid_04 (placed after sentence "And Talryn's silhouette moved through the dark, completing another circuit.")
+prompt:[Face_Reference: Talryn] Dark silhouette with military bearing walking a precise patrol route along the camp perimeter. Wide shot from the perspective of the two seated figures looking outward, Talryn's form dark against faint volcanic glow in the middle distance, the implication she heard everything. Distant volcanic vents casting dull red light behind Talryn's silhouette, rimlight only. Sony A7R IV 50mm f/1.8 Kodak Portra 800, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

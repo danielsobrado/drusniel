@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Direction: The Dawn
+Language: en
+Canon Sequence: D-019-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: sickly-dawn-black-crystals.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Wind-tugged cloak, travel grime, eyes narrowed as he measures what lies ahead. Medium-wide view from a black stone ridge at sickly Wyrmreach dawn: below, millions of black crystals stud the slopes, facets drinking the volcanic light and throwing it back as faint violet; thin steam threads rise from fissures in ash-dark ground. Grey-green morning haze fills the air while the distant red glow on the eastern horizon bleeds upward like a wound, its color reflecting as violet glints across the crystal field. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight halation around the red glow, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: packed-camp-sulfur-smell.jpg
+role: mid_01 (placed after sentence "Drusniel woke to the smell of sulfur.")
+prompt:[Face_Reference: Srietz] Already packed, hands folded in precise impatience, eyes calculating. [Face_Reference: Drusniel] Sitting up from sleep, nostrils flaring at sulfur, expression tightening. [Face_Reference: Elion] Rolling his shoulders from final watch, attention sharp and awake. Early morning camp among jagged black rocks; ash clings to fabric and straps, packs sit ready, and the air tastes metallic as if the ground itself breathes. Sickly grey-green dawn gives flat ambient light while a single covered ember-lantern adds a warm flicker that catches on buckles and condensation. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: boots-on-ash-pulsing-veins.jpg
+role: mid_02 (placed after sentence "Then the stone crumbled into soil that crunched like ash underfoot.")
+prompt:Low angle detail of boots crossing from glassy volcanic rock onto ash-like soil that crunches underfoot; dull red veins pulse beneath the black ground like buried embers, lifting ash motes with each step as faint steam threads curl from hairline cracks. The pulsing veins provide a dim internal red underlight that grazes the underside of boots and ash grains, while sickly dawn fills the rest with grey-green haze. Canon EOS R5 100mm macro Kodak Ektar 100, film grain visible, slight motion blur in drifting ash, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: march-toward-red-wound.jpg
+role: mid_03 (placed after sentence "The goblin pointed at the horizon.")
+prompt:[Face_Reference: Srietz] Arm extended, finger rigid, formal objection in his posture. [Face_Reference: Drusniel] Watching without flinching, jaw set, pace unbroken. [Face_Reference: Elion] Close at Drusniel's side, half-turned as if listening for danger beyond sight. Mid-shot on the march across ash soil as the horizon glow bleeds red into heat-shaken clouds; frayed seams and windblown grit show days of travel with no comfort. Red volcanic glow backlights the trio while sickly dawn adds cold fill, splitting faces into warm rim and green-grey shadow. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight halation in the red cloud edge, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: crest-over-disputed-lands.jpg
+role: mid_04 (placed after sentence "The contested lands spread below them.")
+prompt:Wide shot from the crest looking down into the contested lands: three small figures begin their descent together toward the red-lit distance, surrounded by dense clusters of black crystals and vents of sulfurous steam; ridgelines and fissures carve the landscape into distinct territories. Volcanic red light reflects as faint violet across crystal facets, and heat shimmer distorts the air above vents while grey morning haze softens the far horizon. Canon EOS R5 24mm f/1.4 Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Direction: Recovery
+Language: en
+Canon Sequence: D-019-001
+Source Image: direction-to-the-east.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Slow dolly out from the Beacon pack toward the cave mouth: cold blue light leaks through the canvas while cyan fungi pulse on the walls; Srietz counts softly in the background and Elion shifts under a blanket.  
+[00:03-00:05] The camera clears the pack and finds Drusniel at the threshold, shoulders squared, eyes narrowed into the violet twilight beyond; his breath fogs in the cold and ash dust drifts past him.  
+[00:05-00:08] The dolly stops just outside the cave, framing jagged volcanic crystal and a faint eastern glow as Drusniel steps forward, leaving the pulsing light behind.
+
+Camera movement: Slow dolly out from cave interior toward the entrance.  
+Audio: Damp cave drip, Srietz muttering numbers, Beacon’s faint hum, soft fabric rustle, outside wind carrying ash grit, distant low rumble. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

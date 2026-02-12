@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Trial: Shadows in the Hall
+Language: en
+Canon Sequence: D-005-002
+Source Image: father-at-gate.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A dark silhouette stands motionless at the compound gate, arms crossed, backlit by the pale blue-green bioluminescent glow of the estate. The camera approaches slowly from the tunnel. The figure does not move. The glow pulses faintly behind him, casting shifting rim-light along his shoulders.
+[00:03-00:06] The distance closes. Details emerge from shadow: the set jaw, the crossed arms, the wide stance of a man who already knows. The bioluminescent glow behind him flickers once. His head tilts down, almost imperceptibly, as if evaluating what approaches. The gate's iron bars cast long thin shadows across the ground toward the camera.
+[00:06-00:08] The camera stops three paces away. The father's face remains in shadow. Only his eyes catch the faintest reflected light. Stillness. The glow behind him steadies. Nothing else moves.
+
+Slow steady dolly-in from wide establishing shot to medium close-up.
+Audio: distant footsteps on stone growing closer, faint hum of bioluminescent fungi, a low wind through the tunnel, the footsteps stopping abruptly. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

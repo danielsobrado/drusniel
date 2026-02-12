@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Camino de Zuraldi: La Ausencia
+Language: es
+Canon Sequence: W-008-002
+Source Image: running-start.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint shoves the cube down into the pack and yanks the strap tight in one rough motion. Dust bursts around their boots as they launch into movement.
+[00:03-00:05] The cold glow leaks through the seam for a heartbeat, then vanishes as the pack swings. Balin glances back toward the hillside, then snaps forward to match Dulint's pace.
+[00:05-00:08] Their footsteps speed up, gravel scattering. The road ahead stretches empty, but the air feels charged as the hum settles into a steady pulse under the sound of running.
+
+Handheld camera at ground level tracking alongside their boots and the swinging pack.
+Audio: fast footsteps on grit, leather strap slap, dust hiss, a low vibrating hum, Dulint's controlled breathing, distant wind over dry hills. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

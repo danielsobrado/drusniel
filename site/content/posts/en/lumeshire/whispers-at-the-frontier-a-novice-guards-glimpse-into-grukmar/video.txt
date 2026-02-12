@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Scream
+Language: en
+Canon Sequence: P-003
+Source Image: girl-fighting-shadows.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The girl stumbles in the mud, swinging her arms at empty air as if swatting something only she can feel. Lantern light jitters across the square with each frantic step.
+[00:03-00:05] Varian moves in, lantern held out, and she latches onto his sleeve with shaking hands. Elric circles behind, blade half-raised, scanning the dark between the huts.
+[00:05-00:08] The girl goes rigid and stares at the alley mouth. The lantern flame gutters and flares, shadows stretching long across the ground; she shudders once, breath hitching, but nothing steps into the light.
+
+Handheld camera, slight shake.
+Audio: lantern flame hiss and crackle, armor clink, muddy footsteps, ragged breathing, distant wind, one creaking shutter. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

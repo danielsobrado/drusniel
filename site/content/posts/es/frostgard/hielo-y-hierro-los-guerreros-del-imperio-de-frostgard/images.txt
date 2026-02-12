@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Hielo y Hierro: Los Guerreros del Imperio de Frostgard
+Language: es
+Canon Sequence: FRO-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: messenger-frozen.jpg
+role: header
+prompt: Two guardsmen in heavy iron-studded fur armour carry a half-dead messenger through the massive iron-and-timber gates of Jotunheim fortress — the messenger's furs are stiff with ice, his beard a frozen white mask, a leather message pouch still hanging from his belt; beyond the gates a blizzard rages, visibility barely twenty feet, snow driving horizontally; the fortress walls of rough-hewn grey stone rise into the whiteout above. The blizzard provides a cold blue-white ambient that desaturates everything outside the gates — inside, a single wall-mounted iron torch bracket casts a warm orange cone of light that reaches only the nearest guardsman's face, creating a sharp warm-cold divide at the threshold. Canon EOS R5, 24 mm f/1.4, Kodak Vision3 500T grain, deep depth of field. Ice crystals on the messenger's eyelashes, snow accumulation on the guards' shoulder plates. Photorealistic, dark-fantasy realism, 8K, HDR, no text, no logo, no watermark.
+
+2. filename: thorvald-reading.jpg
+role: mid_01 (placed after sentence "Palabras vacías.")
+prompt: [Face_Reference: Thorvald] Heavy-set older warrior, deep scars across one eyebrow and jaw, grey-streaked beard. Thorvald sits in a carved wooden chair beside a roaring stone hearth, holding a folded letter bearing a broken Lumeshirean golden-sun wax seal; his face is lit on one side by the fire's glow while the other half falls into cold shadow; behind him, a narrow window shows only white — the blizzard outside pressing against the stone. The hearth fire provides the sole illumination — hot 2 200 K amber casting deep sculpted shadows across Thorvald's weathered features, the wax seal catching a single bright reflection, the letter's parchment glowing warm where firelight passes through its thin edge. Canon EOS R5, 50 mm f/1.2, CineStill 800T tungsten halation, shallow depth of field. Soot on Thorvald's knuckles, the broken seal crumbling at one edge. Photorealistic, dark-fantasy realism, 8K, HDR, no text, no logo, no watermark.
+
+3. filename: skalds-singing.jpg
+role: mid_02 (placed after sentence "Ecos de gigantes.")
+prompt: Wide interior of the Jotunheim great hall — a vast timber-beamed longhouse where a skald stands near the central fire pit, hands raised, mouth open in song; smoke rises in soft blue layers through the hall, warriors sit at long trestle tables with drinking horns, their shadows enormous on the timber walls behind them; iron chandeliers hang from the ceiling beams, laden with tallow candles. The central fire pit provides warm shifting uplighting that catches smoke layers and projects giant flickering shadows of the warriors onto the hall walls — the tallow candles above add a second warmer layer, creating a hazy amber atmosphere that thickens toward the rafters. Canon EOS R5, 24 mm f/1.4, Fujifilm Eterna 400 muted palette, deep depth of field. Smoke tendrils caught in the updraft, mead foam on a horn rim. Photorealistic, dark-fantasy realism, 8K, HDR, no text, no logo, no watermark.
+
+4. filename: giant-tracks.jpg
+role: mid_03 (placed after sentence "Huellas en el alma.")
+prompt: Two Frostgard scouts in white fur cloaks crouch beside a massive footprint pressed deep into the snow and frozen earth — the print is at least three feet long, the soil cracked around its edges as if the weight compressed the ground beyond its capacity; one scout places her hand inside the print for scale; behind them, more tracks recede into a grey overcast landscape of sparse dead pines and rocky outcrops. Cold overcast daylight — flat, grey, directionless — washes the snowfield evenly, the footprint's depth creating its own interior shadow gradient darker at the edges and lighter at the compressed centre, the scouts' white furs nearly invisible against the snow except where iron buckles and weapon hilts catch faint glints. Canon EOS R5, 35 mm f/1.4, Kodak Vision3 250D grain, medium depth of field. Cracked earth visible at the footprint's rim, frost crystals reforming in the print's shadow. Photorealistic, dark-fantasy realism, 8K, HDR, no text, no logo, no watermark.
+
+5. filename: empty-village.jpg
+role: mid_04 (placed after sentence "Silencio blanco.")
+prompt: Interior of a Frostgard settlement cottage — a meal frozen solid on a rough-hewn wooden table, bowls of stew crystallised into solid ice, a wooden spoon standing upright in frozen broth, a chair overturned on the flagstone floor; the front door hangs open to a wall of white snow, cold air flowing in visibly as frost creeps across every surface; no bodies, no struggle marks, just abandonment. Cold blue daylight pours through the open door, illuminating the frozen meal and the frost creeping across the table — deeper into the cottage only shadow remains, a dead hearth with no embers, icicles forming on the ceiling beams near the open door. Canon EOS R5, 24 mm f/1.4, Fujifilm Eterna 400 muted palette, deep depth of field. Frost crystal formations on the stew surface, condensation frozen mid-drip on a cup rim. Photorealistic, dark-fantasy realism, 8K, HDR, no text, no logo, no watermark.

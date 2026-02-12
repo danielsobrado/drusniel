@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Visión Clara: La Distancia
+Language: es
+Canon Sequence: W-024-004
+Source Image: barrier-visible.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Two hands press toward each other through the translucent barrier. The barrier bends light like thick glass, distorting fingers on each side. Amber light refracts through the surface, scattering into cold tones on Maris's side.
+[00:03-00:05] Maris's fingers press harder. The barrier flexes — a shimmer, a ripple — then holds firm. Her hand trembles with effort. On the other side, dark fingers mirror her position exactly but cannot reach.
+[00:05-00:08] The amber light begins to die. Her hand slides down the invisible surface, leaving nothing. The barrier goes still and cold. Her fingers curl inward, empty. Encroaching darkness.
+
+Static camera, extreme close-up on the hands.
+Audio: faint crystalline vibration, resonant hum fading, fingers dragging across glass. A single shuddering breath. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy, shallow depth of field.

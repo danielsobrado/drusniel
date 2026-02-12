@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Conocimiento Prohibido: La Tierra Distante
+Language: es
+Canon Sequence: D-007-009
+Source Image: boat-cave.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A wave surges into the hidden cove and detonates into white spray against the jagged rocks. Mist rolls into the cave mouth in a sudden cold breath.
+[00:03-00:05] The boat shifts and knocks softly against stone, rope lines snapping taut and vibrating. Waterlight flickers across the cave ceiling in broken moving bands.
+[00:05-00:08] The surge drains back out, dragging foam and loose pebbles with it. Spray falls in slow drops as the cave returns to a tense, wet stillness.
+
+Slow pan from the black rocks down into the cave mouth and onto the boat.
+Audio: crashing surf, rock grind, rope creak, spray hiss, dripping water inside the cave, distant wind over the coastline. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

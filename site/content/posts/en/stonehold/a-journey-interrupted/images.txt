@@ -1,0 +1,26 @@
+# Image Prompts
+Title: A Journey Interrupted
+Language: en
+Canon Sequence: P-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: mountain-camp.jpg
+role: header
+prompt:[Face_Reference: Dulint] Expression: weary calm, shoulders slumped by the fire. [Face_Reference: Balin] Expression: restless attention, eyes reflecting flame. In a high mountain pine clearing at dusk, Dulint and Balin sit close to heavy packs and scattered rations as a small campfire crackles, orange-purple sunset fading behind dark peaks, cold air making their breath faint. Campfire is the primary light, warm amber that flickers across hands, packs, and pine needles while the last sunset glow provides soft cold fill from the horizon. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: goblin-ambush.jpg
+role: mid_01 (placed after sentence "They emerged from the underbrush, a writhing mass of green skin and yellowed teeth.")
+prompt:[Face_Reference: Dulint] Expression: battle focus, axe mid-swing. [Face_Reference: Balin] Expression: fear welded to determination, grip white-knuckled on the pick. Goblins burst from the underbrush in a writhing mass of green skin and yellowed teeth, curved blades flashing as Dulint pivots to meet the first rush and Balin braces behind him, leaf litter kicked up and branches snapping underfoot. Cold moonlight is the only light, silver highlights raking across steel edges and wet leaves while the forest behind falls to black. Canon EOS R5 35mm f/1.4 Cinestill 800T, motion blur, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: cliff-fall.jpg
+role: mid_02 (placed after sentence "He fell, taking Balin with him.")
+prompt:[Face_Reference: Dulint] Expression: panic and grim resolve, arms flailing for purchase. [Face_Reference: Balin] Expression: shock, reaching instinctively for Dulint. Vertigo shot along a steep rocky mountainside at night as Dulint and Balin tumble downward in a spray of loose stone and pine needles, cloaks and straps whipping in the air, dust and grit floating through the frame. Moonlight is the only light, cold and raking, catching jagged rock edges and airborne debris while the drop behind them disappears into black. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: zuraldarr-rescue.jpg
+role: mid_03 (placed after sentence "Shapes moved on the ridge above.")
+prompt:Low-angle view from the base of a rocky slope at night as tall mountain warriors appear on a ridgeline above and hurl stones down with deadly accuracy, heavy furs and carved leather silhouettes against a bright moon, thrown rocks caught mid-flight while Dulint and Balin scramble for cover below. Bright moonlight is the only light, hard and cold, carving sharp edges on stone and fur while pine shadows pool deep in the slope's creases. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: witch-prophecy.jpg
+role: mid_04 (placed after sentence "At the center stood a lone figure, her presence commanding attention.")
+prompt:Wide circular gathering in a forest clearing near a mountain village at night, hundreds of villagers forming a ring around torches and bonfires; at the center stands a lone witch in a dark cloak that seems to drink light, crowned with gnarled branches like antlers as embers spiral in the updraft and smoke drifts under a starry sky. Bonfires and torches are the primary light, warm and flickering, casting long shadows across faces and ground while the night beyond remains cold and black. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

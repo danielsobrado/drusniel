@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Unruly Might of the Grukmar Tribes
+Language: en
+Canon Sequence: GRU-L-002
+Source Image: zikvik-runs-for-treeline.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Zikvik sprints across the muddy no-man's-land, bare feet slapping wet earth as fog curls around his shins. Mud kicks up behind each stride.
+[00:03-00:05] He stumbles on uneven ground and catches himself without stopping. His hand with missing fingers flashes in silhouette as he regains balance and accelerates.
+[00:05-00:08] He reaches the treeline and disappears into a dark gap between two gnarled trunks without looking back. The fog closes behind him as the swamp wind shifts.
+
+Static wide shot with telephoto compression.
+Audio: rapid wet footfalls on mud, harsh goblin breathing, wind in dead reeds, a single crow call from the treeline, distant wood creak from the border palisade. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

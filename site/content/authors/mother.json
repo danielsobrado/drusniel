@@ -1,0 +1,32 @@
+{
+  "name": "Mother",
+  "title": "Matron of House Thel'varin",
+  "titlees": "Matrona de la Casa Thel'varin",
+  "description": "Matron of House Thel'varin. Her face never shows what she's thinking, which is the point. She looks through people rather than at them and runs the household with cool efficiency. In Umbrakor, that kind of composure isn't personality — it's survival.",
+  "descriptiones": "Matrona de la Casa Thel'varin. Su cara nunca muestra lo que piensa, que es precisamente la idea. Mira a través de las personas en vez de mirarlas y dirige el hogar con eficiencia fría. En Umbrakor, ese tipo de compostura no es personalidad — es supervivencia.",
+  "thumbnail": "mother.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Noble",
+    "Matriarch"
+  ],
+  "skillses": [
+    "Noble",
+    "Matriarca"
+  ]
+}

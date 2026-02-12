@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Mar de Pesadillas: El Silencio
+Language: es
+Canon Sequence: D-009-003
+Source Image: drowning-vision-silence.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel drifts downward through pitch-black liquid, arms lifting as if weightless. No bubbles rise; the pale circle of light above shrinks without ripples.
+[00:03-00:05] Total stillness. His clothes hang suspended, motionless, while a sourceless pressure thickens around his skull and chest, as if the sea is holding a single breath.
+[00:05-00:08] His eyes snap into focus. A delayed cluster of bubbles finally tears free as his body convulses; he kicks once and the water around him lurches, pulling him abruptly upward toward the dim light.
+
+Locked-off static shot, centered on him in the black.
+Audio: muffled liquid pressure, heartbeat slowing, then two seconds of near-silence, a sudden choking inhale, faint cloth drag in still water, distant sub-bass throb. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Espadas y Sombras
+Language: es
+Canon Sequence: D-002-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: bamboo-grove-spar.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Shyntara]. Drusniel focused strain, shoulders tight, grip set for a hard exchange; Shyntara effortless cold focus, body relaxed but ready. Two drow siblings circle with drawn blades in a misty bamboo grove, footwork silent on damp leaf litter, tall stalks rising like bars around them. Dim canopy light filters down in cool broken patches; highlights skate across wet bamboo lacquer and steel edges, fog turns the light into pale ribbons, and the ground stays near-black except for dew points sparkling at low angles. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight haze bloom, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: shyntara-strike.jpg
+role: mid_01 (placed after sentence "Su cabello alabastro azotaba el aire mientras esquivaba y se movía.")
+prompt:[Face_Reference: Shyntara]. Zero exertion, hint of disdain; hair whipping through mist as she slips the strike, blade streaking past at waist height. Action frame with Drusniel behind her in soft blur, bamboo stalks compressing the space like a cage. A thin shaft of canopy light cuts through and hits the blade, throwing a hard specular glint that blooms in the fog; dew on bamboo catches as tiny white points while everything outside the shaft drops into cool shadow. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight motion blur in the blade arc, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: blade-at-throat.jpg
+role: mid_02 (placed after sentence "Metal frío besó su garganta.")
+prompt:[Face_Reference: Drusniel, Shyntara]. Drusniel shock and forced stillness, breath caught; Shyntara flat, pitiless calm. Extreme close-up at throat level as the blade presses against skin, her fingers tight on the hilt, mist and bamboo melting into soft bokeh behind. Cool canopy light paints a razor-thin highlight along the steel edge; moisture on skin and metal creates micro-specular sparkle, shadows under jaw go near-black, and fog adds faint bloom around the brightest line. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: magic-failure.jpg
+role: mid_03 (placed after sentence "\"¿Sigues aferrado a esa fantasía? La magia solo fluye por sangre noble, y la nuestra se ha vuelto débil y endeble.\"")
+prompt:[Face_Reference: Drusniel]. Quiet desperation, jaw clenched as he wills power that won’t come; fingers slightly curled over open palms. Drusniel stands in the bamboo grove staring at his hands while Shyntara lingers blurred behind with weapon lowered, unimpressed. Dim canopy light lays cold highlights across his palms and knuckles; wet leaf litter reflects faint grey back up into the underside of his fingers, and the gaps between fingers stay deep shadow—no glow, no magic. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, background softened, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: shyntara-exit.jpg
+role: mid_04 (placed after sentence "\"Por tu bien. Pero si te equivocas... no esperes piedad del Consejo. Ni de mí.\"")
+prompt:[Face_Reference: Drusniel, Shyntara]. Drusniel jaw set, swallowing anger, hand on sword hilt; Shyntara turns away, expression unreadable as she retreats. Wide shot through bamboo stalks as Shyntara steps into the darkest gaps until she’s half-absorbed by shadow; her silhouette fractures into mist while Drusniel remains alone in the ring. Cool canopy light breaks into patches on wet stalks and fog; shadows between bamboo deepen to near-black and swallow her, with faint specular glints on dew tracing her last movement. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

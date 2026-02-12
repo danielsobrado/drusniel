@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Direction: The Night
+Language: en
+Canon Sequence: D-019-004
+Source Image: trust-is-expensive.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow push-in begins at the hollow entrance as Elion turns in profile against the red horizon glow; Drusniel doesn't step back, only tightens his posture, watching every movement.  
+[00:03-00:05] The push-in continues; Srietz slides into the edge of the frame and quietly starts reciting watch times while he straightens supplies into perfect rows, as if order could hold the night in place.  
+[00:05-00:08] The camera settles close as the lantern gutter flares once, throwing amber light across damp basalt and tense faces; the red smear on the horizon pulses, and Drusniel closes his eyes for a single breath before opening them again.
+
+Camera movement: Slow push-in at the hollow entrance.  
+Audio: low volcanic rumble in the distance, wind over hot stone, lantern wick sputter, soft counting under breath, cloth rustle, ash grit tapping basalt. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Surface Mage: The First Lesson
+Language: en
+Canon Sequence: D-007-003
+Source Image: chaos-burst.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A sudden surge of air rips through the room. Loose pages lift off the desk and whip sideways, and the candle flame lashes hard enough to throw frantic shadows across the stone.
+[00:03-00:05] Three hourglasses topple from a shelf and strike the floor. Sand bursts in pale arcs as glass cracks; one piece skitters out of frame while the draft keeps pulling everything toward the vent.
+[00:05-00:08] The gust collapses into smaller turbulent eddies. Papers slap back down, dust swirls in the candlelight, and the remaining flames struggle back to a steady burn as the room falls quiet again.
+
+Handheld camera with slight shake, holding on the table and shelf area.
+Audio: sharp rush of air, paper flutter, glass impact and cracking, sand hiss, candle flutter, a single strained exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

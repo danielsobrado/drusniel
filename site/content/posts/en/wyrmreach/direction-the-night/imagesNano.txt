@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Direction: The Night
+Language: en
+Canon Sequence: D-019-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: refuge-between-volcanic-needles.jpg
+role: header
+prompt:[Face_Reference: Elion, Srietz, Drusniel]. Elion still at the hollow mouth; Srietz unpacking and counting; Drusniel leaned on warm stone staring east. Narrow shelter wedged between two black volcanic needles, mineral sheen on basalt, tiny camp in the gap, eastern horizon a red smear from the contested lands. Red horizon glow bleeds into grey air; a hooded lantern leaks a thin warm spill across supplies, amber reflections skating on damp rock while ash grit catches faint teal bounce in the haze. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: srietz-organizes-guard-rotation.jpg
+role: mid_01 (placed after sentence "Srietz arranged their supplies in neat rows, counting under his breath.")
+prompt:[Face_Reference: Srietz, Elion, Drusniel]. Srietz counting and lining supplies; Elion watching the mouth; Drusniel listening without relaxing. Inside the warm-rock hollow, ash-dusted stone, neat rows of rations and water, no fire. Distant red glow edges faces; hooded lantern adds minimal amber fill on hands and wrappers, long soft shadows stretching across basalt and catching moisture as tiny specular points. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: drusniel-stares-at-red-horizon.jpg
+role: mid_02 (placed after sentence "Drusniel leaned against the warm stone and stared at the red glow on the horizon until his eyes burned.")
+prompt:[Face_Reference: Drusniel]. Eyes watering, jaw locked, sleepless focus. Close portrait against warm volcanic stone, hollow behind falling to blur, red horizon pulsing beyond the spires. Far volcanic smear gives cold red-grey wash while lantern spill rims cheek and knuckles amber; mixed light creates double-toned shadows under the brow ridge and along the jawline. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: trust-is-expensive.jpg
+role: mid_03 (placed after sentence "Elion turned then, his profile cutting a sharp line against the volcanic glow.")
+prompt:[Face_Reference: Elion, Drusniel]. Elion turns in profile, controlled expression; Drusniel watches with guarded skepticism. Two-shot at the hollow entrance, cramped basalt walls, drifting ash dust. Red horizon glow backlights a sharp rim on both faces; hooded lantern adds low warm fill catching on damp stone and breath fog, amber highlights under cheekbones and along knuckles. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slight handheld shake, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: uneasy-rest-before-dawn.jpg
+role: mid_04 (placed after sentence "Drusniel closed his eyes.")
+prompt:[Face_Reference: Drusniel, Srietz, Elion]. Drusniel eyes closed at last; Srietz shifts into watch, counting; Elion scans the never-dark. Quiet camp in the hollow, supplies in careful rows, red horizon bleeding beyond the spires. Red glow paints the stone; the lantern gutters once, throwing a brief amber shimmer across wrapped rations and damp basalt before dimming, reflections breaking into tiny points on mineral sheen. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignetting, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

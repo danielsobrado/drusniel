@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The First Fragment: The Hunters
+Language: en
+Canon Sequence: W-020-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: message-carved.jpg
+role: header
+prompt:High angle on a massive dead Frost Giant face-down in frost-bitten grass near the ravine; huge back exposed, ice-crusted hide, a message cut deep into flesh with deliberate strokes (letters implied, not readable). Cold first-light sun casts long shadows and makes frost crystals sparkle; dried blood darkens in the grooves as wind stirs ice dust over the body. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: hunters-tracks.jpg
+role: mid_01 (placed after sentence "Look at the prints.")
+prompt:Low forensic detail: two sets of boot prints in frozen soil and rimed grass, identical size and stride, aligned like formation; crushed frost, sharp tread edges, snapped twigs. Cold morning light rakes the ground, long shadows in tread, ice crystals flashing bright highlights. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: beacon-pulse-strong.jpg
+role: mid_02 (placed after sentence "He stood over the body with the pack pressed to his chest, the Beacon pulsing inside it, louder now, stronger, as if the fragment's integration had turned up the volume on a signal that was already too loud.")
+prompt:[Face_Reference: Dulint]. Rigid, expression carved flat, pack crushed to his chest. Beacon pulses leak blue-white through canvas in sharp beats, strobing cold highlights on knuckles and damp weave. Dawn sun adds pale rim on cheek and cloak edges; Beacon flashes create hard shadows and slight halation at the brightest pulse edges. Sony A7R V 50mm f/1.2 GM Cinestill 800T, film grain visible, slight halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: professional-restraint.jpg
+role: mid_03 (placed after sentence "That's professional restraint.")
+prompt:[Face_Reference: Eldric, Dulint, Maris, Balin, Xandor]. Eldric scanning, refusing to sit; Dulint clutching pack; Maris exhausted; Balin listening hard; Xandor watching trees. Midday dense forest pocket, drinking fast, staying on feet, realizing skilled pursuers are managing them. Filtered winter daylight catches wet bark and frost; cold green-grey fill and deep shadow, moisture highlights breaking into tiny points on leaves. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-vision-face.jpg
+role: mid_04 (placed after sentence "Maris focused on putting one foot in front of the other and trying not to think about the face in the vision, the words carved in flesh, the things that hunted them now.")
+prompt:[Face_Reference: Maris, Drusniel]. Maris eyes unfocused as if seeing behind her lids; a faint reflected Drusniel presence appears in a dark wet surface nearby, subtle and uncanny, not stylized. Forest shade close portrait, damp leaves and bark, tiny reflective surface catches the ghostlike face for an instant. Filtered canopy light creates cold highlights on moisture and deep shadows; reflection barely brighter than surrounding dark, background falling into blur. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

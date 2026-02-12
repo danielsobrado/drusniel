@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Mar de Pesadillas: Arena Negra
+Language: es
+Canon Sequence: D-009-005
+Source Image: merrik-finds-him-on-black-sand.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Merrik nudges black driftwood into the campfire and sparks lift into the sulfur wind; Drusniel's shoulder jerks as he drags a painful breath.
+[00:03-00:05] Merrik moves in, tilts a waterskin, and a thin stream hits Drusniel's lips. Drusniel coughs, swallows, and blinks hard, sand sticking to his cheek.
+[00:05-00:08] Drusniel focuses on Merrik's face, wary and exhausted. Merrik gives nothing back, only feeds the fire again as the surf hisses behind them and the heat shimmer wavers over the black shore.
+
+Slow lateral tracking shot from the waterline to the fire, settling on both figures.
+Audio: driftwood popping, soft wave-lap, faint hiss of steam at wet sand, waterskin slosh, two rough coughs, low volcanic rumble far off. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

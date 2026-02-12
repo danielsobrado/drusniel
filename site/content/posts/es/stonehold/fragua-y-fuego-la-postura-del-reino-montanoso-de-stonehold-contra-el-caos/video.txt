@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Fragua y Fuego: La Postura del Reino Montañoso de Stonehold Contra el Caos
+Language: es
+Canon Sequence: STO-L-001
+Source Image: vibrating-crack.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Bragni's gloved hand stays flat against the stone. For a beat, nothing moves. Then fine dust begins to tremble, lifting a millimeter and settling back in a slow pulse.
+[00:03-00:05] His fingers tighten involuntarily as the pulse repeats. Breath fog curls into the cold pocket near the crack and drifts upward.
+[00:05-00:08] A single grit fragment drops from above and clicks against the leather glove. The dust continues to lift and settle in rhythm, as if the wall is breathing.
+
+Static extreme close-up, locked off.
+Audio: faint torch flutter, deep sub-bass hum felt more than heard, microscopic grit click on leather, a sharp inhale, silence between pulses. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

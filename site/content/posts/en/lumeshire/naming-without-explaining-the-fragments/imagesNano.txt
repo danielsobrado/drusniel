@@ -1,0 +1,27 @@
+﻿# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Naming Without Explaining: The Fragments
+Language: en
+Canon Sequence: W-014-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-explains-phases.jpg
+role: header
+prompt:[Face_Reference: Xandor]. Controlled urgency; hands moving fast as he lays out a five-part structure he still cannot fully explain. [Face_Reference: Eldric]. Hard attention like a soldier receiving a report. [Face_Reference: Dulint]. Quiet focus, weighing risk against duty. [Face_Reference: Balin]. Restless intensity, leaning in. [Face_Reference: Maris]. Tight and guarded, eyes sharp. Over-the-shoulder view as Xandor traces a five-part diagram in dust and ash on tabletop beside the pulsing Beacon cube; charred fragments and scattered notes crowd the wood in a cramped tavern back room. Candlelight rakes across table grain and ash lines from the right; cube glow pulses cold blue-white from the left and throws moving geometry that slides across fingers and paper edges, with interactive highlights catching on ash grains and wax drips. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, dust haze in the air, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: erase-memory.jpg
+role: mid_01 (placed after sentence "Removing memories? Maris's voice was sharp. It can do that?")
+prompt:[Face_Reference: Maris]. Sharp alarm; jaw tight as she stares at proof she does not want to imagine. She reacts over a scraped-clean parchment page where ink was removed down to scarred fibers, knife-scrape marks and torn grain visible. Table cluttered with ash dust and charred fragments, Beacon cube pulsing nearby, edges of notes out of focus. Candlelight grazes the parchment at low angle, revealing raised fibers and scratches; cube adds cold blue highlights along torn edge and across cheekbone, with specular points on paper sheen and halation blooming faintly around the pulse. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: rewrite-reality.jpg
+role: mid_02 (placed after sentence "To change what is into what could be. Or what was into what never happened.")
+prompt:Uneasy wide shot of the tavern back room with the Beacon cube on the table; candle flames streak slightly as if time mis-registered and the room edges show faint double-image drift, like two nearly identical moments overlapped. Chairs, wall plaster, and smoke haze look subtly rewritten via physically plausible motion and lens distortion, while the cube remains crisp. Cube pulses cast cold blue-white that catches on drifting dust and makes shadows jump; warm candlelight smears into soft streaks at the frame edges and reflects in bands along cube corners. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: burned-libraries.jpg
+role: mid_03 (placed after sentence "The texts end in fire. Burned pages, destroyed libraries.")
+prompt:Ancient scrolls and brittle manuscripts burn in a heap, flames curling pages into blackened ribs as wax seals soften and crack; ash and soot lift into the air like snow. Close enough to read paper fibers and char texture, background falling to deep black. Fire is the only light source, hot orange-yellow throwing hard moving shadows and bright specular highlights on melted wax and soot; smoke layers catch the updraft as translucent sheets. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, smoke haze, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: incomplete-danger.jpg
+role: mid_04 (placed after sentence "But what we have is a fragment searching for the rest of itself.")
+prompt:Beacon cube isolated on the table amid ash and charred fragments, with four faint empty impressions in the dust around it where other pieces might fit, like missing parts of a locked system. The ash outlines shimmer and soften at each pulse, dust grains lifting and resettling; wood grain and wax drips visible at the edges. Cube pulse provides cold underlight that makes ash edges glow; candle adds warm side reflections sliding along cube corners and creating tiny warm points on dust and varnished pores. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

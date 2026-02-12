@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Clear Sight: The Aftermath
+Language: en
+Canon Sequence: W-024-005
+Source Image: maris-declaration.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Maris sits straighter despite her body's devastation. Blood drying on her face, eyes bloodshot but blazing with certainty. She speaks — mouth moving with cracked-lip determination, every word costing her. The group around her goes still.
+[00:03-00:06] She pauses. Swallows hard. Her hand rises and points northwest. Her arm trembles but holds steady. The cold overcast light falls flat and unforgiving across the dried blood on her cheeks. Wind moves her hair.
+[00:06-00:08] The group exchanges a look. No one argues. Dulint nods once. Maris's arm lowers. Her expression doesn't soften — it hardens. The quest has changed.
+
+Slow dolly-in from group medium shot to tight on Maris's face.
+Audio: cold wind through grass, distant birdsong cutting abruptly silent, her cracked voice barely audible as breath. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

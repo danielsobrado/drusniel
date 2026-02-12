@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: The Nightmare Sea: The Silence
+Language: en
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: endless-gray-nightmare-sea.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Hunched over the oars, salt and grime on his skin, hollow exhaustion in his eyes. A small battered wooden boat alone on an impossible flat expanse of black water under uniform grey light. No sun. No shadows. The horizon never moves.
+Environment: Open nightmare sea. Grey sourceless illumination scatters uniformly through saturated air with zero directional component. Black water surface absorbs all light below the first millimeter, creating a void-like flatness. No wave reflections, no specular highlights on the water. Mist sits at surface level, diffusing the boundary between liquid and air into a grey gradient. Hull wood is swollen and salt-crusted, grain visible through worn sealant. The air itself has a grey particulate density that softens distance without creating depth.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: numb-hands-on-oars.jpg
+role: mid_01 (placed after sentence "Drusniel couldn't feel his hands anymore.")
+prompt: [Face_Reference: Drusniel]. White-knuckled grip, raw skin visible. Close-up on his hands gripping wet oar handles. Skin raw and numb. Water splashing against the boat soaks his wrists. Black water surface beyond the gunwale.
+Environment: Boat interior, oar pivot point. Grey ambient light catches moisture on the knuckle ridges and oar wood grain. The oar handles show compression marks from prolonged gripping, worn smooth at contact points. Skin on the fingers shows early maceration from prolonged water contact, wrinkled and pale at the pads. Black water droplets on the wood absorb light rather than reflecting it. Salt crystals form white residue in the grain grooves of the oar handles. The gunwale edge shows wear marks from the oar friction.
+Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: wall-of-black-water.jpg
+role: mid_02 (placed after sentence "A wave rose ahead of him.")
+prompt: [Face_Reference: Drusniel]. Exhaustion and terror on his face, rowing straight toward the impossible wall. A vertical wall of black water rises ahead of the boat. Not a wave. A suspended dark cliff defying gravity. The surface smooth and lightless. The boat tiny against the mass.
+Environment: Nightmare sea. The water wall rises vertically with no curl or foam at its edge, a sheer face of liquid obsidian held in place by forces that ignore surface tension and gravity. Grey sourceless light catches the upper edge where the wall meets the grey air, creating a thin bright line at the transition. The wall face absorbs all light, darker than the surrounding water, a void standing upright. Mist is displaced at the base where the wall meets the flat sea, creating a dry channel of clear air. The boat approaches at waterline scale, dwarfed.
+Camera: Sony A7R V 16mm f/2.8 GM Cinestill 800T, underexposed. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: drowning-vision-silence.jpg
+role: mid_03 (placed after sentence "The bow struck the wall of water, and reality broke.")
+prompt: [Face_Reference: Drusniel]. Eyes wide and unfocused, mouth open, black water invading his lungs. Underwater view in pitch-black liquid. Drusniel sinks without a boat. The scene impossibly still. Faint grey light dying above him. Vast empty pressure from every direction.
+Environment: Submerged in nightmare sea. Grey light filters from above, absorbed exponentially with depth, creating a gradient from dim grey to absolute black within two meters. The black liquid is perfectly still around his body, no turbulence from his entry, no bubbles. The water has the optical density of ink, absorbing all wavelengths uniformly. His clothing floats in slow suspension. Hair drifts upward in the still fluid. The light above narrows to a dim disc that shrinks as he sinks. Below and around, total darkness with a sense of volume and depth pressure.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: back-in-the-boat-debt.jpg
+role: mid_04 (placed after sentence "Pain exploded across his chest.")
+prompt: [Face_Reference: Drusniel]. Jolting upright with a ragged gasp, one hand clutching his chest, the other locked on the oar. Black water at his shins. Body rigid with sudden pain as a new invisible weight settles beneath his ribs. Oars still gripped as if his body kept rowing through the nightmare.
+Environment: Boat on the nightmare sea. Grey sourceless light ahead shifts almost imperceptibly toward a faint suggestion of distance and direction. The water in the boat has settled, calmer than before, as if acknowledging the bargain. Hull wood shows water staining at different levels, recording the varying depths of flooding during the crossing. His wet clothing clings to his torso, showing the chest compression where his hand presses. The grey horizon ahead has a barely perceptible warm tint at the furthest edge.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

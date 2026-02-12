@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Debt Anticipated: The Border
+Language: en
+Canon Sequence: D-023-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: crystal-border-pillar.jpg
+role: header
+prompt:[Face_Reference: Talryn] Setting her pack down beside the pillar, composed and efficient. A lone black crystal pillar juts from volcanic soil marking a territorial boundary, beyond it a flat expanse of grey basalt scarred with shallow fissures and pale lichen stretches to the horizon, dense black crystal formations fading into the distance behind, three travelers approaching. Faint violet luminescence from the crystal pillar, volcanic twilight above. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: talryn-delivers-crystal-vial.jpg
+role: mid_01 (placed after sentence "She held it out to Drusniel.")
+prompt:[Face_Reference: Talryn] Arm extended, professional and measured. [Face_Reference: Drusniel] Receiving with guarded attention, eyes on the vial. Talryn extends a small sealed container of black crystal toward Drusniel, no larger than a medicine vial and glowing faintly warm, framed by the last black crystal formation at the territorial border. The vial's own faint warm glow illuminating both their hands, dim volcanic twilight behind. Canon EOS R5 85mm f/1.4 Kodak Portra 400, slightly out of focus background, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: nyxara-warning-delivery.jpg
+role: mid_02 (placed after sentence "Lady Nyxara says: the thing in your head wants your body. The old ones always do.")
+prompt:[Face_Reference: Drusniel] Cold spreading through his expression, the look of someone whose secret has been stripped bare. [Face_Reference: Talryn] Watching him with recognition rather than warmth. Close portrait of Drusniel reacting to devastating words, Talryn beside him, the last black crystal pillar looming behind catching impossible violet light. Crystal pillar's violet luminescence casting cold highlights on Drusniel's face, volcanic haze diffusing the ambient glow. Canon EOS R5 85mm f/1.4 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: talryn-walks-into-crystals.jpg
+role: mid_03 (placed after sentence "Then the terrain swallowed her and there was nothing left to watch.")
+prompt:[Face_Reference: Talryn] Silhouette shrinking, walking away with purpose between crystal rows. Wide shot of Talryn walking away between rows of black crystal formations, her figure diminishing against the dark mineral forest, three travelers watching from the border marker behind her. Faint violet glow from the crystal formations creating rimlight on Talryn's silhouette, volcanic dusk above. Sony A7R IV 35mm f/2.0 Kodak Portra 400, film grain visible, subtle lens flare from a crystal reflection. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: group-walks-northeast.jpg
+role: mid_04 (placed after sentence "They walked northeast into territory that belonged to no one and promised nothing.")
+prompt:[Face_Reference: Drusniel] Leading, eyes forward. [Face_Reference: Srietz] At his side, scanning the ground. [Face_Reference: Elion] Rear position, watching behind. Three figures walking northeast into a flat barren expanse of grey basalt with pale lichen and occasional steam-leaking fissures, a row of dark crystal teeth marking the border behind them. Thin volcanic twilight from above, faint steam catching dull orange from fissures in the ground. Sony A7R IV 35mm f/2.8 Kodak Ektar 100, film grain visible, slightly out of focus foreground. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

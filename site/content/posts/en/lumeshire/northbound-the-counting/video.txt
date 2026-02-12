@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Northbound: The Counting
+Language: en
+Canon Sequence: W-018-001
+Source Image: maris-sees-echoes.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The group walks the pine trail in steady rhythm; Maris slows half a step, head turning toward a small clearing as her eyes lose focus and her breathing pauses.
+[00:03-00:05] The forest sound thins as if the air swallowed it; Eldric's hand drifts toward his sword and Dulint freezes mid-step while Maris stands still, listening to a faint metallic echo that isn't there.
+[00:05-00:08] Maris blinks hard and exhales, shaking it off; Dulint gestures them around the patch of ground and they resume the detour, boots crunching needles as Balin's frustration tightens into forced patience.
+
+Dolly in.
+Audio: boots on needles, wind through pines, distant birdcall, sudden hush, faint metallic ring echo, cloak rustle, controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

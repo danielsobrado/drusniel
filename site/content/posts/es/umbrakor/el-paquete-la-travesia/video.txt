@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Paquete: La TravesÃ­a
+Language: es
+Canon Sequence: D-011-004
+Source Image: mid-03.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] He kicks upward through black water, bubbles tearing past his face as the faint grey above grows a fraction brighter.
+[00:03-00:05] A distant glint turns far below; the water seems to thicken as something vast shifts, and his legs stutter before he forces them to keep moving.
+[00:05-00:08] The bubble at his mouth collapses and reforms; he surges toward the light, ignoring the pull of the deep as the shadow behind fades back into darkness.
+
+Handheld follow shot rising with him toward the surface.
+Audio: muffled underwater rumble, bubbles tearing, strained breath, cloth drag in water, distant low throb like something breathing, then a brief rush as he accelerates. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

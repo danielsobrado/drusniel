@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Rumbo al Norte: La Señal
+Language: es
+Canon Sequence: W-018-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: Eldric-halts-group.jpg
+role: header
+prompt:[Face_Reference: Eldric] One knee down, fist raised in silent command, eyes narrowed. [Face_Reference: Dulint] Pale and listening, pack strap held tight. [Face_Reference: Xandor] Staff planted, gaze sweeping the trees. [Face_Reference: Maris] Tense and distant, attention split toward the east. [Face_Reference: Balin] Mid-whisper, wide-eyed, forced to stop. Eldric halts the group on a dense forest trail, damp moss and snapped twigs underfoot as the birds go abruptly silent and everyone freezes mid-step, trying not to make the next sound. Overcast morning light filters through thick branches, soft and cool, with green bounce from wet needles tinting shadows and small specular highlights on damp bark. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: grukmar-tracks.jpg
+role: mid_01 (placed after sentence "Eldric trazó algo con el dedo—un patrón que Balin no podía ver—.")
+prompt:[Face_Reference: Eldric] Jaw tight in profile, eyes focused on the ground; gloved finger tracing a line. [Face_Reference: Balin] Leaning in behind him, squinting, unable to see the pattern. Eldric kneels in shadowed moss and traces subtle disturbances in damp earth: pressed needles, snapped twig fibers, faint heavy impressions that look wrong in the soft ground; Balin watches over his shoulder, frustration building. Cool canopy shade makes the forest floor matte and dark, while diffuse overcast light catches wet moss as tiny silver highlights and rakes across Eldric's knuckles. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-senses-flank.jpg
+role: mid_02 (placed after sentence "Moviéndose cuando nos movemos. Deteniéndose cuando nos detenemos.")
+prompt:[Face_Reference: Maris] Eyes half-lidded, head tilted, expression flat with certainty; breath held as if listening. Maris turns toward the dense trees to the east and feels the flank as pressure rather than sound, the underbrush unreadable and still, as if something moves only when they move. Muted daylight stays cool under the canopy, but a colder cast creeps in from the east where cloud shadow deepens, leaving her face softly lit and the background falling into dark blur. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, natural skin with pores, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: dulint-artifact-burden.jpg
+role: mid_03 (placed after sentence "Esa cosa no dejará de transmitir nuestra posición.")
+prompt:[Face_Reference: Dulint] Dread in the eyes, shoulders sagging under the strap; hand tightening as he shifts the pack. [Face_Reference: Eldric] Guarded readiness in the background, hand near sword, gaze measuring terrain. Dulint stands small against the trees and adjusts the heavy pack that never leaves him, aware the artifact inside keeps broadcasting their position; the fabric seam shows a faint cold-blue pulse that leaks onto cloak fibers like a bruise of light. Overcast forest light stays soft and gray-green, while the pack's intermittent blue glow adds a hard edge-light on strap and knuckles and a faint reflection on wet leaves. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight halation in highlights, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: balin-looks-back.jpg
+role: mid_04 (placed after sentence "Primera vez siendo presa, pensó.")
+prompt:[Face_Reference: Balin] Fear and realization, eyes wide, breath caught; shoulders twisted as he looks back. Balin keeps glancing over his shoulder into dark woods he can't read, trying to see hunters that never show themselves; tree trunks and branches compress into bars behind him as the trail narrows and the idea of being herded settles in. Canopy light dims toward late afternoon, cool and flat, with a faint rim of pale sky catching the edge of his cheek and turning background leaves into a threatening blur. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

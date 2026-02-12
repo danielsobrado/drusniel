@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Paquete: El Artefacto
+Language: es
+Canon Sequence: D-011-003
+Source Image: drusniel-touching.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] His thumb presses down and the faint pulse sharpens; the candle flame bends sideways as if the air itself recoils.
+[00:03-00:05] The room's ambience drops to near-silence; dust motes hang unnaturally still in the cold shuttered light while a ripple of distortion spreads across the table surface.
+[00:05-00:08] He releases the symbol and sound rushes back in; the candle steadies, glass grit skitters, and he flinches once, breathing hard as the plate goes quiet.
+
+Slow push-in toward the thumb and the symbol as the effect triggers.
+Audio: candle hiss, faint cloth movement, distant wind at shutters, sudden muffled drop to near-silence, then a sharp return of room tone, tiny glass skitter. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

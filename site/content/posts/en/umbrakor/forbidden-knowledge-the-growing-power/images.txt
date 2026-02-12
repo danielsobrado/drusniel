@@ -1,0 +1,27 @@
+# Image Prompts
+Title: Forbidden Knowledge: The Growing Power
+Language: en
+Canon Sequence: D-007-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: forge-training.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Eyes closed, brow tight with concentration, fingers slightly spread as if holding an invisible current. [Face_Reference: Zaelar] Seated by the window, watching without expression, posture still. In a cramped tower study above a basement forge, hot air rises through floorboard gaps and Drusniel redirects it sideways so a line of candles along the wall flickers in sequence and loose papers lift and tumble off the desk, smoke trails bending hard with the draft. Mixed light: warm candle flames and faint orange forge-glow from the floor edges, with cool grey daylight from the window rim-lighting shoulders and furniture. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: dummy-hit.jpg
+role: mid_01 (placed after sentence "The dummy flew backward.")
+prompt: [Face_Reference: Drusniel] Jaw clenched, arm fully extended, breath forced out; a fresh nosebleed just starting. In Zaelar's training room, a padded wooden practice dummy rockets backward and crashes into the stone wall, splintering and shedding dust and fibers as it rebounds. Torch flame on the wall behind the dummy is the only light, throwing hard moving shadows and warm orange highlights that catch flying splinters and drifting dust motes. Canon EOS R5 24mm f/1.4 Cinestill 800T, not perfectly exposed, slight motion blur on debris. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: exhausted-aftermath.jpg
+role: mid_02 (placed after sentence "Drusniel staggered.")
+prompt: [Face_Reference: Drusniel] Dazed exhaustion, sweat on the brow, blood at the nostrils; shoulders sagging as he fights for breath. [Face_Reference: Zaelar] Close and firm, pressing a cloth under Drusniel's nose, eyes assessing without panic. Drusniel sinks into a chair beside the training floor, broken dummy fragments and scuffed stone behind him, the air still hazy with dust from the impact. Torchlight from the wall casts warm amber across skin texture and cloth fibers, leaving the far side of their faces in deep shadow with a faint orange edge from the torch flicker. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: sensing-zaelar.jpg
+role: mid_03 (placed after sentence "You're by the door now.")
+prompt: [Face_Reference: Drusniel] Eyes closed, listening with his whole face; breath slowed, tension gathered in the jaw. [Face_Reference: Zaelar] At the door with one hand on the handle, caught mid-move, watching to see if Drusniel is right. In the quiet study, thin curtain fabric shifts with a window draft and candle smoke streams sideways, giving away the airflow patterns Drusniel is tracking. Cool grey daylight from the window provides a soft side-fill while a single candle adds warm orange flicker that paints moving highlights across knuckles and the door latch. Canon EOS R5 50mm f/1.8 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: power-confidence.jpg
+role: mid_04 (placed after sentence "Drusniel felt like himself.")
+prompt: [Face_Reference: Drusniel] Quiet confidence settling in, eyes clear, fatigue still present; hands held open as if testing the air without forcing it. Alone in the lamplit study, candles sit half-melted along the wall and a water basin rests in the corner, its surface barely trembling as warm draft and cool window air meet. Warm candlelight pools across the table and catches wax drips, while cool grey daylight from the window cuts a thin rim along his fingers and cheekbone, keeping the room around him in low shadow. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

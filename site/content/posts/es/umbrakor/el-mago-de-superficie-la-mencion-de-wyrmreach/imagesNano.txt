@@ -1,0 +1,42 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Mago de Superficie: La Mención de Wyrmreach
+Language: es
+Canon Sequence: D-007-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-book.jpg
+role: header
+prompt: [Face_Reference: Zaelar]. Neutral and deliberate; holding an ancient book open to a marked page and pointing to a hand-drawn coastal sketch and barrier markings in unreadable script. [Face_Reference: Drusniel]. Wary attention, eyes fixed on what he cannot read.
+Environment: Tower entry hall with hourglasses on shelves glittering in mixed light. Cold gray daylight from the open door cuts long shadows across stone and adds cool rim highlights to paper fibers and glass curvature; warm candlelight contaminates the edges with amber, catching drifting dust as tiny floating points.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: horror-of-sea.jpg
+role: mid_01 (placed after sentence "—Wyrmreach es una sentencia de muerte —dijo secamente—. La barrera, el cruce... nadie lo sobrevive.")
+prompt: [Face_Reference: Drusniel]. Tight jaw, skeptical eyes; delivering the words flatly. [Face_Reference: Zaelar]. Controlled calm, listening without flinching.
+Environment: Tense two-shot in the hall with shelves of hourglasses and old books behind them, open doorway bleeding gray surface light into the room. Cold daylight flattens stone into muted grays; warm candlelight adds amber edge highlights to faces and glass, and dust shifts in a faint draft between them.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: dual-affinity-reveal.jpg
+role: mid_02 (placed after sentence "Aire *y* agua, había dicho Zaelar. Ambos fuertes.")
+prompt: [Face_Reference: Drusniel]. Absorbing the implication, breath held steady; thumb tapping once and then stopping as he thinks while Zaelar speaks just out of focus.
+Environment: Tea steam curls beside Drusniel's face; a small bowl of water on a side table shows a faint ripple from the redirected draft. Warm candlelight catches the steam as soft ribbons and throws amber highlights across the water surface; cold gray daylight adds a cool rim along the bowl edge and the bridge of his nose, leaving the background in deep shadow.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: fragile-family.jpg
+role: mid_03 (placed after sentence "La posición de tu familia puede ser más frágil de lo que parece.")
+prompt: [Face_Reference: Drusniel]. Going perfectly still, shock tightening into anger. [Face_Reference: Zaelar]. Thin controlled smile, unhurried as he sips cold tea.
+Environment: Hourglasses glint behind them; long gray daylight shadows stretch across the stone floor, making the hall feel measured and hostile. Warm candlelight catches tiny specular points on glass while cold daylight drains color from faces, sharpening the tension in the contrast.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: leaving-tower.jpg
+role: mid_04 (placed after sentence "Drusniel permaneció en el umbral de la torre y miró hacia el mundo de la superficie.")
+prompt: [Face_Reference: Drusniel]. Squinting into the gray, urgency rising; one foot already angled toward the hills home.
+Environment: Exterior at the tower threshold overlooking rolling hills and layered clouds leading back toward the slope that hides the tunnel entrance. Wind tugs at his cloak; clouds break just enough to send pale shafts of sun through, brightening patches of wet grass while the rest remains muted gray with atmospheric haze.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

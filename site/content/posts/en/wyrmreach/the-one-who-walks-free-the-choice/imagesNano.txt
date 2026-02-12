@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The One Who Walks Free: The Choice
+Language: en
+Canon Sequence: D-013-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: the-choice-to-not-run-alone.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Eyes narrowed as a thin thread of magic returns; stillness that hides a decision. [Face_Reference: Elion]. Watching in silence, intent and patient, waiting for the exact second. Two swaying cages on the fourth day: Drusniel sits with hands hidden in his lap as the wagon rattles over black sand; across the gap Elion stays near the bars, the space between them heavy with the choice to run alone or open another lock. Wagon lantern throws warm amber slashes that rake across pitted iron and catch on condensation beads; red-grey twilight and distant volcanic glow provide cold fill, with orange reflections smearing across scratched metal and damp cheeks. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur from wagon sway, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: a-thread-of-air-magic.jpg
+role: mid_01 (placed after sentence "Drusniel tested it carefully, keeping his hands hidden, feeling the air respond to his will.")
+prompt:Hidden hands in a prisoner's lap stay still while a tiny controlled breeze stirs dust motes and loose black grit across the cage floor. Subtle movement only, deliberate, with iron bars and wagon vibration smearing the background into soft streaks. A lantern on the wagon frame produces warm tungsten light that catches on drifting dust and creates spark-like specular points; cold twilight leaks in as flat fill and turns the grit into matte charcoal with oily highlights on metal flakes. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elion-knows-things.jpg
+role: mid_02 (placed after sentence "The creature had spoken to him three more times since that first night.")
+prompt:[Face_Reference: Drusniel]. Hard calculating stare; listening without reacting. [Face_Reference: Elion]. Speaking in short stolen moments, eyes intent as if receiving information without a source. Tight two-shot framed by iron bars as the wagon rolls; in the blurred background a guard with a bad knee crosses during rotation, weapon belt clinking, dust and ash drifting between cages. Lantern spill creates warm highlights that skate along bar edges and bounce into eye corners; red-grey twilight keeps shadows cold, with amber reflections visible as tiny points in damp pupils. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, background softly out of focus, slight lens flare. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: oil-for-distraction.jpg
+role: mid_03 (placed after sentence "It carried lamp oil for the journey—he'd smelled it on the third day.")
+prompt:[Face_Reference: Drusniel]. Face blank while eyes lock onto a target; intent held tight. He watches the supply wagon stop as a tarp lifts to reveal sealed oil containers stacked among provisions, sharp smell hanging in the air. Black grit swirls at wheels, rope fibers and canvas weave visible in the lifted tarp, iron bars cutting thin lines across the foreground. Lantern and brief torch flare add warm orange that reflects on container rims and damp iron; cold twilight fill keeps the rest desaturated, with orange bounce lighting the underside of cheekbones and knuckles. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: he-opens-his-lock-and-runs.jpg
+role: mid_04 (placed after sentence "The mechanism clicked.")
+prompt:[Face_Reference: Drusniel]. Breath held, eyes razor-focused; body already moving as the click lands. He presses palm to a corroded lock, releases one precise push of air, and the door swings open; instead of fleeing he sprints toward Elion's cage while two guards stare outward at the perimeter, unaware. Swinging lantern light stutters across iron and ground, making shadows jump; red-grey sky and faint volcanic glow keep everything else dim and hostile, dust trailing in his wake. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, motion blur in the sprint, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

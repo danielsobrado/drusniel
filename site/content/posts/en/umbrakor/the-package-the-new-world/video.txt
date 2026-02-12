@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Package: The New World
+Language: en
+Canon Sequence: D-011-005
+Source Image: hiding-fear.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The blue pulse brightens under his palm; he clamps harder over the pouch, breath stalling as the glow leaks between stitching.
+[00:03-00:05] A distant low rumble rolls across the rock and dust sifts down; he flattens tighter into the shadow, eyes flicking toward the horizon without lifting his head.
+[00:05-00:08] The pulse fades to a faint throb; he exhales silently and shifts one knee to move deeper behind the outcropping before the next pulse can betray him.
+
+Slow dolly-in on his hands and face as the pulse intensifies.
+Audio: rising wind, distant low rumble, grit sliding on stone, cloth strain, muffled breath, faint artifact throb, far wave slap. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

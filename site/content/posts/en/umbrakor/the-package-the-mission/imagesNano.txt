@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Package: The Mission
+Language: en
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:Photorealistic top-down view of a scarred wooden table in Zaelar's violated study: a parchment spread with a complex crossing diagram toward Wyrmreach, dense ink lines and arcane marks with no readable characters, corners pinned by two hands as the plan is explained. Candlelight is the key source, warm amber pooling across paper fibers and casting interactive shadows from spilled glass shards and a toppled instrument; cold dawn from a cracked window adds flat blue-grey fill at the table edge, keeping soot and dust matte. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "Power beyond a drow's imagination.")
+prompt:Photorealistic close-up on Zaelar's raised hand as a small, perfect sphere of storm-light crackles above his palm, tiny arcs crawling over skin and snapping into the air; shattered glass and scattered papers blur behind. The sphere is the diegetic light source, cold blue-white and hard, casting sharp specular highlights on knuckles and glass edges and throwing jittering shadows across the table, with faint warm candle spill barely visible under the electric glow. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the electric glow. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "Find Szoravel.")
+prompt:[Face_Reference: Drusniel]. Expression: intent stare with grief held down, direction landing behind his eyes; fingertips hovering, careful. Extreme close-up on a parchment as a single name is underlined in dark ink (no readable letters), paper fibers raised where the quill pressed. Candlelight rakes low across the grain and ink ridge, interactive warm highlights catching every tooth of the parchment; cold dawn fill keeps the surrounding debris muted and blue-grey. Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, shallow depth of field, film grain visible, slightly out of focus background. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "I'll do it.")
+prompt:[Face_Reference: Drusniel]. Expression: face set in stone, eyes steady, jaw locked, a single controlled nod. Portrait in the wrecked study with drifting smoke and the broken doorway blurred behind, hourglasses faintly visible on a shelf like time still moving. Cold dawn slices across one side of his face; a nearby candle adds weak warm fill from below, interactive highlights catching pores and the edge of his lip without smoothing skin. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "We begin immediately.")
+prompt:[Face_Reference: Drusniel]. Expression: focused and silent, hands precise despite fatigue as he commits to leaving. Medium shot of him fastening a travel cloak clasp and checking a leather strap near his chest while scattered papers (no readable text) and an intact locked cabinet sit behind. Candlelight throws warm amber across fingers and worn leather, interactive sheen revealing scratches and creases; cold dawn fill from the window keeps the room edges flat and uneasy. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

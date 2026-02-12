@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Black Garden: The Terms
+Language: en
+Canon Sequence: D-021-005
+Source Image: talryn-sends-a-signal.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] At the midday halt, Talryn stands at the clearing’s edge, motionless. Her gloved thumb finds something hidden in her belt pouch and presses once. The flowers at the perimeter rustle, then go still.
+[00:03-00:05] She presses a second time — a tiny tactile click. Elion’s head turns without shifting his body. Drusniel pauses mid-bite, eyes tracking Talryn’s hand while Srietz stays silent.
+[00:05-00:08] Talryn lowers her hand and resumes watching the path behind as if nothing happened. In the background, the group gathers their packs. The flower rows lean subtly toward the clearing, listening.
+
+Slow push-in from the group to Talryn’s belt pouch and gloved hand.
+Audio: faint campfire crackle, dry petals crunch, low floral rustle, small leather creak, two soft clicks, distant chemical wind hiss, restrained breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

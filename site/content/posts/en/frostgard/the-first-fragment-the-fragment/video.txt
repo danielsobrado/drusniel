@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The First Fragment: The Fragment
+Language: en
+Canon Sequence: W-020-003
+Source Image: maris-collapse.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Handheld push-in as Maris drops like her body disconnects; Balin catches her hard, hands shaking her shoulders while frost vapor bursts from their mouths in the cold chamber air.  
+[00:03-00:05] The push-in continues past them to the pedestal; the Beacon and fragment pulse in perfect synchrony, a seam on the Beacon flexing as if something inside shifts.  
+[00:05-00:08] The camera holds close as Dulint jolts back to himself, opens his hands, and the fragment clinks against stone; Eldric snaps into motion, turning toward the exit as the hum deepens and the chamber seems to listen.
+
+Camera movement: Handheld push-in from Maris to the pedestal.  
+Audio: wet cough and ragged breathing, cloth scrape on ice, low hum rising, faint crystalline ringing, boots scuffing stone, lantern wick hiss. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

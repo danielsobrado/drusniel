@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Seer's Warning: The Visit
+Language: en
+Canon Sequence: W-016-002
+Source Image: dulint-hears-failure.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint's breath catches and fogs in the cold air; his braced hand tightens against the stone and grit slides under his glove as he steadies himself.
+[00:03-00:05] The fire behind him flares briefly and the smoke lifts in a thin ribbon, throwing the Seer's silhouette into sharper relief before it softens again.
+[00:05-00:08] Dulint swallows hard, shoulders sagging a fraction as the shock settles into dread; dust motes drift through the mixed light and the cave grows quiet except for the fire.
+
+Dolly in.
+Audio: small fire crackle, wind hiss at the cave mouth, cloth creak, a single swallow, faint stone drip, soft ash shift on rock. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

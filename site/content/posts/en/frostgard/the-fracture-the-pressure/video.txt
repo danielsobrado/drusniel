@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Fracture: The Pressure
+Language: en
+Canon Sequence: W-022-001
+Source Image: dulint-worry.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon’s pulse leaks through canvas in Dulint’s lap, lighting his braced hand in cold flashes. Campfire embers pop and smoke drifts under low branches; the forest feels too quiet.
+[00:03-00:05] Balin crouches into frame and offers a cup of water. Dulint hesitates, then takes it without meeting his nephew’s eyes. The next pulse reflects as a sharp blue-white line across the water’s surface.
+[00:05-00:08] Dulint drinks. The firelight warms his knuckles, then the Beacon pulses again — brighter — and the shadows of fallen trees swallow the edges of the camp. He lowers the cup and keeps his hand on the pack as if holding the light down.
+
+Slow dolly in from the pulsing canvas to Dulint’s face.
+Audio: fire crackle, soft leaf-litter crunch, low distant wind through needles, a faint electrical hum with each pulse, cup clink, restrained breathing, smoke hiss. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

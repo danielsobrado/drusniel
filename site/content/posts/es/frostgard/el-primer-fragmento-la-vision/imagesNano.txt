@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Primer Fragmento: La Visión
+Language: es
+Canon Sequence: W-020-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: black-water-vision.jpg
+role: header
+prompt:[Face_Reference: Maris]. Cuerpo rígido por la visión, expresión ausente. Agua negra infinita espesa como aceite bajo cielo de piedra, bote pequeño sin estela; Maris flota sin hundirse. Resplandor bioluminiscente tenue desde abajo perfila ondas y partículas, la línea de agua se vuelve un filo enfermo; brillos se dispersan como motas frías sobre la superficie. Sony A7R V 24mm f/1.4 GM Cinestill 800T, grano visible, ligera subexposición, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: drow-hand.jpg
+role: mid_01 (placed after sentence "Los dedos eran grises en las puntas, como si los hubieran sumergido en ceniza.")
+prompt:Macro extremo: brazo delgado sobre el borde del bote, dedos largos rozando agua negra, puntas grises, articulaciones torcidas; gotas se aferran y caen. Brillo bajo la superficie ilumina la parte inferior de los dedos y hace relucir ondas espesas; el borde del bote queda casi negro, reflejos se estiran en brillos deformados. Sony A7R V 100mm f/2.8 GM macro Cinestill 800T, grano visible, poca profundidad de campo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: drow-face-mid.jpg
+role: mid_02 (placed after sentence "Y ojos. Ojos que brillaban con una tenue luminiscencia en la oscuridad absoluta, como brasas enterradas en ceniza húmeda.")
+prompt:[Face_Reference: Drusniel]. Cabello empapado pegado, ojos levemente luminosos, mirada desesperada deliberada. Retrato en línea de agua, el agua negra distorsiona la parte baja del rostro, ondas resisten. Brillo tenue desde abajo y luminiscencia de ojos crean reflejos fríos en piel mojada y destellos como cuentas en el borde, microgotas brillan como puntos. Sony A7R V 85mm f/1.4 GM Cinestill 800T, grano visible, poca profundidad de campo, textura natural de piel, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: help-me-scream.jpg
+role: mid_03 (placed after sentence "Su boca se abrió.")
+prompt:[Face_Reference: Drusniel]. Boca abierta en dolor, garganta tensa, ojos fijos. Onda de choque distorsiona la superficie negra, burbujas suben, cámara demasiado cerca; la línea de agua tiembla y emborrona reflejos. Brillo bajo el agua y ojos atrapan bordes y gotas, brillos deformados saltan con ligera halación en puntos fuertes. Sony A7R V 50mm f/1.2 GM Cinestill 800T, grano visible, ligero desenfoque en ondas, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-waking.jpg
+role: mid_04 (placed after sentence "Volvió gritando.")
+prompt:[Face_Reference: Maris, Balin, Eldric, Xandor]. Maris convulsiona y grita con sangre; Balin sujeta hombros; Eldric inmoviliza piernas; Xandor presiona trapo. Noche en barranco, tierra y roca fría, vaho del aliento, charco de sangre creciendo mientras el Faro pulsa. Linterna entornada aporta parpadeo cálido; destellos azul-blanco del Faro tallan reflejos duros en sangre húmeda y tela, sombras profundas alrededor. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, leve vibración de mano, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

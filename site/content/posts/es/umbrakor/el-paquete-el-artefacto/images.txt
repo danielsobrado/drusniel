@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: El Artefacto
+Language: es
+Canon Sequence: D-011-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: artifact-box.jpg
+role: header
+prompt:[Face_Reference: Zaelar] Photorealistic, waiting with composed control; hands steady beside the tools. [Face_Reference: Drusniel] Hollow exhaustion with wary focus; approaching like every step is a decision. Morning inside Zaelar's tower as grey light filters through shutters onto a worktable laid out with maps and travel provisions; at the center, a small ancient dark metal plate pulses faintly like a heartbeat while dust and candle soot cling to paper edges and wood grain. Cold window light stays flat and blue-grey, while a single candle pools warm amber across the table and catches scuffs and grime in the plate's grooves. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: opening-box.jpg
+role: mid_01 (placed after sentence "Pulsaba levemente, como un latido.")
+prompt:Photorealistic macro close-up of the dark metal plate on the table: palm-sized geometric shape, etched symbols that seem to shift when viewed straight on, with tiny scratches and grime packed into the grooves; nearby map paper and tool metal blur at the edges of frame. The plate emits a faint cool pulse that paints thin blue-grey reflections on paper fibers, while candlelight adds warm amber rim that reveals micro-scratches without blowing out highlights. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible, slight vignetting. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-touching.jpg
+role: mid_02 (placed after sentence "Drusniel presionó. Se concentró.")
+prompt:[Face_Reference: Drusniel] Photorealistic, face tense with concentration; breath held, thumb steady as he follows the instruction. [Face_Reference: Zaelar] Close and guiding; eyes fixed on the symbol, expression unreadable. Tight shot of Drusniel pressing his thumb to a specific symbol on the plate while Zaelar guides from the side, maps and provisions scattered around the worktable. Candlelight and grey shuttered daylight mix across their hands, warm amber catching pores and knuckle ridges while cold fill keeps the room edges flat. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: weight-of-object.jpg
+role: mid_03 (placed after sentence "El mundo se volvió silencioso.")
+prompt:[Face_Reference: Drusniel] Photorealistic, eyes widening and breath caught as the effect hits; shoulders tightening like his body no longer recognizes its own presence. Reaction portrait with the plate still under his thumb on the table and Zaelar blurred in the background watching intently, the wrecked study pressing in around them. Candlelight provides low warm key from below, throwing hard-edged shadows under cheekbones, while cold shuttered daylight adds thin blue-grey fill that makes the room feel suddenly empty. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: hiding-artifact.jpg
+role: mid_04 (placed after sentence "Drusniel guardó el artefacto en su paquete.")
+prompt:[Face_Reference: Drusniel] Photorealistic, face set with determined numbness; hands precise as he packs without looking back. Medium shot of Drusniel sliding the plate into a protective pouch and tucking it into his travel pack, fingers brushing the Vrinn dagger at his belt as straps and worn fabric fill the frame; the plate's faint pulse barely shows through the pouch seam. Candlelight adds warm amber highlights to stitching and leather grain, while cold shuttered daylight keeps the background flat and grey. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

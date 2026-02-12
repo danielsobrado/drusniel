@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The First Fragment: The Fragment
+Language: en
+Canon Sequence: W-020-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dulint-touching-fragment.jpg
+role: header
+prompt:[Face_Reference: Dulint] Shock-blank stare, knuckles white, hands wrapped around the fragment as if he can't let go. Dulint stands at the seamless stone pedestal in the living-ice chamber; the Beacon sits beside the fragment, and both objects pulse in perfect synchrony, the air full of frost vapor and unreadable markings on translucent walls. Blue-white light from the fragment and Beacon bridges over his fingers and the pedestal, refracting through the ice and throwing sharp specular highlights with faint violet fringes along etched lines. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight halation in the brightest glow, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: beacon-alive.jpg
+role: mid_01 (placed after sentence "The Beacon looked alive.")
+prompt:Macro close-up of the Beacon: smooth metal now split by fine seam-lines like veins, one seam widening for an instant to reveal wet organic movement inside before sealing again. The Beacon's cold blue-white internal pulse is the only light, catching condensation beads and micro-scratches, making the seam edges gleam and casting hard double shadows into the cracks. Canon EOS R5 100mm macro Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-collapse.jpg
+role: mid_02 (placed after sentence "\"You dropped.\"")
+prompt:[Face_Reference: Maris] Going slack mid-step, eyes unfocused, mouth blood-wet, as if her body disconnected. [Face_Reference: Balin] Panic and helpless urgency as he catches her, hands locked on her shoulders, shaking her to bring her back. Wide action in the ice chamber: the pedestal and fragment glow behind them, walls of translucent ice and ancient markings framing the fall. Fragment light and Beacon pulse create cold blue-white side-light that freezes motion and throws crisp highlights on breath fog and wet stone. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight motion blur in Balin's hands, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: fragment-pack.jpg
+role: mid_03 (placed after sentence "He picked it up.")
+prompt:Close interior shot of an open travel pack: Dulint's hands place the dark fragment beside the Beacon; the moment they touch, the hum deepens and the synchronized pulse floods the leather interior. The twin blue-white glow creates sharp highlights on stitching, worn straps, and metal clasps, reflections skating across frost dust and damp leather while everything beyond the pack falls into blur. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, slight halation around the glow, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: fleeing-cave.jpg
+role: mid_04 (placed after sentence "We need to leave now.")
+prompt:[Face_Reference: Eldric] Driving them forward, eyes hard, weapon ready. [Face_Reference: Dulint] Moving fast with the pack clutched tight, breath ragged. [Face_Reference: Balin] Glancing back once, fear and resolve mixed. [Face_Reference: Maris] Unsteady but moving, blood at her lip, refusing to collapse again. [Face_Reference: Xandor] Urgent stride, watching the treeline and the sky. High-tension escape out of the fissure into cold daylight: wind throws snow-dust and grit, boots skid on rock, and the cave behind them glows faint blue for a beat before vanishing into shadow. Flat winter light and blowing snow create a desaturated palette while the Beacon's hidden pulse adds a cold rim that catches on straps and cheek edges. Canon EOS R5 24mm f/1.4 Kodak Ektar 100, film grain visible, slight handheld shake, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Segunda Elección: La Voz Regresa
+Language: es
+Canon Sequence: D-017-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: deeper-passage-while-they-sleep.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Gaunt from hunger, sleepless eyes; breath controlled, steps measured. He walks alone through branching obsidian corridors while his companions sleep far behind, counting distance under his breath and memorizing turns against his limited ability to retrace the path; the cave twists like a maze of black glass with sharp reflections and dead silence. Cold cyan-green phosphorescence from ceiling growth provides weak top-light that skims wet obsidian and throws long dark falloff, while occasional blue-white pulses from the Beacon add brief hard glints that jump along corridor edges. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight halation in highlights, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: counting-five-hundred-steps.jpg
+role: mid_01 (placed after sentence "Contó sus pasos automáticamente—doscientos, trescientos, cuatrocientos—rastreando la distancia contra su limitada capacidad de rehacer el camino.")
+prompt:[Face_Reference: Drusniel] Lips barely moving, eyes locked ahead; tension in jaw as he counts. Mid-stride in the tunnel, he tracks each step with obsessive precision, turning his head to mark the last junction and the next, boots scraping softly on glassy rock. Ceiling phosphorescence creates cold rim highlights on obsidian facets and faint reflections that duplicate him in broken strips, while the Beacon pulse adds intermittent blue-white catchlights in his eyes and on wet stone. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, shallow depth of field, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: the-voice-chooses-this-moment.jpg
+role: mid_02 (placed after sentence "A los quinientos pasos, la voz llegó.")
+prompt:[Face_Reference: Drusniel] Freeze response, eyes widened then narrowed; head slightly turned as if listening inward. At five hundred steps he stops in a deeper passage, body rigid as a presence fills the space without sound, the corridor behind collapsing into black while he holds his breath and waits for words that never touch the air. Cold phosphorescence draws a thin halo on shoulders and cheek edge, and the Beacon's pulse throws brief blue-white highlights that make the obsidian reflections twitch like something alive. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: knowledge-like-a-migraine.jpg
+role: mid_03 (placed after sentence "La información llegó como una migraña—repentina, invasiva, imposible de ignorar.")
+prompt:[Face_Reference: Drusniel] Eyes squeezed shut, jaw clenched; hands clawing at temple as pain spikes. The information hits and he drops to his knees in the obsidian corridor, breath ragged, shoulders hunched as if trying to keep something from forcing its way deeper. Ceiling phosphorescence and wet-stone reflections create harsh cold highlights on sweat and knuckles, while a stronger Beacon pulse flashes blue-white across the wall in stuttering bursts, making the moment feel invasive and inescapable. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight motion blur in hands, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: two-debts-now.jpg
+role: mid_04 (placed after sentence "Se puso de pie, se orientó hacia el camino de regreso, y comenzó la caminata de quinientos pasos de vuelta para decirles a los otros lo que había aprendido—y solo algo de cómo lo había aprendido.")
+prompt:[Face_Reference: Drusniel] Grim acceptance, eyes steady; one hand briefly pressed to sternum before dropping. He stands, orients toward the return path, and starts the five-hundred-step walk back, counting again as the corridor ahead and behind looks identical, indifferent; his pace is controlled, but the weight of what he agreed to rides in every pause. Cold phosphorescence stretches thin highlights along obsidian edges and leaves the rest in black, while the Beacon pulse adds intermittent blue-white glints that travel with him like a metronome. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight halation in highlights, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

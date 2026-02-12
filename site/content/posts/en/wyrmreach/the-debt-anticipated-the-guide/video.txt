@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Debt Anticipated: The Guide
+Language: en
+Canon Sequence: D-023-001
+Source Image: talryn-standing-over-drusniel.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Static shot. Talryn stands motionless over the sleeping figure. Only her eyes move — a slow, deliberate scan downward across his body, cataloguing. The dying campfire embers pulse faintly.
+[00:03-00:06] Her weight shifts imperceptibly. One hand opens and closes at her side. Steam drifts across the background from a volcanic fissure, catching the ember glow. Ash particles drift.
+[00:06-00:08] She lifts her gaze to the dark perimeter. Her jaw sets. She turns and walks away, boots soundless on volcanic rock, swallowed by darkness.
+
+Locked-off camera, low angle from ground level. Slight handheld shake.
+Audio: deep volcanic rumble, faint crackling embers, wind through stone. Breathing — hers, controlled and steady. His, restless. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

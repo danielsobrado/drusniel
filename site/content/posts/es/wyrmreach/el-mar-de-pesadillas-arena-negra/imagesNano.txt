@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: El Mar de Pesadillas: Arena Negra
+Language: es
+Canon Sequence: D-009-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: merrik-finds-him-on-black-sand.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Exhausted, lying on hot sand, skin streaked with salt and grit. [Face_Reference: Merrik]. Weathered human, calloused hands, evaluating eyes, crouching by a small campfire. Black volcanic sand shore under a red-tinged perpetual twilight sky. Behind them the black water laps and a battered boat rests half submerged.
+Environment: Wyrmreach volcanic coast, Scavenger's Stretch. Campfire throws warm orange-amber light upward onto faces and torsos. Red volcanic glow from the distant horizon provides ambient fill. Black volcanic sand composed of angular basalt fragments retains heat, visible as slight shimmer. Sulfurous haze hangs at head height. Ash particles drift slowly. The fire is small, driftwood-fed, black wood burning with orange-blue flame.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: waterskin-at-his-lips.jpg
+role: mid_01 (placed after sentence "Lo sostuvo contra los labios de Drusniel, dejándolo beber en pequeños sorbos que ardían al bajar.")
+prompt: [Face_Reference: Drusniel]. Cracked lips, raw throat, skin damp with sweat. [Face_Reference: Merrik]. Eyes evaluating without softness, holding a worn waterskin to Drusniel's lips. Tight close-up, small burning sips. Firelight flickers warm on both faces.
+Environment: Campfire close-up zone. Warm firelight from below catches sweat on skin, casting upward shadows on brow ridges and cheekbones. The waterskin leather is worn, cracked, stained with use. Water catches firelight as it flows. Salt crystals dry on Drusniel's jaw line. Merrik's calloused fingers show dirt in the creases.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores and imperfections. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: szoravel-name-spoken.jpg
+role: mid_02 (placed after sentence "La mente de Drusniel trabajó torpemente, tratando de recordar el nombre que Zaelar le había dado.")
+prompt: [Face_Reference: Drusniel]. Struggling upright by the fire, forcing out a name. [Face_Reference: Merrik]. Expression flickering with brief recognition before turning neutral. Camp small and exposed on black sand. Strange crystal formations and wrong-colored plants in the distance.
+Environment: Campfire on Scavenger's Stretch. Campfire light from below illuminates both faces asymmetrically. Red twilight sky fills the background. Crystal formations in the mid-distance catch red light and refract it into wrong spectral colors. Black sand surrounds the camp with no shelter. The air carries visible sulfur haze.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: strange-hot-broth.jpg
+role: mid_03 (placed after sentence "El caldo estaba caliente.")
+prompt: Close-up on a rough bowl of steaming broth near the campfire. Fat and unfamiliar herbs swirl on the surface. Black driftwood feeds the flames. Ash and sulfur haze in the distance. Red-tinted light makes the food look unfamiliar but desperately warm.
+Environment: Campfire still life. Firelight from below catches the steam rising from the broth in golden threads. The bowl is rough-hewn, local stone or fired clay. Herbs floating on the surface are wrong colors for familiar species. Black driftwood burns with blue-orange edges. The red twilight provides ambient fill making the broth surface glow amber.
+Camera: Sony A7R V 50mm f/2.0 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: sleep-by-the-coast-fire.jpg
+role: mid_04 (placed after sentence "Se recostó en la arena negra, aún caliente del calor del día—si este lugar tenía días.")
+prompt: Night-like twilight on black sand. Drusniel sleeps curled near the small fire. The red-gray sky diffuses light without a visible sun. The sea whispers behind. The battered boat sits at the waterline. The fire throws a practical circle of safety into the wrong-colored world.
+Environment: Wyrmreach volcanic coast at rest. Campfire provides warm light in a small radius, falling off into darkness beyond five meters. Red-gray sky provides diffuse ambient with no directional source. Black sand retains heat, visible as slight shimmer near the fire. The sea beyond is dark, lapping normally at the sand. The boat is silhouetted against the water. Distant volcanic glow pulses on the horizon.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

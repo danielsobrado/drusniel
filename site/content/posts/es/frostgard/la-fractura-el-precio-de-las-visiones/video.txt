@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La Fractura: El Precio de las Visiones
+Language: es
+Canon Sequence: W-022-003
+Source Image: drow-connection.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon’s pulse intensifies inside the canvas pack and the campfire smoke stutters in the cold air. Maris’s breathing goes shallow as she stares down, unmoving.
+[00:03-00:05] The puddle at her feet ripples outward on its own. In the reflection, a submerged hand surges up from below and bubbles burst against the surface in a quick, choking rush.
+[00:05-00:08] The pulse drops back to a steady beat. The reflection wavers and fades into dark water again as the ripples widen and die; Maris exhales, fingers loosening around her cup while the fire keeps crackling.
+
+Slow dolly-in from Maris’s profile to the puddle reflection.
+Audio: campfire crackle, low wind through pines, faint artifact hum synced to the pulse, wet leaves shifting, soft water gurgle, bubbles popping, one sharp inhale and a slow exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

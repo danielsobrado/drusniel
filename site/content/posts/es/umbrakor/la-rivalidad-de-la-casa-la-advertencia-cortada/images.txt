@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Advertencia (Cortada)
+Language: es
+Canon Sequence: D-009-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: smoke-under-door.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Instant dread, eyes watering as the smell hits; body leaning forward into a run before his mind catches up. Service passage inside the compound: chemical smoke seeping under a reinforced door seam and rolling along the floor, bioluminescent corridor lights dead, black stone walls sweating with damp, the air thick enough to taste. A single distant emergency lantern (barely seen) throws a weak warm flicker that turns the smoke into layered amber-grey bands; faint residual blue-green fungal stains in the stone add cold edge highlights along the floor and doorframe. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed, slight haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: assassin-attack.jpg
+role: mid_01 (placed after sentence "Una forma se materializó del humo.")
+prompt:[Face_Reference: Drusniel] Pure survival focus, eyes wide, breath tearing as he throws himself sideways. A masked, armored assassin lunges out of the chemical smoke, blade rising without hesitation; Drusniel’s body twists low to avoid the strike in the narrow corridor, stone walls close enough to scrape cloth. Warm flicker from a dropped torch or shuttered lantern glints along the blade edge and beads in the smoke, while the rest of the corridor stays almost black; the smoke catches the light in streaks that emphasize the speed of the attack. Sony A7R IV 35mm f/1.4 Cinestill 800T, film grain visible, slight motion blur, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: air-magic-defense.jpg
+role: mid_02 (placed after sentence "El atacante tropezó hacia atrás. Solo un paso. Solo lo suficiente.")
+prompt:[Face_Reference: Drusniel] Desperation turning into grit, teeth clenched as pain blooms behind his eyes; fresh blood at his nose. Drusniel thrusts a hand forward and forces a compressed burst of air through the smoke, the invisible shockwave snapping the assassin back a single step as the corridor briefly clears in a cone and dust whips sideways. The only light is diegetic: warm torch/lantern flicker from down the hall and a faint cyan fungal wash from a wall crack; both lights strobe through the moving smoke, creating hard, shifting highlights on armor edges and wet stone. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed, slight motion blur in whipping smoke. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: dead-servant.jpg
+role: mid_03 (placed after sentence "El cuerpo de un sirviente yacía desplomado en la unión. Ojos abiertos. Garganta cortada.")
+prompt:High-angle corridor junction: a servant’s body crumpled on the stone, eyes open, throat cut, one dropped keyring half-hidden in dust; chemical smoke pools near the floor and climbs the walls in slow curls, implying the violence deeper in the dark. A distant torch flicker provides the only warm light, catching glossy wet patches on stone and turning the smoke into amber layers; a faint blue-green fungal stain adds cold edge highlights to the corpse’s silhouette and the corridor lip. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: ceiling-collapse.jpg
+role: mid_04 (placed after sentence "El techo colapsó.")
+prompt:[Face_Reference: Drusniel] Shock and refusal, arms up to shield his face as he tries to move toward her. [Face_Reference: Shyntara] Battle focus mid-turn, reaching back toward him as she pivots toward the attackers. Catastrophic moment in the smoke-filled corridor: stone and timber crash down between them, debris exploding outward, dust swallowing the frame while a slice of Shyntara remains visible through the haze on the far side. Torchlight and small flames in the rubble provide harsh warm flicker that catches flying dust and sparks; cold cyan fungal residue along the wall gives a thin rim that outlines falling stones. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, fast shutter look with slight motion blur in debris, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

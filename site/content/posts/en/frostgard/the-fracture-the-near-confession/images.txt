@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Fracture: The Near-Confession
+Language: en
+Canon Sequence: W-022-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-watch.jpg
+role: header
+prompt:[Face_Reference: Dulint] Quiet dread and restraint, eyes on the treeline, one hand resting near the axe at his belt. [Face_Reference: Balin] Tense focus, sword laid across his knees, scanning the forest for movement. Clear Frostgard night at the watch point: both dwarves sit on a flat rock above a dark pine canopy, breath fogging in the cold air while a faint ember-glow from the sleeping camp stains the ground far below. Cold moonlight and starlight are the only illumination, casting crisp blue-grey highlights on steel and wet stone; shadows between trunks fall to near-black. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: stonehold-memory.jpg
+role: mid_01 (placed after sentence "Sitting together on the wall above the lower mines in Stonehold, watching the torchlight flicker against the cavern ceiling, talking about nothing important.")
+prompt:[Face_Reference: Dulint] Softer eyes, the guarded weight absent for a moment. [Face_Reference: Balin] Younger brightness and curiosity, leaning in close as if listening to a story. Memory scene in Stonehold: Dulint and Balin sit side-by-side on a stone wall above the lower mines, orange torchlight flickering against a soot-dark cavern ceiling while dust motes drift through the warm air. Torch flames are the diegetic light source, throwing moving amber highlights across rough-hewn stone and catching in the floating dust; the background falls away into deep shadow beyond the torch radius. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slight vignette, softened edges like a remembered moment, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: twig-snap.jpg
+role: mid_02 (placed after sentence "A branch snapped.")
+prompt:Macro close-up of a snapped branch on the forest floor, fresh splinters exposed and a few crushed needles pressed into damp soil; a single boot print and disturbed leaf litter suggest sudden movement. Cold moonlight cuts hard from above through bare branches, turning dew into sharp white specular points and pushing everything else into deep shadow; the broken wood glows pale against near-black ground. Sony A7R IV 100mm macro Kodak Ektar 100, shallow depth of field, film grain visible, slight motion blur in the nearest needles, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: hunters-probing.jpg
+role: mid_03 (placed after sentence "They were testing the perimeter.")
+prompt:Long-lens view into the treeline: multiple shadowy figures shift between trunks with controlled, deliberate timing, never fully stepping into the open; a faint glint of metal appears and vanishes as they probe the perimeter. Cold moonlight filters through high branches in thin blue-grey shafts, catching bark texture and throwing hard-edged silhouettes; the figures remain mostly in darkness with only occasional edge light along shoulders and weapons. Canon EOS R5 85mm f/1.4 Kodak Portra 400, high-ISO grain visible, slight motion blur on the moving silhouettes, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: running-away.jpg
+role: mid_04 (placed after sentence "Balin, run.")
+prompt:[Face_Reference: Balin] One-beat panic turned into purpose, eyes wide and locked on the camp ahead, breath ragged in the cold. Balin sprints through the dark Frostgard forest toward the sleeping camp, sword clutched tight as branches whip past and roots blur underfoot; behind him, the watch point vanishes into shadow. Moonlight is the only key light, breaking into fast-moving highlights on wet leaves and steel as he runs; a faint warm ember-glow ahead adds a thin amber rim on his sleeves and the trailing edge of his beard. Canon EOS R5 35mm f/1.4 Cinestill 800T, motion blur in the background, film grain visible, slight handheld shake, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

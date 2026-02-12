@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Stable Image
+Language: en
+Canon Sequence: W-012-002
+Source Image: vision-boat-black-water.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The boat rocks and the black water swells as if breathing; wet wood creaks while a shadow passes beneath the surface without breaking it.
+[00:03-00:05] A sudden gust snaps the air; ripples tighten into hard glossy bands and the boat pitches, sending thick droplets sliding like oil.
+[00:05-00:08] Something reaches up and misses; the surface folds over the disturbance and returns to an unnatural calm, the boat left empty and rocking.
+
+Slow push-in at water level toward the rocking boat.
+Audio: thick water slosh, wood creak, low underwater thrum, wind surge, distant indistinct screaming-like noise overhead. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

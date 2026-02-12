@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Clear Sight: The Building
+Language: en
+Canon Sequence: W-024-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-walking-dark-forest.jpg
+role: header
+prompt:[Face_Reference: Maris] Pained grimace, two fingers pressed against her left eye socket. [Face_Reference: Dulint] Watchful, walking beside her. Five travelers on a narrow frost-covered trail through dense ancient pines, breath visible in cold air. Overcast winter daylight filtering grey-blue through the canopy, diffused by atmospheric fog. Canon EOS R5 35mm f/2.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: maris-reflection-dark-water.jpg
+role: mid_01 (placed after sentence "Her reflection didn't look like her anymore.")
+prompt:[Face_Reference: Maris] Hollow cheeks, deep bruise-colored circles under both eyes, bloodshot left eye. Face reflected in a patch of dark water between fractured ice on a frozen forest stream, frost framing the edges. Pale winter light bouncing off the ice surface, cold and desaturated. Canon EOS R5 85mm f/1.4 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: dulint-catches-maris.jpg
+role: mid_02 (placed after sentence "Dulint caught her before she hit the ground.")
+prompt:[Face_Reference: Dulint] Concern masked as gruffness, thick hand gripping her elbow. [Face_Reference: Maris] Pale, unsteady, mid-stumble. Dulint catches Maris on a frost-covered forest trail, pine trunks surrounding them. Weak daylight barely penetrating the canopy above, cold grey ambient fill. Sony A7R IV 50mm f/1.8 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: beacon-glow-through-pack.jpg
+role: mid_03 (placed after sentence "The Beacon pulsed in Dulint's pack, each surge brighter than the last.")
+prompt:[Face_Reference: Dulint] Standing near the pack, weathered face half-lit by amber glow. Heavy canvas backpack on frost-covered ground, warm amber-gold light pulsing through the fabric in rhythmic surges, casting shifting patterns on pine needles and frozen earth. The Beacon's amber-gold glow from inside the pack, warm against the cold blue forest. Canon EOS R5 50mm f/1.8 Kodak Portra 400, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-grabs-arm.jpg
+role: mid_04 (placed after sentence "Something terrible is happening to him right now.")
+prompt:[Face_Reference: Maris] Wide eyes, terrified urgency, white knuckles gripping a leather bracer. [Face_Reference: Dulint] Looking down at her grip with alarm. Maris clutches Dulint's forearm on the dark forest trail, her fingers pressing desperately into leather. Dim winter light filtering through pines, cold ambient glow on pale skin. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

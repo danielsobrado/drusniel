@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Sangre en la Oscuridad: La Matanza
+Language: es
+Canon Sequence: D-010-002
+Source Image: drusniel-scream-air.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel’s grief spikes and the air detonates outward, whipping smoke into a tight spiral. Loose papers and dust blast across the hall as torch flames bend sideways.
+[00:03-00:05] The nearest assassins stagger and brace, boots grinding on stone. Their armor clicks as they recover and step forward through the pressure.
+[00:05-00:08] Drusniel’s breath catches; he pivots hard and runs into the haze toward the side passage, leaving the torches guttering behind him as the smoke swallows the frame.
+
+Static wide shot letting the pressure wave fill the frame.
+Audio: raw scream (no words), torch roar and sputter, paper slap, dust hiss, armor clink, boots scrape on stone, ragged breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

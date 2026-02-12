@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Hombre Amable: La Tierra Extraña
+Language: es
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: first-clear-view-of-wyrmreach.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, standing for the first time with legs shaking; stubborn focus despite weakness, magic-emptiness held close. [Face_Reference: Merrik] Steady, guiding hand at Drusniel’s elbow, expression calm and unreadable. Outside the tarp shelter on a black-sand coast, Drusniel takes his first unsteady steps into Wyrmreach: black dunes stretch toward crystal-like formations that seem to subtly misalign when not stared at, and wrong-colored plants cling in deep purples, sick greens, and bruised reds; far off, a volcanic glow pulses on the horizon like a heartbeat. Diffuse red-grey twilight from the sky fills the scene with flat, uneasy light, while the distant volcanic glow adds a faint warm-orange edge along the horizon and a thin rim on the nearest crystal facets. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slight motion blur in Drusniel’s trembling stance. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: crystals-that-wont-stay-still.jpg
+role: mid_01 (placed after sentence "Arena negra se extendía hacia formaciones que parecían cristal pero se movían ligeramente cuando no las miraba directamente.")
+prompt:Photorealistic close-up of jagged crystal formations rising from black sand, faceted like mineral deposits but subtly misaligned as if they shift between glances; edges feel unstable at the focus plane, with wrong-colored plants clinging at the base in deep purples and sick greens. Red-grey twilight from the sky provides cold diffuse fill, while a faint volcanic glow on the horizon catches the crystal edges in warm pinpoints and throws thin highlights across individual facets. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: merrik-points-east.jpg
+role: mid_02 (placed after sentence "Merrik señaló.")
+prompt:[Face_Reference: Merrik] Photorealistic, arm extended, pointing with quiet authority. [Face_Reference: Drusniel] Sharp, tired stare locked on the direction, posture rigid to hide weakness. Merrik points east toward the pulsing volcanic glow and the contested lands beyond, the unclaimed black-sand coast stretching behind them with shifting crystal formations and bruised plants like a warning. Diffuse twilight sky gives flat red-grey fill, while the distant volcanic glow adds a warm rim along Merrik’s pointing hand and catches the edge of Drusniel’s cheek in a thin orange line. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: valuable-survivors-warning.jpg
+role: mid_03 (placed after sentence "Las personas que cazan supervivientes del cruce—pagan bien por información.")
+prompt:[Face_Reference: Merrik] Photorealistic, calm and practical as he warns, eyes calculating. [Face_Reference: Drusniel] Expression hardening at the word valuable, attention sharpening into threat-assessment. Close two-shot on the black-sand coast as Merrik speaks of hunters who pay for survivors; the shifting crystals and wrong-colored plants stretch behind them, making the warning feel immediate instead of theoretical. Warm firelight from the shelter behind them casts low amber side light that catches pores and knuckle ridges, while red-grey twilight fills the shadows with cold, flat color and keeps the horizon ominously alive. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: he-counts-the-delays.jpg
+role: mid_04 (placed after sentence "Drusniel contó.")
+prompt:[Face_Reference: Drusniel] Photorealistic, eyes sharp despite weakness; fingers counting deliberately, jaw tight with contained impatience. [Face_Reference: Merrik] Moving in the background with practiced calm, never hurried. Back under the tarp shelter, Drusniel pauses over a bowl of food, counting questions and delays on his fingers while the canvas tugs and snaps in ash wind and the small fire keeps a thin thread of warmth alive. Firelight from low center frame throws warm orange across Drusniel’s hands and the rim of the bowl, while the shelter shadow and red-grey ambient at the tarp edge keep the background soft and dark. Canon EOS R5 50mm f/1.8 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

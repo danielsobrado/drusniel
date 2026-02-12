@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Northbound: The Kill
+Language: en
+Canon Sequence: W-018-004
+Source Image: staring-at-body.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Balin stands alone in the clearing, sword on the ground, staring at the body just off frame as misty breath hangs in the cold air.
+[00:03-00:05] Eldric steps in, grips Balin's shoulder, and pulls him away while Balin forces himself to look forward; the dead Grukmar stays behind in shallow focus.
+[00:05-00:08] They start moving, Maris joining on Balin's other side; the camera pulls back to show the group leaving the clearing while carrion birds begin to circle above.
+
+Pull back.
+Audio: wet leaves under boots, distant crow call, shallow breathing, quiet metal clink, soft wind through trees. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

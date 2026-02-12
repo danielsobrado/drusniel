@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Búsqueda de la Supremacía Mágica por la Teocracia Contiana
+Language: es
+Canon Sequence: CON-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: syrael-looks-up-at-tower.jpg
+role: header
+prompt:[Face_Reference: Syrael]. Ink-stained fingertips; robe hem pinched up in two fingers; expression: held-breath awe. Standing at the base of a spiraling limestone stairwell, looking straight up through the helical void as pale steps twist clockwise toward a ceiling lost in shadow; slit windows at uneven intervals; walls carved with severe geometric doctrinal markings not readable.
+Environment: Cold blue-white daylight slashes through the slit windows and repeats hard bands of light and deep shadow up the spiral. Cool highlights catch step edges and handrails while the interior drops to near-black; dust in the beams reads as fine white specks, and the carved markings stay legible as texture without readable words.
+Camera: Sony A7R V 16mm f/2.8 GM Kodak Ektar 100, film grain visible, slight chromatic aberration at the frame edges. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: halvek-addresses-assembly.jpg
+role: mid_01 (placed after sentence "habéis oído los rumores de la frontera.")
+prompt:[Face_Reference: Syrael]. Expression: controlled concentration, head down; quill moving fast. Minister Halvek addresses a semi-circle of scholars from an elevated dais; a dull metal rod lies on black cloth at the center; Syrael sits at the far edge in the scribe position, nearly invisible.
+Environment: Harsh pale morning daylight from tall windows flattens the room into clinical tones. Gold thread collars catch sharp specular glints, wet ink flashes tiny highlights, and the rod absorbs light with almost no specular response; dust motes drift in the window beams as the background falls off into soft shadow.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: halvek-prepares-instruments.jpg
+role: mid_02 (placed after sentence "Halvek se volvió hacia un conjunto de instrumentos de latón dispuestos sobre una mesa más pequeña: cuencos de agua bendita, una pizarra grabada con círculos, una fina cadena de eslabones de plata, y un pequeño prisma de cristal.")
+prompt:Close-up of brass instruments arranged with surgical precision on a stone table: bowls of blessed water, a slate etched with circles, a thin silver chain, and a glass prism on felt; Halvek's hands hover over the chain.
+Environment: Cold window light hits metal and water directly, creating sharp specular glints on individual links and mirror-like reflections across the water surface. The prism throws a faint spectral split onto the slate; thin oil smudges on glass flare briefly as the angle shifts, and water meniscus tension catches as a bright rim line.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, shallow depth of field, film grain visible, background softened. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: magic-fizzles-under-chain.jpg
+role: mid_03 (placed after sentence "El brillo regresó en débiles ráfagas, luego colapsó en nada.")
+prompt:Extreme close-up of bound wrists wrapped in a silver chain as a weak sickly blue-green shimmer tries to form above the knuckles, then thins from the center outward as if drained; tendons stand out with strain, sweat beading on skin where rope bites.
+Environment: The shimmer becomes the only colored light and loses against cold daylight, bleeding toward grey as if the chain is drinking the color. Blue-green highlights briefly rim the chain links and then vanish; halation blooms around the fading glow while sweat beads show dual reflections and the rope fibers cast thin shadows into the reddened skin.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, underexposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: syrael-records-fear.jpg
+role: mid_04 (placed after sentence "Lo ataremos con la ley.")
+prompt:[Face_Reference: Syrael]. White-knuckled grip on quill; bead of sweat at temple; eyes slightly too wide. Tight portrait at the scribe station as he writes dense notes not readable, jaw clenched to stay composed; behind him the empty dais and guards' shadows retreating through a doorway.
+Environment: Harsh window light is clinical and unforgiving, catching wet ink glints and perspiration sheen while the background falls away. Skin texture stays real with pores and micro-shine; a tiny ink smear on the cheek remains visible in the hard light as the quill tip digs into paper grain.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

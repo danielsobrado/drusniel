@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Voices in the Dark: The Distant Voice
+Language: en
+Canon Sequence: D-006-002
+Source Image: fading-connection.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] His outstretched hand stays frozen, then trembles as the last amber glow gutters out. Fingers curl slowly, missing what they were reaching for, and his breath catches in his throat.
+[00:03-00:05] A sharp wince. He drags a hand to his temples and presses hard behind his eyes, shoulders caving as the headache blooms and the room seems to tilt.
+[00:05-00:08] He sinks back into the pillows, staring upward without blinking while the cyan spill under the door holds steady. Dust motes drift and then settle as the silence returns.
+
+Slow pull-back from the reaching hand to a wider view of him alone in the bed.
+Audio: fabric rustle, shallow breathing, heartbeat thump, distant corridor torch hiss, a faint low hum that fades to nothing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

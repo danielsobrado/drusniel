@@ -1,0 +1,27 @@
+﻿# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Border Sign
+Language: en
+Canon Sequence: P-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: captains-map.jpg
+role: header
+prompt:[Face_Reference: Eldric]. Expression: flinty focus, jaw working; finger tracing a ridgeline. [Face_Reference: Varian]. Expression: stiff discipline, voice low and controlled. Eldric's desk is covered in overlapping maps with peeling corners, charcoal sketches and crumpled parchment scattered as Varian stands at attention in damp-smelling quarters. Candle stubs are the only light, warm and close; amber pools on parchment, highlights catch knuckle ridges and wax sheen, shadows fall hard across timber walls with deep falloff into corners. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, natural skin with pores. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: mist-patrol.jpg
+role: mid_01 (placed after sentence "They walked the old game trails in silence.")
+prompt:[Face_Reference: Varian]. Expression: building tension, eyes scanning the shrouds. [Face_Reference: Elric]. Expression: wary focus, spear held tight. They walk old game trails in silence through a skeletal forest as mist curls between trunks and swallows sound, the path disappearing ahead. Pale morning sun filtered through fog provides diffuse cool light; fog scatters light into soft fill, wet leaves and loam catch faint silver highlights, moisture beads reflect as tiny points along ferns. Sony A7R V 35mm f/1.4 GM Kodak Ektar 100, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: fresh-tracks.jpg
+role: mid_02 (placed after sentence "The prints were there. Clawed, splayed, and deep.")
+prompt:Macro top-down of clawed, splayed footprints pressed deep into slick loam, edges still wet as water seeps into the depressions, fern fronds and snapped twigs framing the fresh mark. Diffuse mist light is the only illumination, cold and even; grazing light creates tiny specular points on wet mud ridges while the center pools darker as water collects, background soft and unfocused. Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, slightly out of focus background, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: outpost-return.jpg
+role: mid_03 (placed after sentence "The outpost hunched ahead, a dark shape against the trees.")
+prompt:Wide dusk shot of the frontier outpost hunched ahead against the treeline, sharpened log palisade and watch platform small and vulnerable as fog gathers at the forest edge. Dusk and torch baskets provide the only light; cold sky backlight silhouettes the outpost while warm torchlight throws orange highlights on palisade faces, smoke catching halation and softening the far background to grey. Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: yard-report.jpg
+role: mid_04 (placed after sentence "Eldric waited in the torchlit yard.")
+prompt:[Face_Reference: Eldric]. Expression: worry held behind command, gaze distant. [Face_Reference: Varian]. Expression: exhaustion under discipline. Varian reports in the muddy yard as soldiers gather around cookfires and torches, smoke drifting low and boots tracking filth across the ground, palisade looming behind. Firelight is the primary light, warm and flickering; orange highlights move across faces and wet mud, reflections shimmer on damp cloth, and the forest beyond the gate stays absolute black. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

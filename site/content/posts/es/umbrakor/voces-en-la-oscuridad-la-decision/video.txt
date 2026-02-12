@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Voces en la Oscuridad: La Decisión
+Language: es
+Canon Sequence: D-006-004
+Source Image: stepping-out-gray.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] He steps out and freezes, blinking hard as the gray light stings his eyes. A thin mist curls past his boots and the damp air pulls his cloak and hair in small gusts.
+[00:03-00:05] He draws a deeper breath, shoulders shifting as he tastes the rain-cold air. His head turns slowly, scanning the treeline and the slope as if expecting the world to attack.
+[00:05-00:08] He takes two careful steps forward onto wet stone and looks out toward the hills. Behind him the tunnel mouth remains a black cut in the hillside as the mist thickens and then thins again.
+
+Slow pull-back from behind him, revealing the vast gray sky and the landscape ahead.
+Audio: low wind, damp leaf rustle, distant drip from the tunnel, boots on wet stone, cloth creak, a faint exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

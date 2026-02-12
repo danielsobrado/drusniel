@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Debt Anticipated: The Conversation
+Language: en
+Canon Sequence: D-023-003
+Source Image: elion-reveals-count.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Elion speaks. His mouth moves with measured calm, delivering weight. The campfire embers flicker, casting shifting orange light upward across both faces. Drusniel is still, listening.
+[00:03-00:06] Drusniel's expression shifts — subtle, devastating. His jaw tightens. His eyes widen fractionally, then go flat. The look of someone recalculating everything they thought they knew. The ember glow pulses.
+[00:06-00:08] Drusniel looks away. His hand finds the volcanic rock beside him and grips it. Elion watches him, waiting, knowing. Ash drifts between them.
+
+Static camera, locked off. Let the faces carry the shot.
+Audio: crackling embers, faint wind, distant volcanic rumble. The sound of a hand gripping stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy, shallow depth of field.

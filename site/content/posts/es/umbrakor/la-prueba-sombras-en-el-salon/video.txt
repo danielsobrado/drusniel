@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Prueba: Sombras en el Salón
+Language: es
+Canon Sequence: D-005-002
+Source Image: father-at-gate.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel emerges from a dark tunnel into the bioluminescent glow of the family compound gate. His father stands waiting in silhouette, arms crossed, unmoving. Wet obsidian flagstones reflect the cold teal light between them. Drusniel stops. Three paces apart. Neither speaks.
+[00:03-00:06] The father's arms slowly unfold. His weight shifts. The bioluminescent fungi on the compound walls pulse faintly, the teal light swelling and dimming on the wet stone. Drusniel's chest rises with a steadying breath. A droplet falls from the tunnel ceiling behind him and strikes the flagstone.
+[00:06-00:08] The father turns his back and walks toward the compound entrance. Drusniel follows, head lowered. The gate darkness swallows them both. Only the bioluminescent glow remains, pulsing on empty wet stone.
+
+Locked-off camera, eye level, centered on the gate.
+Audio: dripping water echoing in stone, faint hum of bioluminescent fungi, wet footsteps on obsidian, fabric rustling. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

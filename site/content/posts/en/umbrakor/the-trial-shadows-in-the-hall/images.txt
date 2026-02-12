@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Trial: Shadows in the Hall
+Language: en
+Canon Sequence: D-005-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: father-at-gate.jpg
+role: header
+prompt:[Face_Reference: Father] Arms crossed, stance wide, jaw clenched. A dark silhouette standing at a compound gate, the bioluminescent glow of the family estate washing pale blue-green behind him. His posture reads as a wall, not a welcome. The estate's bioluminescence backlighting him from behind, outlining his shoulders and crossed arms with a cold blue-green rim while his face remains in near-total shadow, only the faintest reflected light catching the ridge of his brow. Canon EOS R5 35mm f/2.0 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: mother-cold-reception.jpg
+role: mid_01 (placed after sentence "'It's done. You're home.'")
+prompt:[Face_Reference: Mother] Face perfectly composed, eyes careful, no visible emotion. One cool hand raised, touching the side of a young drow's face. Looking through him rather than at him. Standing in a stone entry hall, an old doorframe visible behind her with a familiar crack in the wood. Interior ambient light from recessed bioluminescent fixtures casting even, cool, clinical illumination across her composed features, no warmth, her hand on his face catching a faint reflected glow from below. Sony A7R IV 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: shyntara-suspicion.jpg
+role: mid_02 (placed after sentence "'Where have you been sneaking off to?'")
+prompt:[Face_Reference: Shyntara] Leaning against a stone wall, one hand resting on the pommel of a dagger at her hip. Eyes locked forward with predatory focus, mouth curved in a humorless half-smile. She has pushed off the wall and stepped closer, an arm's length away. A corridor inside the compound, obsidian walls with mounted blades visible in the background. A wall-mounted torch to her left casting sharp directional warm light across one side of her face, the other side falling into hard shadow, the dagger pommel catching a bright specular highlight. Canon EOS R5 50mm f/1.8 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: father-study.jpg
+role: mid_03 (placed after sentence "Knives of every design hung from pegs")
+prompt:Interior of a narrow study lined with weapons. Curved, straight, serrated, and smooth blades hanging from iron pegs on every wall. A scarred wooden desk at center, a drow patriarch standing behind it with both hands flat on the surface. The room claustrophobic, every surface occupied. Firelight from a low hearth at the far wall casting flickering warm light that glints off dozens of blade edges simultaneously, creating a constellation of bright specular points across the walls, the desk surface reflecting a diffused warm glow upward onto the patriarch's hands and jaw. Canon EOS R5 16mm f/2.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: drusniel-tracing-walls.jpg
+role: mid_04 (placed after sentence "He traced the blade-marks on the study walls.")
+prompt:[Face_Reference: Drusniel] Face distant, unfocused eyes, lost in thought. One hand raised, fingertips tracing a deep gouge in the stone wall of the study. The scratch old and familiar. Blades hanging on pegs visible in the soft background. Firelight from the hearth casting warm directional light from below and to the right, catching the ridges of the wall gouge in sharp relief and illuminating Drusniel's fingertips while his face falls into partial shadow. Canon EOS R5 100mm macro f/2.8 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

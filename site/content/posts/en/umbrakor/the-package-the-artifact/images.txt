@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The Artifact
+Language: en
+Canon Sequence: D-011-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: artifact-box.jpg
+role: header
+prompt:Photorealistic close-up on the preparation table in Zaelar's study as a protective case is set down among maps, provisions, and tools; inside rests a palm-sized dark metal plate covered in geometric symbols that seem to shift when looked at directly. The plate emits a faint pulse like a heartbeat, barely lighting the nearest fibers of paper, while a stubby candle provides warm amber that pools across the table and throws long shadows from scattered glass. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the candle, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: opening-box.jpg
+role: mid_01 (placed after sentence "He opened the lid.")
+prompt:Photorealistic top-down view of the open case on the table: the dark metal plate sits nested in worn lining, its shifting geometric symbols catching light as if they move between angles; maps and a small pack crowd the edges of frame. The artifact's faint cool pulse paints a thin blue-grey sheen on the metal, while candlelight adds warm amber rim that reveals scuffs, dust, and paper grain. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: drusniel-touching.jpg
+role: mid_02 (placed after sentence "Touch it.")
+prompt:Photorealistic macro close-up on Drusniel's fingertip pressing a specific symbol on the metal plate, skin tension visible as he focuses; a thin distortion ripples outward like heat-haze and the candle flame in the background wavers for a beat. The plate's faint pulse and the candle together provide light: cool blue-grey from the metal under the finger, warm amber from the candle raking across pores and the plate's etched edges. Sony A7R IV 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the candle, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: weight-of-object.jpg
+role: mid_03 (placed after sentence "Heavier than it looked.")
+prompt:Photorealistic medium shot of Drusniel holding the protective pouch in one hand, fingers tightening as the weight surprises him; the small pack sits open on the table beside maps and provisions, the room still littered with glass and dust. Cold grey window light keeps the scene flat and sober, while candlelight adds a weak warm edge that catches worn stitching on the pouch and scuffs on leather straps. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: hiding-artifact.jpg
+role: mid_04 (placed after sentence "Keep it hidden.")
+prompt:[Face_Reference: Drusniel] Photorealistic, focused and controlled; hands deliberate as he hides the pouch without hesitating. [Face_Reference: Zaelar] Watching with intent, expression unreadable, eyes fixed on the transfer. Medium two-shot in the wrecked study as Drusniel tucks the pouch into his pack and cinches the strap, while Zaelar stands close enough to guide and close enough to control; maps and tools sit between them like a contract. Candlelight provides the only warm source, throwing amber across fingers and leather, while cold window fill leaves the background flat and heavy with smoke haze. Sony A7R IV 50mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the candle, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

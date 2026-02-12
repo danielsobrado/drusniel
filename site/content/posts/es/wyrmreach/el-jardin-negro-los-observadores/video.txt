@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Jardín Negro: Los Observadores
+Language: es
+Canon Sequence: D-021-002
+Source Image: arrows-in-the-crystal-field.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] El aire estalla con una salva — flechas silban a través de bruma química y golpean bases de cristal con chasquidos secos. Elion tira a Srietz de costado entre las espiras cuando un astil roza la oreja de Drusniel.
+[00:03-00:05] Drusniel alza ambas manos. Una explosión cruda de aire detona hacia afuera, dobla flechas en pleno vuelo y las convierte en trazos giratorios; polvo cristalino se levanta y azota alrededor en un vórtice apretado.
+[00:05-00:08] La ráfaga cae y queda un silencio pesado. Entre los muros de cristal, siluetas acorazadas aparecen una a una y forman un anillo que se cierra. Una sola voz imperiosa corta el aire y todos se congelan a mitad de movimiento.
+
+Movimiento de cámara: Handheld push-in por el sendero, cerrando sobre las manos de Drusniel.
+Audio: silbido de flechas, impactos en cristal y tierra, estallido de viento, vibración de astiles, zumbido del cristal en aumento, arena y polvo girando, botas raspando, un corte abrupto de aire inmóvil al mando. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

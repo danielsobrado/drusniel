@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Forbidden Knowledge: The Warning Signs
+Language: en
+Canon Sequence: D-007-008
+Source Image: letter-examined.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] His fingers keep unfolding the paper, edges rasping softly. The oil lantern flickers once, and dust motes drift through the light beam in slow spirals.
+[00:03-00:05] His breathing stops, then returns shallow and controlled. The page trembles in his hands as he tightens his grip to steady it.
+[00:05-00:08] He folds the letter with careful precision, slides it into his sleeve, and forces his hands still. After a beat, he reaches for the next book as if nothing happened.
+
+Slow push-in from the letter to his face as the realization lands.
+Audio: paper rustle, faint lantern wick hiss, distant stone-room silence, a single swallowed breath, fabric scrape as the letter is tucked away. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

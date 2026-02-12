@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Call to Zuraldi
+Language: en
+Canon Sequence: P-001
+Source Image: secret-pact.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The cube's symbols shift faster, and its low hum swells as Dulint and Balin tighten their forearm clasp. Lantern flame wavers as if pulled by a draft that isn't there.
+[00:03-00:05] The cube gives a single brighter pulse, spilling cold light up their hands and faces. Dust on the tabletop trembles in place, then settles.
+[00:05-00:08] Dulint releases the clasp and covers the cube with his palm for a beat, as if to quiet it. Balin swallows and nods once, the decision made without words.
+
+Slow dolly-in from the clasped forearms to the cube.
+Audio: lantern crackle, low resonant hum rising and falling, one sharp metal tick, soft scrape of hands on wood, quiet breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

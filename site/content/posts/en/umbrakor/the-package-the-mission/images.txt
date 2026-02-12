@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Package: The Mission
+Language: en
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:Photorealistic top-down view of a scarred wooden table in Zaelar's violated study: a parchment spread with a complex crossing diagram toward Wyrmreach, dense ink lines and arcane symbols with no readable characters, corners pinned by two hands as the plan is explained in a low, urgent hush. Candlelight from a stubby wax candle pools warm amber across the paper, throwing long shadows from spilled glass shards and a toppled instrument, while cold dawn from a cracked window adds flat blue-grey fill at the table edge. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slight vignetting, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "Power beyond a drow's imagination.")
+prompt:Photorealistic close-up on Zaelar's raised hand as a small, perfect sphere of storm-light crackles above his palm, tiny arcs crawling over the skin and snapping into the air; shattered glass and scattered papers blur behind, emphasizing the forbidden precision of the spell. The sphere itself is the diegetic light source, cold blue-white and hard, casting sharp specular highlights on knuckles and glass edges and throwing jittering shadows across the table. Sony A7R IV 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the electric glow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "Find Szoravel.")
+prompt:[Face_Reference: Drusniel] Photorealistic, intent stare with grief held down; the first real direction landing behind his eyes. Extreme close-up on a parchment on the table as a single name is underlined in dark ink (no readable letters), Drusniel's fingertips hovering just above the fibers as if touching it would make it real. Candlelight rakes across the paper grain and ink ridge, warm and low, while cold dawn fill from the side keeps the surrounding debris muted. Canon EOS R5 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "I'll do it.")
+prompt:[Face_Reference: Drusniel] Photorealistic, face set in stone as determination replaces grief; eyes steady, jaw locked, a single controlled nod. Portrait in the wrecked study with the broken doorway and drifting smoke out of focus behind him, hourglasses faintly visible on a shelf like time still moving without permission. Cold dawn from the window cuts across one side of his face, while a nearby candle adds weak warm fill from below that catches pores and the edge of his lip. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "We begin immediately.")
+prompt:[Face_Reference: Drusniel] Photorealistic, focused and silent; hands precise despite fatigue as he commits to leaving. Medium shot of Drusniel fastening a travel cloak clasp and checking a leather strap near his chest while the study remains in disarray: scattered papers with no readable text, overturned furniture, and a locked cabinet behind him. Candlelight from a desk throws warm amber across fingers and worn leather, while cold dawn fill from the window keeps the room edges flat and uneasy. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The Clear Sight: The Drowning Man
+Language: en
+Canon Sequence: W-024-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: vision-boat-black-water.jpg
+role: header
+prompt: [Face_Reference: Drusniel]. Crouching in a small wooden boat, gripping the sides white-knuckled, one hand reaching desperately upward. Non-Newtonian fluid black water moving thick and slow like oil around the boat hull, reflecting nothing, void-dark sky with no stars above. Faint volcanic red glow bleeding up through the water from deep below, catching the hull planks and his knuckles, subsurface scattering through the viscous fluid creating diffuse amber-red illumination from beneath. Sony A7R V 35mm f/2.8 Cinestill 800T, film grain visible. Black water: non-Newtonian fluid, high viscosity, reflecting no ambient light, SEPARATE bioluminescence from below. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: drowning-man-face-revealed.jpg
+role: mid_01 (placed after sentence "She saw his face for the first time.")
+prompt: [Face_Reference: Drusniel]. Expression caught between terror and fierce determination, hair plastered wet against skull. Non-Newtonian black water lapping at his chin, viscous and clinging. His face emerges from the dark vision-water, the first clear image of the drowning man. Dull volcanic amber light rising from beneath the water surface, illuminating his features from below, uplight casting inverted shadows under brow ridge and cheekbones, warm amber reflecting off wet skin. Sony A7R V 85mm f/1.4 GM Cinestill 800T, natural skin with pores. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-feels-his-emotions.jpg
+role: mid_02 (placed after sentence "She felt what he felt.")
+prompt: [Face_Reference: Maris]. Anguished, tears streaking down her face. [Face_Reference: Drusniel]. Identical expression of anguish mirrored. Split composition, two faces in parallel connected by threads of amber light stretching between them. Maris's side fading into winter forest cold tones; Drusniel's side showing volcanic fire and black crystal. Amber threads of light glowing as the diegetic connection source, warm filaments casting interactive highlights on both faces from between them, warm amber against surrounding darkness on each side. Sony A7R V 50mm f/1.8 Cinestill 800T, subtle lens flare. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: entity-encounter-reverb.jpg
+role: mid_03 (placed after sentence "Something vast was touching him and she could feel the edges of it.")
+prompt: [Face_Reference: Drusniel]. Rigid in his small boat, nose bleeding, body locked in contact with something ancient and unseen. Massive shapes distorting the black water surface beneath him, not seen clearly but felt through warping reflections in the viscous fluid. Amber light crackling erratically around the boat hull, casting unstable upward shadows onto his face that shift and flicker, non-Newtonian fluid surface warping the subsurface glow into unpredictable patterns. Sony A7R V 16mm f/2.8 Cinestill 800T, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: moment-of-connection.jpg
+role: mid_04 (placed after sentence "For one heartbeat, he looked directly at her.")
+prompt: [Face_Reference: Drusniel]. Looking upward with shocked recognition from a small boat on black water. [Face_Reference: Maris]. Looking down through layers of dark water and void with equal shock. Their eyes meeting across the barrier between worlds, both reaching toward each other. A single thread of warm amber light connecting them through surrounding darkness, the amber filament casting warm interactive highlights on both faces from between them, light diminishing with distance along the thread. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

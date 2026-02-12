@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Hierba Donde Cayó: El Despertar
+Language: es
+Canon Sequence: W-012-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: waking-in-field.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, breath shallow and eyes opening into confusion; cheek pressed to cold damp earth, mud on her hands as she tries to remember. Ground-level view through wet grass blades in a harvested field, dew clinging to stubble while a distant bird sings as if nothing happened and the sun hangs low toward evening despite her memory of morning. Low golden sun throws long shadows and catches dew as bright pinpricks, while cool shadow fill keeps her face and clothes cold. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight lens flare through grass, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: blood-on-fingers.jpg
+role: mid_01 (placed after sentence "Sus dedos volvieron con el sabor cobrizo de la sangre.")
+prompt:[Face_Reference: Maris] Photorealistic, headache pain tight around her eyes; fingers trembling as she tests her tongue and pulls them back with a metallic smear of blood. Close portrait with harvested field stubble behind her in soft blur as she checks herself, swallowing hard and breathing through the sting. Soft golden hour sunlight rakes across skin pores and the wet shine of blood, while cool shadow fill keeps the background subdued and grey-green. Sony A7R IV 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: riverhold-in-distance.jpg
+role: mid_02 (placed after sentence "La silueta del pueblo era visible contra el horizonte")
+prompt:Photorealistic very wide shot of recently harvested farmland: Maris a small solitary figure standing with unsteady posture while Riverhold’s silhouette sits far on the horizon, walls and rooftops barely readable against the low sun with faint chimney smoke. Late-day sky hangs heavy with light, backlighting the field into long shadow bands and emphasizing the stolen hours and isolation. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: vision-fragment-hand.jpg
+role: mid_03 (placed after sentence "Y una mano—piel gris-oscura, dedos largos—deslizándose bajo")
+prompt:Photorealistic vision fragment rendered as a realistic hallucination: the harvested field edges seem to darken into thick black water in her peripheral vision while a blue-ash skinned long-fingered hand rises and then slips away, surface tension behaving wrong like oil. The only light is an unnatural cold glow from below the surface, turning the water into black glass with hard highlights and leaving everything above in darkness. Sony A7R IV 85mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed, subtle halation on the glow. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-walks-shakily.jpg
+role: mid_04 (placed after sentence "Maris siguió caminando.")
+prompt:Photorealistic low-angle rear shot of Maris walking toward Riverhold across long rows of harvested stubble, legs shaking but continuing; her silhouette stays fixed on the town line as if pulled by something she can't name. Lowering sun backlights her into warm rim while long shadows stretch from each broken stalk, the field texture sharp and scratchy underfoot. Canon EOS R5 24mm f/2.8 Kodak Portra 400, film grain visible, slight motion blur in a swinging hand, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

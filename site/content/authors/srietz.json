@@ -1,0 +1,29 @@
+{
+  "name": "Srietz",
+  "title": "Alchemist Goblin",
+  "titlees": "Goblin Alquimista",
+  "description": "Srietz, a goblin alchemist of cunning intellect and dubious morals, finds himself in the murky service of a necromancer. Within the shadowed confines of a dank laboratory, Srietz concocts potions and poisons that blur the line between life and death. His small, nimble fingers are as adept with a flask as they are with the darker arts, a testament to his unorthodox but effective methodologies. His loyalty to his necromancer master is as volatile as his concoctions, fueled by a mix of fear, ambition, and a perverse fascination with the forbidden.",
+  "descriptiones": "Srietz, un alquimista goblin de inteligencia astuta y moralidad dudosa, se encuentra al servicio oscuro de un nigromante. Dentro de los confines sombríos de un laboratorio húmedo, Srietz elabora pociones y venenos que difuminan la línea entre la vida y la muerte. Sus pequeños dedos ágiles son tan hábiles con un frasco como con las artes oscuras, testimonio de sus metodologías no ortodoxas pero efectivas. Su lealtad hacia su maestro nigromante es tan volátil como sus concoctions, alimentada por una mezcla de miedo, ambición y una fascinación perversa por lo prohibido.",
+  "thumbnail": "srietz.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Alchemist"
+  ],
+  "skillses": [
+    "Alquimista"
+  ]
+}

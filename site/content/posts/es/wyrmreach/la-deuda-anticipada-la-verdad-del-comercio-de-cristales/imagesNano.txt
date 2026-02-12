@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro)
+Title: La Deuda Anticipada: La Verdad del Comercio de Cristales
+Language: es
+Canon Sequence: D-023-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: srietz-reveals-crystal-truth.jpg
+role: header
+prompt:[Face_Reference: Srietz]. Urgent intensity, holding up a black crystal that absorbs light. [Face_Reference: Drusniel]. Listening with narrowed focus, body angled toward the goblin. Goblin holds the crystal toward drow in a narrow volcanic pass flanked by black crystal formations. Crystalline lattice with subsurface scattering visible in the formations, faceted surfaces with internal refraction. Faint violet luminescence from the crystal facets casts interactive highlights on their faces from below, violet light reflects off the wet obsidian walls of the pass. Shadows tinged deep violet at edges. Sony A7R V 50mm f/1.8, Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: black-crystal-closeup.jpg
+role: mid_01 (placed after sentence "Un sustrato alquimico de altisima pureza que sirve como vehiculo para compuestos psicoactivos.")
+prompt:Macro close-up of a black crystal held between small clawed goblin fingers. Crystalline lattice structure visible with subsurface scattering, faceted planes with internal refraction absorbing most light. Faint violet luminescence in the facets. Volcanic rock blurred behind. The crystal's own violet glow provides the primary light source, casting interactive violet highlights on the ridges of the goblin's fingertips and the creases of leathery skin. Internal refraction creates faint prismatic edges along crystal facets. Sony A7R V 100mm f/2.8 macro, Kodak Portra 400, shallow depth of field. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: talryn-returns-angry.jpg
+role: mid_02 (placed after sentence "La primera emocion real que le habian visto. Y era rabia contenida.")
+prompt:[Face_Reference: Talryn]. Professional mask cracked by controlled anger, tightness around eyes and mouth barely perceptible but unmistakable. Body rigid, hands clenched at sides. Standing near a volcanic pass. Dull red glow from veins in the rock wall behind her casts interactive highlights along the edges of her jaw and shoulders, warm red light bounces off the obsidian-smooth wall surface and fills the scene with a low threatening warmth. Shadows tinged deep crimson at their borders. Sony A7R V 85mm f/1.4 GM, Kodak Portra 400, natural skin with pores. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: drusniel-stops-counting.jpg
+role: mid_03 (placed after sentence "Elion se lo senalo con un toque en el hombro y un gesto de cabeza hacia donde Talryn se habia reposicionado.")
+prompt:[Face_Reference: Elion]. Placing a corrective hand on a shoulder, calm steady gesture. [Face_Reference: Drusniel]. Disorientation and self-directed frustration, snapping back to awareness. Half-elf touches drow's shoulder and nods toward a repositioned figure in volcanic terrain. Ambient orange glow from a steaming vent to the left catches both faces in warm interactive sidelight, reflecting off the porous basalt ground between them. Steam diffracts the vent light into soft amber haze around their silhouettes. Sony A7R V 35mm f/2.8, Kodak Portra 400, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: talryn-changed-posture.jpg
+role: mid_04 (placed after sentence "Srietz cree que nos vendio exactamente lo mismo que a todos sus clientes.")
+prompt:[Face_Reference: Srietz]. Ears flat, speaking with bitter precision, small hands cutting the air. [Face_Reference: Drusniel]. Calculating stillness, absorbing information. Goblin and drow sit by a campfire on vesicular basalt. [Face_Reference: Talryn]. Walking in background with rigid posture, each step heavier than before, casual competence gone. Campfire embers cast low orange interactive light on the foreground pair, warm reflections pool on the porous rock surface between them. Talryn's silhouette catches faint volcanic dusk light from behind. Shadows tinged amber at edges. Sony A7R V 50mm f/1.8, Cinestill 800T, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

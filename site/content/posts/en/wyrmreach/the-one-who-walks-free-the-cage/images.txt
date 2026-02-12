@@ -1,0 +1,27 @@
+# Image Prompts
+Title: The One Who Walks Free: The Cage
+Language: en
+Canon Sequence: D-013-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: cage-sways-on-the-road.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, eyes hard with counting; fingers white-knuckled on the bars, exhaustion held behind control. Inside an iron-bar cage bolted to a slaver wagon, floorboards scrape and the whole box sways with each rut; through the gaps, other cages and bored guards flash past as black sand and jagged stone needles slide by outside. Red-grey twilight and a distant volcanic glow provide flat hostile ambience, while a swinging wagon lantern throws warm amber streaks across iron bars and across Drusniel's cheek as the cage rocks. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slight motion blur from the sway, dust in the air. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: cracks-in-the-bars.jpg
+role: mid_01 (placed after sentence "*One hundred and forty-seven cracks in the cage bars since the last guard rotation. He'd traced them all twice now.*")
+prompt:Photorealistic extreme macro on pitted iron cage bars with hairline cracks and rust seams; blue-ash skinned fingertips trace each fracture like a map, leaving black grit and metal flakes in the creases while the wagon's vibration smears the background into streaks. A lantern swinging just out of frame produces moving orange highlights that skate along crack edges and catch on rust, with dim red-grey twilight leaking through the bars as cold fill. Canon EOS R5 100mm f/2.8 Macro Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: other-prisoners-avoid-him.jpg
+role: mid_02 (placed after sentence "The other prisoners avoided him.")
+prompt:[Face_Reference: Drusniel] Photorealistic, expression closed and watchful; shoulders held still as he listens for patterns. In the neighboring cage, prisoners press against the far bars and avert their faces, whispers cutting off the moment he turns his head; chains clink under the wagons and breath fogs in the cold air as the caravan grinds onward. Flat twilight turns everything cold and desaturated, while a single lantern between wagons adds warm spill that paints thin amber lines across iron and catches moisture on lips and eyes. Sony A7R IV 35mm f/1.8 Kodak Portra 400, film grain visible, slightly underexposed, background slightly out of focus. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: the-creature-watches.jpg
+role: mid_03 (placed after sentence "And he watched the creature in the far cage.")
+prompt:[Face_Reference: Elion] Photorealistic, unblinking curiosity with a faint almost-smile; posture relaxed despite the iron. Across the gap between wagons, Elion sits in the rear cage watching through swaying bars, red markings across face and forearms catching the light; Drusniel's bars sit soft in the foreground like a warning as wrong crystal reflections flicker over the road dust. A lantern fixed to the wagon frame provides warm tungsten light that glints off damp iron and catches in the eyes, while the distant volcanic horizon adds a low orange-red backglow through drifting grit. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, subtle halation, slight lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: caravan-through-wrong-landscape.jpg
+role: mid_04 (placed after sentence "The landscape outside his cage was strange and hostile.")
+prompt:Photorealistic wide establishing shot of a slaver caravan crossing black sand: three wagons with iron cages swaying in unison and a fourth supply wagon, guards walking with practiced boredom. Twisted basalt spires and glassy crystal growths bend the dim light into wrong angles as a volcanic glow pulses on the horizon like a distant heartbeat. Red-grey twilight sets cold contrast, the far orange glow throws thin warm reflections on armor edges and wagon wheels, and occasional violet crystal glints streak across the ironwork. Sony A7R IV 16mm f/2.8 Kodak Ektar 100, film grain visible, atmospheric dust haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

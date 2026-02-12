@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Goblin Que Cuenta Costos: El Goblin
+Language: es
+Canon Sequence: D-015-002
+Source Image: run-they-are-coming.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Srietz surges forward and the other two match him; boots skid on loose grit and then find purchase, accelerating into a full sprint. The treeline behind them ripples with quick movement that refuses to resolve into a clear shape.
+[00:03-00:05] A shriek snaps closer and splits into overlapping calls; something darts between trunks out of focus and the undergrowth shudders as if pressed down by passing weight. Srietz cuts a hard angle without looking back.
+[00:05-00:08] The path seems to repeat, forcing a choice; Drusniel checks his pace for a half-beat and then commits, following Srietz through the tightest gap. Elion stays tight to his shoulder, and the screams fall in behind them like a net tightening.
+
+Handheld.
+Audio: rapid footfalls on volcanic grit, branch snap, cloth and leather creak, harsh layered shrieks, a low hiss rising under the calls, heavy breathing, brief stone scrape as someone stumbles and recovers. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

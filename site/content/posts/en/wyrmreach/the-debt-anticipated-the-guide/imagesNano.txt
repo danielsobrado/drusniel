@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro)
+Title: The Debt Anticipated: The Guide
+Language: en
+Canon Sequence: D-023-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: talryn-leads-volcanic-trail.jpg
+role: header
+prompt:[Face_Reference: Talryn]. Jaw set, scanning terrain ahead, military bearing. [Face_Reference: Drusniel]. Guarded watchfulness, weight shifted back. [Face_Reference: Srietz]. Flat expression, ears low and angled. [Face_Reference: Elion]. Quiet alertness, hand near belt. Talryn leads three travelers along a narrow volcanic trail, cultivated rows of black flowers fading behind, steaming fissures splitting barren vesicular basalt ahead.
+Environment: Wyrmreach volcanic wasteland. Orange underglow from magma fissures in fractured earth. Sulfuric haze diffuses light upward. Orange highlights catch undersides of jawlines and cheekbones. Steam columns scatter warm light into haze above. Shadows pool violet-black between basalt plates.
+Camera: Sony A7R V 24mm f/2.8 Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+2. filename: srietz-failed-conversation.jpg
+role: mid_01 (placed after sentence "Srietz caught Drusniel's eye and shrugged.")
+prompt:[Face_Reference: Srietz]. Flat resignation, usual sharp grin absent, ears angled back. [Face_Reference: Drusniel]. Slight acknowledgment in the eyes, mouth neutral. Srietz glances sideways at Drusniel while walking a volcanic ridge, thin flower fields behind them, ash drifting in still air.
+Environment: Volcanic ridge path. Dim overcast light filtered through sulfuric haze above. Faint warmth from ground fissures paints orange on boot-level surfaces. Ash particles suspended in air catch dull amber glow. Shadows on faces tinted cool grey from haze overhead.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, background softened. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+3. filename: drusniel-watched-by-talryn.jpg
+role: mid_02 (placed after sentence "She was not hostile. She was thorough.")
+prompt:[Face_Reference: Drusniel]. Focused, analytical, crouching low near steam vent. [Face_Reference: Talryn]. Professional stillness fifteen feet behind, one eye on him, one on terrain. Drusniel crouches beside a steaming fissure examining the ground. Talryn stands behind watching with balanced military posture. Volcanic wasteland stretches flat around them.
+Environment: Open volcanic flats, vesicular basalt surface. Thin steam venting orange-tinted light from crack below. Steam catches ash particles, turning them into floating amber specks. Orange reflects off wet condensation on nearby stone. Shadows from steam plumes shift across ground.
+Camera: Sony A7R V 50mm f/1.8 Cinestill 800T, natural skin with pores. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+4. filename: elion-warns-at-campfire.jpg
+role: mid_03 (placed after sentence "She's mapping us.")
+prompt:[Face_Reference: Elion]. Speaking low, mouth near Drusniel's ear, eyes scanning dark perimeter. [Face_Reference: Drusniel]. Staring into flames, listening without turning. Two figures sit shoulder to shoulder near a low contained campfire on volcanic ground at night, murmuring in the dark.
+Environment: Night camp on vesicular basalt. Small efficient fire barely illuminates their faces. Warm orange from below pushes up across chins and brow ridges. Cold black surrounds them entirely beyond two meters. Ember light flickers unevenly, creating shifting orange highlights on underside of jaw and cheekbones. Shadows tinged deep red at edges.
+Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, underexposed, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
+
+5. filename: talryn-standing-over-drusniel.jpg
+role: mid_04 (placed after sentence "She'd been watching him sleep.")
+prompt:[Face_Reference: Talryn]. Utterly blank expression, standing motionless, looking down. [Face_Reference: Drusniel]. Asleep on volcanic ground, tension visible even at rest. Talryn stands six feet from sleeping Drusniel at a dying campfire reduced to coals. A boulder in background where another figure sits watching darkness.
+Environment: Night camp, dying fire. Faint orange underglow from dying coals catches Talryn from below, painting dim warmth under chin and nose. Rest swallowed in black. Coals reflect dull orange off porous basalt surface. Shadows tinged warm amber at their nearest edges, then pure black.
+Camera: Sony A7R V 35mm f/2.8 Cinestill 800T, low camera angle from ground level, subtle lens flare from coals. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

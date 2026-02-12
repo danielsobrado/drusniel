@@ -1,0 +1,16 @@
+# Video Prompt
+Title: La Fractura: La Casi Confesión
+Language: es
+Canon Sequence: W-022-004
+Source Image: running-away.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Balin barrels through the trees, sword locked in his fist, breath fogging hard in the cold. Boots skid on roots and wet needles as branches whip past his face.
+[00:03-00:05] He breaks into the dim camp and drops to a knee to stop himself, scattering damp needles. He grabs Eldric’s shoulder and hauls him upright in one violent motion.
+[00:05-00:08] Eldric is up with steel drawn. Xandor yanks his pack on, Maris staggers to her feet, and the last ember in the fire flares as the group spills south into thicker trees while shadows shift at the clearing’s edge.
+
+Handheld tracking shot tight behind Balin at running height.
+Audio: frantic breathing, boots thudding on roots, branches snapping, sword hilt clink, campfire ember crackle, bedroll fabric scrape, hurried leather strap creaks, distant forest rustle. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

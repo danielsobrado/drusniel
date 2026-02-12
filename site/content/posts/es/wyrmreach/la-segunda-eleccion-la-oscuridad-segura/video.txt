@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Segunda Elección: La Oscuridad Segura
+Language: es
+Canon Sequence: D-017-001
+Source Image: the-beacon-points-northeast.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow pulse of heat builds under Drusniel's shirt; he inhales, counts three beats, and forces his hands to stay on his knees while condensation taps the floor in uneven rhythm.
+[00:03-00:05] Srietz crawls to a wet seam and wrings a cloth into a chipped cup; Elion coughs once, then clamps a hand over his mouth as the blue glow flares and throws sharp reflections across the obsidian.
+[00:05-00:08] Drusniel turns his head toward the northeast tunnel, shifts his weight to stand, boot scraping for traction, then freezes as distant stone ticks; the pulse settles back to a patient throb.
+
+Dolly in.
+Audio: water drips, cloth scrape, boot scuff on obsidian, shallow breathing, a single cough, faint low hum from the Beacon, distant rock tick. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

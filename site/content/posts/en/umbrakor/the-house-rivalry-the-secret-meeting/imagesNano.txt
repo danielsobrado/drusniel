@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: The House Rivalry: The Secret Meeting
+Language: en
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: zaelar-calculating.jpg
+role: header
+prompt:[Face_Reference: Zaelar, Drusniel]. Zaelar calm calculation, fingers steepled; Drusniel breathless urgency from training, sweat at the hairline, trying to keep his voice steady. Zaelar’s study packed with hundreds of ticking hourglasses on shelves and ledges, desk cluttered with odd instruments, ink pots, and old books with no legible writing; dust motes drifting in still air. Desk oil-lamp throws warm amber that pools on hands, paper fibers, and brass instrument edges; thin cool window spill adds a faint blue rim on hourglass glass and book corners, reflections skating on curved glass while the back wall falls into deep shadow. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight halation around the lamp flame, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: interrogation.jpg
+role: mid_01 (placed after sentence "Too specific.")
+prompt:[Face_Reference: Drusniel, Zaelar]. Drusniel unease surfacing, eyes narrowing; Zaelar measured calm, intent behind gentle posture. Interrogation-like staging in the study: Drusniel stands in a tight pool of lamplight beside the desk while Zaelar sits just outside it, hourglasses and scattered papers framing them like evidence. Warm lamp cone creates hard falloff and sharp shadow edges; cool window spill glints as thin blue highlights on hourglass rims and instrument corners, interactive reflections trembling on glass curves as the flame flickers. Sony A7R V 50mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: strategic-map.jpg
+role: mid_02 (placed after sentence "Knowledge is power.")
+prompt:Top-down desk detail: rough patrol sketch and compound layout on coarse paper with deliberately blurred, unreadable markings; a quill beside a stopped ink blot, small tokens used as markers, and a ribbon of sand spilled from an overturned hourglass across the desk grain. Oil-lamp amber rakes across paper fibers and wet ink sheen, casting crisp token shadows; cool window spill adds faint blue edge highlights on glass and metal, with specular glints sliding along the hourglass curve while shelves dissolve into darkness. Sony A7R V 50mm f/1.4 GM Kodak Ektar 100, film grain visible, slight dust on lens, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: drusniel-unease.jpg
+role: mid_03 (placed after sentence "The conversation felt wrong—too many specific questions, too much interest in tactical details—but he couldn't articulate why.")
+prompt:[Face_Reference: Drusniel]. Doubt sharpening, sweat and dust from training, gaze tracking Zaelar like a threat he can’t name. Tight close-up with hourglasses and stacked books falling into soft blur behind him, tiny glass reflections blinking in the bokeh. Warm lamp light strikes one cheek in amber; the far side drops into cooler shadow with a faint blue window rim outlining his cheek and ear, interactive highlights catching on moisture at the lower eyelid. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: walking-home-counting.jpg
+role: mid_04 (placed after sentence "Drusniel continued home, counting his steps as he went.")
+prompt:[Face_Reference: Drusniel]. Exhausted focus, eyes down and distant; thumb tapping the count like a ritual against panic as he walks. Bleak surface passages toward Umbra’kor: rough stone corridor opening to thin shafts of grey daylight, scattered gravel underfoot, cloak shifting with each step, dust hanging in cold air. Overcast daylight spills in as flat blue-grey illumination, turning dust into pale streaks; shadows stay soft in alcoves while small wet stone patches catch faint specular glints. Sony A7R V 35mm f/1.4 GM Kodak Ektar 100, film grain visible, slight motion blur in his steps, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

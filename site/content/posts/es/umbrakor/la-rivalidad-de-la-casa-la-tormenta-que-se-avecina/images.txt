@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Rivalidad de la Casa: La Tormenta que se Avecina
+Language: es
+Canon Sequence: D-009-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: family-meeting.jpg
+role: header
+prompt:[Face_Reference: Father] Urgent authority under strain, hands flat on the scarred desk, eyes sharper than his voice. [Face_Reference: Mother] Measured focus, seated by the window, posture composed despite the tension. [Face_Reference: Shyntara] Arms folded, face carefully blank, attention fixed on the threats not the family. [Face_Reference: Drusniel] Anxious concentration, thumb tapping against his fingers, trying to stay quiet. Family meeting in a cramped study that smells of old paper and weapon oil: maps and ledgers spread across the desk, shelves of rolled parchment and oiled blades behind, dust motes hanging in the still air. Warm lamplight from a desk oil-lamp throws amber pools over the scarred wood while cool blue-green street-glow from the window cuts a thin rim across cheekbones and paper edges; deep shadows pool in corners. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: vrinn-house-sigil.jpg
+role: mid_01 (placed after sentence "—La Casa Vrinn ha cruzado líneas.")
+prompt:Macro close-up on a House Vrinn signet ring pressed into black wax on a folded letter, the spider-like crest stamped deep and sharp; the parchment lies on the scarred desk beside a smear of weapon oil and a few grains of dust. The desk oil-lamp is the only light source, flickering warm amber across wax texture and catching hard specular highlights on the ring’s worn metal; everything beyond the letter falls into near-black. Sony A7R IV 100mm macro Kodak Ektar 100, shallow depth of field, film grain visible, slight dust on lens, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: map-patrols.jpg
+role: mid_02 (placed after sentence "Están mapeando nuestras rutas de patrulla.")
+prompt:Top-down close-up of a hand-drawn map of Umbra’kor tunnel routes on scarred wood, weighted by a dagger and small stones; red chalk marks and pin-pricks ring the Thel’varin border points like an encirclement, with a few tiny Vrinn marker tokens laid out as proof. Warm lamp light rakes across paper grain and chalk dust, casting hard shadows from pins and blade; cool window spill adds a faint blue-green edge highlight on the dagger spine and the nearest marker. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: history-grudge.jpg
+role: mid_03 (placed after sentence "Nunca lo perdonó.")
+prompt:Flashback tableau in a dim council chamber: two rival house leaders stand across a stone table where an old mining claim map is unrolled, one hand clenched in silent fury while the other rests on a sealed council decree; surrounding figures watch like statues, faces half-lost to shadow, no legible writing on the documents. Violet bioluminescent sconces and a single torch provide mixed diegetic light—cold violet edge highlights along cheekbones and table corners, warm orange flicker crawling across parchment and stone, deep black shadows behind. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight halation around the torch flame, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: drusniel-clenched-fist.jpg
+role: mid_04 (placed after sentence "Apretó el puño.")
+prompt:[Face_Reference: Drusniel] Anger locked down into control, jaw tight, eyes fixed on his own hand as it betrays him. Close-up on Drusniel’s clenched fist in his small room as dust motes and loose fabric threads lift and spiral around his knuckles; his face is present in soft blur behind the fist, breath steadying. A single candle and a low oil-lamp are the only light sources, throwing warm flicker across skin texture and making the dust swirl catch as tiny amber points; the rest of the room falls into heavy shadow. Sony A7R IV 100mm macro Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Northbound: The Aftermath
+Language: en
+Canon Sequence: W-018-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: camp-after-battle.jpg
+role: header
+prompt:[Face_Reference: Xandor, Eldric]. Xandor steady, wrapping a bandage; Eldric grim, arm extended, refusing to flinch. [Face_Reference: Dulint, Balin, Maris]. Exhausted, slumped close, watching or staring past. Rocky overhang shelter, gear and bloody cloth on damp stone; artifact pack set between them. Hooded lantern leaks a thin amber slit across bandages while twilight blue wraps everything else; wet rock throws cyan bounce and tiny amber flecks onto knuckles and eyelids. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: dulint-broken.jpg
+role: mid_01 (placed after sentence "His face looked older than it had that morning—lined with something beyond exhaustion.")
+prompt:[Face_Reference: Dulint]. Eyes closed, lines deep, hugging the pack like it might vanish. Inside the overhang, knees up against rough basalt. Twilight blue covers his face; a narrow lantern rim picks cheek and knuckles while damp rock behind returns a soft teal sheen and beads of moisture glow. Sony A7R V 50mm f/1.2 GM Kodak Portra 400, film grain visible, shallow depth, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-isolation.jpg
+role: mid_02 (placed after sentence "Maris sat apart from the others, knees drawn to her chest")
+prompt:[Face_Reference: Maris]. Knees hugged tight, cloak wrapped, eyes lost in the dark. [Face_Reference: Balin]. Blurred over-shoulder silhouette, head turned toward her. She sits on moss and stone a few paces from the others; empty space between. Moonlight threads through sparse branches, tracing her cheek and cloak hem; cold light bounces off damp ground as silver specks and edges her breath fog. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: balin-phantom-blood.jpg
+role: mid_03 (placed after sentence "Balin looked at his hands. Still stained, despite the water")
+prompt:[Face_Reference: Balin]. POV on his own hands; clean skin but imagined blood clings, thumbs rub harder, jaw tense at frame edge. Kneeling on wet stone beside the pack and hooded lantern. Lantern slit casts cool-blue shadow planes and amber rims on fingers; damp moss scatters cyan reflection while the ghost-red seems to shimmer within pores. Sony A7R V 50mm f/1.2 GM Cinestill 800T, film grain visible, slight halation, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: broken-survivors.jpg
+role: mid_04 (placed after sentence "They were a collection of broken people carrying a burden they didn't choose.")
+prompt:[Face_Reference: Balin, Dulint, Eldric, Maris, Xandor]. Five huddled under the overhang, eyes in different directions, faces hollow; artifact pack set like an anchor at center. Twilight deepens; a single hooded lantern adds minimal warm spill while blue night wraps the forest around them. Damp ground reflects faint amber and cyan specks up into cheek edges and gear buckles. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight vignetting, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Secrets and Shadows
+Language: en
+Canon Sequence: D-004-001
+Source Image: mind-reading-success.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel and Annariel sit cross-legged facing each other on moss-covered stone. Drusniel's eyes are closed, brow furrowed. A faint thread of pale light flickers into existence between their foreheads, unstable, pulsing. Annariel's eyes snap wide open.
+[00:03-00:06] The thread brightens and steadies. The pale light casts a thin white line across both faces. Annariel's mouth falls open. Drusniel's fingers twitch. The bioluminescent moss beneath them pulses brighter in response, green light washing upward.
+[00:06-00:08] Drusniel opens his eyes. The thread dissolves into drifting motes of light that scatter and fade. Both boys stare at each other. The clearing returns to its ambient blue-green glow. A breath of wind stirs the spore dust around them.
+
+Slow push-in from medium two-shot to close framing on both faces.
+Audio: low cave ambience, dripping water, faint fungal hum building in pitch during the connection, sharp silence when the thread breaks. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

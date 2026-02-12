@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Dirección: Información
+Language: es
+Canon Sequence: D-019-002
+Source Image: mid-04.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un pull back lento comienza en el perfil de Drusniel en la boca de la cueva; su aliento se vuelve niebla mientras el crepúsculo pizarra-violeta se extiende sobre las llanuras de ceniza, un halo frío del Faro perfila su hombro.  
+[00:03-00:05] El movimiento se abre para mostrar el interior: hongos cian respirando en las paredes, el Faro envuelto zumbando en la mochila, las provisiones ordenadas de Srietz y la silueta de Elion medio oculta.  
+[00:05-00:08] La cámara se detiene en el umbral, encuadrando la línea dentada de cristal volcánico y el resplandor rojo distante del volcán mientras Drusniel endereza los hombros hacia el este.
+
+Movimiento de cámara: Pull back lento desde el perfil hasta el umbral.  
+Audio: Viento con arena de ceniza, retumbo volcánico lejano, zumbido bajo del Faro, goteo de hongos, roce de tela al ajustar la mochila. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

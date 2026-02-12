@@ -1,0 +1,15 @@
+﻿# Video Prompt
+Title: The Seer's Warning: The Route
+Language: en
+Canon Sequence: W-016-003
+Source Image: dulint-makes-decision.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint's pointing finger drags along the valley line on the map, pressing the paper flat as the table creaks; dust motes drift through the slanted morning light.
+[00:03-00:05] Eldric's jaw tightens and he exhales sharply, fingers curling against the table edge; Balin shifts his weight with restless energy as if he might interrupt.
+[00:05-00:08] Xandor's eyes flick between faces without reacting, while Maris glances down and away as if the artifact's pressure is already counting days; the room stills as the decision settles.
+
+Dolly in.
+Audio: paper rustle, fingernail scrape on parchment, wood creak, faint hearth crackle, distant inn murmurs, boots shifting on floorboards, controlled breaths. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: El Paquete: El Nuevo Mundo
+Language: es
+Canon Sequence: D-011-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-landscape.jpg
+role: header
+prompt:Photorealistic wide establishing shot on Wyrmreach's desolate shore: black rock as if recently burned, heavy hot air and diffuse rust-red light with no visible sun, distant pulsing vegetation shifting through faint wrong hues; in the foreground, Drusniel forces himself up from slick rocks as seawater drips from his clothes. The red ambient is the main light source, flat and sunless, while intermittent plant pulses add thin highlights that crawl along wet stone edges through heat haze. Sony A7R IV 16mm f/2.8 Kodak Ektar 100, film grain visible, mild barrel distortion, atmospheric haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: drusniel-wet.jpg
+role: mid_01 (placed after sentence "Drusniel se obligó a incorporarse, agua escurriendo de su ropa.")
+prompt:[Face_Reference: Drusniel] Photorealistic, standing unsteadily with ragged breath as heavy air makes every inhale work; water running off sleeves and dripping onto warm black stone. Medium-close portrait at the shoreline with soaked clothing clinging and saltwater sheen on lashes, the empty red-lit landscape behind him out of focus. Diffuse rust-red ambient light tints everything flat, while wet skin and fabric catch sharp specular highlights that break into tiny reflections along seams and cheekbones. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slight water droplets on lens, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: strange-plants.jpg
+role: mid_02 (placed after sentence "Vegetación extraña en la distancia: plantas que pulsaban levemente con colores que no existían en el mundo mortal.")
+prompt:Photorealistic close environmental detail of strange plants on dark soil: fleshy leaves and mineral-like stems pulsing with faint color shifts, not glowing like light but changing hue as if the pigment itself is alive; grit and heat haze soften the background. The plants provide their own faint internal luminescence, casting cool colored highlights onto nearby dust and stone, while the diffuse red sky glow keeps everything else flat and oppressive. Sony A7R IV 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the pulsing color. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: giant-eye-mountain.jpg
+role: mid_03 (placed after sentence "La leve luz roja captó algo que podría haber sido un ojo.")
+prompt:[Face_Reference: Drusniel] Photorealistic, breath held and shoulders tight as he crouches low; eyes tracking the horizon without daring to move. Long-lens shot across the red-lit landscape as Drusniel hides behind a black rock outcropping, wet hands gripping stone while far on the horizon a mountain-sized shape subtly shifts and a single glossy highlight reads as an eye turned toward him. Diffuse rust-red ambient and atmospheric haze flatten distance, while the eye glint provides a single hard point of brightness before it disappears. Sony A7R IV 200mm f/2.8 Kodak Ektar 100, film grain visible, heat-haze shimmer, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: hiding-fear.jpg
+role: mid_04 (placed after sentence "El artefacto pulsó.")
+prompt:Photorealistic tight shot of wet hands opening a waterproof bag to reveal the dark metal plate inside, its etched symbols flickering in an unreadable pattern as it pulses; knuckles tense, water pooling on the stone and beading on the pouch seam. Diffuse rust-red ambient reflects dullly on dark metal, while the plate's faint cool pulse adds thin highlights that crawl along etched edges and moisture. Canon EOS R5 100mm f/2.8 macro Cinestill 800T, shallow depth of field, film grain visible, subtle halation around the pulse, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

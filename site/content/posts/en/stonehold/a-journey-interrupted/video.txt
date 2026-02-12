@@ -1,0 +1,16 @@
+# Video Prompt
+Title: A Journey Interrupted
+Language: en
+Canon Sequence: P-002
+Source Image: cliff-fall.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Loose stones cascade past as Dulint's boots scrape for purchase and fail. Their bodies slam against rock, spinning through grit and pine needles.
+[00:03-00:05] Balin catches a strap and it snaps free, flinging the pack sideways. A burst of dust blooms, briefly obscuring them as the slope steepens.
+[00:05-00:08] They slide and tumble to a harder ledge and stop in a heap, breathing ragged. Pebbles continue to rattle down into the darkness below long after they stop moving.
+
+Slow pull-back revealing the full drop.
+Audio: rockfall clatter, fabric flapping, heavy impacts on stone, short grunts of effort, pine needles scraping, pebbles rattling into distance. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

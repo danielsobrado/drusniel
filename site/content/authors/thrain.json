@@ -1,0 +1,32 @@
+{
+  "name": "Thrain",
+  "title": "Dwarf Legend",
+  "titlees": "Leyenda Enana",
+  "description": "A legendary dwarf from Stonehold's past. Got rich underground and wanted everyone to know it — wore so many gold rings in his beard that he clinked when he walked. Chin up, chest out, the kind of dwarf who becomes a story whether he tries to or not.",
+  "descriptiones": "Un legendario enano del pasado de Stonehold. Se hizo rico bajo tierra y quería que todos lo supieran — llevaba tantos anillos de oro en la barba que tintineaba al caminar. Barbilla arriba, pecho fuera, el tipo de enano que se convierte en leyenda quiera o no.",
+  "thumbnail": "thrain.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Miner",
+    "Treasure Hunter"
+  ],
+  "skillses": [
+    "Minero",
+    "Cazador de Tesoros"
+  ]
+}

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Secretos y Sombras
+Language: es
+Canon Sequence: D-004-001
+Source Image: failing-magic.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Two young drow face each other in a dark forest grove at night. Drusniel has eyes shut, sweat on brow, straining in concentration. Annariel holds a small flame over his open palm. The flame flickers, casting dancing orange light across both faces. Drusniel's fingers twitch, reaching toward something invisible between them.
+[00:03-00:06] A faint shimmer of pale light gathers around Drusniel's outstretched hand — unstable, flickering violet. His eyes snap open. For one breath the light holds. Then it unravels, dissolving into wisps that scatter like smoke through the firelight.
+[00:06-00:08] Drusniel drops his hand. His shoulders sag. Annariel's flame dims as his expression shifts to quiet concern. Fog drifts through the trees behind them. Darkness closes in.
+
+Slow push-in from medium two-shot to close on Drusniel's face.
+Audio: night insects, faint crackle of the palm flame, a low hum during the shimmer that cuts to silence when it dissolves, distant drip of cave moisture. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Stable Image
+Language: en
+Canon Sequence: W-012-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-fence.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, too tired to move; head bowed, breath shallow as the vision starts to drag her under. Medium shot at the edge of a harvested field as Maris leans heavily against an old wooden fence post, fingers digging into splintered grain while the landscape behind her softens out of focus like the world is receding. Fading golden hour light provides warm side illumination, catching dew on stubble and the edge of her lashes, while cool shadow fill keeps her face and clothes subdued. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: vision-boat-black-water.jpg
+role: mid_01 (placed after sentence "It was always the boat. Small, barely big enough for two")
+prompt:Photorealistic vision scene: a small weathered wooden boat rocks on thick oily black water with no horizon, just water and a dark twilight sky pressing down; the surface rises and falls like it is breathing and something vast shifts beneath. Unnatural ambient gloom is the only light, cold and starless, turning the water into black glass with hard highlights along each ripple. Sony A7R IV 35mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed, subtle halation on the highlights. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: vision-hand-reaching.jpg
+role: mid_02 (placed after sentence "Grey-dark skin. Long fingers. Reaching up through the chaos")
+prompt:Photorealistic vision detail: a blue-ash skinned hand with unnaturally long fingers reaches desperately out of black water, grasping at nothing as thick droplets slide off the knuckles like oil; the hand trembles, then begins to slip. A cold pale glow from somewhere above isolates the hand against the swallowing black, while the surrounding water stays almost lightless. Sony A7R IV 85mm f/1.4 Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: maris-wakes-gasping.jpg
+role: mid_03 (placed after sentence "Maris came back to herself with a gasp.")
+prompt:[Face_Reference: Maris] Photorealistic, wide-eyed terror as she snaps back; mouth open in a gasp, sweat at her hairline, knuckles white around the fence post. Extreme close-up as reality returns in a jolt, the field behind her swimming out of focus while her hands shake against splintered wood. Harsh late-day sunlight breaks through for a moment and hits one side of her face, while cooler shadow fill deepens the panic in her eyes. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-walks-on.jpg
+role: mid_04 (placed after sentence "Maris started walking again. Riverhold was closer now")
+prompt:[Face_Reference: Maris] Photorealistic, grim resolve replacing shock; eyes fixed ahead as she forces herself to keep walking. Tracking shot as Maris pushes off the fence post and walks toward the camera across harvested stubble, Riverhold's walls growing more distinct in the background with each step. Evening shadows stretch long across the field, warm light near the horizon fading while the air cools toward grey. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, slight motion blur in her stride, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Trial: The Separation
+Language: en
+Canon Sequence: D-005-001
+Source Image: annariel-look-back.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Annariel is pulled backward through the dark doorway by a mage's hand on his shoulder. His head turns, eyes locking onto the camera. His mouth moves, forming desperate words. Other candidates push past him, oblivious. The torchlight from beyond the door catches the edges of his hair.
+[00:03-00:06] The gap between Annariel and the camera widens. His arm reaches out, fingers stretching toward the viewer. The dark carved door begins to swing inward from both sides. Shadows close in from the edges of the frame. His expression shifts from desperation to something broken.
+[00:06-00:08] The heavy door shuts. The warm torchlight vanishes. Only the cold blue bioluminescent glow remains, reflecting off the polished obsidian floor. Stillness. A single figure stands alone on the empty platform, unmoving.
+
+Slow reverse dolly pulling away from the closing door to reveal the empty platform.
+Audio: shuffling footsteps fading, stone scraping as the door closes, a deep resonant thud of the door sealing, then silence broken only by distant dripping water. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

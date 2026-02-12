@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Rivalidad de la Casa: La Grieta
+Language: es
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: arguing-with-air.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Sleepless alarm, shoulders tense, listening into the dark; half-upright in bed with one hand hovering as if reaching for a mental thread. Cramped Umbra’kor bedchamber of rough black stone, thin blanket twisted at his waist, nightstand with a stub candle and worn notes, dust suspended in still air. Faint cyan-blue fungal seep from a ceiling crevice gives cold fill that rims cheekbones and fingers; candle flame throws warm amber pools across fabric weave and glossy obsidian spots, with specular highlights skating on the stone while corners fall to near-black. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed, subtle lens flare at the candle edge. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: voice-distortion.jpg
+role: mid_01 (placed after sentence "Drusniel se incorporó en la cama.")
+prompt:[Face_Reference: Drusniel]. Suspicion creeping in, brow tightening; head tilted, one hand hovering at his temple as the “familiar” voice warps. Tight portrait with the air in front of him shimmering in thin ripples and drifting motes like interference in the connection. Candlelight flicker catches moisture in his eyes and turns dust into tiny amber points; cold blue-green fungal spill edges his face and makes the ripples read as wavering highlights against the dark stone. Sony A7R V 85mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: broken-mirror.jpg
+role: mid_02 (placed after sentence "El pulgar de Drusniel golpeteó contra sus dedos.")
+prompt:[Face_Reference: Drusniel]. Counting discipline under stress, jaw clenched; thumb mid-tap against fingers in the foreground. Cracked obsidian mirror shard propped on the nightstand reflects only a fractured slice of his face and one eye, mirror fissures splitting the reflection like fault-lines. Candle flame paints warm amber along glossy fracture lines and skin pores; cyan fungal rim light traces the obsidian edge and throws cool specular glints into the cracks, with the background falling softly out of focus. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: shyntara-watching.jpg
+role: mid_03 (placed after sentence "La presencia pulsó con urgencia.")
+prompt:Extreme macro on a hidden peephole set into black stone, lined with polished obsidian; inside, a faint violet scry-glow wavers like a living iris, moisture beading on the rim and dust clinging to the edge. Violet pulse from within and distant blue-green fungal wash create cold specular highlights on the obsidian lining and deep shadow everywhere else, interactive reflections trembling as the glow flickers. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, film grain visible, slight dust on lens, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: isolation.jpg
+role: mid_04 (placed after sentence "El aire en la habitación se agitó, respondiendo a su ira.")
+prompt:[Face_Reference: Drusniel]. Anger pressed into silence, fingers clenched under the blanket; eyes wide and unblinking. Wide shot of the small chamber as dust motes lift in a slow spiral, the candle flame bends sideways, and a loose scrap of paper twitches on the nightstand as if tugged by invisible breath. Blue-green fungal glow gives cold ambient fill that eats into shadows; candle flicker throws warm jittering highlights across the bedframe and stone, reflections sliding across any glossy obsidian patches as the air moves. Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible, slight motion blur in drifting dust, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

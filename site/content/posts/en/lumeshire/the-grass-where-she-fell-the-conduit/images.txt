@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Grass Where She Fell: The Conduit
+Language: en
+Canon Sequence: W-012-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: beggar-appears.jpg
+role: header
+prompt:[Face_Reference: Maris] Photorealistic, startled stillness; breath caught as a stranger appears too close, hands hovering near her coin pouch. Street scene at dusk in Riverhold: Maris backed against a cold stone wall while an old beggar stands in front of her with a trembling hand extended, eyes rheumy and unfocused, beard matted, clothes stained and damp. Dim street lamps and spill from nearby windows provide warm amber pools that catch on wet stone and grime, while the rest of the alley stays in cool blue-grey shadow. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: coin-transformation.jpg
+role: mid_01 (placed after sentence "The beggar's fingers closed around the copper. His hand stopped trembling.")
+prompt:Photorealistic macro close-up on the beggar's dirty hand clutching a copper coin: trembling stops dead, veins and grime sharp, knuckles tightening as if someone else has taken control. High-contrast streetlamp light creates warm specular highlights on the coin edge and wet skin, while the background falls into deep alley blur. Sony A7R IV 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible, slight vignetting. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: beggar-prophecy.jpg
+role: mid_02 (placed after sentence "The drowning. The beggar's eyes were looking through her now")
+prompt:Photorealistic extreme close-up on the beggar's face as his eyes snap into terrifying focus, clarity replacing the rheumy drift; mouth forming flat words like a script being read through him. A faint cold rim light separates his pupils and lashes from the darkness, while streetlamp amber still catches the texture of beard hair and cracked lips, creating a split between ordinary filth and unnatural intent. Canon EOS R5 85mm f/1.4 Cinestill 800T, shallow depth of field, film grain visible, subtle halation on the rim light. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: beggar-wanders-off.jpg
+role: mid_03 (placed after sentence "He wandered off, weaving slightly, already forgetting her face.")
+prompt:Photorealistic long shot down a narrow alley as the beggar wanders off weaving slightly, the focus gone from his eyes and the tremor back in his hand; Maris stands in the near foreground out of focus, watching him go with shaking hands. Streetlamp light silhouettes him against thin fog and drifting dust, while the alley walls swallow detail into cold shadow. Sony A7R IV 70mm f/2.8 Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: wanderers-rest-sign.jpg
+role: mid_04 (placed after sentence "Its sign showed a traveler with a walking staff, feet bare")
+prompt:Photorealistic low angle looking up at the weathered wooden inn sign for The Wanderer's Rest: painted traveler with walking staff, feet bare, face turned toward a distant horizon (no readable text), iron hooks creaking slightly as it sways. Warm window light spills from behind, casting amber onto peeling paint and wet wood grain, while the surrounding street falls into cool night shadow. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, subtle lens flare from the window, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

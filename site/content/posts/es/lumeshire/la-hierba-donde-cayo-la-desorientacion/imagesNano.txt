@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Hierba Donde CayÃ³: La DesorientaciÃ³n
+Language: es
+Canon Sequence: W-012-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-on-road.jpg
+role: header
+prompt:[Face_Reference: Maris]. Expression: exhausted and worn down, posture stubbornly upright as she keeps walking. Dusty road toward Riverhold in late-day light as she walks alone along wagon ruts and dry dust; farmers pass with empty carts, a merchant train rattles by with guards giving casual suspicion, and Riverhold’s gates sit far ahead under a cooling sky. Harsh late sun and dust haze flatten the landscape into warm glare, turning dust into a glowing veil around wheels and boots, interactive highlights flashing in grit. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight lens flare, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: reality-check-pain.jpg
+role: mid_01 (placed after sentence "El dolor funcionaba mejor. Por eso se mordÃ­a la lengua.")
+prompt:[Face_Reference: Maris]. Expression: anchoring herself to reality, one eye watering from exhaustion, jaw clenched, small bead of blood at lip from biting tongue. Close portrait with dust clinging to skin as the road behind blurs, breath controlled and shaking. Bright sun hits hard on one side; cooler shadow fill deepens strain around her eyes, interactive highlights catching sweat and dust. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: riverhold-gate-check.jpg
+role: mid_02 (placed after sentence "El guardia gruÃ±Ã³ y la dejÃ³ pasar.")
+prompt:[Face_Reference: Maris]. Expression: tight controlled composure, answering with short words while hands still tremble. Riverhold gate checkpoint at dusk as a tired guard waves her through under the stone arch; travelers queue behind with carts and bundles, pebbled road and worn gate stonework framing the moment. Gate shadow stays cool and heavy; a strip of late sun cuts across her cheek and armor plates, interactive highlights catching dust on fabric and stone grit. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: riverhold-streets.jpg
+role: mid_03 (placed after sentence "La gente se movÃ­a con propÃ³sito, terminando el trabajo del dÃ­a antes de que cayera la oscuridad.")
+prompt:[Face_Reference: Maris]. Expression: isolated stillness in her tired face as the town moves around her, eyes tracking without fully believing any of it. Riverhold main street as evening work ends: shops line the street with hanging signs (no readable text), an inn window glows warm on a corner, people move with purpose in soft motion blur while she walks through the flow. Golden hour warms the street; deep shadows pool under awnings and doorways, interactive highlights sliding across cobbles and sign chains. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slight motion blur in the crowd, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: maris-waits-wall.jpg
+role: mid_04 (placed after sentence "AsÃ­ que esperÃ³. Se apoyÃ³ contra la pared mientras el sol bajaba mÃ¡s.")
+prompt:[Face_Reference: Maris]. Expression: hollow patience and stubborn fear, hands trembling as she waits for the pull to become direction. She leans against a cold stone wall in a narrow street as the sun drops and growing shadow swallows her; ordinary life passes blurred in the background. Setting sun provides a fading warm edge; twilight shadows deepen under her eyes and along mortar texture, interactive highlights catching grit. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Blood in the Dark: The Hollow Victory
+Language: en
+Canon Sequence: D-010-006
+Source Image: wyrmreach-vision.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel pauses mid-climb, one hand braced on the wall as dust motes drift through cold tunnel air. His breath steadies, listening to something only he can feel.
+[00:03-00:05] Warm amber glow brushes his cheek from a nearby lichen patch. His fingers hover over the dagger at his hip; the metal shifts with a soft scrape as his grip tightens.
+[00:05-00:08] He turns toward the faint surface light and starts walking with new purpose, footsteps measured and relentless as the tunnel swallows the last warmth behind him.
+
+Slow push-in from his hovering hand to his eyes as resolve hardens.
+Audio: distant water drip, faint torch crackle far away, cloth rustle, metal scrape at the belt, slow controlled breathing, footsteps on stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Voces en la Oscuridad: La Semilla de la Duda
+Language: es
+Canon Sequence: D-006-003
+Source Image: temptation-of-special.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] His reflection holds a fraction too still as the warmer light swells. The reflection's eyes narrow with calm certainty while the real face remains tense and exhausted.
+[00:03-00:05] Drusniel blinks; the reflection answers a beat late, a faint smile twitching into place. He leans closer and a thin bloom of breath fogs the mirror for an instant.
+[00:05-00:08] He recoils, turning away as the amber contamination fades out. The reflection keeps watching for one extra beat before snapping back into perfect sync, leaving only cold cyan spill in the room.
+
+Slow dolly-in toward the mirror surface.
+Audio: distant corridor torch hiss, soft fabric rustle, a single sharp inhale, faint low hum that swells with the warm light and then cuts out, boots shifting on stone. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,32 @@
+{
+  "name": "Thorvald",
+  "title": "Warden of Jotunheim",
+  "titlees": "Guardián de Jotunheim",
+  "description": "Warden of Jotunheim in Frostgard. Broad, fur-clad, and perpetually reading reports he doesn't like. His jaw stays tight because if he relaxed it, he might say what he actually thinks — and that wouldn't help anyone.",
+  "descriptiones": "Guardián de Jotunheim en Frostgard. Ancho, cubierto de pieles, y perpetuamente leyendo informes que no le gustan. Mantiene la mandíbula apretada porque si la relajara, podría decir lo que realmente piensa — y eso no ayudaría a nadie.",
+  "thumbnail": "thorvald.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Warden",
+    "Commander"
+  ],
+  "skillses": [
+    "Guardián",
+    "Comandante"
+  ]
+}

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Primer Fragmento: La Ubicación
+Language: es
+Canon Sequence: W-020-002
+Source Image: ancient-markings.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un push-in lento comienza en la puerta de hielo-sello rota mientras la linterna tiembla sobre grietas astilladas; bruma fría sale y el zumbido de la cámara crece como una nota sostenida.  
+[00:03-00:05] El push-in continúa por paredes translúcidas; las marcas ilegibles parecen desplazarse con el movimiento, y el Faro dentro del fardo responde con un pulso más estrecho y más fuerte.  
+[00:05-00:08] La cámara se asienta en el pedestal cuando el brillo del fragmento se hincha; la luz azul-blanco se refracta en hielo vivo, franjas violetas parpadean en líneas grabadas, y el zumbido sube hasta un destello blanco que borra la escena.
+
+Movimiento de cámara: Push-in lento desde la puerta al pedestal.  
+Audio: siseo de mecha, crujido y chasquido de hielo, zumbido resonante en ascenso, roce de tela, exhalaciones empañadas, viento lejano amortiguado por piedra. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

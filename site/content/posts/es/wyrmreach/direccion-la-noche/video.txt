@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Dirección: La Noche
+Language: es
+Canon Sequence: D-019-004
+Source Image: trust-is-expensive.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un push-in lento comienza en la entrada del hueco mientras Elion gira en perfil contra el rojo del horizonte; Drusniel no retrocede, sólo se tensa y observa cada gesto.  
+[00:03-00:05] El push-in continúa; Srietz entra al borde del cuadro y recita en voz baja los turnos de guardia mientras endereza provisiones en filas perfectas, como si el orden pudiera sostener la noche.  
+[00:05-00:08] La cámara se asienta cerca cuando la linterna titila una vez y baña de ámbar el basalto húmedo y los rostros tensos; la mancha roja pulsa a lo lejos, y Drusniel cierra los ojos por un solo aliento antes de abrirlos otra vez.
+
+Movimiento de cámara: Push-in lento en la entrada del refugio.  
+Audio: retumbo volcánico lejano, viento sobre piedra caliente, chisporroteo de mecha, conteo bajo la respiración, roce de tela, granos de ceniza golpeando basalto. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

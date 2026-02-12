@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Jardín Negro: La Dama
+Language: es
+Canon Sequence: D-021-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: nyxara-questions-like-a-blade.jpg
+role: header
+prompt:[Face_Reference: Drusniel, Nyxara]. Nyxara se inclina con calma quirúrgica, ojos quietos; Drusniel mantiene el rostro inmóvil, mandíbula tensa, respuestas medidas e incompletas. Escena íntima en la mesa del claro, té intacto humeando, aire químico pesado, facetas detrás de Nyxara inclinadas como congregación. Refracción violeta fría se curva hacia ella y perfila hombros, y subresplandor naranja desde grietas capilares subilumina vapor y nudillos; la bruma dispersa ambas luces en halation suave sobre facetas negras y esmalte cerámico. Sony A7R V 50mm f/1.4 GM Cinestill 800T, poca profundidad de campo, grano visible, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: flowers-turn-toward-his-pack.jpg
+role: mid_01 (placed after sentence "Cuando entraste en mi territorio, las flores giraron.")
+prompt:Detalle a ras de suelo junto a la mesa: flores rojas bajas y tallos oscuros gruesos giran al unísono, pétalos orientándose con fuerza hacia una mochila gastada junto a los pies; movimiento sutil pero total, como un campo alineándose a un imán. Bruma química pegada al suelo, agujas de cristal negro alrededor, polvo húmedo adherido a pétalos. Refracción violeta parpadea sobre superficies mojadas y barniz de tallos, y subresplandor naranja desde grietas finas añade borde cálido bajo los pétalos; motas de polvo destellan ámbar al atravesar la subiluminación. Sony A7R V 100mm f/2.8 GM macro Kodak Ektar 100, poca profundidad de campo, grano visible, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: nyxara-leaves-through-flowers.jpg
+role: mid_02 (placed after sentence "Las flores detrás de ella se abrieron de nuevo, creando un camino que no existía un momento antes.")
+prompt:[Face_Reference: Nyxara]. Se aleja sin prisa, certeza en la postura. Entra en el campo mientras los brotes abren un sendero que no existía; tallos se separan y pétalos se levantan como cortina viva, luego se cierran detrás, tragando su silueta. Aire perfectamente inmóvil y químico; pétalos secos y grava casi no se mueven mientras el campo se reordena alrededor. Refracción violeta brilla en bordes húmedos y subresplandor naranja calienta la parte inferior de los pétalos al cerrarse; halation suave en la bruma. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, leve desenfoque de movimiento en pétalos, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: varesh-announces-the-guide.jpg
+role: mid_03 (placed after sentence "Varesh se materializó al borde del claro.")
+prompt:[Face_Reference: Varesh, Drusniel, Srietz, Elion]. Varesh con postura formal y expresión controlada; Drusniel escucha plano y calculador; Srietz orejas casi aplastadas; Elion brazos cruzados, listo para moverse. Varesh se materializa en el borde del claro como si saliera del campo, el mensaje de observación entregado sin palabras. Refracción violeta marca bordes fríos en armadura y pómulos, y subresplandor naranja desde fisuras subilumina mandíbulas y manos; la bruma química hace bloom del contraste y deja halation suave en facetas. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, grano visible, ligeramente subexpuesto, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: quarters-in-the-flower-field.jpg
+role: mid_04 (placed after sentence "Los condujeron a una estructura construida dentro del propio campo de flores, con paredes tejidas de tallos gruesos y suelo cubierto de pétalos secos que crujían bajo los pies.")
+prompt:Interior de refugio improvisado dentro del campo: paredes tejidas con tallos oscuros gruesos, suelo alfombrado de pétalos secos, provisiones ordenadas con pulcritud deliberada; huecos en el tejido revelan flores alrededor como red viva de vigilancia. Parpadeo cálido de una sola linterna con pantalla atrapa bordes de pétalos y la trama, mientras refracción violeta tenue se cuela por los huecos y pinta brillos fríos en el suelo; sombras profundas se acumulan y el aire huele levemente a químicos. Sony A7R V 24mm f/1.4 GM Kodak Portra 400, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

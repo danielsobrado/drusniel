@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Camino de Zuraldi: La DecisiÃ³n
+Language: es
+Canon Sequence: W-008-005
+Source Image: exhausted-hiding.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint tries to draw a breath and fails, then forces a shallow gasp through clenched teeth. Balin stays close, scanning ahead as they keep moving.
+[00:03-00:05] Behind them, the distant chase sounds sharpen: grit scuffs, a weapon shifts under cloth, and the pace gains. Dulint adjusts the pack with a pained wince.
+[00:05-00:08] The cube's pulse leaks faintly through the seam, cold light flickering across leather and dust as they commit toward the treeline and the road darkens into shadow.
+
+Slow dolly-in from their backs to Dulint's hands tightening the strap.
+Audio: ragged breathing, fast footsteps behind at distance, leather creak, dust hiss, a low vibrating hum, wind over dry hills. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

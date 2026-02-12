@@ -1,0 +1,26 @@
+# Image Prompts
+Title: La Defensa Resiliente del Imperio Divino de Lumeshire
+Language: es
+Canon Sequence: LUM-L-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wet-boots-mystery.jpg
+role: header
+prompt:[Face_Reference: Valarian] Brow furrowed, looking down; breath held as if refusing to admit concern. Valarian stands on the dry packed-earth path outside the barracks, staring at boots soaked in dark, motionless water that clings to leather and gathers around the soles; the ground around them stays dusty and dry, no puddle anywhere; the garrison wall and treeline sit blurred in the distance. Flat overcast morning light turns the world grey; the wet leather absorbs light and goes nearly black while the dry dirt reflects softly, making an impossible wet-dry boundary. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: gray-stone-wall.jpg
+role: mid_01 (placed after sentence "El muro de la guarnición apareció a la vista: una barrera de treinta pies de piedra gris, vieja pero sólida, marcando donde terminaba Lumeshire y comenzaba la línea de árboles.")
+prompt:Wide environmental shot of a Lumeshire border garrison wall: a tall barrier of old grey stone with moss darkening the lower blocks, patrol walkway along the top, and a cleared kill zone of stumps and short grass before it; beyond the wall, the dense Grukmar treeline presses like a dark curtain. Flat grey overcast light washes the scene evenly, making stone and sky nearly the same value while the treeline reads as a darker mass; moisture haze softens distance and mutes contrast. Sony A7R IV 24mm f/2.8 Kodak Ektar 100, deep depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: marrek-smoking.jpg
+role: mid_02 (placed after sentence "En la puerta occidental, encontró a Marrek fumando una pipa y mirando las montañas.")
+prompt:[Face_Reference: Marrek] Eyes fixed on the treeline, distant and unsettled; pipe forgotten at his lips. Marrek leans against the western gate stonework with a clay pipe in one hand, thin smoke threading upward while he stares past the wall toward dark trees and far mountains; his posture is steady, but his face says he saw something he cannot file. Cold morning haze diffuses the light, turning the scene damp-grey; the pipe smoke catches the flat brightness as a pale ribbon against the darker stone shadow of the gate. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: filing-reports.jpg
+role: mid_03 (placed after sentence "Archivó el informe de avistamiento de Venn en el cajón de no verificados.")
+prompt:[Face_Reference: Valarian] Expression controlled and procedural; jaw set as if routine can make it harmless. In a cramped stone office, Valarian slides a thin report page into an overstuffed filing drawer crammed with similar dog-eared papers, their handwriting not readable; on the desk, routine forms stack in neat piles beside a quill and a half-empty inkwell. A small oil lamp provides warm amber light that pools across the cabinet face and paper edges; grey window light leaks in as a cold fill, leaving the drawer interior in layered shadow. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: invisible-water.jpg
+role: mid_04 (placed after sentence "Esta vez, no había charco.")
+prompt:Floor-level shot inside a barracks room: leather boots sit on perfectly dry, dusty floorboards, yet the boots themselves are soaked, dark water beading on the leather and gathering around the soles without spreading onto the wood; bed frame and weapons rack blur in the background. Pale cold morning light enters through a small window and lays a flat rectangle across the boards; the wet leather eats the light while dust around it stays bright, and the water beads show no clear reflection of the room. Sony A7R IV 24mm f/2.0 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

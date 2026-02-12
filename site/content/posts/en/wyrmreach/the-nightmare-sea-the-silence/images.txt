@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Nightmare Sea: The Silence
+Language: en
+Canon Sequence: D-009-003
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: endless-gray-nightmare-sea.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Hunched over the oars, salt and grime on his skin, hollow exhaustion in his eyes. A small battered wooden boat alone on an impossible flat expanse of black water under uniform grey light with no sun and no shadows. The horizon never moves. Pale grey sourceless light illuminating the scene evenly, no directional shadow, faint reflection on the water surface. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: numb-hands-on-oars.jpg
+role: mid_01 (placed after sentence "Drusniel couldn't feel his hands anymore.")
+prompt: [Face_Reference: Drusniel] White-knuckled grip, raw skin visible. Close-up on his hands gripping wet oar handles, skin raw and numb, water splashing against the boat and soaking his wrists. Black water surface too thick and lightless beyond the gunwale. Pale grey ambient light catching moisture on the knuckles and oar wood, no shadow. Canon EOS R5 100mm f/2.8 Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: wall-of-black-water.jpg
+role: mid_02 (placed after sentence "A wave rose ahead of him.")
+prompt: [Face_Reference: Drusniel] Exhaustion and terror on his face, rowing straight toward the impossible wall. A vertical wall of black water rises ahead of the boat, not a wave but a suspended dark cliff defying gravity, the surface smooth and lightless. Grey sourceless light catching the upper edge of the water wall, the boat tiny against the mass. Canon EOS R5 16mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: drowning-vision-silence.jpg
+role: mid_03 (placed after sentence "The bow struck the wall of water, and reality broke.")
+prompt: [Face_Reference: Drusniel] Eyes wide and unfocused, mouth open, black water invading. Underwater view in pitch-black liquid as Drusniel sinks without a boat, the scene impossibly still, faint grey light dying above him, vast empty pressure suggested by the dark water pressing from every direction. Faint grey light filtering from above, rapidly absorbed by the black water, dimming to nothing below. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: back-in-the-boat-debt.jpg
+role: mid_04 (placed after sentence "Pain exploded across his chest.")
+prompt: [Face_Reference: Drusniel] Jolting upright with a ragged gasp, one hand clutching his chest, the other locked on the oar. Drusniel sits in the boat with black water at his shins, body rigid with sudden pain as a new invisible weight settles beneath his ribs, oars still gripped as if his body kept rowing through the nightmare. Grey sourceless light ahead shifting almost imperceptibly toward distance and direction. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

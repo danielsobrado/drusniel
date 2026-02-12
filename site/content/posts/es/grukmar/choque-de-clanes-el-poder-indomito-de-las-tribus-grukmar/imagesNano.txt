@@ -1,0 +1,41 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Poder Indómito de las Tribus Grukmar
+Language: es
+Canon Sequence: GRU-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: morrigan-studies-zikvik.jpg
+role: header
+prompt:[Face_Reference: Morrigan]. Expression: cold appraisal; posture still; one hand near her belt, ready. Captain Morrigan stands an arm's length from rusted iron bars while Zikvik presses his face to the metal, grinning with broken teeth; missing fingers and torn ear visible. A leather pouch spills non-goblin teeth beside a crude map scratched onto stained hide on the damp stone floor.
+Environment: Single iron lantern overhead burns with cold blue-white oil flame and throws barred shadows across both faces. Rusted bars show pitted iron-oxide texture; the lantern creates warm micro-glints on corrosion edges while the stone walls stay wet and dark, reflecting only tiny specular points.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation around the lantern. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: zikvik-grins-at-bars.jpg
+role: mid_01 (placed after sentence "El goblin presionó su cara contra los barrotes, sonriendo con lo que quedaba de sus dientes.")
+prompt:Tight portrait through iron bars. Zikvik's face mashed forward in a manic grin, yellow eyes bright with fear and calculation; torn ear ragged; remaining fingers clamp the bars and leave rust stains on his palm.
+Environment: Cold lantern light rakes across the face at a harsh side angle, carving deep shadow into scars and grime. Moisture on lips and skin produces tiny specular points; rust reflects warmer orange pinpoints where the flame flickers, while the background falls into near-black.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible. Aspect: 2:3.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: sealed-intel-report.jpg
+role: mid_02 (placed after sentence "Morrigan archivó su informe esa noche.")
+prompt:[Face_Reference: Morrigan]. Focused, unsmiling; eyes slightly bloodshot with fatigue; quill hand steady. Writing an intelligence report with dense handwriting not readable; brass wax seal warming near a beeswax candle; patrol reports tied with cord; tooth pouch open in an evidence tray at the desk edge.
+Environment: Oil lamp provides warm amber pool light with steep falloff; candle adds smaller flame glow that catches the wax seal as it softens. Wet ink reflects the flame as a sharp point highlight; shadows behind the desk drop to black with only faint orange bounce under the wrists.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: zikvik-runs-for-treeline.jpg
+role: mid_03 (placed after sentence "No miró hacia atrás.")
+prompt:Zikvik runs hard toward a dark treeline of gnarled swamp oaks, bare feet slapping wet earth, mud kicking up behind; missing fingers flash in silhouette as arms pump. Border palisade recedes into ground fog behind him.
+Environment: Low dusk backlight from the amber horizon creates rim highlights along shoulders and ears. Fog diffuses the light into a soft gradient around the legs; wet mud throws dark splashes that catch brief warm highlights before falling back into shadow.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, slight motion blur in the feet. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: oversized-tracks-into-swamp.jpg
+role: mid_04 (placed after sentence "Hasta ahora, nada había emergido. Pero los exploradores seguían encontrando esas huellas—siempre alejándose del interior, siempre frescas, siempre demasiado grandes para explicar.")
+prompt:Three border soldiers stand at the edge of a swamp, staring down at massive footprints pressed deep into black mud, wet edges still slumping; tracks lead outward toward the border with an impossible stride. Reed beds, dark water, insects hovering, distant smoke on the grey horizon.
+Environment: Flat overcast daylight makes the mud read like dark mirrors. A hand lantern adds low warm orange that catches the nearest reeds and reflects as broken amber streaks across pooled water in the prints; ripples wobble the reflections as insects touch down.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Ektar 100, deep depth of field, film grain visible. Aspect: 3:2.
+Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

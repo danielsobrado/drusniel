@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Hombre Amable: La Tierra Extraña
+Language: es
+Canon Sequence: D-011-002
+Source Image: first-clear-view-of-wyrmreach.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A gust snaps the tarp behind them and Drusniel’s knees tremble; Merrik tightens his grip at the elbow to keep him upright as black sand shifts under their boots.
+[00:03-00:05] The volcanic glow on the horizon pulses once, faintly brighter, and drifting grit catches the light; Drusniel turns his head and forces his breathing steady.
+[00:05-00:08] Merrik guides him one careful step forward; in the periphery the crystal formations subtly misalign and then settle, as if the land corrects itself when watched.
+
+Slow pull-back to widen the reveal of the coast and horizon.
+Audio: ash wind, canvas flapping, boots scraping sand, distant low volcanic rumble, faint fire crackle behind, controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

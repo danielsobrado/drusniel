@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Primer Fragmento: La Visión
+Language: es
+Canon Sequence: W-020-004
+Source Image: maris-waking.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Plano estático: Maris convulsiona despierta en el barranco; Balin la sujeta por los hombros mientras Xandor aprieta un trapo en su nariz y la sangre cae más rápido de lo que pueden detener.  
+[00:03-00:05] El encuadre no se mueve: el Faro pulsa—destellos azul-blanco fríos lavando los rostros—mientras Eldric cambia el peso para inmovilizar las piernas y la linterna chisporrotea, lanzando calor que pelea contra el brillo frío.  
+[00:05-00:08] Sigue estático; el grito de Maris se rompe en jadeos, el vaho del aliento se hincha, y el pulso se frena un latido antes de volver, como si algo lejano acabara de responder.
+
+Movimiento de cámara: Static.  
+Audio: respiración entrecortada, tos húmeda, golpe y roce de tela, chisporroteo de linterna, zumbido y pulso del Faro, viento amortiguado por roca, gotas de sangre en la tierra. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

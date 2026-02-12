@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Mago de Superficie: La Mención de Wyrmreach
+Language: es
+Canon Sequence: D-007-004
+Source Image: leaving-tower.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Wind tugs at his cloak as he stands on the threshold and blinks into the shifting gray. Clouds part for a moment and a pale shaft of sun slides across the hills.
+[00:03-00:05] He turns his head toward the distant slope that hides the tunnel home, jaw tightening as the thought lands and refuses to leave. His fingers flex once, then go still.
+[00:05-00:08] He steps down from the doorway and starts walking, pace quickening as the light brightens and the mist moves in thin sheets over the grass. The tower door swings slightly behind him and then settles.
+
+Slow pull-back as he leaves the doorway and the landscape opens up.
+Audio: low wind, cloth flap, boots on damp ground, distant bird call swallowed by cloud, a faint wooden hinge creak from the door. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,26 @@
+﻿# Image Prompts
+Title: La Visión Clara: La Caída
+Language: es
+Canon Sequence: W-024-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-collapse-mid-stride.jpg
+role: header
+prompt:[Face_Reference: Maris] [Face_Reference: Balin] Maris collapses mid-stride, body going limp as if yanked by invisible force. Balin lunges forward to catch her, arms outstretched. Trail through low yellow grass hills, companions reaching behind them. Cold overcast daylight from above, flat and grey. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, motion frozen. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: group-scrambles-protect.jpg
+role: mid_01 (placed after sentence "No la muevas. Estabilízale la cabeza. Así.")
+prompt:[Face_Reference: Xandor] [Face_Reference: Balin] [Face_Reference: Eldric] [Face_Reference: Dulint] Xandor steadies Maris's head with both hands, kneeling. Eldric pushes Balin back. Dulint pulls a blanket from his pack. Four travelers form a protective circle around a collapsed woman on a grassy hillside. Diffused grey daylight from overcast sky, cold and even. Sony A7R IV 24mm f/2.8 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-eyes-roll-back.jpg
+role: mid_02 (placed after sentence "Pero ella ya no estaba en su cuerpo.")
+prompt:[Face_Reference: Maris] [Face_Reference: Xandor] Maris lies on the ground, eyes rolled back showing whites, face slack and drained, thin blood lines from both nostrils. Xandor presses her temples with steady hands. Sickly pale daylight falling on her face from the overcast sky above, grass and mud beneath her. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores, shallow depth of field. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: vision-pulls-maris-in.jpg
+role: mid_03 (placed after sentence "Esas normas ya no aplicaban.")
+prompt:[Face_Reference: Maris] Maris's face half in overcast daylight, half dissolving into nightmare-black void. One eye reflects the grey hillside, the other shows black water. A tearing seam runs across her features where reality splits. Grey sky above transitioning to absolute darkness on her other side. Cold daylight from the real-world half, faint sickly green glow from the vision half. Canon EOS R5 50mm f/1.8 Cinestill 800T, subtle lens flare at the seam. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-body-defenseless.jpg
+role: mid_04 (placed after sentence "Cayó en él.")
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] [Face_Reference: Eldric] [Face_Reference: Balin] Maris lies motionless on the grassy hillside trail. Dulint stays closest with the Beacon (dark metal cube, cold blue-white internal glow) pack glowing beside him. Eldric faces outward with weapon ready. Balin paces with nervous energy. Cold blue-white glow from the Beacon competing with flat overcast daylight across the northern landscape. Sony A7R IV 35mm f/2.8 Kodak Portra 400, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

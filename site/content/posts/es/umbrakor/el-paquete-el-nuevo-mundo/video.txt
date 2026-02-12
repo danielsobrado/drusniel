@@ -1,0 +1,16 @@
+# Video Prompt
+Title: El Paquete: El Nuevo Mundo
+Language: es
+Canon Sequence: D-011-005
+Source Image: giant-eye-mountain.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The horizon shifts with a slow impossible motion; a glossy glint opens and holds for a beat as dust trembles on the rock near his hands.
+[00:03-00:05] He presses lower behind the outcropping, breath held; a faint pulse begins under his pack flap, light leaking through a seam.
+[00:05-00:08] The glint fades and the rumble rolls away; he slides one knee deeper into shadow, keeping the leaking pulse covered as the red light stays flat and sunless.
+
+Slow pull back that reveals the crushing scale between him and the horizon.
+Audio: distant low rumble, rising wind, grit sliding on stone, cloth strain, muffled breath, faint artifact throb, far wave slap. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,27 @@
+﻿# Image Prompts
+Title: Nombrar Sin Explicar: El Reconocimiento
+Language: es
+Canon Sequence: W-014-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-studies-cube.jpg
+role: header
+prompt:[Face_Reference: Xandor] Photorealistic, terrified awe; hands hovering as if afraid to touch, breath tight, eyes fixed on the cube. Xandor hunches over a scarred wooden table in a cramped rented room with stacks of half-burned manuscripts, scattered fragment notes, and wax drips; the Beacon cube rests in the center, pulsing softly as its symbols shift. A candle to his right throws warm amber light across paper edges and knuckles, while the cube's cold blue-white internal glow rises from below and paints moving geometric reflections across his face and the cracked plaster wall behind. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, subtle halation around the blue glow, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: cube-pulse-detail.jpg
+role: mid_01 (placed after sentence "El cubo pulsaba con esa luz suave")
+prompt:Photorealistic macro detail of the Beacon cube: unknown dark metal with fine scratches and grime in seams, etched geometric channels catching a faint internal blue-white pulse as the symbols slide and re-form. Candlelight reflections glide across the brushed surface in warm bands, while the internal glow adds cold highlights along sharp edges and throws faint caustic-like lines onto nearby paper fibers out of focus. Canon EOS R5 100mm f/2.8 Macro Cinestill 800T, film grain visible, shallow depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: xandor-touches-artifact.jpg
+role: mid_02 (placed after sentence "Xandor finalmente tocó la superficie del cubo")
+prompt:[Face_Reference: Xandor] Photorealistic, shock and recognition hitting at once; eyes widening, throat tight, fingertips trembling as they make contact. Close shot of Xandor touching the smooth cube surface on the table; at the exact point of contact the blue-white lines flare brighter and ripple outward, lifting a few dust motes and stirring paper corners as if the room exhaled. The cube's cold glow blooms upward into his eyes and across his cheek, while a single candle behind him adds warm rim light along his jaw and turns the drifting haze into soft amber specks. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: maris-overwhelmed.jpg
+role: mid_03 (placed after sentence "Me grita. Constantemente.")
+prompt:[Face_Reference: Maris] Photorealistic, overwhelmed pain; shoulders tight, hands pressed to temples as if the sound is physical. Low-light portrait in the corner of the cramped room with the cube glow cutting across Maris's face in cold bands while candlelight flickers warm on the wall; dust and haze hang in the air as she trembles. The cube pulse provides cold blue fill from the left, and the candle provides warm amber from the right, mixing into uneasy skin highlights and deep shadow pockets. Sony A7R IV 85mm f/1.8 Cinestill 800T, film grain visible, slight motion blur from trembling, background softly out of focus. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: group-tension.jpg
+role: mid_04 (placed after sentence "Eldric probó la palabra desde su posición")
+prompt:[Face_Reference: Xandor] Photorealistic, shaken focus; protective posture over the table. [Face_Reference: Dulint] Patient concern, eyes measuring what he cannot control. [Face_Reference: Eldric] Tight vigilance by the door, attention split between the room and the window. [Face_Reference: Balin] Leaning forward, restless intensity. [Face_Reference: Maris] Rigid in the corner, fighting the pressure. Wide room composition: the Beacon cube pulses on the table, papers and charred fragments spread out, and the five figures hold their positions in a small cracked-plaster room that feels too tight for what is happening. Candlelight provides warm pools that carve long shadows, while the cube glow throws cold moving geometry across faces and furniture, creating distorted overlapping shadow bands. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, atmospheric haze, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

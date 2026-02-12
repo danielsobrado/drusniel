@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Bosques Eternos: La Danza del Reino de Elenoria con la Naturaleza
+Language: es
+Canon Sequence: ELE-L-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: header.jpg
+role: header
+prompt:[Face_Reference: Faelyn] Fingers slightly trembling as she turns a brittle page; expression: intent, guarded. Faelyn sits at a mossy stone desk inside the Aelindril living library, braided branches and aerial roots grown into pointed arches, living bark shelves packed with leather-bound tomes, ivy tendrils creeping across the tabletop, tight handwriting on the page not readable. Overcast daylight filters through the leaf canopy above, tinting the light green-gold and throwing soft dapple across her hands; faint bioluminescent fungus along a root arch adds cold blue accents in the deep stacks. Canon EOS R5 35mm f/1.4 Kodak Portra 400, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: mid-01.jpg
+role: mid_01 (placed after sentence "—No. No lo tienes.")
+prompt:[Face_Reference: Faelyn] Jaw set, eyes narrowed; one hand hovering inches from the wall as if afraid to touch it. Beside the reading table, she studies a root-and-stone wall where living bark has regrown to seal a narrow gap, the fresh growth lighter and too smooth, the seam unnaturally straight; at the edge of frame, a robed shoulder and fingertips rest on a book spine, out of focus. Sunlight filtered through leaves paints slow-moving dapple across the mossy floor; the sealed seam catches a colder, sharper highlight than the older bark around it. Canon EOS R5 50mm f/1.4 Kodak Portra 400, shallow depth of field, subtle lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: mid-02.jpg
+role: mid_02 (placed after sentence "Cuidadosamente ocultas, pensó ella. Pero no lo dijo.")
+prompt:[Face_Reference: Faelyn] Expression held blank; throat tight; eyes flick from the empty space to the catalog hooks. She stands between towering shelves grown from living timber, staring at a gap where cross-referenced tomes should sit, rectangular dust ghosts on the wood, empty brass hooks hanging from a root bracket, the living shelf edge creeping inward as if trying to close the absence; no readable titles on nearby spines. Dim canopy light seeps down in green tones; pinpricks of blue bioluminescence from small fungi along the brackets catch on the brass and on the dust outlines. Canon EOS R5 85mm f/1.4 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: mid-03.jpg
+role: mid_03 (placed after sentence "Moldeada.")
+prompt:Goose-feather quill scratches across an open trade ledger filled with dense handwriting (not readable); dark green ink beads at the nib; an ink bottle, blotting sand shaker, and stacked documents tied with linen thread and red wax seals sit on the mossy stone desk while fine root tendrils creep through the cracks. A single beeswax candle beside the ink provides warm amber light that glints off wet ink and wax; cool green canopy light from above fills the shadows and catches soft dapple across the stone. Sony A7R IV 100mm f/2.8 macro Kodak Ektar 100, razor-thin focal plane, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: mid-04.jpg
+role: mid_04 (placed after sentence "Faelyn estaba empezando a entender por qué.")
+prompt:Overhead view of a stone map table: a new cartography sheet unrolled beside stacks of older maps tagged and tied, edges frayed and damp-stained, many marked as superseded; no readable labels; Faelyn's hand pins one corner while a finger traces a forest border that no longer matches the previous survey. Cold overcast daylight from a high window washes the papers in flat grey, making the newer sheet brighter against the yellowed older maps; wax tags catch small pale highlights and cast crisp shadows. Canon EOS R5 24mm f/2.0 Kodak Ektar 100, deep depth of field, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

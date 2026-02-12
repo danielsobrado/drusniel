@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Segunda Elección: La Espera
+Language: es
+Canon Sequence: D-017-004
+Source Image: drusniel-finds-ancient-writing.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel squeezes through a tight passage, fingertips trailing the wall; he slows as a shallow groove catches under his touch and he stops breathing for a beat.
+[00:03-00:05] He leans closer and shifts his hand to rake the phosphorescent glow across the surface, making the carved lines appear, then vanish, as if the stone only speaks at the right angle.
+[00:05-00:08] He jerks his hand back as if burned, looks into the deeper darkness, then backs away step by step, leaving the wall in silence while the glow keeps pulsing overhead.
+
+Dolly in.
+Audio: soft boot scuff on obsidian, fingertip scrape, water drips, shallow breathing, faint low hum from the Beacon, distant rock tick. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

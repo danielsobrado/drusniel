@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Fractura: El Compromiso
+Language: es
+Canon Sequence: W-022-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: defensive-camp.jpg
+role: header
+prompt:[Face_Reference: Eldric, Dulint, Balin, Maris, Xandor]. Eldric binds his sword arm one-handed, eyes never leaving the treeline; Dulint holds watchful tension with the pack close; Balin stares hollow, hands calloused on his blade; Maris shakes uncontrollably, cloth pressed to a nosebleed; Xandor steadies her and offers fresh cloth. Morning defensive camp in a clearing of storm-felled ancient oaks: massive trunks form a maze of natural barriers on three sides, steep slope on the fourth, only two approaches wide enough for a group. Cold morning daylight filters through broken canopy in pale grey sheets; wet bark shows micro-sheen, blood catches dark glossy highlights, and shadow pools between fallen trunks stay near-black. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight haze bloom, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: Eldrice-bandage.jpg
+role: mid_01 (placed after sentence "El brazo de la espada de Eldric sangraba por un corte que se había hecho durante la huida, una rama o una hoja.")
+prompt:[Face_Reference: Eldric]. Stoic pain, jaw clenched, attention still on the treeline. Close-up on the sword arm as he tightens a fresh bandage one-handed, blood soaking into cloth, fallen oak trunks blurred behind. Cold morning daylight reveals cloth fiber texture and wet blood sheen; shadows under the wrap go near-black and tiny specular highlights catch on sweat and leather. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: map-planning.jpg
+role: mid_02 (placed after sentence "—Un camino intermedio —dijo Dulint.")
+prompt:[Face_Reference: Dulint, Eldric, Balin, Maris, Xandor]. Dulint speaks in reluctant concessions, finger steady on the route; Eldric nods with tired clarity; Balin listens in silence; Maris trembles, cloth to her nose; Xandor keeps a steadying hand on her shoulder. A hand-drawn map lies on a fallen log between storm-felled oaks; lines and marks visible but no legible words, gear piled close, defensible clearing around them. Dappled morning light paints moving patches across paper grain, knuckles, and bark; a faint intermittent blue-white pulse leaks from the pack as cold edge light along the map’s creases and strap hardware. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly out of focus background, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: maris-determined.jpg
+role: mid_03 (placed after sentence "Xandor ayudó a Maris a ponerse en pie.")
+prompt:[Face_Reference: Maris, Xandor]. Maris forces control over shaking for one moment, eyes unnaturally clear; she wipes blood from her upper lip and steadies herself. Xandor supports her without hesitation, scanning her face for warning signs. Medium portrait in the defensible clearing of fallen oaks; wet bark behind, cloth bright in her hands, Eldric and Dulint blurred beyond. Cold morning light falls in soft grey sheets; wet blood catches dark specular highlights and the clean cloth glows pale, shadows pooling between trunks stay deep. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: beacon-pointing.jpg
+role: mid_04 (placed after sentence "El Faro señalaba el camino.")
+prompt:Close-up of the Beacon resting in an opened pack on damp leaf litter: dark metal cube with cold blue-white internal glow pulsing steady, light forming a narrow straight corridor through ferns and trunks that implies true north, no legible markings. The Beacon’s glow is the diegetic key light; blue-white specular highlights rake across wet leaves, bark ridges, and canvas weave, while shadows drop to black outside the corridor of light. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slight halation around the glow, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

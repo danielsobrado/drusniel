@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Prueba: La Prueba de Venemora
+Language: es
+Canon Sequence: D-003-001
+Source Image: the-void-feeling.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel kneels on the black stone platform, hand reaching upward. His fingers close slowly around nothing. His arm trembles. The purple bioluminescent light pulses faintly across the chamber walls. His expression shifts from concentration to confusion.
+[00:03-00:06] His eyes snap open. His hand drops to the stone. His chest heaves once, twice. The robed mages behind him do not look up from their slates. One makes a mark with a stylus. Purple light catches the sweat rolling down Drusniel's temple.
+[00:06-00:08] He rises to his feet, unsteady. He turns toward the exit. Across the chamber, a pale face stares at him from the line of successful candidates. Horror in those distant eyes. Drusniel does not look back. He walks.
+
+Slow push-in on Drusniel from medium to tight portrait.
+Audio: stone scraping under shifting knees, distant dripping water, scratching of stylus on slate, the hollow echo of the vast chamber. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

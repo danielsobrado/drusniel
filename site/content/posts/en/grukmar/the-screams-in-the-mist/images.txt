@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Screams in the Mist
+Language: en
+Canon Sequence: P-007
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: mist-forest-scream.jpg
+role: header
+prompt:[Face_Reference: Varian] Expression: eyes narrowed into the fog, one hand fixed on the sword hilt. [Face_Reference: Elric] Expression: pale shock, whisper-tight fear. Mist hangs low between black trees as a woman's scream cuts the stillness, wet leaves and trunks swallowing sound, fog suspended like a curtain between branches. Cold starlight and thin moonlight are the only light, silver rim highlights on damp bark and steel while the mist blooms soft and grey. Sony A7R IV 35mm f/2.8 Cinestill 800T, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: chasing-through-fog.jpg
+role: mid_01 (placed after sentence "Varian moved before he could think better of it.")
+prompt:[Face_Reference: Varian] Expression: reckless urgency, jaw set as he surges forward. [Face_Reference: Elric] Expression: alarmed restraint, reaching to grab his arm and missing. Varian runs into the fog, boots crushing damp leaves as a shadow flickers between black trunks and vanishes, Elric half a step behind with sword half-drawn catching a cold glint. Moonlight filtered through fog gives diffuse blue-grey fill with sharp silver highlights on wet steel and leaf edges. Canon EOS R5 35mm f/1.4 Cinestill 800T, motion blur, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: trap-net-collapse.jpg
+role: mid_02 (placed after sentence "The ground gave way.")
+prompt:Varian steps into a clearing and the forest floor collapses, earth and roots giving way as his sword slips from his grasp into darkness and a rough woven net snaps tight around his torso mid-fall, Elric lunging into frame too late. Cold starlight filtered through fog is the only light, catching wet rope fibers and airborne grit while the pit below falls to absolute black. Canon EOS R5 24mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: tangled-in-net.jpg
+role: mid_03 (placed after sentence "His eyes adjusted slowly.")
+prompt:[Face_Reference: Varian] Expression: anger fighting panic, breathing ragged. [Face_Reference: Elric] Expression: grim frustration, eyes darting upward. Varian and Elric lie tangled together in a coarse net on the wet forest floor, ropes lashed to nearby trees, mud and leaf litter pressed into their clothes as they strain and only tighten the cords, darkness full of unseen eyes. Thin moonlight through mist provides cold rim light while damp leaves and rope catch faint silver highlights and the rest sinks into shadow. Canon EOS R5 50mm f/1.4 Cinestill 800T, slightly underexposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: orc-huntress-silhouette.jpg
+role: mid_04 (placed after sentence "The last thing he saw was the silhouette of an orcish woman against the stars.")
+prompt:From Varian's low trapped perspective, an orcish woman stands above the net as a dark silhouette against a star-pricked sky, tusks and cheek line catching a faint cold glint as she smiles down, fog curling around her shoulders and the canopy framing her like jaws. Starlight and a thin moon are the only light, backlighting the mist and leaving her face mostly black, with tiny silver highlights on tusks and wet leaves overhead. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

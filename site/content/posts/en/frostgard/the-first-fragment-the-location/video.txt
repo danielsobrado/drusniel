@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The First Fragment: The Location
+Language: en
+Canon Sequence: W-020-002
+Source Image: ancient-markings.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow push-in starts at the broken ward-ice doorway as lantern light trembles on splintered cracks; cold mist spills out and the chamber hum deepens like a held note.  
+[00:03-00:05] The push-in continues past translucent ice walls; unreadable markings seem to shift as the camera moves, and the Beacon inside the pack answers with a tighter, louder pulse.  
+[00:05-00:08] The camera settles on the pedestal as the fragment's glow swells; blue-white light refracts through living ice, violet fringes flicker along etched lines, and the hum rises to a sudden bright flare that wipes the scene.
+
+Camera movement: Slow push-in through the doorway to the pedestal.  
+Audio: lantern wick hiss, ice creaks and faint crackle, low resonant hum building, cloth rustle, breath fogged exhales, distant wind muted by stone. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

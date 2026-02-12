@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Primer Fragmento: La Búsqueda
+Language: es
+Canon Sequence: W-020-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: snowy-search.jpg
+role: header
+prompt:[Face_Reference: Dulint, Eldric, Xandor, Balin, Maris]. Dulint al frente con gesto sin sueño; Eldric escaneando; Xandor constante; Balin pegado a Maris; Maris tensa, palma a la sien. Marcha al norte: roca, tierra gris, árboles escasos doblados por viento, capas golpeando y aliento en nubes. Cielo cubierto desatura; el Faro filtra un destello azul-blanco por la lona y tartamudea, puntos fríos rebotan en hebillas húmedas y tela antes de apagarse. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, grano visible, ligero viñeteo, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: beacon-stutter.jpg
+role: mid_01 (placed after sentence "Como un corazón que aprende a correr.")
+prompt:[Face_Reference: Dulint]. Dormido sentado, brazos cerrados, ceño leve. Campamento nocturno sin fuego, viento con polvo; el Faro tartamudea en ráfagas azul-blanco y luego sostiene un zumbido bajo que hace parpadear fibras de lona y nudillos. Pulsos del Faro tallan brillos duros en correas mojadas, sombras azul profundas tragan el resto, halación en los picos más brillantes. Sony A7R V 50mm f/1.2 GM Cinestill 800T, grano visible, ligera halación, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: maris-trembling.jpg
+role: mid_02 (placed after sentence "Cada una la dejaba con la nariz sangrando y un dolor de cabeza que duraba horas.")
+prompt:[Face_Reference: Maris, Balin]. Maris con mano temblando y sangre mínima en la nariz; Balin se acerca preocupado. Camino con árboles doblados y tierra gris, los otros desenfocados adelante, aliento condensado entre ellos. Luz fría cubierta revela fatiga; humedad en bordes de capa atrapa puntos plateados y el vaho se vuelve bokeh suave. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, grano visible, poca profundidad de campo, exposición imperfecta. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: xandor-sensing.jpg
+role: mid_03 (placed after sentence "Xandor se arrodilló junto al fardo y sostuvo sus manos curtidas sobre el artefacto sin tocarlo.")
+prompt:[Face_Reference: Xandor, Dulint, Eldric, Maris, Balin]. Xandor manos flotando y ojos cerrados; Dulint protector; Eldric listo; Maris fija; Balin tenso. Fardo abierto en la senda, el Faro más brillante y estrecho como si afinara el objetivo; viento frío de pasos. Luz azul-blanco del Faro crea brillos nítidos en nudillos y trama de lona; día cubierto añade relleno frío, reflejos rompen en puntos sobre cuero húmedo. Sony A7R V 35mm f/1.4 GM Cinestill 800T, grano visible, ligera halación en bordes brillantes, exposición imperfecta. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: hunters-behind.jpg
+role: mid_04 (placed after sentence "Detrás de ellos, algo más también caminaba.")
+prompt:[Face_Reference: Eldric]. Girado hacia atrás, ojos entrecerrados, leyendo el bosque. POV desde detrás de un tronco, el grupo se aleja; una presencia oscura ocupa primer plano, ramas silban, polvo frío se levanta. Luz cubierta muere bajo árboles; borde frío en mejilla y brillo mínimo en mano, fondo cae en sombra profunda. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, grano visible, ligera subexposición, leve vibración de mano. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The First Fragment: The Hunters
+Language: en
+Canon Sequence: W-020-005
+Source Image: message-carved.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A slow pull back begins on the deep fresh cuts in the giant's back as frost crystals sparkle; Eldric's boots stop at the edge of the frame and he freezes, sword half-drawn.  
+[00:03-00:05] The pull back widens to reveal the full scale of the dead Frost Giant and the ravine beyond; wind skims ice dust over the body while two disciplined boot-print lines lead away without hurry.  
+[00:05-00:08] The camera settles wider as Dulint steps into view clutching the pack; the Beacon pulses once under canvas, a cold flash reflecting off the carved grooves as the group realizes they are being watched.
+
+Camera movement: Slow pull back from the carved grooves to wide scale reveal.  
+Audio: cutting wind, frost crunch under boots, distant treeline hiss, a single low Beacon hum, leather strap creak. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

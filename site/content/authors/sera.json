@@ -1,0 +1,30 @@
+{
+  "name": "Sera",
+  "title": "Zuraldi Messenger",
+  "titlees": "Mensajera Zuraldi",
+  "description": "A middle-aged Zuraldi woman built for long roads. Practical clothes, dust on her collar, and the kind of face that says she's been walking since before dawn. She doesn't waste words, but the ones she uses tend to matter.",
+  "descriptiones": "Una mujer Zuraldi de mediana edad hecha para caminos largos. Ropa práctica, polvo en el cuello, y el tipo de cara que dice que lleva caminando desde antes del amanecer. No malgasta palabras, pero las que usa suelen importar.",
+  "thumbnail": "sera.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Messenger"
+  ],
+  "skillses": [
+    "Mensajera"
+  ]
+}

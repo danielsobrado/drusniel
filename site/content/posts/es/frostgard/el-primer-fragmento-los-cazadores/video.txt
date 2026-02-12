@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Primer Fragmento: Los Cazadores
+Language: es
+Canon Sequence: W-020-005
+Source Image: message-carved.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un pull back lento comienza en los surcos profundos cortados en la espalda del gigante mientras cristales de escarcha brillan; las botas de Eldric se detienen al borde del cuadro y él se queda inmóvil, espada medio desenvainada.  
+[00:03-00:05] El pull back se abre y revela la escala completa del Gigante de Hielo muerto y el barranco; el viento barre polvo de hielo sobre el cuerpo y dos líneas disciplinadas de huellas de botas se alejan sin prisa.  
+[00:05-00:08] La cámara se asienta más abierta cuando Dulint entra en cuadro apretando el fardo; el Faro pulsa una vez bajo la lona, un destello frío reflejándose en las heridas cortadas mientras el grupo entiende que los están observando.
+
+Movimiento de cámara: Pull back lento desde los surcos al plano amplio.  
+Audio: viento cortante, crujido de escarcha bajo botas, silbido lejano de árboles, zumbido bajo del Faro, crujido de correa de cuero. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,26 @@
+﻿# Image Prompts
+Title: The Clear Sight: The Aftermath
+Language: en
+Canon Sequence: W-024-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: maris-wakes-devastated.jpg
+role: header
+prompt:[Face_Reference: Maris] Slowly opening bloodshot eyes, blood running from both nostrils, face drawn with exhaustion, pine needles in her hair. [Face_Reference: Dulint] Kneeling beside her, pressing a cloth to her nose. Maris lies on the frost-covered forest floor, the worst physical toll yet. Weak winter daylight filtering through dark pine branches above, cold and flat on her pale skin. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: maris-tries-to-speak.jpg
+role: mid_01 (placed after sentence "I saw him.")
+prompt:[Face_Reference: Maris] Propped against a tree trunk, trembling, forcing words through cracked lips, blood still wet on her upper lip. [Face_Reference: Dulint] Leaning in close. [Face_Reference: Eldric] Arms crossed, listening. [Face_Reference: Balin] Crouching nearby. [Face_Reference: Xandor] Hand on her shoulder. Four companions gathered tight to hear her barely audible voice in the winter forest. Overcast daylight filtering through pines, grey and diffused on the group. Sony A7R IV 50mm f/1.8 Kodak Portra 400, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: group-processes-description.jpg
+role: mid_02 (placed after sentence "A dark elf. Grey-black skin. White hair. Pointed ears.")
+prompt:[Face_Reference: Dulint] Frowning deeply. [Face_Reference: Balin] Bewildered expression. [Face_Reference: Eldric] Calculating gaze. [Face_Reference: Xandor] Placing a steadying hand on her shoulder. Four travelers exchanging confused glances in a winter forest clearing as they process impossible information. Flat overcast daylight filling the clearing evenly, cold grey tones on every face. Canon EOS R5 35mm f/2.0 Kodak Portra 400, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: beacon-glows-in-response.jpg
+role: mid_03 (placed after sentence "He's carrying the other half of this.")
+prompt:[Face_Reference: Maris] Bloody hand pointing at the pack. [Face_Reference: Dulint] Looking down at the pack with new dread. Amber-gold light pulses through the canvas of a heavy pack in steady rhythmic surges, responding to the declaration. The Beacon's amber-gold glow competing with cold winter daylight on their faces, warm and cold splitting the frame. Canon EOS R5 50mm f/1.8 Kodak Portra 400, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: maris-declaration.jpg
+role: mid_04 (placed after sentence "And something terrible is making him into a weapon.")
+prompt:[Face_Reference: Maris] Blood drying on her face, fierce certainty in bloodshot eyes, sitting up straighter despite devastation. The group gone silent around her after her final declaration, winter forest framing the scene. Cold overcast light from above, flat and unforgiving on the dried blood and bruised skin. Canon EOS R5 85mm f/1.4 Kodak Portra 400, natural skin with pores. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

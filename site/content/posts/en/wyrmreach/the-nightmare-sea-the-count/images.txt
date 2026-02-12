@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Nightmare Sea: The Count
+Language: en
+Canon Sequence: D-009-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rowboat-on-nightmare-sea.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Soaked and exhausted, cloak clinging to his frame. Wide establishing shot of a small battered rowboat on a vast grey hostile sea under flat endless light, the water tar-dark with waves arriving from impossible angles, ankle-deep black water sloshing inside the boat, oars in hand. Flat grey sourceless light from everywhere, no shadows, faint reflection on the water surface. Canon EOS R5 24mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: bailing-wrong-water.jpg
+role: mid_01 (placed after sentence "Each handful he threw overboard seemed to pull at his hands, reluctant to leave, and by the time he'd cleared one section, another wave had refilled it.")
+prompt: [Face_Reference: Drusniel] Knuckles raw and shaking, grimace of frustration. Tight close-up of Drusniel bailing thick black water with cupped hands as the boat rocks, the water clinging to his fingers and stretching unnaturally before falling back. Pale grey ambient light catching the stretched droplets, gritty wet wood grain of the hull visible. Canon EOS R5 85mm f/1.4 Cinestill 800T, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: rowing-while-counting-breaks.jpg
+role: mid_02 (placed after sentence "Three strokes. Four.")
+prompt: [Face_Reference: Drusniel] Face locked in strained concentration, muscles tensed mid-pull. Drusniel grips the oars and pulls through water whose density changes mid-stroke, one oar biting thick resistance while the other slips through mist-thin liquid, the boat tilting at an angle pushed from below. Grey sourceless light on his face and arms, no directional shadow. Sony A7R IV 35mm f/2.0 Cinestill 800T, not perfectly exposed, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: air-magic-jerk-forward.jpg
+role: mid_03 (placed after sentence "Drusniel reached for his air magic.")
+prompt: [Face_Reference: Drusniel] Expression of effort and fear, artifact pulsing at his chest. Drusniel forces a short unnatural gust behind the stern, the boat lurching forward in jerking bursts, spray tearing sideways from the hull, mist scattering around the stern. Grey light flickering across his face, faint distortion in the air behind the boat where the forced gust bends the mist. Canon EOS R5 35mm f/1.8 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: something-brushes-the-hull.jpg
+role: mid_04 (placed after sentence "Something brushed the bottom of the hull.")
+prompt: [Face_Reference: Drusniel] Frozen, eyes wide, oars suspended mid-stroke. Drusniel sits rigid in the boat as something soft and deliberate brushes the underside of the hull, the boat steadied too gently from below, ankle-deep wrong water pressing against his boots. Grey sourceless light, faint concentric ripples radiating outward from the hull into featureless water. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

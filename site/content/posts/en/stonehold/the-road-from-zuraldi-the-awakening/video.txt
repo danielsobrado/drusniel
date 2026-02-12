@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Road from Zuraldi: The Awakening
+Language: en
+Canon Sequence: W-008-001
+Source Image: pointing-northeast.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The cube's brightest face intensifies, the beam sharpening as dust in the air turns into a glittering line. Dulint rotates the cube again, testing it.
+[00:03-00:05] The beam refuses to move, staying locked toward the same point on the horizon. Balin takes a half step back, hand hovering near his knife as his eyes track the light.
+[00:05-00:08] The hum builds into a felt vibration. Dust on Dulint's knuckles trembles, and his grip tightens until his fingers whiten, breath catching as the road's heat haze swims.
+
+Slow push-in from the beam in the air to Dulint's hands holding the cube.
+Audio: low vibrating hum, dry wind over the road, faint leather creak, Dulint's sharp inhale, Balin's boot scuff in dust, distant insects in the hills. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

@@ -1,0 +1,14 @@
+# Video Prompt
+Title: Rumbo al Norte: Las Consecuencias
+Language: es
+Canon Sequence: W-018-005
+Source Image: camp-after-battle.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] El viento del crepúsculo atraviesa el saliente rocoso mientras la cámara avanza en dolly: Xandor aprieta un vendaje en el brazo de Eldric, Dulint abraza la mochila del artefacto, Balin mira sus manos limpias como si siguieran manchadas.  
+[00:03-00:05] El movimiento continúa; Maris permanece aparte en la penumbra azul, rodillas al pecho, la linterna entornada deja una rendija ámbar que rebota en la roca húmeda y en ojos agotados.  
+[00:05-00:08] El encuadre se asienta junto a la mochila; los cinco rostros entran en cuadro mirando en direcciones distintas, el aliento forma nubes breves y la llama de la linterna titila antes de casi apagarse.
+
+Movimiento de cámara: Dolly in lento desde el borde del campamento hacia la mochila.  
+Audio: Viento sobre piedra, crujido lejano de ramas, roce de tela al ajustar vendajes, tintineo tenue de equipo, respiraciones cortas y un chasquido de la llama. No music. No dialogue. No subtitles. Photorealistic, cinematic, slightly grainy.

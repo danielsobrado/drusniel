@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The House Rivalry: The Night Before
+Language: en
+Canon Sequence: D-009-004
+Source Image: accusation.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel leans on the balcony rail, trying to steady his breathing as the city-glow pulses below. Shyntara steps into the edge of the lantern light behind him.
+[00:03-00:05] She closes the distance and lifts a finger toward his chest. Drusniel flinches, jaw tightening; his hand grips the stone harder as the haze shifts in a sudden draft.
+[00:05-00:08] Shyntara holds the point a beat longer, then lowers her hand and turns away. Drusniel stays frozen, swallowing hard as the lantern flame flickers and the bioluminescent glow below feels colder.
+
+Slow push-in from behind Shyntara to Drusniel at the railing.
+Audio: distant city hum, faint tunnel drip, lantern flame hiss, cloth rustle, one footstep, stone grip scrape, controlled breathing. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

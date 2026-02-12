@@ -1,0 +1,16 @@
+# Video Prompt
+Title: Conocimiento Prohibido: La Duda
+Language: es
+Canon Sequence: D-007-010
+Source Image: walking-back-paranoia.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel keeps walking, pace tightening. His shoulders rise a fraction as he listens, and his head turns just enough to check the tunnel behind him.
+[00:03-00:05] A faint draft shifts the bioluminescent glow across the stone, making shadows jump in unnatural angles. He freezes for a beat, breath held.
+[00:05-00:08] He moves again, faster but controlled, boots scraping grit as he passes into a darker stretch. The light behind him fades, leaving only the fungus pools ahead.
+
+Handheld tracking shot following just behind his shoulder.
+Audio: damp footsteps on stone, cloth and leather creak, distant dripping water, faint wind through a vent, a single sharp inhale, low ambient hum of the tunnels. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

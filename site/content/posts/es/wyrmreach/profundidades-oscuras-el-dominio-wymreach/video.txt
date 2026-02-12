@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Los Misterios del Dominio Wymreach
+Language: es
+Canon Sequence: WYR-L-001
+Source Image: stairs-into-black-chamber.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] A straight seam appears in the grey ground. The surface folds back like peeled skin, opening silently and exposing smooth black stairs. Cold air spills upward.
+[00:03-00:05] The camera tilts down the stairwell as a colorless glow begins to bloom below. Helvine reaches out, then jerks back as the glow catches her changed eye.
+[00:05-00:08] The wall glyphs below pulse and settle only in peripheral vision. Vorogarth hauls Helvine away from the threshold as the peeled edge begins to relax, as if the ground wants to close again.
+
+Slow downward tilt from surface level to the stair descent.
+Audio: tearing-fabric creak from the ground parting, low bass hum rising, cold air rush, a sharp intake of breath, boots scraping stone on retreat. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Disorientation
+Language: en
+Canon Sequence: W-012-003
+Source Image: reality-check-pain.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] She presses fingers hard into her cheek and bites down, forcing pain to cut through the looping vision as dust drifts past on the road behind.
+[00:03-00:05] The world stutters; a black-water ripple tries to overlay the frame and the sound dulls, then snaps as she drags air into her lungs.
+[00:05-00:08] Her eyes refocus and she blinks fast; the ripple fades, cart wheels and bootsteps regain their edge, and she steadies her pace toward the town gate.
+
+Handheld push-in on her face as she forces herself awake.
+Audio: strained breath, tongue bite, distant cart wheel rumble, muffled water-like slosh during the stutter, then returning street ambience and wind. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

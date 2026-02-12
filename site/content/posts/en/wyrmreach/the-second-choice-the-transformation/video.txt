@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Second Choice: The Transformation
+Language: en
+Canon Sequence: D-017-003
+Source Image: transformation-begins.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Elion centers his stance, breathes once, then the first bone-crack snaps through the cave as his shoulders jerk out of alignment.
+[00:03-00:05] Drusniel forces his eyes open and doesn't blink; Srietz stumbles back, clamps hands over his ears, and the phosphorescent glow pulses harder as wet reflections jitter across obsidian.
+[00:05-00:08] Elion's shape finishes re-forming in a final violent shudder, then the new body launches into the tunnel and vanishes, leaving the two others frozen in the sudden quiet.
+
+Handheld.
+Audio: bone crack, wet scrape, sharp inhales, water drips, fabric rustle, a faint low hum from the Beacon, distant rock tick. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

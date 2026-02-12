@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Road from Zuraldi: The Decision
+Language: en
+Canon Sequence: W-008-005
+Source Image: exhausted-hiding.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Dulint tries to draw a breath and fails, then forces a shallow gasp through clenched teeth. Balin presses a steadying hand to his shoulder, holding him down as they listen.
+[00:03-00:05] Footsteps crunch at the treeline and pause. A branch snaps softly, followed by the slow scrape of someone testing the forest edge.
+[00:05-00:08] The cube's pulse leaks faintly through the pack seam, casting a cold flicker across moss and bark. Dulint stills completely, breath held, as the sound of pursuit drifts closer into the canopy.
+
+Slow dolly-in from the log cover to their faces in the dark.
+Audio: ragged breathing, leaf rustle, distant crunch-step on gravel, a single branch snap, damp drip from leaves, a low vibrating hum beneath it all. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

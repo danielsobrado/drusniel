@@ -1,0 +1,15 @@
+# Video Prompt
+Title: El Primer Fragmento: La Búsqueda
+Language: es
+Canon Sequence: W-020-001
+Source Image: xandor-sensing.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Un dolly in lento comienza en las manos de Xandor flotando sobre el fardo mientras el brillo del Faro se estrecha en un pulso más dirigido; el viento sacude capas y el polvo raspa la piedra.  
+[00:03-00:05] El dolly continúa; Dulint se acerca protector, la mano de Eldric deriva hacia la espada, y Balin mira de la luz a la mano temblorosa de Maris como esperando la próxima visión.  
+[00:05-00:08] La cámara se asienta cuando el Faro tartamudea—destellos rápidos y luego un zumbido bajo—lanzando reflejos azul-blanco en la trama de lona y nudillos; el grupo queda en silencio, escuchando pasos detrás que nunca terminan de llegar.
+
+Movimiento de cámara: Dolly in lento hacia las manos de Xandor y el fardo.  
+Audio: viento cortante, golpe de tela, polvo raspando piedra, zumbido tenue del Faro subiendo y bajando, respiración suave, silbido lejano de árboles. No music. No dialogue. No subtitles.  
+Photorealistic, cinematic, slightly grainy.

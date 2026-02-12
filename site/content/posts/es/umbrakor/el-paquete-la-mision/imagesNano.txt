@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: El Paquete: La MisiÃ³n
+Language: es
+Canon Sequence: D-011-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: wyrmreach-portal-map.jpg
+role: header
+prompt:[Face_Reference: Zaelar]. Expression: controlled calm in the middle of ruin, posture relaxed as if chaos cannot touch him. [Face_Reference: Drusniel]. Expression: grief hardened into focus, listening without blinking, body held together by will. In the wrecked study, broken glass and scattered papers surround a table where a surface-world map and travel notes lie spread with a marked sea crossing (no readable labels). Warm candlelight is the key source, pooling across paper fibers and throwing interactive long shadows from debris; cold grey daylight from a cracked window flattens the far corners blue-grey, keeping smoke haze matte. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed, slightly out of focus background. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: power-promise.jpg
+role: mid_01 (placed after sentence "â€”La venganza requiere poder.")
+prompt:[Face_Reference: Zaelar]. Expression: calm certainty sharpened into persuasion, eyes steady. [Face_Reference: Drusniel]. Expression: tight jaw and fixed stare, exhaustion overridden by purpose. Intense two-shot framed by shattered objects and scattered documents as Zaelar sells power and Wyrmreach as the only path. Low candlelight throws warm amber up onto cheekbones and knuckle ridges, interactive highlights catching pores and glass edges; cold grey window spill cuts the opposite side of their faces and keeps the background flat and unforgiving. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: szoravel-name.jpg
+role: mid_02 (placed after sentence "Su nombre es Szoravel.")
+prompt:[Face_Reference: Zaelar]. Expression: practiced precision, composed as he reveals the contact. [Face_Reference: Drusniel]. Expression: tension in the jaw, attention narrowed to the cabinet and the name behind it. Cabinet-side scene as Zaelar works a locked cabinet with deliberate turns, old metal locks and worn wood filling the frame. A single candle throws warm amber onto lock faces and floating dust, interactive specular points popping on worn brass; cold dawn fill keeps shadows heavy and blue-grey without smoothing texture. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: drusniel-nod.jpg
+role: mid_03 (placed after sentence "Drusniel se puso de pie.")
+prompt:[Face_Reference: Drusniel]. Expression: exhausted but resolute, shoulders squaring as purpose crystallizes, eyes steady, jaw locked. Medium close portrait as he rises from the chair in the ruined study, smoke and debris blurred behind him. Cold grey daylight cuts across one cheek; candlelight adds weak warm fill from below, interactive highlights catching natural skin texture without smoothing pores. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: preparation.jpg
+role: mid_04 (placed after sentence "DetrÃ¡s de Ã©l, el viejo mago estudiÃ³ el artefacto en su palma.")
+prompt:[Face_Reference: Zaelar]. Expression: unreadable focus, fingers steady as he studies what he has just set in motion. Quiet aftermath: Zaelar alone at the table studying a small dark metal plate in his palm, a faint pulse reflecting on fingertips; hourglasses tick nearby and scattered notes sit open with no readable text. Low candlelight is the only warm source, amber reflections sliding across skin and brass; the rest drops into deep shadow and smoke haze, with cold window fill barely outlining the stairwell. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation around the candle, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

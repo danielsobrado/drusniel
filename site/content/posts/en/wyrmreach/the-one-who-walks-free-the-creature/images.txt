@@ -1,0 +1,27 @@
+# Image Prompts
+Title: The One Who Walks Free: The Creature
+Language: en
+Canon Sequence: D-013-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: night-stop-the-creature-speaks.jpg
+role: header
+prompt:[Face_Reference: Drusniel] Photorealistic, sleepless focus; eyes tracking the guard rotation while his body stays still under canvas. [Face_Reference: Elion] Pressed close to the bars, voice finally used, curiosity sharpened into intent. Night rest: the slaver caravan is stopped, iron cages wrapped in rough tarps and rope, guards trading watch beside a low fire as weapons clink softly; Drusniel lies awake in his cage and peers through a small canopy gap at a starless red-grey sky while Elion leans in from the rear cage to speak. Firelight flickers warm orange up into faces and bars, a lantern adds tighter tungsten spill, and volcanic haze keeps the background dim and cold with ash drifting through the beam. Sony A7R IV 35mm f/1.8 Cinestill 800T, film grain visible, subtle halation, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: you-are-not-afraid.jpg
+role: mid_01 (placed after sentence "The creature spoke first.")
+prompt:[Face_Reference: Drusniel] Photorealistic, calm absence of fear; mouth held neutral, gaze steady through the bars. [Face_Reference: Elion] Watching from behind with focused patience, barely moving. Close portrait through iron bars as Drusniel turns toward the voice, the neighboring prisoners shrinking back into shadow at the edge of frame while Elion stays fixed on him from the rear cage. A lantern hung from the wagon frame throws hard warm highlights on the bars and a soft glow across faces, while the dying campfire adds low orange underlight and the rest falls into cold twilight. Canon EOS R5 85mm f/1.4 Cinestill 800T, film grain visible, shallow depth of field, slight lens flare. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: red-marks-in-twilight.jpg
+role: mid_02 (placed after sentence "The red markings on its face seemed darker in the twilight, more like wounds than paint.")
+prompt:[Face_Reference: Elion] Photorealistic, intelligent patience; head tilted at an angle that feels slightly wrong, the almost-smile restrained. Tight close-up at the bars as Elion speaks in a low rough voice, and the red markings read darker in the twilight like old wounds while dust and ash drift between iron slats. Lantern light from below-left carves warm highlights along cheekbones and catches condensation on the bars, while cold red-grey sky fill keeps the far side of the face in shadow. Sony A7R IV 85mm f/1.8 Cinestill 800T, film grain visible, subtle halation, background softly out of focus. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: the-debt-pulses.jpg
+role: mid_03 (placed after sentence "The debt pulsed in Drusniel's chest—silent, patient, impossible to ignore now that it had been named.")
+prompt:[Face_Reference: Drusniel] Photorealistic, jaw tightening as the word lands; one hand pressed hard to the sternum as if bracing against a second weight. [Face_Reference: Elion] Speaking across the gap, expression matter-of-fact, eyes never leaving him. Medium two-shot between cages under canvas: Drusniel sits up in the wagon cage, fingers digging into cloth at his chest while Elion talks about living water and a deal made in the black depths; guard footsteps shift nearby as the watch changes. Campfire light flickers up through slats, a lantern adds tight tungsten spill that gleams on damp iron and makes breath vapor visible, and everything beyond the tarps stays dim and starless. Canon EOS R5 50mm f/1.4 Cinestill 800T, film grain visible, slight motion blur in drifting smoke, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: walk-free-smile.jpg
+role: mid_04 (placed after sentence "Elion's smile was sudden and sharp and not entirely human.")
+prompt:[Face_Reference: Elion] Photorealistic, sudden sharp smile that turns inhuman for an instant; teeth bared then hidden, eyes bright with a decision. Elion leans back from the bars as guard voices and boots drift closer, tarp shadows cutting the cages into stripes while Drusniel watches in silence and counts seconds. A lantern swings, throwing warm bands across Elion's face and the ironwork, while the campfire gives low orange underlight and the rest of the world stays cold and red-grey. Sony A7R IV 85mm f/1.8 Cinestill 800T, film grain visible, subtle lens flare, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+

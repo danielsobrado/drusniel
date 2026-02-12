@@ -1,0 +1,15 @@
+# Video Prompt
+Title: The Debt Anticipated: The Difficult Crossing
+Language: en
+Canon Sequence: D-023-002
+Source Image: srietz-nearly-falls.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:02] Srietz's clawed fingers slip on crumbling basalt. His body drops — legs kicking against nothing, one hand still gripping the edge. Rock fragments tumble into the glowing chasm below.
+[00:02-00:05] Drusniel lunges. His hand closes around Srietz's wrist. The momentum pulls him forward, chest slamming against the plate edge. Steam billows up between them from the chasm, orange-lit from below.
+[00:05-00:08] Drusniel strains, pulling upward. Srietz's second hand finds the edge. Slow-motion as the goblin's body clears the lip. Both collapse backward onto solid rock, breathing hard.
+
+Slow push-in from medium to tight on the hands gripping.
+Audio: cracking stone, rushing steam from below, grunt of effort, scraping claws on basalt, heavy breathing. Deep sub-bass rumble of the chasm. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy, realistic physics.

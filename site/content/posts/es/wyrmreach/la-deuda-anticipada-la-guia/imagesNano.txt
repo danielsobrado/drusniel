@@ -1,0 +1,26 @@
+# Image Prompts (Nano Banana Pro)
+Title: La Deuda Anticipada: La Guia
+Language: es
+Canon Sequence: D-023-001
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: talryn-leads-volcanic-trail.jpg
+role: header
+prompt:[Face_Reference: Talryn]. Military posture, jaw set, scanning ahead with tactical focus. Weathered travel gear. Leading three travelers along a narrow trail through black volcanic terrain. [Face_Reference: Drusniel]. Guarded tension, walking behind the guide. [Face_Reference: Srietz]. Ears flat against skull, watchful. [Face_Reference: Elion]. Quiet alertness, hand near pack strap. Cultivated rows of dark flowers fade behind, steaming fissures cross barren soil ahead. Vesicular basalt underfoot, heat-fractured and porous. Dull orange underglow from cracks in the earth reflects off wet obsidian surfaces, sulfuric haze diffuses and scatters the light into amber halos. Shadows tinged deep amber at edges where fissure glow meets volcanic darkness. Sony A7R V 35mm f/2.8, Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: srietz-calculates-negative.jpg
+role: mid_01 (placed after sentence "En su lugar, la expresion plana que usaba cuando los calculos salian en negativo.")
+prompt:[Face_Reference: Srietz]. Flat resignation, sharp grin absent, ears pressed down tight. Glancing sideways at Drusniel while walking a volcanic ridge. Thin flower fields receding behind them. Dim amber glow rising from fissures below the ridge catches the underside of his jaw and casts interactive orange highlights across his leathery skin. Shadows pool in the hollows of his compressed ears, tinged warm amber at their edges. Sony A7R V 85mm f/1.4 GM, Kodak Portra 400, shallow depth of field, background dissolves into sulfuric haze. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: elion-warns-campfire.jpg
+role: mid_02 (placed after sentence "Nos esta cartografiando.")
+prompt:[Face_Reference: Drusniel]. Leaning in, brow furrowed, listening intently. [Face_Reference: Elion]. Speaking low, eyes steady and deliberate. Two figures sit close at a small campfire on vesicular basalt at night, speaking in hushed tones. Beyond the firelight a female silhouette patrols the perimeter. Campfire embers cast orange underglow on their faces from below, warm light reflects off the porous rock surface between them. Darkness presses in from all sides, shadows tinged deep red at edges where firelight fades. Sony A7R V 50mm f/1.8, Cinestill 800T, natural skin with pores. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: srietz-appraising-cost.jpg
+role: mid_03 (placed after sentence "Nos esta tasando. Individualmente y como conjunto.")
+prompt:[Face_Reference: Srietz]. Ears contracted flat, gesturing urgently with small clawed hands. [Face_Reference: Drusniel]. Guarded listening posture, arms crossed. Goblin speaks intently to drow during a rest stop in a volcanic clearing. [Face_Reference: Talryn]. Standing in background scanning terrain with military attention. Sulfuric amber glow from a nearby vent lights the scene from the left, casting interactive warm highlights on Srietz's animated hands and reflecting off the fractured basalt floor. Shadows stretch long to the right, tinged sulfurous yellow at their borders. Sony A7R V 35mm f/2.8, Kodak Portra 400, film grain visible. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: talryn-watches-drusniel-sleep.jpg
+role: mid_04 (placed after sentence "Lo habia estado observando dormir.")
+prompt:[Face_Reference: Talryn]. Blank expression, standing two meters away, looking down. Low angle as if seen through half-closed eyes. She stands over a sleeping figure in the foreground. Campfire burned to embers casting faint orange glow that reflects upward onto her jaw and cheekbones. [Face_Reference: Elion]. Sitting motionless against a rock beyond her. Dying ember glow from below creates interactive warm highlights on the underside of surfaces, volcanic darkness above swallows all detail. Sony A7R V 50mm f/1.8, Cinestill 800T, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

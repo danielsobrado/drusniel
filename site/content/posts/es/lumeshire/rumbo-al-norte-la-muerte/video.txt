@@ -1,0 +1,15 @@
+# Video Prompt
+Title: Rumbo al Norte: La Muerte
+Language: es
+Canon Sequence: W-018-004
+Source Image: staring-at-body.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Balin está solo en el claro, espada en el suelo, mirando el cuerpo fuera de cuadro mientras su aliento se ve en el aire frío.
+[00:03-00:05] Eldric entra, lo toma del hombro y lo aparta mientras Balin obliga su mirada al frente; el Grukmar muerto queda atrás en foco poco profundo.
+[00:05-00:08] Empiezan a moverse, Maris se suma al otro lado de Balin; la cámara se aleja mostrando al grupo salir del claro mientras los carroñeros empiezan a girar arriba.
+
+Pull back.
+Audio: hojas mojadas bajo botas, graznido lejano de cuervo, respiración corta, leve tintinear de metal, viento suave en los árboles. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

@@ -1,0 +1,16 @@
+﻿# Video Prompt
+Title: The Knot at Riverhold: The Beacon
+Language: en
+Canon Sequence: W-010-003
+Source Image: Eldric-targeted.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The Beacon’s glow intensifies and steadies, a slow pulse that makes the candle flame flare and then shrink; Eldric’s fingers tighten as he fights the instinct to step back.
+[00:03-00:05] Papers on the table flutter as if the air pressure shifts, and the cube rotates a fraction, locking its luminous face more precisely toward him.
+[00:05-00:08] A second pulse rolls through the room and then fades, leaving a heavy stillness; behind Eldric, a floorboard creaks as someone shifts and then freezes again.
+
+Slow push-in toward Eldric’s eyes as the glow peaks.
+Audio: low hum rising and fading, candle crackle, paper rustle, one sharp inhale, distant city muffled through glass, a single creaking floorboard. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

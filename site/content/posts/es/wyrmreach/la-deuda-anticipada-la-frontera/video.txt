@@ -1,0 +1,15 @@
+# Video Prompt
+Title: La Deuda Anticipada: La Frontera
+Language: es
+Canon Sequence: D-023-005
+Source Image: nyxara-warning-delivery.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] Drusniel absorbs the words. Cold spreads across his expression — a slow constriction, jaw locking, eyes going distant. The violet glow from the crystal pillar behind pulses once, casting shifting highlights across his face.
+[00:03-00:05] His eyes refocus on Talryn's face. Recognition passes between them — not warmth, but understanding. She knows what lives in his head. Volcanic haze drifts between them.
+[00:05-00:08] Drusniel exhales. His hand moves to his temple, touches it once, drops. Talryn watches the gesture with the stillness of someone confirming a suspicion. The crystal pillar's violet glow fades.
+
+Static camera. Tight framing.
+Audio: wind through crystal formations, faint vibrational hum from the pillar, distant volcanic rumble. A single exhale. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.

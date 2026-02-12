@@ -1,0 +1,16 @@
+# Video Prompt
+Title: The Grass Where She Fell: The Conduit
+Language: en
+Canon Sequence: W-012-004
+Source Image: beggar-prophecy.jpg
+
+## Veo 3 Prompt
+
+[00:00-00:03] The trembling hand closes on the coin and goes unnaturally still; his eyes sharpen from cloudy drift into sudden focus.
+[00:03-00:05] His lips move in a flat, distant cadence as if reading; Maris freezes and her breath fogs once in the cold air.
+[00:05-00:08] He blinks and the focus drains away; the tremor returns, shoulders sag, and he turns to wander off into the alley without looking back.
+
+Slow dolly-in on his face as the conduit takes hold.
+Audio: streetlamp buzz, coin clink, cloth rustle, distant tavern murmur, bootsteps on stone, a brief wind gust, then fading footsteps. No music. No dialogue. No subtitles.
+Photorealistic, cinematic, slightly grainy.
+

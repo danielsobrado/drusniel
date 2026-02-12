@@ -1,0 +1,27 @@
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: Blood in the Dark: The Hollow Victory
+Language: en
+Canon Sequence: D-010-006
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: dusty-storage.jpg
+role: header
+prompt:[Face_Reference: Drusniel]. Hollow blank stare, shoulders collapsed; hands stained with dried blood he can’t place anymore, sitting slumped against the wall. Forgotten underground storage chamber: dust coats old crates and broken shelving, cobwebs in corners, air thick with drifting motes, silence pressing like water. Weak spill light from a side passage forms a cold strip across crates and catches dust as floating points; the rest of the room sinks into shadow with faint specular glints on damp stone. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+2. filename: spider-life.jpg
+role: mid_01 (placed after sentence "A spider crossed the floor.")
+prompt:Macro close-up on a small gray spider crossing dusty stone, legs stepping over grit and hairline cracks; blurred background hints at a faint dried blood smear and scattered dust. Cold spill light from the passage creates a thin highlight on the spider’s back and a sharp miniature shadow beneath; everything beyond falls into creamy blur, dust motes catching as tiny points. Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, shallow depth of field, film grain visible, slight dust on lens, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+3. filename: mental-comfort.jpg
+role: mid_02 (placed after sentence "The familiar warmth brushed against his awareness.")
+prompt:[Face_Reference: Drusniel]. Brief softening into comfort, head tilted as if listening; exhaustion held up by a fragile warmth. Narrow stone tunnel mid-climb toward the surface, one hand braced on the wall. Cold blue-green ambient glow from fungal stains fills the tunnel; a small amber bioluminescent lichen patch near his hand throws warmer spill across his cheek, interactive highlights catching on moisture and turning dust into mixed amber-cyan points that feel slightly wrong. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed, shallow depth of field. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+4. filename: wyrmreach-vision.jpg
+role: mid_03 (placed after sentence "You could make them pay for everything they took from you.")
+prompt:[Face_Reference: Drusniel]. Numbness snapping into rage and resolve, eyes sharpening; fingers hovering near the too-pristine dagger at his hip. Tight waist-up in the tunnel, dust motes floating, passage behind dropping into darkness. Distant torch/lantern from the surface route provides hard warm edge light that sharpens his profile; cold fungal ambient keeps the tunnel blue-green, turning dust into mixed amber and cyan points, reflections trembling on metal hardware. Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
+5. filename: walking-away.jpg
+role: mid_04 (placed after sentence "He walked.")
+prompt:Rear three-quarter shot of Drusniel walking alone down a long underground passage toward faint surface light, one hand adjusting the dagger at his belt; old stone walls cracked and dusted, grit lifting with each step. Cold pale light ahead pulls him forward in a thin beam; tunnel behind falls into warm-and-cool patchwork from distant torches and fungal stains, mixed shadows feathering across stone. Sony A7R V 35mm f/2.8 GM Kodak Ektar 100, film grain visible, slight motion blur in drifting dust, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

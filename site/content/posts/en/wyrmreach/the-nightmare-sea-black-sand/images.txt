@@ -1,0 +1,26 @@
+# Image Prompts
+Title: The Nightmare Sea: Black Sand
+Language: en
+Canon Sequence: D-009-005
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: merrik-finds-him-on-black-sand.jpg
+role: header
+prompt: [Face_Reference: Drusniel] Exhausted, lying on black sand, salt and grit on his skin. [Face_Reference: Merrik] Weathered face, calloused hands, assessing eyes, crouched by a small campfire. Black volcanic sand shore under a red-tinged perpetual twilight sky, a battered boat half submerged behind them, black water lapping at the shore. Campfire light from below and red volcanic sky glow from above, sulfurous haze diffusing in the distance. Canon EOS R5 35mm f/2.0 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: waterskin-at-his-lips.jpg
+role: mid_01 (placed after sentence "He held it to Drusniel's lips, letting him drink in small sips that burned on the way down.")
+prompt: [Face_Reference: Drusniel] Cracked lips, damp skin, eyes half-closed with exhaustion. [Face_Reference: Merrik] Evaluating without softness, holding the waterskin steady. Tight close-up as Merrik holds a worn waterskin to Drusniel's lips, small burning sips. Firelight flickering warm on both faces from below, red sky ambient from above. Canon EOS R5 85mm f/1.4 Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: szoravel-name-spoken.jpg
+role: mid_02 (placed after sentence "Drusniel's mind worked sluggishly, trying to remember the name Zaelar had given him.")
+prompt: [Face_Reference: Drusniel] Struggling upright by the fire, pale against the red sky, forcing out words. [Face_Reference: Merrik] Expression flickering with brief recognition before turning neutral. Small exposed camp on black sand with strange crystalline formations and wrong-colored plants in the distance. Campfire light on their faces from below, red twilight sky ambient above. Sony A7R IV 50mm f/1.8 Kodak Portra 400, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: strange-hot-broth.jpg
+role: mid_03 (placed after sentence "The broth was warm.")
+prompt: Close-up on a rough bowl of steaming broth held near the campfire, fat and herbs swirling on the surface. Black driftwood feeds the flames. Ash and sulfur haze in the distance. Warm firelight from below catching the steam and broth surface, red-tinted sky light making the food look unfamiliar but warm. Canon EOS R5 100mm f/2.8 macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: sleep-by-the-coast-fire.jpg
+role: mid_04 (placed after sentence "He lay back on the black sand, still warm from the day's heat—if this place had days.")
+prompt: [Face_Reference: Drusniel] Sleeping curled near the fire, face slack with exhaustion. Red-grey sky diffusing light without a visible sun, the nightmare sea whispering behind, the battered boat at the waterline. The fire throws a practical circle of warm light against the wrong-colored world. Campfire light casting warm orange on his face and the sand nearby, red twilight sky ambient beyond the fire's reach. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

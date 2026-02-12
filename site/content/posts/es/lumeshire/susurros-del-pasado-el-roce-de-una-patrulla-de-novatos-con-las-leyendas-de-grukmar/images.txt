@@ -1,0 +1,26 @@
+# Image Prompts
+Title: Charla de Taberna
+Language: es
+Canon Sequence: P-004
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: rusty-axe-tavern.jpg
+role: header
+prompt:Exterior night shot of the tavern El Hacha Oxidada at the village edge, weathered timber walls dark with age, warm light spilling from small windows onto muddy ground, thin mist curling around the foundations, faint smoke from a chimney, quiet rural darkness pressing close. Window light is the only illumination, warm amber that pools on wet mud and catches the mist in soft ribbons while the surrounding village stays black. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: guards-gossiping.jpg
+role: mid_01 (placed after sentence "Cinco guardias más ya estaban encorvados alrededor de una mesa cerca del hogar.")
+prompt:[Face_Reference: Varian] Expression: guarded half-relief, cloak still damp. [Face_Reference: Elric] Expression: sardonic fatigue, eyes scanning the room. Interior tavern table scene with five guards hunched around rough wood near the hearth, stained mugs and damp cloaks implying sweat and sour beer, hands resting near weapons while a worn lute player blurs in the background through smoke haze. Hearth fire from the side throws warm amber across faces and knuckles, reflections sliding on wet mugs while corners fall to shadow. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slightly out of focus background. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: elara-story.jpg
+role: mid_02 (placed after sentence "La única mujer del grupo, se había probado dos veces —con espada y arco.")
+prompt:[Face_Reference: Elara] Expression: calm certainty, voice soft but carrying. [Face_Reference: Varian] Expression: guarded doubt, eyes fixed on her. [Face_Reference: Elric] Expression: tense attention, glancing toward the door line. Close group shot at the table as Elara speaks and the men around her stiffen, forced laughter dying in throats, smoke hanging in the air and mugs sweating on wood. Firelight is the only light, warm and flickering, catching edges of faces and reflecting as tiny amber points in eyes while the background falls into tavern shadow. Canon EOS R5 50mm f/1.4 Cinestill 800T, natural skin with pores, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: varian-reflection.jpg
+role: mid_03 (placed after sentence "observando la luz del fuego jugar en la superficie oscura")
+prompt:[Face_Reference: Varian] Expression: distant unease, eyes fixed downward. Over-the-shoulder view as Varian stares into his mug, firelight playing on the dark surface of bitter ale, the reflection warping for a heartbeat before resolving back to ripples while tavern noise blurs behind him. Hearth fire is the only light, warm amber reflecting off the liquid and catching the rim of the mug while the room falls into smoky shadow. Sony A7R IV 100mm macro Kodak Portra 400, shallow depth of field, film grain visible. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: gruesome-trees.jpg
+role: mid_04 (placed after sentence "guardando sus secretos como dientes guardando una lengua")
+prompt:View from the village edge into the Grukmar forest at night, trees packed tight like a wall, darkness between trunks unnaturally deep, faint mist at ground level with no movement and no birdsong. Cold moonlight is the only light, silver rim on bark and wet leaves while the spaces between trees drop to black. Sony A7R IV 16mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.

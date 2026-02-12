@@ -1,0 +1,27 @@
+﻿# Image Prompts
+Title: Naming Without Explaining: The Warning
+Language: en
+Canon Sequence: W-014-002
+
+Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
+
+1. filename: xandor-explains-beacon.jpg
+role: header
+prompt:[Face_Reference: Xandor] Photorealistic, composed but strained; hands gesturing as he forces decades of fragments into a warning. [Face_Reference: Dulint] Practical calm with worry under it, eyes fixed on the cube and then the door. [Face_Reference: Balin] Eager energy held back, leaning forward despite himself. [Face_Reference: Eldric] Suspicion sharpened into certainty, posture ready to move. [Face_Reference: Maris] Pale and drawn, fighting the constant pressure like a physical noise. Tavern back room: the Beacon cube pulses on the table amid scattered fragments and charred papers while Xandor explains that it broadcasts, and the group gathers around in tense silence. The cube throws cold blue-white spill upward that crawls across faces and makes shadows stretch unnaturally long, while a single candle adds warm amber from the side and turns drifting dust into visible haze. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, subtle halation, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+2. filename: Eldric-realization.jpg
+role: mid_01 (placed after sentence "We're being tracked, Eldric said. Not a question.")
+prompt:[Face_Reference: Eldric] Photorealistic, grim certainty; hand on hilt, eyes locked on the window as if listening for footsteps. Medium shot with Eldric half-turned toward the street-facing glass, the room behind him dim and crowded with the table and cube out of focus; outside, the darkness presses close with faint mist and wet stone. Cold window light provides flat blue-grey fill across his cheek, while the cube pulse and candle inside add thin warm-cold bands that stripe his jaw and the window frame. Canon EOS R5 50mm f/1.4 Kodak Portra 400, film grain visible, slight reflection glare on glass, background softly out of focus. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+3. filename: maris-screaming-silence.jpg
+role: mid_02 (placed after sentence "Maris laughed, and the sound was sharp-edged and bitter.")
+prompt:[Face_Reference: Maris] Photorealistic, bitter laugh breaking into exhaustion; one hand pressed to her temple as if the scream is inside her bones. Tight portrait as she glares toward the cube, eyes wet and tired, shoulders tense, the rest of the room falling away into shadow and smoke-haze. The cube’s cold blue-white pulse cuts hard across her face and catches in her eyes, while candlelight stays warm and dim on the far wall, leaving a harsh split between comfort and threat. Sony A7R IV 85mm f/1.8 Cinestill 800T, film grain visible, slight motion blur in her jaw and hand, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+4. filename: wyrmreach-vision.jpg
+role: mid_03 (placed after sentence "The drowning hand. The black water.")
+prompt:Photorealistic vision flash: black water like thick oil swallowing light as a long-fingered hand breaks the surface and then sinks back under, bubbles tearing off the knuckles; above, a starless red-grey twilight is barely visible as a faint smear. A sickly cold glow from below is the only light source, turning the water into black glass with hard highlights and leaving everything above in near-darkness. Sony A7R IV 24mm f/2.8 Cinestill 800T, film grain visible, slightly underexposed, subtle halation. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
+5. filename: beacon-pulse.jpg
+role: mid_04 (placed after sentence "The Beacon pulsed on the table, its soft light somehow more ominous now.")
+prompt:Photorealistic ominous object shot: the Beacon cube sits isolated on worn wood grain, pulsing softly as if sending a signal, with candle wax drips and scattered charred fragments just out of focus at the edges. Each pulse pushes cold blue-white light outward across the table surface, making shadows shift and candle flames bend slightly as if reacting, the air hazy with dust. The cube glow provides cold underlight, and the candle provides warm side light that reflects in thin bands on the metal edges and in tiny highlights on dust. Canon EOS R5 35mm f/1.4 Cinestill 800T, film grain visible, slight lens flare, not perfectly exposed. No text, no watermarks, no frames, no borders. No 3D render, no illustration, no cartoon, no anime, no CGI. No extra limbs, no distorted hands.
+
