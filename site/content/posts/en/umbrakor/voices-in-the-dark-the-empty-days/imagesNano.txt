@@ -7,36 +7,36 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: pacing-room.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Expression: hollow and sleepless, jaw clenched; shoulders tight, pacing in a tight loop.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: hollow and sleepless, jaw clenched; shoulders tight, pacing in a tight loop.
 Environment: Private stone training room adjoining his quarters; weapon rack and mats pushed to the edges; untouched food tray and cup outside the closed door. Only corridor torchlight leaking under the door, cool amber grazing the floor and lifting drifting dust into view; warm edge highlights catch moving knuckles while corners stay near-black with almost no bounce.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slight motion blur in the body. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, slight motion blur in the body. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: floor-crack.jpg
 role: mid_01 (placed after sentence "Drusniel's eyes tracked a hairline fracture in the stone floor.")
 prompt: Macro close-up of a hairline fracture in a cold gray stone floor, the crack forking twice before vanishing under the edge of a worn black training mat; Drusniel's boot toe and shadow at the edge of frame.
 Environment: Low corridor torchlight skims across the stone at a shallow angle, making the crack read as a sharp black thread; chalk dust and fine grit packed into the seam catch tiny warm highlights while the rest falls off into soft blur.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, shallow depth of field, slightly underexposed, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, shallow depth of field, slightly underexposed, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: shyntara-visit.jpg
 role: mid_02 (placed after sentence "Shyntara stopped behind him.")
-prompt: [Face_Reference: Drusniel]. Expression: cracked exhaustion, defensive set to the mouth; posture rigid. [Face_Reference: Shyntara]. Expression: controlled concern, eyes narrowed, hand half-raised and then stopping short.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: cracked exhaustion, defensive set to the mouth; posture rigid. [Face_Reference: Shyntara]drow with blueish ash skin color, . Expression: controlled concern, eyes narrowed, hand half-raised and then stopping short.
 Environment: Bare stone training room with a dark mat and knife rack pushed to the edges, the closed door behind them. Corridor torchlight leaks under the door in a narrow band, warm amber cutting across their feet and climbing one cheekbone; eye highlights catch the torch flicker while the rest of their faces sit in cold shadow with minimal fill.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: thumb-tapping.jpg
 role: mid_03 (placed after sentence "His thumb tapped against his fingers.")
-prompt: [Face_Reference: Drusniel]. Tense tendons, knuckles whitening; thumb tapping against fingertips and stopping mid-count, hand hovering above the training mat.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Tense tendons, knuckles whitening; thumb tapping against fingertips and stopping mid-count, hand hovering above the training mat.
 Environment: Low corridor torchlight skims from the side, warm highlights tracing knuckle ridges; mat fibers show visible weave, grit on stone catches tiny specular points, and the background melts into soft blur with almost no bounce light.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, film grain visible, slightly out of focus background. Aspect: 2:3.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, film grain not visible, slightly out of focus background. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: first-contact.jpg
 role: mid_04 (placed after sentence "A flicker.")
-prompt: [Face_Reference: Drusniel]. Eyes snap open wide, breath caught; fingers clutching bedsheets as a faint warmth returns.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes snap open wide, breath caught; fingers clutching bedsheets as a faint warmth returns.
 Environment: Near-total darkness in a stone-walled room. Thin cyan spill from a distant corridor glow outlines cheek and hands; a faint amber pulse blooms across brow and irises, throwing warm halation into the shadows and reflecting as tiny amber points in the eyes while the rest of the room stays cold and black.
-Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, not perfectly exposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, not perfectly exposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 

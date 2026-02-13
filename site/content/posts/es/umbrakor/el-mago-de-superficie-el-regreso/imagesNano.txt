@@ -7,36 +7,36 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: family-chaos.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Arriving tense and alert, jaw set; slipping through the service entrance and stopping short at the chaos.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Arriving tense and alert, jaw set; slipping through the service entrance and stopping short at the chaos.
 Environment: Compound corridors in Umbra'kor at evening: servants rushing past with trays and documents, voices raised in the distance, atmosphere controlled but panicked. Cyan fungal clusters and scattered lantern light cast restless moving shadows across carved stone, catching dust in the air and turning every corner into a half-lit threat.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: father-fear.jpg
 role: mid_01 (placed after sentence "Pero esta vez, algo más parpadeaba detrás de sus ojos. Algo que parecía casi miedo.")
-prompt: [Face_Reference: Father]. The mask slipping: fear barely held behind the eyes, jaw locked, shoulders tense, both hands planted flat on the scarred desk. [Face_Reference: Shyntara]. Alert and ready near the door. [Face_Reference: Drusniel]. Quiet counting tension, jaw tight as he listens.
+prompt: [Face_Reference: Father]drow with blueish ash skin color, . The mask slipping: fear barely held behind the eyes, jaw locked, shoulders tense, both hands planted flat on the scarred desk. [Face_Reference: Shyntara]drow with blueish ash skin color, . Alert and ready near the door. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Quiet counting tension, jaw tight as he listens.
 Environment: Tight family study interior with reports and maps scattered, the air thick with controlled panic. Warm desk lamp is the primary light, throwing hard downward highlights across knuckles and carving the brow ridge; the rest of the room falls into deep shadow with only small specular glints on ink and paper edges.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: mental-report.jpg
 role: mid_02 (placed after sentence "Después del apenas disimulado desdén de su padre, la aprobación se sentía como agua en un desierto.")
-prompt: [Face_Reference: Drusniel]. Face softening with relief, then tightening as he listens; lying still in the dark and reaching toward the warmth at the edge of awareness.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Face softening with relief, then tightening as he listens; lying still in the dark and reaching toward the warmth at the edge of awareness.
 Environment: Near-dark stone bedroom, narrow bed with rumpled blankets. Thin cyan spill under the door outlines cheek and hands; a faint warm pulse blooms and fades near his brow like a comforting presence trying to feel familiar, throwing soft amber halation into the surrounding shadows.
-Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: generic-response.jpg
 role: mid_03 (placed after sentence "Genérico. Simpático pero vago.")
-prompt: [Face_Reference: Drusniel]. Suspicion sharpening, eyes open and focused as if listening; brow tightening, jaw set as the response lands wrong.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Suspicion sharpening, eyes open and focused as if listening; brow tightening, jaw set as the response lands wrong.
 Environment: Room nearly black, with cold cyan spill under the door carving one edge of his face. The remaining amber afterglow is weak and delayed, leaving emptiness in the shadows rather than comfort; dust hangs in the low light like fine grit.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain not visible, slightly underexposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: something-wrong.jpg
 role: mid_04 (placed after sentence "Drusniel yació en la oscuridad, con los ojos fijos en una grieta irregular del techo de la torre.")
-prompt: [Face_Reference: Drusniel]. Eyes fixed and unblinking, unease tightening into certainty; refusing to say the thought out loud.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes fixed and unblinking, unease tightening into certainty; refusing to say the thought out loud.
 Environment: Upward angle from the bed toward a jagged crack cutting across the stone ceiling, face partially visible at the bottom of frame. The room is almost black except for thin cyan spill under the door; dust hangs in the air barely catching the light, while the warmth of the presence is gone.
-Camera: Sony A7R V 35mm f/2.8 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/2.8 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 

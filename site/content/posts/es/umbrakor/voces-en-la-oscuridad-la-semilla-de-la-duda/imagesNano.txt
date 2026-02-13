@@ -7,36 +7,36 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: night-whispers.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Eyes open and glassy, listening too hard; exhaustion pulling at the mouth as the messages arrive again.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes open and glassy, listening too hard; exhaustion pulling at the mouth as the messages arrive again.
 Environment: Near-dark stone bedroom with the bed pressed to cold masonry. Thin cyan spill under the door outlines cheek and sheet folds; a faint warm amber flicker brushes his brow and then retreats, leaving the corners in dense shadow with almost no bounce. Dust motes drift through the low light like fine ash, never fully settling.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: three-taps.jpg
 role: mid_01 (placed after sentence "El viejo juego.")
-prompt: [Face_Reference: Drusniel]. Tendons tight, knuckles whitening; thumb tapping fingertip to fingertip in a slow three-count, then hovering as he waits for the read.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Tendons tight, knuckles whitening; thumb tapping fingertip to fingertip in a slow three-count, then hovering as he waits for the read.
 Environment: Macro view against rumpled bedsheet linen, stone wall falling into blur. Cyan spill grazes skin texture and catches as cold edge highlights along nail beds; a faint warm pulse flashes on the nail edge and then slips away, leaving deep soft black in the background.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, natural skin with pores, shallow depth of field, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, natural skin with pores, shallow depth of field, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: failed-test.jpg
 role: mid_02 (placed after sentence "Respuesta equivocada.")
-prompt: [Face_Reference: Drusniel]. Brow tightening, eyes narrowing; breath catching as the wrong answer lands while he forces his thoughts neutral.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Brow tightening, eyes narrowing; breath catching as the wrong answer lands while he forces his thoughts neutral.
 Environment: Tight portrait in darkness. Cyan spill under the door carves a hard edge along one cheekbone; a delayed warm amber afterglow fades at the edge of frame like an echo arriving half a beat late, halation softening the warm side while the rest stays matte black.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: temptation-of-special.jpg
 role: mid_03 (placed after sentence "Temen tu mente.")
-prompt: [Face_Reference: Drusniel]. Exhaustion in the real face, but the reflection looks steadier, posture straighter, eyes held with practiced confidence.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Exhaustion in the real face, but the reflection looks steadier, posture straighter, eyes held with practiced confidence.
 Environment: Over-shoulder view into a tarnished mirror in dim quarters; scattered training gear and a knife rack blur behind. Cold cyan spill under the door lights the real side; the mirror side catches a warmer amber contamination that flatters the reflection, soft halation blooming at the warm edge while the room behind stays cold and desaturated.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly out of focus background. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, slightly out of focus background. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: ignoring-doubt.jpg
 role: mid_04 (placed after sentence "Confía en mí.")
-prompt: [Face_Reference: Drusniel]. Forcing his expression neutral, swallowing the warning; hand stilling mid-tap on the blanket.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Forcing his expression neutral, swallowing the warning; hand stilling mid-tap on the blanket.
 Environment: Medium close shot in bed. Warm afterglow lingers like a fading ember in the air and then dies; cyan spill under the door becomes the only light, grazing sheet folds and turning the surrounding stone into featureless black, making the room feel abruptly colder.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 2:3.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 

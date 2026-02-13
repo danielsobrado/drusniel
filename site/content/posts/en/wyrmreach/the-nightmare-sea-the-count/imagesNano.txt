@@ -7,35 +7,35 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: rowboat-on-nightmare-sea.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Soaked and exhausted, cloak clinging to his frame, oars in hand. Wide establishing shot of a small battered rowboat on a vast hostile sea under flat endless light. Water tar-dark with waves arriving from impossible angles. Ankle-deep black water sloshing inside the boat.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Soaked and exhausted, cloak clinging to his frame, oars in hand. Wide establishing shot of a small battered rowboat on a vast hostile sea under flat endless light. Water tar-dark with waves arriving from impossible angles. Ankle-deep black water sloshing inside the boat.
 Environment: Open nightmare sea. Flat grey sourceless illumination with no directional shadows. Black water surface behaves like a non-Newtonian fluid, viscous at rest but shearing thin under oar strokes. Wave faces approach from contradictory angles, surface tension too high, creating standing ripples that defy wind direction. Grey light scatters uniformly through saturated air. Wood hull shows salt deposits and water staining at the waterline. Mist sits at surface level, blurring the boundary between water and atmosphere.
-Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: bailing-wrong-water.jpg
 role: mid_01 (placed after sentence "Each handful he threw overboard seemed to pull at his hands, reluctant to leave, and by the time he'd cleared one section, another wave had refilled it.")
-prompt: [Face_Reference: Drusniel]. Knuckles raw, grimace of frustration. Tight close-up of Drusniel bailing thick black water with cupped hands. The water clings to his fingers and stretches unnaturally before falling back. Droplets hang too long in the air.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Knuckles raw, grimace of frustration. Tight close-up of Drusniel bailing thick black water with cupped hands. The water clings to his fingers and stretches unnaturally before falling back. Droplets hang too long in the air.
 Environment: Inside the boat hull. Grey ambient light enters from above, reflecting off the viscous water pooled at the hull bottom. Black liquid exhibits thixotropic behavior, clinging to skin with surface tension far exceeding normal water. Droplets stretch into filaments before breaking. Wet wood grain visible on hull planks, swollen and dark from prolonged contact with the wrong water. Salt crystals form at the drying edges where splashes have evaporated. Grey light refracts through the stretched droplets, creating no prismatic color, only grey gradients.
 Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, shallow depth of field. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 3. filename: rowing-while-counting-breaks.jpg
 role: mid_02 (placed after sentence "Three strokes. Four.")
-prompt: [Face_Reference: Drusniel]. Face locked in strained concentration, muscles tensed mid-pull. Drusniel grips oars and pulls through water whose density changes mid-stroke. One oar bites thick resistance. The other slips through mist-thin liquid. Boat tilts at an unnatural angle.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Face locked in strained concentration, muscles tensed mid-pull. Drusniel grips oars and pulls through water whose density changes mid-stroke. One oar bites thick resistance. The other slips through mist-thin liquid. Boat tilts at an unnatural angle.
 Environment: Nightmare sea mid-crossing. Grey sourceless light falls on his arms and face without directional shadow. The oar on the dense side displaces water that curls back slowly like syrup, while the other oar cuts through with almost no wake. Asymmetric drag torques the boat. Water in the hull shifts with the tilt, pooling against the low gunwale with viscous reluctance. Worn leather oar grips show sweat and salt staining. Grey mist hangs at gunwale height.
 Camera: Sony A7R V 35mm f/2.0 GM Cinestill 800T, underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: air-magic-jerk-forward.jpg
 role: mid_03 (placed after sentence "Drusniel reached for his air magic.")
-prompt: [Face_Reference: Drusniel]. Expression of effort and fear, artifact pulsing visible at his chest. Drusniel forces a short unnatural gust behind the stern. Boat lurches forward in jerking bursts. Spray tears sideways from the hull. Mist scatters around the stern.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression of effort and fear, artifact pulsing visible at his chest. Drusniel forces a short unnatural gust behind the stern. Boat lurches forward in jerking bursts. Spray tears sideways from the hull. Mist scatters around the stern.
 Environment: Nightmare sea surface. The forced air gust creates visible distortion behind the stern, bending the mist into turbulent vortices that dissipate within meters. Spray droplets from the hull catch grey light but cast no shadow. The water ahead remains perfectly flat and still in contrast to the churned wake. The artifact at his chest emits a cold pulse visible as a faint compression of the air around it. Hull wood shows stress cracks from the sudden acceleration.
-Camera: Sony A7R V 35mm f/1.8 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.8 GM Cinestill 800T, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: something-brushes-the-hull.jpg
 role: mid_04 (placed after sentence "Something brushed the bottom of the hull.")
-prompt: [Face_Reference: Drusniel]. Frozen rigid, eyes wide, oars suspended mid-stroke. Something soft and deliberate brushes the underside of the hull. The boat is steadied too gently from below. Ankle-deep wrong water presses against his boots like a probing weight.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Frozen rigid, eyes wide, oars suspended mid-stroke. Something soft and deliberate brushes the underside of the hull. The boat is steadied too gently from below. Ankle-deep wrong water presses against his boots like a probing weight.
 Environment: Nightmare sea surface. Concentric ripples radiate outward from the hull with no visible cause. The water inside the boat presses laterally against his boot leather as if responding to the presence below. Hull planks vibrate faintly from the contact beneath. The black water surface around the boat is preternaturally calm, glassy and still, while the rest of the sea shows faint chaotic movement. Grey light pooling on the still patch creates a darker reflection zone directly below.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

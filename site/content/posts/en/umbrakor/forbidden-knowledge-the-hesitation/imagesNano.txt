@@ -7,36 +7,36 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: refusing-offer.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Steady refusal, jaw set, hands loose at his sides but ready; eyes locked on Zaelar. [Face_Reference: Zaelar]. Calm calculation, tea cup just set down, expression patient and cold. The charged quiet hangs between them.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Steady refusal, jaw set, hands loose at his sides but ready; eyes locked on Zaelar. [Face_Reference: Zaelar]drow with blueish ash skin color, . Calm calculation, tea cup just set down, expression patient and cold. The charged quiet hangs between them.
 Environment: Zaelar's study, cluttered desk edge with papers and worn texts, shelves disappearing into shadow. Warm desk lamp is the primary light, amber carving cheekbones and reflecting off varnished wood grain; cool grey daylight from the window adds a thin rim along sleeves and throws long shadows into the shelves. Lamp glass blooms with slight halation; warm highlights catch pores and knuckle ridges.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, natural skin with pores. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, natural skin with pores. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: walking-back-paranoia.jpg
 role: mid_01 (placed after sentence "Movement where there should be stillness.")
-prompt: [Face_Reference: Drusniel]. Neck hairs raised, eyes darting, glancing over his shoulder mid-step; breathing controlled, pace quickening without breaking into a run. He moves through the surface passage tunnels, tracking disturbance at the edge of awareness.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Neck hairs raised, eyes darting, glancing over his shoulder mid-step; breathing controlled, pace quickening without breaking into a run. He moves through the surface passage tunnels, tracking disturbance at the edge of awareness.
 Environment: Damp stone walls press close, bioluminescent fungus casts pale cyan pools on uneven floor and ceiling; cold cyan is the primary light, catching wet sheen on stone and rim-lighting cheek and shoulder while the rest of the tunnel drops to deep black. Cyan highlights reflect off puddles in broken shards; shadows pool thick and still, with low-light grain.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: shyntara-silhouette.jpg
 role: mid_02 (placed after sentence "Shyntara was waiting.")
-prompt: [Face_Reference: Shyntara]. Rigid stillness, eyes fixed like an appraisal, posture held with assassin discipline. She waits by the window as Drusniel enters, kept secondary.
+prompt: [Face_Reference: Shyntara]drow with blueish ash skin color, . Rigid stillness, eyes fixed like an appraisal, posture held with assassin discipline. She waits by the window as Drusniel enters, kept secondary.
 Environment: Family quarters common room with sparse furniture and stone walls. Cold green-blue fungal glow outside the window is the main source, backlighting her outline and casting long hard-edged shadows; a faint warm interior ember-glow provides minimal fill on the nearer cheek. Fungus light reflects off worn stone in dull gradients; corners fall to near-black.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, subtle lens flare. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, subtle lens flare. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: sister-confrontation.jpg
 role: mid_03 (placed after sentence "Close enough to kill.")
-prompt: [Face_Reference: Drusniel]. Neutral mask held tight, jaw muscles flexing; eyes refusing to flinch. [Face_Reference: Shyntara]. Predator-still calm, evaluating him at arm's length, a step too close. Their hands stay deliberately still.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Neutral mask held tight, jaw muscles flexing; eyes refusing to flinch. [Face_Reference: Shyntara]drow with blueish ash skin color, . Predator-still calm, evaluating him at arm's length, a step too close. Their hands stay deliberately still.
 Environment: Common room with window glow behind them. Cold fungal window light provides hard backlight and green-blue rim along hair and shoulders; weak warm interior light adds minimal amber fill, catching pores and fine skin texture without softening shadows. Background furniture drops into blur; shadows are deep and clean, with film grain.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: sleepless-night.jpg
 role: mid_04 (placed after sentence "It was a long time before he slept.")
-prompt: [Face_Reference: Drusniel]. Eyes wide and unblinking, listening, exhaustion held under discipline; fingers tense in the blanket. He lies in darkness, waiting in silence.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes wide and unblinking, listening, exhaustion held under discipline; fingers tense in the blanket. He lies in darkness, waiting in silence.
 Environment: Small stone bedroom, narrow bed, rumpled blankets. Thin cold corridor light leaks under the door; faint fungal glow adds a weak green-blue wash across the wall. Dust drifts through the dim light, catching tiny points; the rest of the room vanishes into black with heavy low-light grain and soft falloff.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, not perfectly exposed, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, not perfectly exposed, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 

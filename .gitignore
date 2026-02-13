@@ -107,3 +107,6 @@ verify_face_references.py
 summarize_report.py
 
 *.log
+*.txt
+site/content/posts/*/*/*/images.txt
+site/content/postss/*/*/*/imagesNano.txt

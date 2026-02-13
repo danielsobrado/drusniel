@@ -7,9 +7,9 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: boat-waiting-in-tooth-rock-cove.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Tense, jaw set, artifact cold against sternum. Drusniel stands at the edge of a black-rock cove shaped like broken teeth, eyeing a small reinforced boat on wooden rollers. Flat black water stretches beyond.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Tense, jaw set, artifact cold against sternum. Drusniel stands at the edge of a black-rock cove shaped like broken teeth, eyeing a small reinforced boat on wooden rollers. Flat black water stretches beyond.
 Environment: Nightmare Sea shoreline. Pale sourceless gray light diffuses from every direction, casting no shadows. Black basalt rocks jut upward like a jaw. The water surface absorbs all light, returning nothing. Cold mist hangs at ankle height. Wet stone surfaces reflect the flat gray ambient. Air feels dense, pressurized.
-Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: reinforced-hull-and-supplies.jpg
@@ -21,21 +21,21 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 3. filename: shore-disappears-behind.jpg
 role: mid_02 (placed after sentence "La orilla detrás de él había desaparecido.")
-prompt: [Face_Reference: Drusniel]. Stunned, calculating stare, turning to look behind. View from inside the boat as the shoreline ceases to exist. Only black water in every direction, lit without shadows.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Stunned, calculating stare, turning to look behind. View from inside the boat as the shoreline ceases to exist. Only black water in every direction, lit without shadows.
 Environment: Open Nightmare Sea. Flat gray sourceless illumination erases all shadow. Black water surface is featureless, absorbing light at every angle. No horizon line, no distance markers. The world refuses measurement. Air holds a faint copper taste visible as haze. Gray light reflects off nothing.
 Camera: Sony A7R V 16mm f/2.8 GM Cinestill 800T, underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: wave-with-wrong-angle.jpg
 role: mid_03 (placed after sentence "Una ola se levantó adelante.")
-prompt: [Face_Reference: Drusniel]. Gripping gunwales, fighting for balance, fear breaking composure. An unnatural wave rises from flat calm at a wrong angle, pushed from below with intention. Boat tilts violently, heavy black liquid sloshing into the hull around his boots.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Gripping gunwales, fighting for balance, fear breaking composure. An unnatural wave rises from flat calm at a wrong angle, pushed from below with intention. Boat tilts violently, heavy black liquid sloshing into the hull around his boots.
 Environment: Nightmare Sea mid-crossing. Dull gray ambient from above. Faint orange-brown luminescence seeps from beneath the water where the wave crests. Heavy black liquid has viscosity between tar and water. Spray droplets hang too long in the air. The wave surface is unnaturally smooth, almost gelatinous.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, underexposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: something-circles-below.jpg
 role: mid_04 (placed after sentence "Y debajo de él, en la oscuridad bajo el casco, algo se agitó.")
-prompt: [Face_Reference: Drusniel]. Leaning over the side of the rocking boat, face tight with dread, refusing to reach with magic. A vast indistinct shadow shifts just beneath the hull. Not attacking. Circling. Noticing.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Leaning over the side of the rocking boat, face tight with dread, refusing to reach with magic. A vast indistinct shadow shifts just beneath the hull. Not attacking. Circling. Noticing.
 Environment: Nightmare Sea surface. Gray featureless light from above. The water surface is too calm between wrong swells. Below the hull, a darker mass displaces the black water, creating faint pressure ripples that radiate outward. The shadow is shapeless but enormous, suggested by water displacement, not direct visibility.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, slightly underexposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, slightly underexposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

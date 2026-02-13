@@ -9,33 +9,33 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 role: header
 prompt:[Face_Reference: Anja]. Wind-squint, steady focus; one arm extended in a firm point toward the mountain gaps. Standing on a high granite cliff with an apprentice beside her, looking out over Zuraldi: dense forest canopy like a green sea, silver river bends, distant Stonehold peaks snow-capped on the horizon.
 Environment: Bright high-altitude daylight is crisp and clear, hard greens across canopy. Snowfields on distant peaks flash high-albedo highlights; lee faces fall into deep blue skylight shadow. Wind combs the cliff grass and pushes the cloak edges into motion blur.
-Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain visible, slight atmospheric haze. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain not visible, slight atmospheric haze. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: caravan-trade.jpg
 role: mid_01 (placed after sentence "Marta, the trade matriarch, stood at the head of the caravan.")
 prompt:[Face_Reference: Marta]. Sharp-eyed pride; stance planted; handshake firm. Rocky mountain pass trade scene: Marta greets a dwarven merchant with a gold-thread-braided beard while wagons and mountain ponies queue behind; crates of dwarven metalwork unload as sacks of grain and barrels of salted meat load in return.
 Environment: Golden-hour sun slants through the pass and gilds dust in the air, creating warm shafts with visible particles. Rock faces above fall into cold blue skylight; warm highlights catch rope fibers, iron rims, and knuckle ridges while shadows stay crisp and cool.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: feast-of-strength.jpg
 role: mid_02 (placed after sentence "The air filled with the sizzle of meat and the rich aroma of roasting beef.")
 prompt:Village feast around a massive central fire pit. Iron spits glow red-hot while huge cuts of beef roast and drip; a broad-armed butcher carves thick slabs as villagers crowd in with wooden plates.
 Environment: Firelight provides hot orange uplight that makes smoke and sparks glow; the last blue of dusk cools the outer shadows. Grease drips flare briefly as they hit coals; sparks rise in ballistic arcs and leave faint motion trails.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation in sparks. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle halation in sparks. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: magda-green-fire.jpg
 role: mid_03 (placed after sentence "She raised her gnarled staff, and the flames of the central fire turned an eerie green.")
 prompt:[Face_Reference: Magda]. Expression: intent, unblinking; staff held high with absolute certainty. Night ritual as the bonfire snaps from warm amber to sickly green, throwing long unnatural shadows across recoiling villagers and timber walls; smoke spirals upward like a column lit from within.
 Environment: The green fire becomes the only light, narrow-band illumination that makes skin tones strange and shadows razor-edged. Green highlights catch bone and feather ornaments; embers flicker green and reflect as broken streaks across wet eyes and polished wood.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: xandor-druids.jpg
 role: mid_04 (placed after sentence "Xandor, his beard now more white than gray, led the circle.")
 prompt:[Face_Reference: Xandor]. Expression: calm authority; hands steady on his staff as if bracing for resistance. Deep forest clearing at dawn with druids in leaf mantles; a young druid presses her palm to an ancient oak and the bark ripples in response.
 Environment: Dawn shafts pierce the canopy in warm bands and cut through deep green shade. The ripple on the bark catches a moving highlight; moisture on moss and leaf mantles deepens color and returns soft green bounce into the shadows.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, background softened. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, background softened. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

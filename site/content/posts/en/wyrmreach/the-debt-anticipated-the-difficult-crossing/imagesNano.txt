@@ -9,33 +9,33 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 role: header
 prompt:Massive broken volcanic basalt plates separated by glowing chasms. Steam venting from below. Three small figures navigating the shattered terrain with a guide ahead. Distant lava fountains on the horizon.
 Environment: Wyrmreach volcanic rift zone. Orange underglow rising from chasms lights the scene from below. Volcanic haze diffuses upward, scattering amber into the air column. Orange reflects off flat basalt plate surfaces. Heat-fractured vesicular basalt, porous edges glowing dull red where magma proximity thins the stone. Shadows between plates are deep black tinged orange at rims.
-Camera: Sony A7R V 16mm f/2.8 Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 16mm f/2.8 Kodak Ektar 100, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: srietz-nearly-falls.jpg
 role: mid_01 (placed after sentence "Srietz went over the edge.")
-prompt:[Face_Reference: Srietz]. Terror, clawed fingers scrabbling at crumbling stone. [Face_Reference: Drusniel]. Lunging forward, arm extended, strain across his face. Srietz slides over the edge of a broken basalt plate as Drusniel dives to grab him. Frozen moment of desperate motion.
+prompt:[Face_Reference: Srietz]goblin with dark grayish-green skin and pointed ears, . Terror, clawed fingers scrabbling at crumbling stone. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Lunging forward, arm extended, strain across his face. Srietz slides over the edge of a broken basalt plate as Drusniel dives to grab him. Frozen moment of desperate motion.
 Environment: Chasm edge. Volcanic glow from the chasm below casts harsh uplight on both faces. Steam rises orange-lit from the gap. Orange highlights slam upward onto chins, nostrils, brow ridges. Crumbling basalt edge, heat-fractured vesicular stone breaking under weight. Shadows above figures remain black, light only from below.
 Camera: Sony A7R V 35mm f/2.8 Cinestill 800T, underexposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 3. filename: drusniel-reaches-for-voice.jpg
 role: mid_02 (placed after sentence "He reached for the Voice.")
-prompt:[Face_Reference: Drusniel]. Eyes slightly unfocused looking inward, one hand extended toward nothing, expression shifting from expectation to confusion to horror. Drusniel stands on broken volcanic ground in a moment of internal crisis. Volcanic ash suspended in air around him.
+prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes slightly unfocused looking inward, one hand extended toward nothing, expression shifting from expectation to confusion to horror. Drusniel stands on broken volcanic ground in a moment of internal crisis. Volcanic ash suspended in air around him.
 Environment: Fractured basalt field. Orange volcanic light from fissures below and behind catches one side of his face. Steam curls at knee height. Warm orange paints the extended hand from below. Other side of face falls into cold grey-black. Ash particles float motionless, each catching a pinpoint of amber light.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: group-pulls-srietz-up.jpg
 role: mid_03 (placed after sentence "They hauled Srietz up the old-fashioned way.")
-prompt:[Face_Reference: Drusniel]. Straining with effort, grip tight on rope. [Face_Reference: Elion]. Teeth clenched, pulling hard. [Face_Reference: Srietz]. Terror fading to relief, hauled upward over the edge. Drusniel and Elion pull Srietz up over the edge of a broken volcanic plate using rope and raw grip strength. Ash in the air.
+prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Straining with effort, grip tight on rope. [Face_Reference: Elion]pale bluish-white skin with pointed elf ears and red war paint, . Teeth clenched, pulling hard. [Face_Reference: Srietz]goblin with dark grayish-green skin and pointed ears, . Terror fading to relief, hauled upward over the edge. Drusniel and Elion pull Srietz up over the edge of a broken volcanic plate using rope and raw grip strength. Ash in the air.
 Environment: Chasm edge, vesicular basalt. Orange chasm-glow from below. Volcanic ash catching the light like floating embers. Orange reflects off rope fibers and knuckle ridges. Heat-fractured stone crumbles at contact points. Shadows tinged warm amber at lower edges, fading to black above.
-Camera: Sony A7R V 35mm f/2.8 Kodak Portra 800, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 800, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: scorchshells-crossing-gap.jpg
 role: mid_04 (placed after sentence "The small armored things skittered across the gap and vanished into the stone.")
-prompt:[Face_Reference: Drusniel]. Watching from above with focused analytical attention, crouched at the edge. Small crab-turtle armored creatures with dark shells scurry across a gap between broken volcanic plates. Legs finding holds in hot stone, some vanishing into narrow crevices.
+prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Watching from above with focused analytical attention, crouched at the edge. Small crab-turtle armored creatures with dark shells scurry across a gap between broken volcanic plates. Legs finding holds in hot stone, some vanishing into narrow crevices.
 Environment: Gap between basalt plates. Orange glow from below catches the shells, reflecting off carapaces in dull flickers. Blackened chitinous shell material, heat-scored with hairline fractures exposing dull mineral beneath. Orange light bounces off wet stone surfaces surrounding the gap. Shadows pool deep in crevices.
-Camera: Sony A7R V 100mm macro Kodak Ektar 100, shallow depth of field, background softened, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 100mm macro Kodak Ektar 100, shallow depth of field, background softened, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

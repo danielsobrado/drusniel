@@ -7,15 +7,15 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: vast-distance-between-worlds.jpg
 role: header
-prompt:[Face_Reference: Maris] [Face_Reference: Drusniel] Maris floats in void-space reaching downward, Drusniel in a small boat on black water reaching upward. Translucent barriers visible as layered distortions between them, immense distance separating the two figures.
+prompt:[Face_Reference: Maris] [Face_Reference: Drusniel] drow with blueish ash skin color and subtle yellow eyes, Maris floats in void-space reaching downward, Drusniel in a small boat on black water reaching upward. Translucent barriers visible as layered distortions between them, immense distance separating the two figures.
 Environment: Void space between worlds. Fading amber connection-light dimming between the figures, amber glow reflects off both reaching hands as it weakens. Green bioluminescence from below Drusniel casts interactive upward light on boat and body, cold grey overcast light from above Maris falls on her from her world's sky.
-Camera: Sony A7R V 16mm f/2.8 Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2
+Camera: Sony A7R V 16mm f/2.8 Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2
 Material: Translucent barriers rendered as layered refractive distortions, bending light like heat haze between the two figures.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: barrier-visible.jpg
 role: mid_01 (placed after sentence "Era como presionar la palma contra una pared de cristal grueso: podia ver el otro lado, casi podia tocar el otro lado, pero el cristal estaba ahi.")
-prompt:[Face_Reference: Maris] [Face_Reference: Drusniel] Two reaching hands separated by a translucent barrier that bends light like thick glass, one pale feminine hand from above, one dark masculine hand from below. Neither can touch the surface. Straining fingers press uselessly.
+prompt:[Face_Reference: Maris] [Face_Reference: Drusniel] drow with blueish ash skin color and subtle yellow eyes, Two reaching hands separated by a translucent barrier that bends light like thick glass, one pale feminine hand from above, one dark masculine hand from below. Neither can touch the surface. Straining fingers press uselessly.
 Environment: Void darkness surrounding both hands. Faint amber glow refracts through the barrier distortion between the hands, amber light scatters and diffracts as it passes through the translucent barrier, casting prismatic interactive highlights on both sets of fingers.
 Camera: Sony A7R V 100mm macro f/2.8 Cinestill 800T, shallow depth of field, subtle lens flare on the barrier. Aspect: 2:3
 Material: Barrier rendered as high-density translucent medium, light refracts with visible chromatic aberration at edges.
@@ -32,7 +32,7 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 role: mid_03 (placed after sentence "No lo tuvo.")
 prompt:[Face_Reference: Maris] Vision shatters: the image of Drusniel and black water fragments into sharp geometric shards flying outward. Maris's face visible behind the breaking vision, recoiling from violent disconnection.
 Environment: Shattering vision-space. Harsh white flash at the point of fracture, shards catch fragmented amber and green light as they scatter, white flash reflects off each shard surface creating interactive prismatic scattering across Maris's recoiling face.
-Camera: Sony A7R V 35mm f/1.4 Cinestill 800T, film grain visible, motion blur on the shattering fragments. Aspect: 3:2
+Camera: Sony A7R V 35mm f/1.4 Cinestill 800T, film grain not visible, motion blur on the shattering fragments. Aspect: 3:2
 Material: Vision fragments rendered as sharp geometric shards with glass-like refractive properties, each shard carrying distorted image fragments.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
@@ -40,5 +40,5 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 role: mid_04 (placed after sentence "Grito hasta que se le acabo el aire.")
 prompt:[Face_Reference: Maris] Maris lies on her back on cold wet ground, mouth open in a raw scream upward, eyes squeezed shut. Blood streams from both nostrils. Her hands claw the grass beside her.
 Environment: Cold northern hillside, yellow grass around her, empty grey-blue winter sky above. Flat cold overcast daylight falls directly on her upturned face and the blood, light reflects off the wet blood and damp skin with cold specular highlights, no warmth anywhere in the scene.
-Camera: Sony A7R V 35mm f/2.0 Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 2:3
+Camera: Sony A7R V 35mm f/2.0 Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 2:3
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

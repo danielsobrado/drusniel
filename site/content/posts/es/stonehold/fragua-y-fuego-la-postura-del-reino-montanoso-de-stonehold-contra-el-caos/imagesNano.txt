@@ -7,35 +7,35 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: bragni-measures-crack.jpg
 role: header
-prompt:[Face_Reference: Bragni]. Expression: tight focus, worry held back; grip firm on the tape as if the number might change again. On an inspection ladder deep in a Stonehold shaft, pressing a measuring tape to a jagged crack in smooth blessed stone; surrounding walls sweat geothermal warmth, but the fissure rim carries a cold sheen and damp condensation.
+prompt:[Face_Reference: Bragni]D&D dwarf, . Expression: tight focus, worry held back; grip firm on the tape as if the number might change again. On an inspection ladder deep in a Stonehold shaft, pressing a measuring tape to a jagged crack in smooth blessed stone; surrounding walls sweat geothermal warmth, but the fissure rim carries a cold sheen and damp condensation.
 Environment: Flickering torchlight provides hot amber key light and makes iron dust sparkle in the air column. Frost-cold moisture at the crack edge catches torchlight as pale, almost blue highlights against warm stone; warm reflections bounce off damp walls and return as soft amber fill under the glove.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: impassable-rock-chart.jpg
 role: mid_01 (placed after sentence "La línea que marcaba el Pozo Seis terminaba en un relleno negro sólido —el símbolo cartográfico para *roca impasable, confirmada por inspección*.")
 prompt:Top-down on a dwarven survey chart spread on rough stone: precise tunnel lines in dark ink, Shaft Six terminating in a solid black fill; Bragni's finger traces the end point while chalk stubs, a brass compass, and a sputtering candle crowd the margins; runic markings present but not readable.
 Environment: Candlelight pools warm amber on parchment and throws sharp shadows into creases. The black fill absorbs light like a void; the compass rim throws a hard specular glint and reflects as a thin highlight on nearby ink lines.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Ektar 100, film grain visible, slightly out of focus background. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Ektar 100, film grain not visible, slightly out of focus background. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: dead-rune.jpg
 role: mid_02 (placed after sentence "La runa —una protección estándar contra derrumbes— estaba oscura.")
 prompt:Close-up of a tunnel wall lined with carved protection runes: most glow faint amber from residual blessing, but one rune is perfectly carved and completely dark, empty like a lamp with no oil; soot flakes and grit settle in its grooves while neighboring runes pulse.
 Environment: Torchlight and warm rune glow mix. Active carvings look lit from within and cast tiny amber spill onto the stone; the dead rune stays flat and cold, a black gap in the pattern that eats the surrounding light.
-Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain visible, shallow depth of field. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain not visible, shallow depth of field. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: vibrating-crack.jpg
 role: mid_03 (placed after sentence "Una vibración baja, casi por debajo del umbral de la sensación.")
 prompt:Extreme close-up of a leather-gloved hand pressed flat to the wall beneath the ceiling crack. Fine stone dust trembles and lifts in a slow pulse, then settles, then lifts again; breath fog hangs in a cold pocket near the fissure.
 Environment: Torchlight flickers from off-frame and catches moving dust as tiny bright points; condensation beads at the crack edge shine pale against warmer stone. Warm bounce from damp walls returns as soft amber under the fingers while the crack zone stays colder and darker.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, film grain visible, razor-thin focal plane. Aspect: 2:3.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, film grain not visible, razor-thin focal plane. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: sealed-shaft.jpg
 role: mid_04 (placed after sentence "Cuando se colocó el sello final, presionó su mano contra él.")
-prompt:[Face_Reference: Bragni]. Relief that does not reach the eyes; hand lingering as if listening through the stone. Shaft Six sealed behind iron beams driven into rock, blessed chains tensioned across the face, fresh mortar smeared thick between braces, new ward-runes etched into stonework and glowing faint.
+prompt:[Face_Reference: Bragni]D&D dwarf, . Relief that does not reach the eyes; hand lingering as if listening through the stone. Shaft Six sealed behind iron beams driven into rock, blessed chains tensioned across the face, fresh mortar smeared thick between braces, new ward-runes etched into stonework and glowing faint.
 Environment: Multiple torches provide warm amber light that throws hard highlights on iron and makes wet mortar gleam. Rune glow adds smaller warm points around edges; shadows behind the braces stay deep, with only thin orange reflections along chain links.
-Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, deep depth of field. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain not visible, deep depth of field. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

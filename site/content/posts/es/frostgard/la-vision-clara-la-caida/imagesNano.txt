@@ -7,14 +7,14 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: maris-collapse-mid-stride.jpg
 role: header
-prompt:[Face_Reference: Maris] [Face_Reference: Balin] Maris collapses mid-stride, body going limp as if yanked by invisible force. Balin lunges forward to catch her, arms outstretched. Trail through low yellow grass hills, companions reaching behind them.
+prompt:[Face_Reference: Maris] [Face_Reference: Balin] D&D dwarf, Maris collapses mid-stride, body going limp as if yanked by invisible force. Balin lunges forward to catch her, arms outstretched. Trail through low yellow grass hills, companions reaching behind them.
 Environment: Northern wilderness trail, dry yellow grass hills. Cold overcast daylight from above, flat and grey. Diffused cloud light falls evenly on the collapsing figure, no warm tones, motion frozen in cold ambient light.
-Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible, motion frozen. Aspect: 3:2
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain not visible, motion frozen. Aspect: 3:2
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: group-scrambles-protect.jpg
 role: mid_01 (placed after sentence "No la muevas. Estabilizale la cabeza. Asi.")
-prompt:[Face_Reference: Xandor] [Face_Reference: Balin] [Face_Reference: Eldric] [Face_Reference: Dulint] Xandor steadies Maris's head with both hands, kneeling. Eldric pushes Balin back. Dulint pulls a blanket from his pack. Four travelers form a protective circle around a collapsed woman on a grassy hillside.
+prompt:[Face_Reference: Xandor] [Face_Reference: Balin] D&D dwarf, [Face_Reference: Eldric] [Face_Reference: Dulint] D&D dwarf, Xandor steadies Maris's head with both hands, kneeling. Eldric pushes Balin back. Dulint pulls a blanket from his pack. Four travelers form a protective circle around a collapsed woman on a grassy hillside.
 Environment: Northern hillside clearing, yellow grass, open sky. Diffused grey daylight from overcast sky, cold and even. Flat cloud light falls uniformly across all four figures, no shadows cast between them, grey ambient light absorbed by wool and leather gear.
 Camera: Sony A7R V 24mm f/2.8 Kodak Portra 400, slightly out of focus background. Aspect: 3:2
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
@@ -36,8 +36,8 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 5. filename: maris-body-defenseless.jpg
 role: mid_04 (placed after sentence "Cayo en el.")
-prompt:[Face_Reference: Maris] [Face_Reference: Dulint] [Face_Reference: Eldric] [Face_Reference: Balin] Maris lies motionless on the grassy hillside trail. Dulint stays closest with the Beacon (dark metal cube, cold blue-white internal glow) pack glowing beside him. Eldric faces outward with weapon ready. Balin paces with nervous energy.
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] D&D dwarf, [Face_Reference: Eldric] [Face_Reference: Balin] D&D dwarf, Maris lies motionless on the grassy hillside trail. Dulint stays closest with the Beacon (dark metal cube, cold blue-white internal glow) pack glowing beside him. Eldric faces outward with weapon ready. Balin paces with nervous energy.
 Environment: Northern landscape, yellow grass hillside under flat overcast sky. Cold blue-white glow from the Beacon competes with flat overcast daylight, Beacon light reflects off Dulint's face and the canvas pack with cold blue-white interactive highlights, while grey ambient sky light falls evenly on the wider scene.
-Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2
 Material: Beacon is a dark metal cube with cold blue-white internal glow, pulsing through canvas weave of the pack.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

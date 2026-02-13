@@ -9,33 +9,33 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 role: header
 prompt:[Face_Reference: Vorogarth]. Eyes narrowed in distrust; mouth set in tired refusal; compass held out as if expecting betrayal. Leading a small survey team across cracked grey ground with a skin-dry texture under a bruise-purple sky fading to sick yellow; the compass needle refuses to settle and lanterns glow uselessly in the already shadowless air.
 Environment: The sky emits flat, directionless ambient illumination that erases shadows and makes faces evenly lit from every angle. Highlights on brass and skin have no directional cue; the ground reads like desiccated surface with fine cracking that catches soft, uniform light.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: brass-compass-needle.jpg
 role: mid_01 (placed after sentence "La aguja giró perezosamente, luego apuntó detrás de él.")
 prompt:Macro close-up of a brass compass in a weathered hand. Needle blurred mid-spin, pointing somewhere impossible; condensation beads on the glass; fine grey grit lodged in the hinge; cracked grey ground like dried skin beneath.
 Environment: Sourceless skyglow lights everything evenly and removes normal specular direction on brass, making highlights feel wrong, as if reflected from nowhere. Condensation beads act as tiny lenses, bending the uniform light into soft, featureless highlights.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: the-seam-in-the-ground.jpg
 role: mid_02 (placed after sentence "Sus dedos encontraron el borde. Una línea, recta y deliberada, cortada en la tierra.")
 prompt:[Face_Reference: Vorogarth]. Kneeling, hand braced; expression: reluctant recognition. [Face_Reference: Helvine]. Rigid posture, eyes wide; hands lowered from her temples as if pulled by a thread. Pressing a palm to a straight seam cut into the grey earth while guards hover and a young scholar grips a journal.
 Environment: Flat shadowless skyglow makes the seam read as a darker line against grey. A cold pocket around the seam pulls condensation onto skin and metal; the surrounding air stays unchanged and still, making the cold feel localized and deliberate.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: stairs-into-black-chamber.jpg
 role: mid_03 (placed after sentence "Debajo, escalones descendían hacia la oscuridad—escalones suaves, uniformes, tallados con una precisión que parecía obscena en este lugar de anomalía.")
 prompt:[Face_Reference: Vorogarth]. Arms locked as he catches her; jaw clenched; eyes fixed on the stairwell. [Face_Reference: Helvine]. Mid-recoil, one hand half-raised; expression: shock and pain; one eye changed and unfocused. Grey ground folds open like peeled skin to reveal smooth black stone stairs descending into absolute dark; below, walls carry shifting glyphs not readable.
 Environment: Chamber light comes from the wall marks as a colorless glow that spreads too evenly across black stone, flattening contrast where it should fall off. Darkness beyond the stair mouth stays absolute; the peeled ground edge looks wet and catches soft, featureless highlights.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: sealed-report-in-the-tower.jpg
 role: mid_04 (placed after sentence "La Alta Archivista lo leyó dos veces, luego lo colocó en los archivos sellados.")
 prompt:[Face_Reference: Vorogarth]. Posture rigid; eyes lowered; expression: knowing the answer already. High Archivist reads his handwritten report by oil lamplight and slides it into a sealed cabinet with wax closures and iron fittings; shelves of bound documents loom behind.
 Environment: Single oil lamp casts warm amber pool light on paper and hands with steep falloff into shadow; wax seals gleam and iron fittings flash hard highlights. The rest of the room stays dim, the lamp glow bouncing softly off parchment edges and dying quickly.
-Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

@@ -7,36 +7,36 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: mental-connection.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Eyes wet, breath held; fingers white-knuckled in the sheets, one hand half-reaching into empty air as the connection pulls taut.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes wet, breath held; fingers white-knuckled in the sheets, one hand half-reaching into empty air as the connection pulls taut.
 Environment: Near-dark stone bedroom. Cold cyan corridor spill outlines his cheek and knuckles; a thin thread of warm amber light hangs near his temple like a filament, casting faint interactive highlights across fingertips and catching as tiny amber points in the irises. Dust motes drift through the low light; shadows stay deep with almost no bounce.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: headache-strain.jpg
 role: mid_01 (placed after sentence "Un dolor sordo detrás de sus ojos.")
-prompt: [Face_Reference: Drusniel]. Brow knotted, jaw tight; pressing the heels of his hands into his eyes, knees drawn up, shoulders hunched as the strain hits.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Brow knotted, jaw tight; pressing the heels of his hands into his eyes, knees drawn up, shoulders hunched as the strain hits.
 Environment: Bed pressed against cold masonry, room falling off into near-black. Cyan spill under the door is the only steady light, while a faint amber pulse bleeds across his fingers and eyelids and then recedes; sweat sheen and skin texture hold real under the mixed low light.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, slightly underexposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, slightly underexposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: annariel-isolation.jpg
 role: mid_02 (placed after sentence "Aislamiento completo.")
-prompt: [Face_Reference: Annariel]. Expression: too focused, lips barely parted; holding still like he's afraid to breathe, hands resting on his knees in complete isolation.
+prompt: [Face_Reference: Annariel]drow with blueish ash skin color, . Expression: too focused, lips barely parted; holding still like he's afraid to breathe, hands resting on his knees in complete isolation.
 Environment: Sealed stone chamber with a heavy carved door and an inlaid warding circle on the floor, silver lines catching faint specular glints. Cold cyan bioluminescence from fungus in wall cracks provides the only light, painting hard blue edges on cheekbones and leaving the rest to near-black; any inscriptions remain unreadable texture.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: zaelar-mention.jpg
 role: mid_03 (placed after sentence "Su nombre es Zaelar.")
-prompt: [Face_Reference: Drusniel]. Relief draining into wary calculation, lips parted as he repeats the name under his breath, one hand hovering near his mouth.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Relief draining into wary calculation, lips parted as he repeats the name under his breath, one hand hovering near his mouth.
 Environment: Cold cyan spill under the door carves one side of his face; a fading warm amber afterglow clings to the other cheekbone, soft halation blooming around the warm edge while shadows behind him stay dense and matte.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, not perfectly exposed. Aspect: 2:3.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: fading-connection.jpg
 role: mid_04 (placed after sentence "Entonces la presencia se fue.")
-prompt: [Face_Reference: Drusniel]. Hand outstretched, fingers splayed; flash of panic as the amber thread collapses into nothing a heartbeat before his fingertips close.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Hand outstretched, fingers splayed; flash of panic as the amber thread collapses into nothing a heartbeat before his fingertips close.
 Environment: Warm glow dies mid-fade, leaving the room abruptly colder; cyan corridor spill under the door becomes the only light, grazing the sheet folds and turning the surrounding stone into featureless black. Dust hangs for a moment and then settles as the scene returns to silence.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 

@@ -7,9 +7,9 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: srietz-reveals-crystal-truth.jpg
 role: header
-prompt:[Face_Reference: Srietz]. Urgent intensity, holding up a black crystal, ears forward and rigid. [Face_Reference: Drusniel]. Listening with sharp focus, body angled toward the goblin. Srietz holds a black crystal that drinks light rather than reflects it, speaking urgently to Drusniel in a narrow volcanic pass with black crystal formations jutting from the ground like broken teeth.
+prompt:[Face_Reference: Srietz]goblin with dark grayish-green skin and pointed ears, . Urgent intensity, holding up a black crystal, ears forward and rigid. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Listening with sharp focus, body angled toward the goblin. Srietz holds a black crystal that drinks light rather than reflects it, speaking urgently to Drusniel in a narrow volcanic pass with black crystal formations jutting from the ground like broken teeth.
 Environment: Narrow volcanic pass, vesicular basalt walls. Faint violet luminescence from crystal facets casts cold highlights on Srietz's clawed fingers and cheekbones. Dim volcanic twilight filters from above through sulfuric haze. Crystalline lattice with subsurface scattering visible in nearby formations, faceted surfaces refracting trace violet internally. Shadows tinged violet at edges near crystals.
-Camera: Sony A7R V 35mm f/2.8 Cinestill 800T, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/2.8 Cinestill 800T, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: black-crystal-closeup.jpg
@@ -28,14 +28,14 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 4. filename: drusniel-stops-counting.jpg
 role: mid_03 (placed after sentence "Elion had already stepped in front of him and corrected his path with a hand on his shoulder.")
-prompt:[Face_Reference: Elion]. Corrective hand on shoulder, calm and steady gaze. [Face_Reference: Drusniel]. Disorientation and self-directed frustration, caught drifting off trail. Elion places a firm hand on Drusniel's shoulder to redirect him back to the safe path on volcanic terrain. Subtle faction markers carved into nearby stone.
+prompt:[Face_Reference: Elion]pale bluish-white skin with pointed elf ears and red war paint, . Corrective hand on shoulder, calm and steady gaze. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Disorientation and self-directed frustration, caught drifting off trail. Elion places a firm hand on Drusniel's shoulder to redirect him back to the safe path on volcanic terrain. Subtle faction markers carved into nearby stone.
 Environment: Volcanic trail with vesicular basalt surface. Dull red veins in dark earth glow faintly, providing low ambient light from below. Red glow catches boot soles and lower legs. Carved faction markers in nearby stone catch trace light in their grooves. Shadows pooled in carved channels. Haze above diffuses what little light exists.
-Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: talryn-reveals-bet.jpg
 role: mid_04 (placed after sentence "The whether was never in question.")
-prompt:[Face_Reference: Talryn]. Eyes fixed on darkening horizon, delivering cold words downward. [Face_Reference: Srietz]. Gone very still, ears rigid with alarm. [Face_Reference: Drusniel]. Watching from nearby with calculating eyes. Campfire scene at dusk. Talryn sits on high ground above Srietz. Fire between them casting long shadows across volcanic rock.
+prompt:[Face_Reference: Talryn]. Eyes fixed on darkening horizon, delivering cold words downward. [Face_Reference: Srietz]goblin with dark grayish-green skin and pointed ears, . Gone very still, ears rigid with alarm. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Watching from nearby with calculating eyes. Campfire scene at dusk. Talryn sits on high ground above Srietz. Fire between them casting long shadows across volcanic rock.
 Environment: Dusk camp on volcanic basalt. Campfire light from below casts upward shadows across all three faces, elongating features. Dusk glow fading orange-red on horizon behind Talryn. Fire reflects off porous basalt surface in uneven warm patches. Long shadows stretch away from fire across fractured ground. Shadows tinged warm amber nearest fire, cooling to grey at distance.
 Camera: Sony A7R V 50mm f/1.8 Cinestill 800T, subtle lens flare from fire. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

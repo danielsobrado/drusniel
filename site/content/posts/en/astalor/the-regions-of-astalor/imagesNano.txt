@@ -9,33 +9,33 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 role: header
 prompt:[Face_Reference: Sage]. Leaning close, eyes scanning routes; fingertip steady on a contested border line. Studying a massive hand-painted map of Astalor spread across an oak campaign table in a tall council chamber; carved terrain markers and tokens pin key regions; rolled comparison maps wait at the edge; map labels present but not readable.
 Environment: Overcast daylight from high arched windows provides cool even illumination across parchment and wood. Brass dividers and compass tools throw hard glints; deep shadows pool under the table and in the stone corners while dust motes drift through the window light.
-Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain visible, deep depth of field. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain not visible, deep depth of field. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: sage-observes-contian-towers.jpg
-role: mid_01 (placed after sentence "Contia's neutrality is a deliberately crafted illusion. Beneath the surface, factions vie for control.")
+role: mid_01 (placed after sentence "In Contia, today's ally could be tomorrow's test subject.")
 prompt:[Face_Reference: Sage]. Cloak pulled tight; one hand shielding her eyes; expression: wary appraisal. Watching the Contian skyline from a stone balcony: pale mage towers above a walled city, spires crackling with intermittent blue-white arcane discharge; thin unnatural fog coils between rooftops; banners hang from different towers.
 Environment: Each arcane flash throws brief sharp shadows before dusk reclaims the scene in muted amber-grey. Fog scatters both colors and turns the flashes into smeared light bands; wet stone shows brief blue-white specular streaks that vanish between pulses.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation in the flash. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle halation in the flash. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: sage-witnesses-stonehold-forge.jpg
-role: mid_02 (placed after sentence "The ring of hammers on anvils never ceases.")
+role: mid_02 (placed after sentence "The engineers described a different sound: cracks in stone that shouldn't crack. Cold where there should be warmth.")
 prompt:[Face_Reference: Sage]. Heat-slicked focus; jaw set; eyes reflecting orange light. On a carved stone gallery, overlooking Stonehold's Forgeheart: molten channels run like rivers below, dwarven smiths work in rhythmic overlap, and a massive drop-hammer throws sparks as it strikes glowing steel.
 Environment: Molten metal provides dominant hot orange-white uplight that paints faces and vaulted stone. Sparks streak through air and create brief bright pinpoints on iron edges; heat shimmer wobbles reflections above the nearest channel.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: sage-visions-grukmar-horde.jpg
-role: mid_03 (placed after sentence "They live for battle, for the thrill of conquest.")
+role: mid_03 (placed after sentence "Orcs, goblins, and worse occupied a territory that no outside force had successfully mapped.")
 prompt:[Face_Reference: Sage]. Hood up, face held in shadow; breath shallow; body pressed low behind cover. Watching a Grukmar war camp from a ridge: mud-staked hide tents, spike barricades, goblins scurrying with weapons, central bonfire sending greasy smoke upward while larger shapes move deeper in the camp.
 Environment: Bonfire and cook-fires provide warm low uplight that fights grey overcast, turning smoke into dirty orange volume and leaving the camp in murky low contrast. Warm reflections break across wet mud as short amber streaks; shadows stay soft and smeared by smoke.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, compressed perspective. Aspect: 3:2.
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain not visible, compressed perspective. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: sage-gazes-towards-wyrmreach.jpg
-role: mid_04 (placed after sentence "In song and tale, travelers whisper of terrible things in that distant land — of horrors beyond mortal understanding and shadows that defy description — but few who travel there ever return to confirm what is true.")
+role: mid_04 (placed after sentence "In song and tale, travelers whispered of terrible things in that distant land, but few who traveled there ever returned to confirm what was true.")
 prompt:[Face_Reference: Sage]. Wind-battered and braced; one hand gripping wet stone; eyes fixed on the horizon. Standing on a coastal cliff in driving rain facing a dark storm sea; far out, Wyrmreach forms an unnatural silhouette through cloud and spray while lightning flickers inside the distant storm without touching ground.
 Environment: Storm light stays cold and directionless until a lightning fork backlights the horizon, outlining the distant landmass in stark white for an instant and turning rain streaks into bright lines. Salt spray beads on rock and returns tiny highlights; wind pushes rain diagonally across frame.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Ektar 100, film grain visible, salt spray on the lens edge. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Ektar 100, film grain not visible, salt spray on the lens edge. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

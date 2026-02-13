@@ -7,35 +7,35 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: transcription-chamber.jpg
 role: header
-prompt:[Face_Reference: Sylaera]. Hand shaking as she copies; lips pressed thin; eyes tracking the line like it might bite. Wide interior of a temple transcription chamber: rows of scribes over long stone desks, beeswax candles pooled in wax-drip halos, Sylaera in the foreground with an ancient manuscript open to dense script and marginal notes not readable.
+prompt:[Face_Reference: Sylaera]drow with blueish ash skin color, . Hand shaking as she copies; lips pressed thin; eyes tracking the line like it might bite. Wide interior of a temple transcription chamber: rows of scribes over long stone desks, beeswax candles pooled in wax-drip halos, Sylaera in the foreground with an ancient manuscript open to dense script and marginal notes not readable.
 Environment: Cold green-blue phosphorescent crystal glyphs high on the wall provide steady ambient glow while each candle adds warm amber pools below. Cold light rims desk edges and ink pots; warm light catches wax drips and finger joints; shadows between desks stay deep, with only scattered green-blue bounce.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, not perfectly exposed. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: conflicting-texts.jpg
 role: mid_01 (placed after sentence "Pero este texto era diferente.")
 prompt:Macro close-up of weathered parchment on a stone desk: marginal annotations from multiple hands in different faded inks, one reply crossed out hard enough to tear fibers; candle wax hardened at the corner; no readable words.
 Environment: Single candle warm sidelight reveals paper grain and ink absorption, throws deep shadow into the torn depression, and catches wax ridges as glossy highlights. Shadows fall off quickly into black stone, leaving only the page surface alive with texture.
-Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 100mm f/2.8 Macro GM Kodak Ektar 100, razor-thin focal plane, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: venemora-statue.jpg
 role: mid_02 (placed after sentence "Algunos describían a Venemora como una diosa encontrada en las profundidades.")
 prompt:Low-angle view of a Venemora temple idol: tall polished obsidian statue with chipped edges, offerings at the base (dark flowers, small bones, bowl of dark liquid), surrounding chamber vanishing into shadow beyond its reach.
 Environment: Cold blue-green phosphorescence from a floor-level crystal basin uplights the statue and distorts the face in shadow. Obsidian planes throw hard specular lines; concave features swallow light and read as void-black; green-blue reflections pool on the stone floor at the base.
-Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: rift-patrol-report.jpg
 role: mid_03 (placed after sentence "Patrulla Siete reporta emanaciones inusuales desde el límite oriental.")
 prompt:Top-down desk shot of misfiled patrol reports on rough grey paper: creases, soot smudges, cracked red wax seals, black classification bars; handwriting rushed and not readable; Sylaera's ink-stained fingertips hold the corner while temple correspondence lies beneath.
 Environment: Single desk lamp provides harsh warm downlight that makes wax shine and paper texture pop, casting sharp shadows into folds and under fingers. Warm highlights break into the pooled water stains and soot smears as uneven reflective patches.
-Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain visible, slightly underexposed. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, slightly underexposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: phosphorescent-proverb.jpg
 role: mid_04 (placed after sentence "En la oscuridad, encontramos poder.")
-prompt:[Face_Reference: Sylaera]. Tired eyes lifted; expression: doubt she cannot say aloud; quill hand paused mid-stroke. Emptying transcription chamber at night: guttered candles, abandoned desks, dust drifting through air as she looks up at phosphorescent crystal glyphs forming a proverb not readable.
+prompt:[Face_Reference: Sylaera]drow with blueish ash skin color, . Tired eyes lifted; expression: doubt she cannot say aloud; quill hand paused mid-stroke. Emptying transcription chamber at night: guttered candles, abandoned desks, dust drifting through air as she looks up at phosphorescent crystal glyphs forming a proverb not readable.
 Environment: Crystal glow dominates as cold green-blue light, washing the far wall and catching in her eyes; a few dying candle stubs add weak warm accents near desk edges. Cold light creates cyan rim on hair strands and ink pools; warm candle remnants add tiny amber points in the foreground.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain visible, subtle halation in the glow. Aspect: 2:3.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle halation in the glow. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

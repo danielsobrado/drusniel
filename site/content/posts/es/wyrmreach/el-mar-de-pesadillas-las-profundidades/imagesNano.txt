@@ -7,23 +7,23 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: volcanic-light-ahead.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Drawn with exhaustion, rowing toward a coastline that finally holds still. A battered boat rides black water as real volcanic light appears ahead, reddish and smoky. The water around the hull looks slightly less impossible with each stroke.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Drawn with exhaustion, rowing toward a coastline that finally holds still. A battered boat rides black water as real volcanic light appears ahead, reddish and smoky. The water around the hull looks slightly less impossible with each stroke.
 Environment: Nightmare Sea transition zone. Distant volcanic red glow ahead paints the bow and water surface warm. Sourceless gray light fades behind. The water surface begins showing real reflections of the red glow. Mist hangs low, tinted pink-amber where volcanic light penetrates. The coastline is a dark line with pulsing volcanic orange behind it.
-Camera: Sony A7R V 24mm f/2.8 GM Kodak Ektar 100, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 GM Kodak Ektar 100, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: water-becomes-less-wrong.jpg
 role: mid_01 (placed after sentence "El agua alrededor del bote comenzó a cambiar.")
 prompt: Close detail of an oar blade cutting through black water as the surface begins behaving like real liquid. Ripples make sense. Resistance looks measurable. The boat wake holds a consistent shape. Faint cold mist hangs over the water.
 Environment: Nightmare Sea edge. Distant red volcanic glow stains the water reflection from ahead. The oar blade creates normal hydrodynamic wake patterns. Water droplets fall from the blade with correct surface tension. Gray ambient fades behind while warm volcanic light strengthens ahead. Mist particles scatter red light.
-Camera: Sony A7R V 50mm f/2.0 GM Kodak Portra 400, shallow depth of field, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/2.0 GM Kodak Portra 400, shallow depth of field, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 3. filename: collapse-on-black-sand.jpg
 role: mid_02 (placed after sentence "Sus piernas cedieron cuando golpearon tierra sólida, y se desplomó sobre arena negra que estaba caliente, casi ardiendo—origen volcánico.")
-prompt: [Face_Reference: Drusniel]. Arms failing, legs collapsing, breath ragged. Tumbles out of the boat onto hot black volcanic sand. Skin streaked with salt and grime. Hands sinking into coarse dark grains. The battered boat rests half in water behind him.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Arms failing, legs collapsing, breath ragged. Tumbles out of the boat onto hot black volcanic sand. Skin streaked with salt and grime. Hands sinking into coarse dark grains. The battered boat rests half in water behind him.
 Environment: Wyrmreach volcanic beach. Red-tinted perpetual twilight sky. Black volcanic sand composed of crusite basalt fragments, heat radiating from below. Volcanic glow from the horizon casts warm directional light. Long shadows from the boat stretch across sand. The sand grains are coarse, angular, heat-retaining. Salt deposits dry white on his skin where the wrong-water evaporates.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, underexposed, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: lines-in-the-sand.jpg
@@ -37,5 +37,5 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 role: mid_04 (placed after sentence "Una sombra cayó sobre él, bloqueando la luz teñida de rojo.")
 prompt: Ground-level view beside Drusniel lying face-down on black sand, too exhausted to move. A tall shadow falls across him, blocking the red light. Only the lower edge of a standing figure visible near his head. The sea and half-beached boat sit behind.
 Environment: Wyrmreach volcanic beach. Red volcanic glow from the horizon is blocked by the standing figure, casting a long shadow across the black sand. The sand retains heat visible as slight shimmer. The figure's boots are visible at frame edge, worn leather on dark sand. Behind, the black water meets the sand with normal tide behavior. The red-tinted sky pulses faintly.
-Camera: Sony A7R V 24mm f/2.8 GM Kodak Ektar 100, film grain visible, ground-level angle. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 GM Kodak Ektar 100, film grain not visible, ground-level angle. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

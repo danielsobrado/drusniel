@@ -7,9 +7,9 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: endless-gray-nightmare-sea.jpg
 role: header
-prompt: [Face_Reference: Drusniel]. Hunched over oars, salt and grime smeared on his skin, rowing into a horizon that never moves. A small battered wooden boat alone on an impossible flat expanse of black water. No sun. No true shadows. The silence is heavy and wrong.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Hunched over oars, salt and grime smeared on his skin, rowing into a horizon that never moves. A small battered wooden boat alone on an impossible flat expanse of black water. No sun. No true shadows. The silence is heavy and wrong.
 Environment: Nightmare Sea open water. Uniform gray sourceless light from every direction. The black water surface is perfectly flat, absorbing all light, returning no reflection. No horizon distinguishable. The air is dead, no mist movement, no wind. The boat leaves no wake. Gray light sits on the water like a membrane.
-Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 GM Cinestill 800T, underexposed, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: numb-hands-on-oars.jpg
@@ -21,21 +21,21 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 3. filename: wall-of-black-water.jpg
 role: mid_02 (placed after sentence "Una ola se levantó adelante.")
-prompt: [Face_Reference: Drusniel]. Exhaustion and terror, rowing straight toward it. A vertical wall of black water rises ahead, not a wave but a suspended dark cliff defying gravity. Skin tight with strain. The boat is tiny against the wall.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Exhaustion and terror, rowing straight toward it. A vertical wall of black water rises ahead, not a wave but a suspended dark cliff defying gravity. Skin tight with strain. The boat is tiny against the wall.
 Environment: Nightmare Sea. The wave wall is perfectly vertical, surface smooth and unnaturally still despite its height. Faint luminescence crawls along its crest where gray ambient light bends. The water surface below is flat calm. The gray sky reflects nowhere on the wave face. The dark surface absorbs all light, appearing as a void with edges.
-Camera: Sony A7R V 16mm f/2.8 GM Cinestill 800T, underexposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 16mm f/2.8 GM Cinestill 800T, underexposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: drowning-vision-silence.jpg
 role: mid_03 (placed after sentence "La proa golpeó la pared de agua, y la realidad se rompió.")
-prompt: [Face_Reference: Drusniel]. Eyes wide and unfocused, mouth open, sinking without a boat in pitch-black liquid. Black water invades his mouth and nose. The scene is impossibly still. The entire sea is holding its breath. Vast presence suggested only by pressure.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes wide and unfocused, mouth open, sinking without a boat in pitch-black liquid. Black water invades his mouth and nose. The scene is impossibly still. The entire sea is holding its breath. Vast presence suggested only by pressure.
 Environment: Submerged in the Nightmare Sea. Dying gray light from directly above fades to absolute black in every other direction. The liquid is not water but something denser, darker. No bubbles escape his mouth. No current moves him. The blackness below has depth that suggests intelligence. Pressure increases visibly, compressing his clothing against his body.
-Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, heavily underexposed, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, heavily underexposed, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: back-in-the-boat-debt.jpg
 role: mid_04 (placed after sentence "El dolor explotó a través de su pecho.")
-prompt: [Face_Reference: Drusniel]. Jolting upright in the boat with a ragged gasp, clutching his chest. Pain and a new invisible weight settle beneath his ribs. Oars locked in his grip as if his body kept rowing through the nightmare. Black water laps at his shins.
+prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Jolting upright in the boat with a ragged gasp, clutching his chest. Pain and a new invisible weight settle beneath his ribs. Oars locked in his grip as if his body kept rowing through the nightmare. Black water laps at his shins.
 Environment: Nightmare Sea, transition zone. The gray light ahead shifts almost imperceptibly toward having direction, the faintest suggestion of distance. A colder pulse presses at his sternum visible as tension in wet clothing. The water inside the boat sloshes with slightly more normal physics. The flat gray begins to differentiate into lighter ahead and darker behind.
-Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain visible. Aspect: 2:3.
+Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

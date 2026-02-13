@@ -9,33 +9,33 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 role: header
 prompt:Volcanic campsite at night. Two figures sitting close together on a rock ledge overlooking steaming fissures. A small goblin sleeping curled tight nearby. Embers of a low fire casting orange light. A female silhouette patrolling the dark perimeter in the distance.
 Environment: Wyrmreach night camp on basalt ledge. Campfire embers glowing orange-red from below. Volcanic haze diffuses faint red across the sky above. Ember light reflects off porous basalt surface in uneven warm patches. Steam columns in middle distance catch dull orange from fissures. Darkness dominates beyond three meters from fire.
-Camera: Sony A7R V 24mm f/2.8 Cinestill 800T, film grain visible, subtle lens flare from embers. Aspect: 3:2.
+Camera: Sony A7R V 24mm f/2.8 Cinestill 800T, film grain not visible, subtle lens flare from embers. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 2. filename: elion-sits-beside-drusniel.jpg
 role: mid_01 (placed after sentence "Elion sat beside him without asking.")
-prompt:[Face_Reference: Elion]. Settling down with casual deliberation, watchful eyes fixed on horizon. [Face_Reference: Drusniel]. Still, looking outward at the same smoking volcanic distance. Elion sits beside Drusniel on a rock ledge, both facing the same direction. The silence between them visible in their posture. Volcanic terrain stretching into darkness beyond.
+prompt:[Face_Reference: Elion]pale bluish-white skin with pointed elf ears and red war paint, . Settling down with casual deliberation, watchful eyes fixed on horizon. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Still, looking outward at the same smoking volcanic distance. Elion sits beside Drusniel on a rock ledge, both facing the same direction. The silence between them visible in their posture. Volcanic terrain stretching into darkness beyond.
 Environment: Camp ledge overlooking volcanic flats. Low campfire light rising from below, warm against cold black surroundings. Orange highlights on underside of chins and forearms resting on knees. Cold darkness presses in from all sides. Faint steam plumes in distance catch trace orange from ground fissures.
 Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, shallow depth of field, background softened. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 3. filename: drusniel-admits-dependency.jpg
 role: mid_02 (placed after sentence "I expected help that didn't come.")
-prompt:[Face_Reference: Drusniel]. Guarded vulnerability, jaw tight, eyes fixed on a distant point rather than his companion. The admission costing visible effort. Drusniel speaks quietly while seated on volcanic rock. Campfire glow warms one side of his face, leaving the other in shadow.
+prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Guarded vulnerability, jaw tight, eyes fixed on a distant point rather than his companion. The admission costing visible effort. Drusniel speaks quietly while seated on volcanic rock. Campfire glow warms one side of his face, leaving the other in shadow.
 Environment: Night camp, volcanic rock seat. Split lighting from campfire: warm orange from the left painting half the face, cold darkness claiming the right half. Firelight catches individual pores and stubble. Shadow edge runs sharp down center of nose. Volcanic night stretches featureless behind him.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 4. filename: elion-reveals-count.jpg
 role: mid_03 (placed after sentence "I stopped counting at forty.")
-prompt:[Face_Reference: Elion]. Weight of long experience visible in his face, speaking with measured calm. [Face_Reference: Drusniel]. Expression shifting to dawning horror at the number. Tight two-shot of Elion and Drusniel sitting side by side. Campfire embers reflected in both sets of eyes. Volcanic rock beneath them.
+prompt:[Face_Reference: Elion]pale bluish-white skin with pointed elf ears and red war paint, . Weight of long experience visible in his face, speaking with measured calm. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression shifting to dawning horror at the number. Tight two-shot of Elion and Drusniel sitting side by side. Campfire embers reflected in both sets of eyes. Volcanic rock beneath them.
 Environment: Dying campfire at night. Dying embers cast unsteady orange light upward across both faces. Light flickers, creating shifting warm highlights on brow ridges and cheekbones. Ember reflections visible as tiny amber points in irises. Shadows between the two figures merge into one dark mass. Warmth only exists below chin level.
-Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, underexposed, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, underexposed, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.
 
 5. filename: talryn-observes-from-distance.jpg
 role: mid_04 (placed after sentence "And Talryn's silhouette moved through the dark, completing another circuit.")
 prompt:[Face_Reference: Talryn]. Dark silhouette with military bearing walking a precise patrol route along camp perimeter. Wide shot from perspective of two seated figures looking outward. Talryn's form dark against faint volcanic glow in middle distance. The implication she heard everything.
 Environment: Camp perimeter, volcanic night. Distant volcanic vents cast dull red light behind Talryn's silhouette, creating thin rimlight along shoulders and head. No fill light on front of figure. Red-orange backlighting separates silhouette from black background. Ground fissures leak trace warmth that dies within a meter.
-Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, film grain visible. Aspect: 3:2.
+Camera: Sony A7R V 50mm f/1.8 Kodak Portra 800, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography.

@@ -7,14 +7,14 @@ Generate 5 JPG images in this folder with these exact filenames, then run the ro
 
 1. filename: maris-walking-dark-forest.jpg
 role: header
-prompt:[Face_Reference: Maris] [Face_Reference: Dulint] Maris presses two fingers against her left eye socket, wincing through pain. Dulint walks close beside her. Five travelers move along a narrow trail through low hills of dry yellow grass under cold overcast sky, fog sitting in the hollows.
+prompt:[Face_Reference: Maris] [Face_Reference: Dulint] D&D dwarf, Maris presses two fingers against her left eye socket, wincing through pain. Dulint walks close beside her. Five travelers move along a narrow trail through low hills of dry yellow grass under cold overcast sky, fog sitting in the hollows.
 Environment: Northern wilderness, low rolling hills with dead yellow grass. Thick cloud cover filters cold blue-grey diffused light evenly across the landscape. No directional shadows. Flat overcast light falls uniformly on skin and fabric, fog scatters any remaining contrast in the hollows.
-Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain visible. Aspect: 3:2
+Camera: Sony A7R V 35mm f/2.8 Kodak Portra 400, film grain not visible. Aspect: 3:2
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: maris-reflection-dark-water.jpg
 role: mid_01 (placed after sentence "Le solto el brazo con cuidado, pero se quedo a su lado.")
-prompt:[Face_Reference: Balin] [Face_Reference: Maris] Balin walks protectively beside Maris, his hand just released from her elbow, posture angled toward her. She strides forward with clenched jaw despite visible pain, yellow grass hills stretching behind them.
+prompt:[Face_Reference: Balin] D&D dwarf, [Face_Reference: Maris] Balin walks protectively beside Maris, his hand just released from her elbow, posture angled toward her. She strides forward with clenched jaw despite visible pain, yellow grass hills stretching behind them.
 Environment: Open northern hillside trail, dry yellow grass on both sides. Cold winter overcast sky presses low. Flat cold overcast light falls evenly across both figures, no directional shadows, light absorbed by damp grass and wool clothing.
 Camera: Sony A7R V 50mm f/1.8 Kodak Portra 400, slightly out of focus background. Aspect: 3:2
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
@@ -28,7 +28,7 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 4. filename: beacon-glow-through-pack.jpg
 role: mid_03 (placed after sentence "Incluso a traves de ellas, la luz se filtraba en intervalos visibles.")
-prompt:[Face_Reference: Dulint] Dulint kneels beside his open heavy canvas backpack on cold ground. Inside, a wrapped object pulses warm amber-gold light through three layers of cloth in rhythmic surges. Expression of guarded concern.
+prompt:[Face_Reference: Dulint] D&D dwarf, Dulint kneels beside his open heavy canvas backpack on cold ground. Inside, a wrapped object pulses warm amber-gold light through three layers of cloth in rhythmic surges. Expression of guarded concern.
 Environment: Cold northern hillside, grey sky behind. Amber glow from the artifact illuminates Dulint's weathered face from below, warm amber light bounces off the canvas weave interior and reflects upward onto jaw and cheekbones, contrasting against cold grey ambient sky light falling from above.
 Camera: Sony A7R V 50mm f/1.8 Kodak Portra 400, warm-cool contrast, not perfectly exposed. Aspect: 2:3
 Material: Wrapped artifact emits amber-gold radiance through heavy woven canvas, light diffusing through layered cloth fibers.
@@ -36,7 +36,7 @@ Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beaut
 
 5. filename: maris-grabs-arm.jpg
 role: mid_04 (placed after sentence "Le esta pasando ahora mismo.")
-prompt:[Face_Reference: Maris] [Face_Reference: Balin] Maris grips Balin's arm with white-knuckled desperation, eyes wide with urgent certainty, face pale and frightened. Balin looks down at her grip with alarm.
+prompt:[Face_Reference: Maris] [Face_Reference: Balin] D&D dwarf, Maris grips Balin's arm with white-knuckled desperation, eyes wide with urgent certainty, face pale and frightened. Balin looks down at her grip with alarm.
 Environment: Low hills of yellow grass under grey overcast sky. Flat cold daylight from cloud cover falls evenly on both figures, diffused light catches the tension in Maris's knuckles and the alarm in Balin's downward gaze, no directional shadows.
-Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain visible, shallow depth of field. Aspect: 2:3
+Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, film grain not visible, shallow depth of field. Aspect: 2:3
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
