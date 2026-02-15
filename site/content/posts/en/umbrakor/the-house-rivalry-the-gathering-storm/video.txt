@@ -1,7 +1,7 @@
 # Video Prompt
 Title: The House Rivalry: The Gathering Storm
 Language: en
-Canon Sequence: D-009-001
+Canon Sequence: D-005-001
 Source Image: drusniel-clenched-fist.jpg
 
 ## Veo 3 Prompt

@@ -1,7 +1,7 @@
 # Video Prompt
 Title: El Paquete: El Artefacto
 Language: es
-Canon Sequence: D-011-003
+Canon Sequence: D-007-003
 Source Image: drusniel-touching.jpg
 
 ## Veo 3 Prompt

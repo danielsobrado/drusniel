@@ -1,7 +1,7 @@
 # Image Prompts
 Title: Voces en la Oscuridad: Los Días Vacíos
 Language: es
-Canon Sequence: D-006-001
+Canon Sequence: D-002-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

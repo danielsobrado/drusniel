@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: El Paquete: El Nuevo Mundo
 Language: es
-Canon Sequence: D-011-005
+Canon Sequence: D-007-005
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
@@ -10,17 +10,18 @@ role: header
 prompt:Photorealistic wide establishing shot on Wyrmreach's desolate shore: black rock as if recently burned, heavy hot air and diffuse rust-red light with no visible sun, distant pulsing vegetation shifting through faint wrong hues; in the foreground, Drusniel forces himself up from slick rocks as seawater drips from his clothes. The red ambient is the main light source, flat and sunless; intermittent plant pulses add thin highlights that crawl along wet stone edges through heat haze, interactive sheen catching on grit and puddles. Sony A7R V 16mm f/1.8 GM Kodak Ektar 100, film grain not visible, mild barrel distortion, atmospheric haze, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: drusniel-wet.jpg
-role: mid_01 (placed after sentence "Drusniel se obligÃ³ a incorporarse, agua escurriendo de su ropa.")
+role: mid_01 (placed after sentence "Drusniel se obligó a incorporarse, agua escurriendo de su ropa.")
 prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: standing unsteadily with ragged breath as heavy air makes every inhale work; water running off sleeves. Medium-close portrait at the shoreline with soaked clothing clinging and saltwater sheen on lashes, empty red-lit landscape behind out of focus. Diffuse rust-red ambient tints everything flat; wet skin and fabric catch sharp specular highlights that break into tiny reflections along seams and cheekbones. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, slight water droplets on lens, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: strange-plants.jpg
-role: mid_02 (placed after sentence "VegetaciÃ³n extraÃ±a en la distancia: plantas que pulsaban levemente con colores que no existÃ­an en el mundo mortal.")
+role: mid_02 (placed after sentence "Vegetación extraña en la distancia: plantas que pulsaban levemente con colores que no existían en el mundo mortal.")
 prompt:Photorealistic close environmental detail of strange plants on dark soil: fleshy leaves and mineral-like stems pulsing with faint color shifts, not glowing like light but changing hue as if pigment is alive; grit and heat haze soften the background. The plants provide faint internal luminescence, casting cool colored highlights onto nearby dust and stone; diffuse red sky glow keeps everything else flat and oppressive, interactive sheen catching on wet membranes and dust grains. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, shallow depth of field, film grain not visible, subtle halation around the pulsing color. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: giant-eye-mountain.jpg
-role: mid_03 (placed after sentence "La leve luz roja captÃ³ algo que podrÃ­a haber sido un ojo.")
+role: mid_03 (placed after sentence "La leve luz roja captó algo que podría haber sido un ojo.")
 prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: breath held and shoulders tight as he crouches low, eyes tracking the horizon without daring to move. Long-lens shot across the red-lit landscape as he hides behind a black rock outcropping, wet hands gripping stone while far on the horizon a mountain-sized shape subtly shifts and a single glossy highlight reads as an eye turned toward him. Diffuse rust-red ambient and atmospheric haze flatten distance; the eye glint provides a single hard point of brightness, then vanishes, with heat-haze shimmer distorting edges. Sony A7R V 200mm f/2.8 GM Kodak Ektar 100, film grain not visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: hiding-fear.jpg
-role: mid_04 (placed after sentence "El artefacto pulsÃ³.")
+role: mid_04 (placed after sentence "El artefacto pulsó.")
 prompt:Photorealistic tight shot of wet hands opening a waterproof bag to reveal the dark metal plate inside, its etched symbols flickering in an unreadable pattern as it pulses; knuckles tense, water pooling on stone and beading on the pouch seam. Diffuse rust-red ambient reflects dullly on dark metal; the plate's faint cool pulse adds thin highlights that crawl along etched edges and moisture, interactive reflections trembling in tiny droplets. Sony A7R V 100mm f/2.8 Macro GM Cinestill 800T, shallow depth of field, film grain not visible, subtle halation around the pulse, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

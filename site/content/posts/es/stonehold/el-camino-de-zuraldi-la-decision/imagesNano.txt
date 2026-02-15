@@ -1,5 +1,5 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
-Title: El Camino de Zuraldi: La DecisiÃ³n
+Title: El Camino de Zuraldi: La Decisión
 Language: es
 Canon Sequence: W-008-005
 
@@ -13,21 +13,21 @@ Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, sligh
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: glass-shards-lungs.jpg
-role: mid_01 (placed after sentence "Sus pulmones ardÃ­an.")
+role: mid_01 (placed after sentence "Sus pulmones ardían.")
 prompt: [Face_Reference: Dulint]D&D dwarf, . Breath burning and ragged, mouth open as he tries to pull air, one hand braced on a knee; eyes watering. Tight portrait as he bends over from the sprint, Balin hovering ready to haul him forward.
 Environment: Warm late-afternoon sun from the side catches sweat sheen and road dust as bright specks; deep shadows carve cheek and jaw. Fabric weave and beard hair show grit and moisture; dust hangs in the air column, scattering light into a warm haze.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: drop-the-rock.jpg
-role: mid_02 (placed after sentence "Dulint sacÃ³ el cubo.")
+role: mid_02 (placed after sentence "Dulint sacó el cubo.")
 prompt: [Face_Reference: Balin]D&D dwarf, . Desperation breaking through, pointing toward the woods. [Face_Reference: Dulint]D&D dwarf, . Torn, staring at the cube in his hands. Balin urges him to throw it and keep running as the chase tightens.
 Environment: Cube's cold blue-white glow underlights fingers and carved seams as a diegetic source; warm sun still hits dust and grass from the side, creating harsh warm-cool contrast on skin and leather. Dust particles crossing the cube glow flash as tiny cold points; distant road behind is blurred, suggesting closing threat.
 Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: thrain-legacy.jpg
-role: mid_03 (placed after sentence "PensÃ³ en su bisabuelo.")
+role: mid_03 (placed after sentence "Pensó en su bisabuelo.")
 prompt: [Face_Reference: Dulint]D&D dwarf, . Stubborn resolve replacing fear, hand tightening the pack strap instead of letting go. [Face_Reference: Balin]D&D dwarf, . Grim acceptance, lowering his knife hand. Dulint tucks the cube away and commits to the road ahead.
 Environment: Cube glow leaks through leather seams as sterile blue-white edge light on buckles and stitching; the last warm daylight fades at the hills, leaving the scene more shadowed. Cold highlights reflect as small blue points on nearby dust and cloth weave; shadows deepen, with film-like grain and slight halation on bright edges.
 Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain not visible, subtle halation. Aspect: 2:3.
@@ -39,4 +39,5 @@ prompt: [Face_Reference: Dulint]D&D dwarf, . Bent forward with age and fatigue b
 Environment: Near-black forest interior with damp bark and wet leaves; only faint ambient green-blue and the cube glow provide light. Cold glow casts tiny highlights on nearby foliage and bark texture; shadows pool deep between trunks. Motion blur hints at fast, careful movement into darkness.
 Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed, subtle lens flare. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

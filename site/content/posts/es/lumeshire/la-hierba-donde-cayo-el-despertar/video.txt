@@ -1,5 +1,5 @@
 # Video Prompt
-Title: La Hierba Donde CayÃ³: El Despertar
+Title: La Hierba Donde Cayó: El Despertar
 Language: es
 Canon Sequence: W-012-001
 Source Image: vision-fragment-hand.jpg
@@ -13,4 +13,5 @@ Source Image: vision-fragment-hand.jpg
 Slow push-in on the hand as it breaks and then loses the surface.
 Audio: thick liquid slosh, muffled underwater thrum, bubble pops, brief wind drop to hush, then a distant bird call returning. No music. No dialogue. No subtitles.
 Photorealistic, cinematic, slightly grainy.
+
 

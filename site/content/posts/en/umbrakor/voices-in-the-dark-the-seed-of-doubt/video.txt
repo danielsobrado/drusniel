@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Voices in the Dark: The Seed of Doubt
 Language: en
-Canon Sequence: D-006-003
+Canon Sequence: D-002-003
 Source Image: temptation-of-special.jpg
 
 ## Veo 3 Prompt

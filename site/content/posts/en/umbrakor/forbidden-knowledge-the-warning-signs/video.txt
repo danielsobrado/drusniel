@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Forbidden Knowledge: The Warning Signs
 Language: en
-Canon Sequence: D-007-008
+Canon Sequence: D-004-003
 Source Image: letter-examined.jpg
 
 ## Veo 3 Prompt

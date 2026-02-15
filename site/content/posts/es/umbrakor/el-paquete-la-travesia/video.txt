@@ -1,7 +1,7 @@
 # Video Prompt
-Title: El Paquete: La TravesÃ­a
+Title: El Paquete: La Travesía
 Language: es
-Canon Sequence: D-011-004
+Canon Sequence: D-007-004
 Source Image: mid-03.jpg
 
 ## Veo 3 Prompt

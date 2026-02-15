@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: The House Rivalry: The Night Before
 Language: en
-Canon Sequence: D-009-004
+Canon Sequence: D-005-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

@@ -1,7 +1,7 @@
 # Video Prompt
 Title: El Mago de Superficie: La Torre
 Language: es
-Canon Sequence: D-007-001
+Canon Sequence: D-003-001
 Source Image: handshake-trap.jpg
 
 ## Veo 3 Prompt

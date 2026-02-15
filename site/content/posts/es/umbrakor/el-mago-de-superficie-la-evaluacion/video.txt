@@ -1,7 +1,7 @@
 # Video Prompt
 Title: El Mago de Superficie: La Evaluación
 Language: es
-Canon Sequence: D-007-002
+Canon Sequence: D-003-002
 Source Image: bending-candle.jpg
 
 ## Veo 3 Prompt

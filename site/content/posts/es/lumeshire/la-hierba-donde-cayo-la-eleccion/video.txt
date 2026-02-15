@@ -1,5 +1,5 @@
 # Video Prompt
-Title: La Hierba Donde CayÃ³: La ElecciÃ³n
+Title: La Hierba Donde Cayó: La Elección
 Language: es
 Canon Sequence: W-012-005
 Source Image: maris-choice-made.jpg
@@ -13,4 +13,5 @@ Source Image: maris-choice-made.jpg
 Slow dolly-in toward Maris across the candlelit table.
 Audio: inn murmur, hearth crackle, candle flicker, ceramic clink, chair creak, soft cloth rustle. No music. No dialogue. No subtitles.
 Photorealistic, cinematic, slightly grainy.
+
 

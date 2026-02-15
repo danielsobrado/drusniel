@@ -1,7 +1,7 @@
 # Image Prompts
 Title: The Package: The New World
 Language: en
-Canon Sequence: D-011-005
+Canon Sequence: D-007-005
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

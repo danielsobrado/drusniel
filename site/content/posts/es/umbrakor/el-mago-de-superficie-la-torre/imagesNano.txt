@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: El Mago de Superficie: La Torre
 Language: es
-Canon Sequence: D-007-001
+Canon Sequence: D-003-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

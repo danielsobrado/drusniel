@@ -1,5 +1,5 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
-Title: La Hierba Donde CayÃ³: El Despertar
+Title: La Hierba Donde Cayó: El Despertar
 Language: es
 Canon Sequence: W-012-001
 
@@ -18,9 +18,10 @@ role: mid_02 (placed after sentence "La silueta del pueblo era visible contra el
 prompt:Photorealistic very wide shot of recently harvested farmland: Maris a small solitary figure standing with unsteady posture while Riverhold’s silhouette sits far on the horizon, walls and rooftops barely readable against the low sun with faint chimney smoke. Late-day sky hangs heavy with light, backlighting the field into long shadow bands; interactive highlights glint in dew and shallow puddles between stubble rows. Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain not visible, slight lens flare, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: vision-fragment-hand.jpg
-role: mid_03 (placed after sentence "Y una manoâ€”piel gris-oscura, dedos largosâ€”deslizÃ¡ndose bajo")
+role: mid_03 (placed after sentence "Y una mano—piel gris-oscura, dedos largos—deslizándose bajo")
 prompt:Photorealistic vision fragment rendered as a realistic hallucination: the harvested field edges seem to darken into thick black water in her peripheral vision while a blue-ash skinned long-fingered hand rises and then slips away, surface tension behaving wrong like oil. Unnatural cold glow from below is the only light, turning the water into black glass with hard highlights and leaving everything above in darkness, interactive reflections trembling along each ripple. Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed, subtle halation on the glow. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: maris-walks-shakily.jpg
-role: mid_04 (placed after sentence "Maris siguiÃ³ caminando.")
+role: mid_04 (placed after sentence "Maris siguió caminando.")
 prompt:Photorealistic low-angle rear shot of Maris walking toward Riverhold across long rows of harvested stubble, legs shaking but continuing; silhouette fixed on the town line as if pulled by something she can't name. Lowering sun backlights her into warm rim while long shadows stretch from each broken stalk, interactive sheen flashing in tiny puddles where her boots press. Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain not visible, slight motion blur in a swinging hand, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

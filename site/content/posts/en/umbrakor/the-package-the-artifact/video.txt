@@ -1,7 +1,7 @@
 # Video Prompt
 Title: The Package: The Artifact
 Language: en
-Canon Sequence: D-011-003
+Canon Sequence: D-007-003
 Source Image: drusniel-touching.jpg
 
 ## Veo 3 Prompt

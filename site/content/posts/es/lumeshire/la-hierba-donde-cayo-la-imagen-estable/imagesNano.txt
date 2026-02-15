@@ -1,5 +1,5 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
-Title: La Hierba Donde CayÃ³: La Imagen Estable
+Title: La Hierba Donde Cayó: La Imagen Estable
 Language: es
 Canon Sequence: W-012-002
 
@@ -10,7 +10,7 @@ role: header
 prompt:[Face_Reference: Maris]. Expression: shoulders slumped from exhaustion, hands trembling as the stable vision returns; sweat at hairline, strain in eyes. Late afternoon at the edge of an open field under a wind-bruised grey sky as she braces against rough wood, tall grass bending in gusts and a distant treeline barely visible. Flat cool daylight is the main light source, with brief warm breaks along grass tips when sun slips through cloud; interactive highlights glint on moisture and wood splinters. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed, slightly out of focus background. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: vision-boat-black-water.jpg
-role: mid_01 (placed after sentence "Se mecÃ­a en agua que se movÃ­a mal")
+role: mid_01 (placed after sentence "Se mecía en agua que se movía mal")
 prompt:Photorealistic stable vision: a small dark wooden boat rocks on black water that moves wrong, too thick and too alive like oil that learned to breathe; the surface swallows light as cold haze clings low and constant starless twilight presses down while vast indistinct shapes drift overhead. Unnatural ambient gloom is the only light, cold and flat, turning the water into black glass with hard highlights along each ripple and wet wood grain. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, slightly underexposed, subtle halation on highlights. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: vision-hand-reaching.jpg
@@ -18,9 +18,10 @@ role: mid_02 (placed after sentence "Piel gris-oscura. Dedos largos.")
 prompt:Photorealistic vision detail: a blue-ash skinned hand rises through black water, fingers too long and joints bending subtly wrong, reaching for the boat’s edge just out of frame; water clings and pulls like heavy syrup, droplets stretching before falling back into the void. A cold pale glow isolates the hand against swallowing black, catching wet skin texture and hard sheen while everything else stays nearly lightless, interactive reflections trembling along each ripple. Sony A7R V 85mm f/1.4 GM Cinestill 800T, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: maris-wakes-gasping.jpg
-role: mid_03 (placed after sentence "Maris volviÃ³ a sÃ­ misma con un jadeo.")
+role: mid_03 (placed after sentence "Maris volvió a sí misma con un jadeo.")
 prompt:[Face_Reference: Maris]. Expression: snapping back with a sharp gasp, eyes wide and unfocused as if the stable image still loops; one hand crushing the fence post. Close portrait with the empty field blurred behind, breath shaking and sweat catching at the temple. Late-day sun breaks through cloud and hits one side of her face; cool shadow fill deepens panic in her eyes, interactive highlights catching sweat. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: maris-walks-on.jpg
-role: mid_04 (placed after sentence "Maris empezÃ³ a caminar otra vez.")
+role: mid_04 (placed after sentence "Maris empezó a caminar otra vez.")
 prompt:[Face_Reference: Maris]. Expression: hands still trembling but posture turned determined, eyes fixed ahead as if pulled by something in her chest. Three-quarter profile walking toward distant Riverhold walls, a straight narrow road cutting through fields and fence lines while wind bends the grass. Evening light cools toward grey, long shadows stretching across ruts and stubble, interactive sheen flashing in small wet patches. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, slight motion blur in stride, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

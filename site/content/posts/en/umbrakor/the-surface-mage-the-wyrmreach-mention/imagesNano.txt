@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: The Surface Mage: The Wyrmreach Mention
 Language: en
-Canon Sequence: D-007-004
+Canon Sequence: D-003-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

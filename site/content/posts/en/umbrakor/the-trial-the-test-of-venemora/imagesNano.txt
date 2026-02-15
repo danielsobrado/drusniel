@@ -1,7 +1,7 @@
 ﻿# Image Prompts (Nano Banana Pro)
 Title: The Trial: The Test of Venemora
 Language: en
-Canon Sequence: D-003-001
+Canon Sequence: D-001-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

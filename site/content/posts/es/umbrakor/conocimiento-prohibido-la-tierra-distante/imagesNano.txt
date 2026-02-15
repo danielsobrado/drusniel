@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: Conocimiento Prohibido: La Tierra Distante
 Language: es
-Canon Sequence: D-007-009
+Canon Sequence: D-004-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
@@ -13,14 +13,14 @@ Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, natur
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: pointing-finger.jpg
-role: mid_01 (placed after sentence "â€”Wyrmreach â€”dijo Zaelar, trazando la costa con un dedo largoâ€”. La tierra mÃ¡s allÃ¡ de la barrera.")
+role: mid_01 (placed after sentence "—Wyrmreach —dijo Zaelar, trazando la costa con un dedo largo—. La tierra más allá de la barrera.")
 prompt: [Face_Reference: Zaelar]drow with blueish ash skin color, . Fingertip tracing the far eastern coastline, pressing hard enough to wrinkle the paper slightly. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Suspicion held tight, watching the point indicated. Close-up on the map edge where warning marks crowd the sea margin.
 Environment: Map surface fills the frame: worn paper fibers, smudged ink, scratched corrections, dense warning marks around the sea margin; any labels remain unreadable. Single lamp casts warm amber at a low angle, making paper texture pop; amber highlights skim knuckle ridges and fingertip, and warm reflections bounce off slightly glossy ink. Faint cool window fill softens shadows without overpowering the lamp.
 Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: looking-out-window.jpg
-role: mid_02 (placed after sentence "â€”Quiero que lo consideres.")
+role: mid_02 (placed after sentence "—Quiero que lo consideres.")
 prompt: [Face_Reference: Zaelar]drow with blueish ash skin color, . Back half-turned at the window, posture rigid, pause calculated. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Still by the desk, watching Zaelar's back, suspicion tightening his mouth. The map stays spread behind them, heavy and unavoidable.
 Environment: Cold grey daylight from the window silhouettes Zaelar and washes the stone wall; warm desk lamp behind Drusniel throws amber across the map and catches dust motes in the mixed light. Tea steam fades in thin ribbons. Warm light reflects off ceramic cup rims and wood grain; cool fill creates a thin blue rim along shoulders and map edges.
 Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, slightly underexposed, subtle lens flare. Aspect: 3:2.
@@ -34,9 +34,10 @@ Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain not visible, not pe
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: warning-signs-map.jpg
-role: mid_04 (placed after sentence "Drusniel mirÃ³ el mapa, el tramo de agua entre Astalor y Wyrmreach marcado con sÃ­mbolos de advertencia.")
+role: mid_04 (placed after sentence "Drusniel miró el mapa, el tramo de agua entre Astalor y Wyrmreach marcado con símbolos de advertencia.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Focused dread held behind control, fingertips hovering above the paper as if measuring distance. Macro-to-medium view of the sea crossing section, dense with warning symbols and corrections.
 Environment: Map ink is slightly glossy, catching warm lamp glints as tiny specular highlights; paper fibers are worn and soft-edged from handling. Warm lamp is the only strong light, amber pooling on fingertips and paper edges; background desk clutter drops into deep shadow with soft falloff. Any writing remains unreadable and secondary to the marks.
 Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

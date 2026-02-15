@@ -1,7 +1,7 @@
 # Image Prompts
 Title: The House Rivalry: The Secret Meeting
 Language: en
-Canon Sequence: D-009-003
+Canon Sequence: D-005-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

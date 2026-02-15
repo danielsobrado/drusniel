@@ -1,7 +1,7 @@
 # Video Prompt
 Title: The House Rivalry: The Warning (Cut Short)
 Language: en
-Canon Sequence: D-009-005
+Canon Sequence: D-005-005
 Source Image: ceiling-collapse.jpg
 
 ## Veo 3 Prompt

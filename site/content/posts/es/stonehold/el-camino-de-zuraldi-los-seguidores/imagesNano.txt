@@ -13,7 +13,7 @@ Camera: Sony A7R V 24mm f/1.4 GM Kodak Ektar 100, film grain not visible, subtle
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: organized-threat.jpg
-role: mid_01 (placed after sentence "Se separaron en la Ãºltima bifurcaciÃ³n: dos en el camino, dos a travÃ©s de los Ã¡rboles.")
+role: mid_01 (placed after sentence "Se separaron en la última bifurcación: dos en el camino, dos a través de los árboles.")
 prompt: [Face_Reference: Balin]D&D dwarf, . Eyes wide with realization, sweat on the brow, pointing sharply toward both sides. [Face_Reference: Dulint]D&D dwarf, . Grim controlled stare, already calculating. Movement slips between trunks in time with their pace.
 Environment: Treeline frames the road; shifting shadows hint at flanking bodies just out of view. Warm low sun casts hard slats of light across faces and hands; cooler forest shade swallows the background. Dust rises around boots and packs, catching warm highlights as floating points; darker shade holds deep shadow pools.
 Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2.
@@ -27,16 +27,17 @@ Camera: Sony A7R V 50mm f/1.4 GM Cinestill 800T, film grain not visible, subtle 
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: indifferent-hum.jpg
-role: mid_03 (placed after sentence "El cubo zumbÃ³.")
+role: mid_03 (placed after sentence "El cubo zumbó.")
 prompt: Macro close-up of the cube's perfect dark geometry in rough travel-worn hands; fine seams and carvings lit from within by sterile cold blue-white glow. Tiny grains of road dust tremble against the metal from a low vibration.
 Environment: Cube glow is the only strong light, creating crisp cold highlights on edges and leaving the world beyond the hands in soft shadow. Dust grains on metal jump in tiny bursts; micro-scratches and worn edges catch alternating cold specular points. Background falls into smooth blur with film-like grain.
 Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, shallow depth of field, film grain not visible. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: breaking-into-run.jpg
-role: mid_04 (placed after sentence "DetrÃ¡s de ellos, los seguidores empezaron a correr.")
+role: mid_04 (placed after sentence "Detrás de ellos, los seguidores empezaron a correr.")
 prompt: Telephoto view down the road as the followers finally break into a run, cloaks snapping, armor shifting under fabric, weapons drawn and steel glinting. Dust rises and the gap visibly closes.
 Environment: Low sun backlights the runners, turning dust into a glowing haze and flashing highlights across moving steel; treeline blurs on both sides like a corridor. Atmospheric haze compresses distance; foreground road texture stays sharp while the distant runners soften at edges from heat and dust.
 Camera: Sony A7R V 200mm f/2.8 GM Kodak Ektar 100, film grain not visible, slight atmospheric blur. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

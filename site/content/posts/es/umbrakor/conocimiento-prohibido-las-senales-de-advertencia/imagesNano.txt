@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
-Title: Conocimiento Prohibido: Las SeÃ±ales de Advertencia
+Title: Conocimiento Prohibido: Las Señales de Advertencia
 Language: es
-Canon Sequence: D-007-008
+Canon Sequence: D-004-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
@@ -13,30 +13,31 @@ Camera: Sony A7R V 100mm f/2.8 macro GM Kodak Portra 400, film grain not visible
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: zaelar-explanation.jpg
-role: mid_01 (placed after sentence "Zaelar regresÃ³ una hora despuÃ©s, llevando dos tazas de tÃ©.")
+role: mid_01 (placed after sentence "Zaelar regresó una hora después, llevando dos tazas de té.")
 prompt: [Face_Reference: Zaelar]drow with blueish ash skin color, . Deliberate calm, eyes cold behind patience, one hand mid-gesture. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Suspicion tightening his mouth, shoulders braced, letter held near the table edge. Two cups of tea steam between them as the conversation turns sharp.
 Environment: Old library study lined with ancient volumes, cluttered reading table with scattered papers and stacked books; any writing stays unreadable. Single table lamp is the primary light, warm amber carving cheekbones and throwing hard shadows into the shelves. Lamp glass blooms with slight halation; warm light reflects off wood grain and ceramic, creating dull specular highlights on cup rims.
 Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, slightly underexposed, natural skin with pores. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: mental-contact-doubt.jpg
-role: mid_02 (placed after sentence "Esa noche, la presencia regresÃ³.")
+role: mid_02 (placed after sentence "Esa noche, la presencia regresó.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Wary exhaustion, eyes open and fixed, jaw set; fingers gripping the sheet until knuckles tighten. He lies awake as a familiar warmth presses at the edge of awareness.
 Environment: Bare stone bedroom, rumpled bedding creased under tense hands. Thin cold corridor light leaks under the door as a narrow strip; a tiny bedside candle ember adds weak warm amber, painting a faint glow along one cheek while the rest of the room drops to black. Warm highlights catch pores and sweat sheen; shadows are deep and soft-edged, with low-light grain.
 Camera: Sony A7R V 85mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: cracked-ceiling.jpg
-role: mid_03 (placed after sentence "*Zaelar estÃ¡ intentando ayudar. EstÃ¡ intentando encontrar quiÃ©n nos hizo esto a ambos. ConfÃ­a en Ã©l, Drus. Yo lo hago.*")
+role: mid_03 (placed after sentence "*Zaelar está intentando ayudar. Está intentando encontrar quién nos hizo esto a ambos. Confía en él, Drus. Yo lo hago.*")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes wide with sleepless focus, hands slowly steadying on the blanket, breathing measured. Low angle from the pillow looking up at a thin crack running across rough stone ceiling like a fault line.
 Environment: Dust drifting in still air. Cold blue moonlight from a high slit window traces the crack and rims the edge of his face; a weaker warm spill from the door gap fades across the bedding. Blue highlights sharpen stone grit texture; warm and cool light meet on the blanket, creating mixed color shadows at edges.
 Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, slightly underexposed, natural low-light grain. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: shadows-remain.jpg
-role: mid_04 (placed after sentence "ConfÃ­a en Ã©l. Las palabras resonaron en la mente de Drusniel. La voz querÃ­a que confiara en Zaelar. Zaelar querÃ­a que desconfiara de la voz. Ambos pedÃ­an fe mientras ofrecÃ­an explicaciones que encajaban casi demasiado perfectamente.")
+role: mid_04 (placed after sentence "Confía en él. Las palabras resonaron en la mente de Drusniel. La voz quería que confiara en Zaelar. Zaelar quería que desconfiara de la voz. Ambos pedían fe mientras ofrecían explicaciones que encajaban casi demasiado perfectamente.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Hollow-eyed fatigue, shoulders slumped; staring at his own hands as if testing what is real. He sits on the edge of the bed with the letter beside him, forcing himself steady.
 Environment: Near-total darkness. Main illumination is a thin cold corridor light line under the door; a weak candle glow adds soft warm highlights on fingertips and paper edges. Candle flame bends slightly with a draft, and dust haze hangs in the air catching faint points of light. Corners of the room vanish into black, with film-like grain and soft falloff.
 Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle lens flare. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

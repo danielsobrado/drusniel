@@ -1,7 +1,7 @@
 # Video Prompt
-Title: Conocimiento Prohibido: Las SeÃ±ales de Advertencia
+Title: Conocimiento Prohibido: Las Señales de Advertencia
 Language: es
-Canon Sequence: D-007-008
+Canon Sequence: D-004-003
 Source Image: letter-examined.jpg
 
 ## Veo 3 Prompt

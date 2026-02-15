@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Voces en la Oscuridad: La Decisión
 Language: es
-Canon Sequence: D-006-004
+Canon Sequence: D-002-004
 Source Image: stepping-out-gray.jpg
 
 ## Veo 3 Prompt

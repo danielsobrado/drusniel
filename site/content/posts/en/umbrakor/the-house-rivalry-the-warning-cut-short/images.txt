@@ -1,7 +1,7 @@
 # Image Prompts
 Title: The House Rivalry: The Warning (Cut Short)
 Language: en
-Canon Sequence: D-009-005
+Canon Sequence: D-005-005
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

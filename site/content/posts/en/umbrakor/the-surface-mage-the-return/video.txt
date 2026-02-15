@@ -1,7 +1,7 @@
 # Video Prompt
 Title: The Surface Mage: The Return
 Language: en
-Canon Sequence: D-007-005
+Canon Sequence: D-003-005
 Source Image: family-chaos.jpg
 
 ## Veo 3 Prompt

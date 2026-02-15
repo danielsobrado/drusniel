@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: Voces en la Oscuridad: La Decisión
 Language: es
-Canon Sequence: D-006-004
+Canon Sequence: D-002-004
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

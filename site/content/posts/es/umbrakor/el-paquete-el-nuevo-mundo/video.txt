@@ -1,7 +1,7 @@
 # Video Prompt
 Title: El Paquete: El Nuevo Mundo
 Language: es
-Canon Sequence: D-011-005
+Canon Sequence: D-007-005
 Source Image: giant-eye-mountain.jpg
 
 ## Veo 3 Prompt

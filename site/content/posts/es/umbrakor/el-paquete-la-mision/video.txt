@@ -1,7 +1,7 @@
 # Video Prompt
-Title: El Paquete: La MisiÃ³n
+Title: El Paquete: La Misión
 Language: es
-Canon Sequence: D-011-002
+Canon Sequence: D-007-002
 Source Image: preparation.jpg
 
 ## Veo 3 Prompt

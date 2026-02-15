@@ -1,7 +1,7 @@
 # Image Prompts
 Title: El Paquete: El Artefacto
 Language: es
-Canon Sequence: D-011-003
+Canon Sequence: D-007-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

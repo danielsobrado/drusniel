@@ -1,7 +1,7 @@
 # Video Prompt
 Title: La Rivalidad de la Casa: La Reunión Secreta
 Language: es
-Canon Sequence: D-009-003
+Canon Sequence: D-005-003
 Source Image: interrogation.jpg
 
 ## Veo 3 Prompt

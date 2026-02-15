@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: Voces en la Oscuridad: La Semilla de la Duda
 Language: es
-Canon Sequence: D-006-003
+Canon Sequence: D-002-003
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

@@ -20,23 +20,24 @@ Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film 
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: distant-figures.jpg
-role: mid_02 (placed after sentence "Movimiento donde no deberÃ­a haber movimiento.")
+role: mid_02 (placed after sentence "Movimiento donde no debería haber movimiento.")
 prompt: Telephoto view of a distant hillside: several small figures move in a tight coordinated line toward the road, too orderly to be casual travelers. Heat haze and dust compress distance.
 Environment: Wide empty hills under late-afternoon sun, pale gold wash flattening details; silhouettes softened by atmospheric haze. Heat shimmer ripples above the road surface; dust hangs in the air column, scattering light. Foreground grasses and stones blur into bokeh to emphasize the distant line.
 Camera: Sony A7R V 200mm f/2.8 GM Kodak Ektar 100, film grain not visible, slight atmospheric blur. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: war-instincts.jpg
-role: mid_03 (placed after sentence "Dulint no respondiÃ³.")
+role: mid_03 (placed after sentence "Dulint no respondió.")
 prompt: [Face_Reference: Dulint]D&D dwarf, . Soldier focus snapping into place, eyes narrowed, hand already on a weapon hilt while the other keeps the cube tight. He shades his eyes and stares down the road, posture shifting into threat assessment.
 Environment: Hard afternoon sun carves deep shadows across cheek and beard line; sun glints off buckles and worn metal. The cube's cold glow adds a thin blue-white edge highlight on fingers and carved seams, reflecting as tiny cold points on nearby dust. Background hills fall into heat haze and soft blur.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: running-start.jpg
-role: mid_04 (placed after sentence "MirÃ³ hacia abajo al artefacto en sus manos.")
+role: mid_04 (placed after sentence "Miró hacia abajo al artefacto en sus manos.")
 prompt: [Face_Reference: Dulint]D&D dwarf, . Urgency breaking through control, jaw clenched as he commits. [Face_Reference: Balin]D&D dwarf, . Startled compliance, eyes snapping from the hill to Dulint. Ground-level action as Dulint shoves the glowing cube into the worn leather pack and yanks the strap tight while they start moving fast.
 Environment: Boots scrape gravel and kick up dust; sunlight flashes off airborne grit and buckles. The cube's cold glow leaks briefly through the pack seam as a sharp blue-white streak against the warm day, casting cold highlights on leather stitching and cloth weave before it disappears. Motion blur trails dust and feet; background road streaks into heat haze.
 Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed, motion blur on dust. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

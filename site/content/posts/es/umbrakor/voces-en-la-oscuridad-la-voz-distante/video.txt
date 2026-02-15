@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Voces en la Oscuridad: La Voz Distante
 Language: es
-Canon Sequence: D-006-002
+Canon Sequence: D-002-002
 Source Image: fading-connection.jpg
 
 ## Veo 3 Prompt

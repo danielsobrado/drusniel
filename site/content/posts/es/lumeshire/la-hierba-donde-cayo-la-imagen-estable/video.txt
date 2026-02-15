@@ -1,5 +1,5 @@
 # Video Prompt
-Title: La Hierba Donde CayÃ³: La Imagen Estable
+Title: La Hierba Donde Cayó: La Imagen Estable
 Language: es
 Canon Sequence: W-012-002
 Source Image: vision-boat-black-water.jpg
@@ -13,4 +13,5 @@ Source Image: vision-boat-black-water.jpg
 Slow push-in at water level toward the rocking boat.
 Audio: thick water slosh, wood creak, low underwater thrum, wind surge, distant indistinct screaming-like noise overhead. No music. No dialogue. No subtitles.
 Photorealistic, cinematic, slightly grainy.
+
 

@@ -1,5 +1,5 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
-Title: La Hierba Donde CayÃ³: La ElecciÃ³n
+Title: La Hierba Donde Cayó: La Elección
 Language: es
 Canon Sequence: W-012-005
 
@@ -14,13 +14,14 @@ role: mid_01 (placed after sentence "Un hombre anciano sentado solo en una mesa 
 prompt:[Face_Reference: Xandor]. Expression: calm certainty, hands gentle as he murmurs and adjusts leaves with practiced precision. Back corner table: Xandor sits alone surrounded by small potted herbs and unfamiliar flowers arranged along the tabletop, a quiet pocket of calm amid tavern chaos. Warm firelight and a small table candle catch moisture on leaves and the lines of his hands; smoke haze softens the background into warm blur, interactive reflections sliding across ceramic rims. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: xandor-pale-eyes.jpg
-role: mid_02 (placed after sentence "Sus ojos eran pÃ¡lidos, casi sin color")
+role: mid_02 (placed after sentence "Sus ojos eran pálidos, casi sin color")
 prompt:[Face_Reference: Xandor]. Expression: pale nearly colorless eyes locking onto Maris with exact attention, expression calm. Close portrait as he looks up, corner table and plant pots blurred around him; warm firelight catches cheekbones and lashes while the rest falls into soft shadow, a small candle reflection trembling in the eye. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: plant-ritual-pattern.jpg
-role: mid_03 (placed after sentence "Sus manos... se movÃ­an con la certeza de larga prÃ¡ctica.")
+role: mid_03 (placed after sentence "Sus manos... se movían con la certeza de larga práctica.")
 prompt:Photorealistic close detail of Xandor’s hands working among the pots, rotating a small plant toward the light with careful pressure on fragile stems; dirt under fingernails and pots arranged in a deliberate pattern across worn wood. Firelight reflects off moist soil and ceramic rims, warm specular highlights sliding across damp leaf surfaces while smoke haze softens the background, interactive sheen catching on soil grains. Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, shallow depth of field, film grain not visible, slight vignetting. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: maris-choice-made.jpg
-role: mid_04 (placed after sentence "Y Maris Hale tomÃ³ su decisiÃ³n.")
+role: mid_04 (placed after sentence "Y Maris Hale tomó su decisión.")
 prompt:Photorealistic close detail at Xandor’s table: Maris’s hand rests on worn wood beside a small plant pot, fingers finally still after hours of tension, knuckles relaxing by degrees. Warm firelight and soft tavern haze fill the background, amber reflections sliding across ceramic glaze and sleeve fibers while the rest of the inn dissolves into blur. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

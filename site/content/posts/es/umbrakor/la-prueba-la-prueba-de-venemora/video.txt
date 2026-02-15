@@ -1,7 +1,7 @@
 # Video Prompt
 Title: La Prueba: La Prueba de Venemora
 Language: es
-Canon Sequence: D-003-001
+Canon Sequence: D-001-003
 Source Image: the-void-feeling.jpg
 
 ## Veo 3 Prompt

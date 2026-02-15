@@ -1,4 +1,4 @@
-# Image Prompts (Nano Banana Pro â€” Gemini 3)
+# Image Prompts (Nano Banana Pro — Gemini 3)
 Title: The Goblin Who Counts Costs: The Memory
 Language: en
 Canon Sequence: D-015-005

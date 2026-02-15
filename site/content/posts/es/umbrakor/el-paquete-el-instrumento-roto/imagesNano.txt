@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: El Paquete: El Instrumento Roto
 Language: es
-Canon Sequence: D-011-001
+Canon Sequence: D-007-001
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
@@ -10,7 +10,7 @@ role: header
 prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: chest heaving from the climb, hollow stare fixed on the damage, posture barely held upright. From the edge of the treeline at dawn, Drusniel looks across a forest clearing toward Zaelar's stone tower: lower walls blackened with scorch marks, door hanging crooked, an annex collapsed with beams still smoking; wet grass trampled and ash drifting through cold air. Pale sunrise is the key source, warm edges catching on smoke plumes and dew on grass; cool shadow fill stays blue-grey, with soot reading matte and heavy against damp stone. Sony A7R V 35mm f/1.4 GM Kodak Ektar 100, film grain not visible, atmospheric haze, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: zaelar-singed.jpg
-role: mid_01 (placed after sentence "El viejo mago apareciÃ³ en el umbral roto.")
+role: mid_01 (placed after sentence "El viejo mago apareció en el umbral roto.")
 prompt:[Face_Reference: Zaelar]drow with blueish ash skin color, . Expression: controlled relief that never fully softens, pale eyes sharp and calculating; robe hem singed, fresh cut along cheek, ash on one sleeve. Zaelar stands in the shattered doorway framed by splintered wood and cracked stone as smoke drifts behind him from the ruined annex. Cold dawn backlight silhouettes drifting smoke; a single interior candle or lantern throws warm amber up onto jawline and the edge of the cut, interactive highlights catching pores and the wetness of fresh blood without making it glossy. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: shared-enemy.jpg
@@ -18,9 +18,10 @@ role: mid_02 (placed after sentence "Las marcas de quemadura en las paredes. La 
 prompt:Photorealistic close detail of the tower damage: black scorch patterns on rough stone, splintered doorframe, shattered glass scattered on the threshold, and a collapsed beam still releasing thin smoke. Hard dawn side light rakes across soot and wet grit, interactive specular points popping on damp fragments while the deepest burn stays matte and dead. Sony A7R V 100mm f/2.8 Macro GM Kodak Portra 400, shallow depth of field, film grain not visible, slight vignetting. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: allies-handshake.jpg
-role: mid_03 (placed after sentence "El viejo mago extendiÃ³ la mano, lo estabilizÃ³ con una mano en su hombro.")
+role: mid_03 (placed after sentence "El viejo mago extendió la mano, lo estabilizó con una mano en su hombro.")
 prompt:[Face_Reference: Zaelar]drow with blueish ash skin color, . Expression: intent and steady, grip firm on the shoulder, almost fatherly but controlling. [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: hollow exhaustion with grief crystallizing into resolve, eyes hardening, posture barely held upright. Tight two-shot at the ruined threshold as Zaelar steadies Drusniel and draws him inside, smoke curling through the broken doorway while scorched stone and the collapsed annex blur behind. Cool dawn rim light outlines profiles; warm interior lantern spill adds amber to knuckles and cheekbones, interactive highlights sliding across ash on fabric and chipped stone. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: entering-ruin.jpg
-role: mid_04 (placed after sentence "Drusniel lo siguiÃ³ a travÃ©s de la puerta rota. Vidrio crujiÃ³ bajo sus pies. Papeles dispersos por el suelo.")
+role: mid_04 (placed after sentence "Drusniel lo siguió a través de la puerta rota. Vidrio crujió bajo sus pies. Papeles dispersos por el suelo.")
 prompt:[Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Expression: tense profile, shallow breathing, eyes scanning damage. [Face_Reference: Zaelar]drow with blueish ash skin color, . Expression: composed, already moving ahead, keeping Drusniel inside his orbit. Interior of the violated study as Drusniel steps over shattered glass and papers and maps lie scattered (no readable text), instruments toppled, shelves disturbed; Zaelar leads him deeper into the room while smoke haze hangs low. A cold shaft of dawn light cuts through dust and smoke; a single candle adds weak warm glow, interactive highlights catching on broken glass edges and drifting motes. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle halation around the candle, slightly underexposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

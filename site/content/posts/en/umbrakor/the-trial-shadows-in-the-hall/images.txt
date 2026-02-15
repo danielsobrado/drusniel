@@ -1,7 +1,7 @@
 # Image Prompts
 Title: The Trial: Shadows in the Hall
 Language: en
-Canon Sequence: D-005-002
+Canon Sequence: D-001-006
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 

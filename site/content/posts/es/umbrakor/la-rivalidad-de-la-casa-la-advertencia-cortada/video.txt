@@ -1,7 +1,7 @@
 # Video Prompt
 Title: La Rivalidad de la Casa: La Advertencia (Cortada)
 Language: es
-Canon Sequence: D-009-005
+Canon Sequence: D-005-005
 Source Image: ceiling-collapse.jpg
 
 ## Veo 3 Prompt

@@ -1,4 +1,4 @@
-﻿# Image Prompts (Nano Banana Pro - Gemini 3)
+# Image Prompts (Nano Banana Pro - Gemini 3)
 Title: La Advertencia del Vidente: La Ruta
 Language: es
 Canon Sequence: W-016-003
@@ -10,7 +10,7 @@ role: header
 prompt:[Face_Reference: Eldric, Dulint, Balin, Xandor, Maris]. Tense dawn debate; Eldric leans over the map with a gloved finger tracing the fast route, Dulint holds a skeptical stare across the table, the others watch in silence with restrained reactions. Inn common room turned planning table: worn map on scratched wood, candle stubs and travel gear pushed aside, mugs gone cold, packs stacked near the wall. Warm dawn light from a side window rakes across the paper fibers and wood grain, creating hard directional highlights on map creases; a weak ember flicker from the hearth adds low orange movement that paints interactive warm highlights under hands and turns the shadow edges to soft amber. Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, shallow depth of field, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: grukmar-patrol-sign.jpg
-role: mid_01 (placed after sentence "Hemos visto las seÃ±ales. EstÃ¡n organizados.")
+role: mid_01 (placed after sentence "Hemos visto las señales. Están organizados.")
 prompt:Ominous forest detail; a crude Grukmar totem and claw-scratched territory mark hang from a dead branch, damp bark dark with cold moisture, ash grit caught in crevices, a faint smoke plume far beyond the treeline. Layered grey trunks and undergrowth fall into the background, the path barely suggested. Flat overcast daylight turns the sky into a cold softbox, pulling crisp texture from wet wood fibers and rope; moisture creates thin specular highlights on bark ridges while the underside shadows remain dense and cool. Sony A7R V 100mm f/2.8 GM Kodak Ektar 100, film grain not visible, slight vignetting, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: dulint-remembers-seer.jpg
@@ -24,3 +24,4 @@ prompt:[Face_Reference: Balin]D&D dwarf, . Controlled impatience; eager eyes, sh
 5. filename: dulint-makes-decision.jpg
 role: mid_04 (placed after sentence "Tomamos la ruta lenta, dijo Dulint.")
 prompt:[Face_Reference: Dulint, Eldric, Balin, Xandor, Maris]. Decision that costs time; Dulint anchors the foreground pointing firmly to the valley line on the map, Eldric faces him with restrained frustration, Balin disappointed, Xandor neutral and measuring, Maris pale and quiet. The table becomes a battlefield of hands and glances, map creased and worn, packs stacked for immediate departure. Clear morning light from the window rakes across faces and paper, creating interactive highlights on map folds and knuckle edges; weak ember flicker adds warm movement in shadow pockets under hands and along the table edge. Sony A7R V 24mm f/1.4 GM Kodak Portra 400, film grain not visible, slight motion blur in pointing hand, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+

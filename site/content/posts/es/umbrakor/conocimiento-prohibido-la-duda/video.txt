@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Conocimiento Prohibido: La Duda
 Language: es
-Canon Sequence: D-007-010
+Canon Sequence: D-004-005
 Source Image: walking-back-paranoia.jpg
 
 ## Veo 3 Prompt

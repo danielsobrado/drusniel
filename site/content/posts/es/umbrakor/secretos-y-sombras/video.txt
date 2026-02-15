@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Secretos y Sombras
 Language: es
-Canon Sequence: D-004-001
+Canon Sequence: D-001-004
 Source Image: failing-magic.jpg
 
 ## Veo 3 Prompt

@@ -1,7 +1,7 @@
 # Image Prompts (Nano Banana Pro — Gemini 3)
 Title: Conocimiento Prohibido: El Poder Creciente
 Language: es
-Canon Sequence: D-007-007
+Canon Sequence: D-004-002
 
 Generate 5 JPG images in this folder with these exact filenames, then run the root converter script.
 
@@ -13,30 +13,31 @@ Camera: Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, subtle 
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: dummy-hit.jpg
-role: mid_01 (placed after sentence "El maniquÃ­ se balanceÃ³ hacia atrÃ¡s.")
+role: mid_01 (placed after sentence "El maniquí se balanceó hacia atrás.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Jaw clenched, arm fully extended, breath forced out; fresh nosebleed just starting. A padded wooden practice dummy rockets backward and slams into a stone wall, splintering and shedding dust and fibers.
 Environment: Training room with rough-cut stone walls and scuffed floor. Single wall torch behind the dummy is the only illumination; warm orange light throws hard moving shadows and catches flying splinters, dust motes, and frayed padding threads with sharp specular highlights. Shadowed corners fall to near-black; torch halation blooms slightly around the flame.
 Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, not perfectly exposed, slight motion blur on debris. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 3. filename: exhausted-aftermath.jpg
-role: mid_02 (placed after sentence "Calidez goteÃ³ de su nariz.")
+role: mid_02 (placed after sentence "Calidez goteó de su nariz.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Dazed exhaustion, sweat on the brow, blood at the nostrils; shoulders sagging as he fights for breath. [Face_Reference: Zaelar]drow with blueish ash skin color, . Close and firm, pressing a cloth under Drusniel's nose, eyes assessing without panic. Drusniel sinks into a chair beside the training floor.
 Environment: Dust haze still hanging from the impact, broken dummy fragments and scuffed stone behind them. Torchlight is warm amber and directional, carving cheekbones and knuckles; orange highlights catch wet sheen on skin and damp cloth fibers, while the far side of faces drops into deep shadow. Moving torch flicker creates subtle shadow drift across the wall.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, natural skin with pores. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: sensing-zaelar.jpg
-role: mid_03 (placed after sentence "â€”El aire te dice cosas.")
+role: mid_03 (placed after sentence "—El aire te dice cosas.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Eyes closed, listening with his whole face; breath slowed, tension gathered in the jaw. [Face_Reference: Zaelar]drow with blueish ash skin color, . At the door with one hand on the handle, caught mid-move. Drusniel tracks presence by airflow, not sight.
 Environment: Quiet study with thin curtain fabric shifting under a window draft and candle smoke streaming sideways, making the current visible. Cool grey daylight from the window provides soft side-fill; a single candle adds warm orange flicker that paints moving highlights across the latch and knuckles. Warm light reflects off varnished wood grain; cool light rims edges and fades into shadow.
 Camera: Sony A7R V 50mm f/1.4 GM Kodak Portra 400, film grain not visible, slightly out of focus background. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: power-confidence.jpg
-role: mid_04 (placed after sentence "Por primera vez desde la cÃ¡mara de pruebas, Drusniel se sintiÃ³ como Ã©l mismo.")
+role: mid_04 (placed after sentence "Por primera vez desde la cámara de pruebas, Drusniel se sintió como él mismo.")
 prompt: [Face_Reference: Drusniel]drow with blueish ash skin color and subtle yellow eyes, . Quiet confidence settling in, eyes clear, fatigue still present; hands held open as if testing the air without forcing it. He stands alone as warm and cool drafts meet in the room.
 Environment: Lamplit study, half-melted candles along the wall, water basin in the corner with a barely trembling surface. Warm candlelight pools on the table and catches wax drips; cool grey daylight from the window cuts a thin rim along fingers and cheekbone. Warm highlights bounce up onto palms; the rest of the room falls to low shadow with soft falloff.
 Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, natural skin with pores, film grain not visible. Aspect: 2:3.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

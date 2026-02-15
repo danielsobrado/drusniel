@@ -1,5 +1,5 @@
 # Video Prompt
-Title: El Camino de Zuraldi: La DecisiÃ³n
+Title: El Camino de Zuraldi: La Decisión
 Language: es
 Canon Sequence: W-008-005
 Source Image: exhausted-hiding.jpg
@@ -13,4 +13,5 @@ Source Image: exhausted-hiding.jpg
 Slow dolly-in from their backs to Dulint's hands tightening the strap.
 Audio: ragged breathing, fast footsteps behind at distance, leather creak, dust hiss, a low vibrating hum, wind over dry hills. No music. No dialogue. No subtitles.
 Photorealistic, cinematic, slightly grainy.
+
 

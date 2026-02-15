@@ -1,7 +1,7 @@
 # Video Prompt
 Title: The Surface Mage: The Wyrmreach Mention
 Language: en
-Canon Sequence: D-007-004
+Canon Sequence: D-003-004
 Source Image: leaving-tower.jpg
 
 ## Veo 3 Prompt

@@ -1,5 +1,5 @@
 # Video Prompt
-Title: La Hierba Donde CayÃ³: La DesorientaciÃ³n
+Title: La Hierba Donde Cayó: La Desorientación
 Language: es
 Canon Sequence: W-012-003
 Source Image: reality-check-pain.jpg
@@ -13,4 +13,5 @@ Source Image: reality-check-pain.jpg
 Handheld push-in on her face as she forces herself awake.
 Audio: strained breath, tongue bite, distant cart wheel rumble, muffled water-like slosh during the stutter, then returning street ambience and wind. No music. No dialogue. No subtitles.
 Photorealistic, cinematic, slightly grainy.
+
 

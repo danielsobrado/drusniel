@@ -13,7 +13,7 @@ Camera: Sony A7R V 35mm f/1.4 GM Kodak Portra 400, film grain not visible, natur
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 2. filename: finding-the-cube-flashback.jpg
-role: mid_01 (placed after sentence "Yo fui quien lo sacÃ³ del estrato")
+role: mid_01 (placed after sentence "Yo fui quien lo sacó del estrato")
 prompt: [Face_Reference: Balin]D&D dwarf, . Triumphant grin through rock dust, eyes bright with reckless pride, arm buried in shadow. Flashback: he reaches into a seam where the wall geometry looks wrong and pulls the perfect dark cube free.
 Environment: Old mine tunnel, stale dust and ozone in the air. Single torch is the only light, warm orange flicker catching airborne grit and turning stone texture sharp; the gap behind his arm stays unnaturally dark, absorbing the torch glow. Basalt-like stone shows chipped edges and ancient mortar seams; torch halation blooms slightly.
 Camera: Sony A7R V 24mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed. Aspect: 3:2.
@@ -34,9 +34,10 @@ Camera: Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film 
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: fluid-pursuers.jpg
-role: mid_04 (placed after sentence "Se movÃ­an con una fluidez que era totalmente incorrecta para viajeros.")
+role: mid_04 (placed after sentence "Se movían con una fluidez que era totalmente incorrecta para viajeros.")
 prompt: Three or four distant figures crest a rise and move with unsettling fluid coordination, too smooth for ordinary travelers. They flow over uneven ground, silent and inexorable.
 Environment: Long road behind, dust and heat haze softening edges and compressing distance. Low sun backlights the silhouettes against a washed gold sky; dust trails in thin ribbons and catches warm highlights at the edges while the figures remain dark. Foreground road texture stays sharp, distant shapes softened by atmospheric blur.
 Camera: Sony A7R V 200mm f/2.8 GM Kodak Ektar 100, film grain not visible, slight atmospheric blur. Aspect: 3:2.
 Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
+
 

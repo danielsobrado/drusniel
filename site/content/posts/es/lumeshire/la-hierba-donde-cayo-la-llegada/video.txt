@@ -1,5 +1,5 @@
 # Video Prompt
-Title: La Hierba Donde CayÃ³: La Llegada
+Title: La Hierba Donde Cayó: La Llegada
 Language: es
 Canon Sequence: W-012-006
 Source Image: beacon-screaming.jpg

@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Blood in the Dark: The Chaos
 Language: en
-Canon Sequence: D-010-001
+Canon Sequence: D-006-001
 Source Image: running-blind.jpg
 
 ## Veo 3 Prompt

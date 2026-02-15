@@ -1,5 +1,5 @@
-﻿# Image Prompts (Nano Banana Pro — Gemini 3)
-Title: La Hierba Donde CayÃ³: La Llegada
+# Image Prompts (Nano Banana Pro — Gemini 3)
+Title: La Hierba Donde Cayó: La Llegada
 Language: es
 Canon Sequence: W-012-006
 
@@ -18,9 +18,9 @@ role: mid_02 (placed after sentence "Un cubo.")
 prompt:[Face_Reference: Dulint]D&D dwarf, . Expression: steady leadership and deep concern, leaning forward as he introduces himself with a hand extended. [Face_Reference: Balin]D&D dwarf, . Expression: eager curiosity edged with trauma, watching Maris with wide cautious eyes. Medium shot across the table as the Beacon sits in the center like a weight, attention snapping back to the glow. Candlelight provides warm amber across faces and rough wood; the Beacon adds a thin cold rim on cheekbones and knuckles, interactive highlights trembling on metal cups. Sony A7R V 50mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, not perfectly exposed. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 4. filename: Eldric-suspicious.jpg
-role: mid_03 (placed after sentence "Actualmente justificado â€”dijo Eldricâ€”.")
+role: mid_03 (placed after sentence "Actualmente justificado —dijo Eldric—.")
 prompt:[Face_Reference: Eldric]. Expression: justified suspicion held behind stillness, posture controlled, eyes measuring Maris without softening. Profile portrait at the table in the candlelit back room, one hand resting close as if never fully unarmed; the Beacon’s cold glow reflects faintly on his forearm. Candlelight carves sharp warm shadows; the Beacon adds hard cool rim on cheek edge and collar, interactive contrast sharpening distrust. Sony A7R V 85mm f/1.4 GM Kodak Portra 400, shallow depth of field, film grain not visible, slightly underexposed, not perfectly exposed. Aspect: 2:3. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography
 
 5. filename: maris-accepts-burden.jpg
-role: mid_04 (placed after sentence "La imagen estable se reprodujo una vez mÃ¡s. Barco. Agua. Mano.")
+role: mid_04 (placed after sentence "La imagen estable se reprodujo una vez más. Barco. Agua. Mano.")
 prompt:[Face_Reference: Maris]. Expression: resolved though fearful, accepting the burden with a steady stare. [Face_Reference: Dulint]D&D dwarf, . Expression: careful protective leadership. [Face_Reference: Balin]D&D dwarf, . Expression: urgency held in check. [Face_Reference: Eldric]. Expression: suspicion tempered by grim reality. [Face_Reference: Xandor]. Expression: quiet certainty, watching patterns more than people. Closing group composition in the candlelit back room: they form a tense circle around the Beacon at the center, wax drips and worn wood grain visible, shadows touching across the tabletop. Candlelight provides warm amber pools; the Beacon’s cold glow adds sharp cool highlights and faint air distortion with subtle halation, interactive reflections trembling on ceramic and metal. Sony A7R V 35mm f/1.4 GM Cinestill 800T, film grain not visible, not perfectly exposed, slight lens flare from the Beacon glow. Aspect: 3:2. Negative: Plastic skin, wax figure, 3D render, smooth shading, airbrushed, beauty filter, symmetrical face, perfect teeth, clean armor, bright colors, floating artifacts, extra limbs, glamour lighting, fashion photography

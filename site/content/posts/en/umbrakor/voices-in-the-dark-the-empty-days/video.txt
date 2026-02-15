@@ -1,7 +1,7 @@
 # Video Prompt
 Title: Voices in the Dark: The Empty Days
 Language: en
-Canon Sequence: D-006-001
+Canon Sequence: D-002-001
 Source Image: first-contact.jpg
 
 ## Veo 3 Prompt

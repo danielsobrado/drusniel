@@ -13,6 +13,13 @@ module.exports = {
         icon: `content/assets/favicon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        excludes: ['/dev-404-page', '/404', '/404.html'],
+      }
+    },
+    'gatsby-plugin-robots-txt',
   ],
   // Customize your site metadata:
   siteMetadata: {
@@ -20,6 +27,7 @@ module.exports = {
     title: 'Drusniel',
     name: 'Arcane Paradox A.I.',
     description: 'Embark on a journey through worlds of magic and mystery with Arcane Paradox A.I.!',
+    siteUrl: process.env.URL || process.env.VERCEL_URL || 'https://drusniel.com',
     address: 'Denpasar, Bali, 80263',
     email: 'daniel@danielsobrado.com',
     phone: '',
@@ -49,14 +57,6 @@ module.exports = {
       {
         name: 'Characters',
         slug: '/authors'
-      },
-      {
-        name: 'Secondary Characters',
-        slug: '/secondary-characters'
-      },
-      {
-        name: 'Gods',
-        slug: '/gods'
       },
       {
         name: 'Read',
