@@ -1,0 +1,31 @@
+{
+  "name": "Dulint",
+  "title": "Dwarf",
+  "titlees": "Enano",
+  "description": "Dulint is an elderly dwarf miner and trader, great-grandson of Thrain Ironbeard. He carries an ancient artifact unknowingly and guards dangerous secrets.",
+  "descriptiones": "Dulint es un enano anciano minero y comerciante, bisnieto de Thrain Ironbeard. Lleva un artefacto antiguo sin saberlo y guarda secretos peligrosos.",
+  "thumbnail": "dulint.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Miner",
+    "Trader"
+  ],
+  "skillses": [
+    "Minero",
+    "Comerciante"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Anja",
+  "title": "Defense Matriarch",
+  "titlees": "Matriarca de Defensa",
+  "description": "The Zuraldi defense matriarch — she trains the people who keep the mountain passes from becoming graveyards. Sharp-eyed, wind-weathered, with a handshake that could crack walnuts. She's earned every line on her face.",
+  "descriptiones": "La matriarca de defensa Zuraldi — entrena a la gente que evita que los pasos de montaña se conviertan en cementerios. Mirada aguda, curtida por el viento, con un apretón de manos capaz de partir nueces. Se ha ganado cada arruga de su cara.",
+  "thumbnail": "anja.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Warrior",
+    "Trainer"
+  ],
+  "skillses": [
+    "Guerrera",
+    "Entrenadora"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Zaelar",
+  "title": "Dark Elf",
+  "titlees": "Elfo Oscuro",
+  "description": "Zaelar Te'sarran, a powerful drow wizard, resides in a secluded tower known for its extensive dungeons. Rumors suggest he's one of the few to have entered Wyrmreach and returned. His presence commands attention, hinting at dark secrets and ancient power. His eyes, reflecting knowledge of distant realms, stand out in his inscrutable face. From his tower, set in dangerous terrain, Zaelar pursues arcane studies, exploring truths most fear to consider.",
+  "descriptiones": "Zaelar Te'sarran, un poderoso mago drow, reside en una torre aislada conocida por sus extensas mazmorras. Los rumores sugieren que es uno de los pocos que han entrado en Wyrmreach y han regresado. Su presencia llama la atención, insinuando oscuros secretos y un antiguo poder. Sus ojos, que reflejan el conocimiento de reinos lejanos, destacan en su rostro inescrutable. Desde su torre, enclavada en terreno peligroso, Zaelar prosigue sus estudios arcanos, explorando verdades que la mayoría teme considerar.",
+  "thumbnail": "zaelar.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Varian",
+  "title": "Border Guard",
+  "titlees": "Guardia Fronterizo",
+  "description": "A young human guard on Lumeshire's frontier. Tall, leather armor, cloak, sword and knife — nothing fancy. He does his patrols, follows orders, and tries not to think too hard about what's past the treeline.",
+  "descriptiones": "Un joven guardia humano en la frontera de Lumeshire. Alto, armadura de cuero, capa, espada y cuchillo — nada ostentoso. Hace sus patrullas, sigue órdenes, e intenta no pensar demasiado en lo que hay más allá de la línea de árboles.",
+  "thumbnail": "varian.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Guard",
+    "Scout"
+  ],
+  "skillses": [
+    "Guardia",
+    "Explorador"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Elara",
+  "title": "Guard",
+  "titlees": "Guardia",
+  "description": "The only woman in her guard unit, which stopped being remarkable after she proved herself with both blade and bow. Speaks softly but people listen. Has a talent for knowing things she shouldn't — call it gossip, call it intelligence. Same difference on the frontier.",
+  "descriptiones": "La única mujer en su unidad de guardia, lo cual dejó de ser notable después de que se demostró con espada y arco. Habla suave pero la gente escucha. Tiene un talento para saber cosas que no debería — llámalo chisme, llámalo inteligencia. En la frontera es lo mismo.",
+  "thumbnail": "elara.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Guard",
+    "Archer"
+  ],
+  "skillses": [
+    "Guardia",
+    "Arquera"
+  ]
+}

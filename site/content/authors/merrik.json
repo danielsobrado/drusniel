@@ -1,0 +1,33 @@
+{
+  "name": "Merrik",
+  "title": "Coastal Merchant",
+  "titlees": "Comerciante Costero",
+  "description": "Merrik is a half-human merchant with goblin heritage operating on Wyrmreach's dangerous coasts. He deals in valuable cargo with practiced hospitality that masks calculated business sense. His kindness always has a price.",
+  "descriptiones": "Merrik es un comerciante semi-humano con herencia goblin que opera en las peligrosas costas de Wyrmreach. Comercia con cargamento valioso con hospitalidad practicada que enmascara un sentido de negocios calculado. Su amabilidad siempre tiene un precio.",
+  "thumbnail": "merrik.jpg",
+  "god": false,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Merchant",
+    "Negotiator",
+    "Appraiser"
+  ],
+  "skillses": [
+    "Comerciante",
+    "Negociador",
+    "Tasador"
+  ]
+}

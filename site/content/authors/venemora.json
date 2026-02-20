@@ -1,0 +1,31 @@
+{
+  "name": "Venemora",
+  "title": "Sovereign of the Sunless Realm",
+  "titlees": "Soberana del reino sin sol",
+  "description": "Venemora, the Goddess of Venom and Lies, is a capricious and ruthless deity venerated by the drow, her influence seeping into every corner of their society. Her temples are adorned with the bones of the fallen, and the stones before her shrines run red with the blood of sacrifices. Her whispers can turn allies into enemies, and her venom can corrupt the purest of hearts. The houses of the drow vie for her favor through acts of cruelty and manipulation, knowing that her grace is a necessary evil, for without her blessings, they would be lost in the relentless darkness of the underground.",
+  "descriptiones": "Venemora, la Diosa del veneno y las mentiras, es una deidad caprichosa y despiadada venerada por los drow, su influencia se filtra en cada rincón de su sociedad. Sus templos están adornados con los huesos de los caídos, y las losas ante sus santuarios se tiñen de rojo con la sangre de los sacrificios. Sus susurros pueden convertir a los aliados en enemigos, y su veneno puede corromper los corazones más puros. Las casas de los drow compiten por su favor a través de actos de crueldad y manipulación, sabiendo que su gracia es un mal necesario, porque sin sus bendiciones, estarían perdidos en la implacable oscuridad del subsuelo.",
+  "thumbnail": "venemora.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

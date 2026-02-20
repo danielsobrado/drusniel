@@ -1,0 +1,31 @@
+{
+  "name": "Vorogarth",
+  "title": "The Shadowlord",
+  "titlees": "El Señor de las Sombras",
+  "description": "Vorogarth, known as 'The Shadowlord', 'The Whisperer of Ruin', and 'The Devourer of Souls', is the sinister deity of darkness, corruption, and the insatiable hunger for power. Vorogarth is a figure of pure malevolence, his form writhing with shadows that consume all light and hope. As the master of the darkest arts and the tempter of mortal hearts, Vorogarth sows chaos and despair, turning the mighty against each other and reveling in the suffering of the innocent. Vorogarth's followers, often tyrants, dark sorcerers, and those consumed by their own desires, seek to plunge the world into eternal darkness and rule over the ruins as the chosen of their shadowy god. They understand that true power lies in the embrace of the abyss and that only by surrendering to the whispers of Vorogarth can one hope to achieve dominion over the realms of mortal men.",
+  "descriptiones": "Vorogarth, conocido como 'El Señor de las Sombras', 'El Susurrador de la Ruina' y 'El Devorador de Almas', es la deidad siniestra de la oscuridad, la corrupción y el hambre insaciable de poder. Vorogarth es una figura de pura malevolencia, su forma retorciéndose con sombras que consumen toda luz y esperanza. Como maestro de las artes más oscuras y tentador de corazones mortales, Vorogarth siembra el caos y la desesperación, volviendo a los poderosos unos contra otros y deleitándose en el sufrimiento de los inocentes. Los seguidores de Vorogarth, a menudo tiranos, hechiceros oscuros y aquellos consumidos por sus propios deseos, buscan sumergir al mundo en la oscuridad eterna y gobernar sobre las ruinas como los elegidos de su sombrío dios. Ellos entienden que el verdadero poder yace en el abrazo del abismo y que sólo rindiéndose a los susurros de Vorogarth se puede esperar alcanzar el dominio sobre los reinos de los hombres mortales.",
+  "thumbnail": "vorogarth.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

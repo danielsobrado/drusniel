@@ -1,0 +1,32 @@
+{
+  "name": "Varesh",
+  "title": "Scout Leader",
+  "titlees": "Líder de Exploradores",
+  "description": "Nyxara's scout leader. Taller than his team, face sharp and always assessing. Formal even in the field, which says something about where he comes from. He moves like someone who's been through Wyrmreach's worst and plans to keep doing it.",
+  "descriptiones": "El líder de exploradores de Nyxara. Más alto que su equipo, rostro afilado y siempre evaluando. Formal incluso en el campo, lo que dice algo sobre de dónde viene. Se mueve como alguien que ha pasado por lo peor de Wyrmreach y piensa seguir haciéndolo.",
+  "thumbnail": "varesh.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Scout",
+    "Leader"
+  ],
+  "skillses": [
+    "Explorador",
+    "Líder"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Zikzik",
+  "title": "The Malevolent Trickster",
+  "titlees": "El Embaucador Malévolo",
+  "description": "Zikzik, known as 'The Malevolent Trickster', 'The Sower of Discord', and 'The Lord of Deception', is the deity of chaos, treachery, and dark machinations. He embodies the destructive nature of unchecked chaos and the insidious power of lies and manipulation. Zikzik is a master of illusions and deception, sowing seeds of distrust and conflict among mortals and deities alike. His followers, who revel in chaos and thrive on the suffering of others, are known for their cruelty and their ability to manipulate others to serve their own twisted ends. They believe that the world is a dark and unforgiving place, and that the only path to power is through embracing the blackest depths of one's own heart.",
+  "descriptiones": "Zikzik, conocido como 'El Embaucador Malévolo', 'El Sembrador de la Discordia' y 'El Señor del Engaño', es la deidad del caos, la traición y las maquinaciones oscuras. Él encarna la naturaleza destructiva del caos desenfrenado y el poder insidioso de las mentiras y la manipulación. Zikzik es un maestro de las ilusiones y el engaño, sembrando semillas de desconfianza y conflicto entre mortales y deidades por igual. Sus seguidores, que se deleitan en el caos y se nutren del sufrimiento de los demás, son conocidos por su crueldad y su capacidad para manipular a otros para servir a sus propios fines retorcidos. Ellos creen que el mundo es un lugar oscuro y implacable, y que el único camino hacia el poder es a través de abrazar las profundidades más negras del propio corazón.",
+  "thumbnail": "zikzik.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Skin Walker",
+    "Assassin"
+  ],
+  "skillses": [
+    "Metaforsis",
+    "Asesino"
+  ]
+}

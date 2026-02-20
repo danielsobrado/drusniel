@@ -1,0 +1,32 @@
+{
+  "name": "Magda",
+  "title": "Witch",
+  "titlees": "Bruja",
+  "description": "A Zuraldi witch — tall, lean, gray hair full of bones and feathers. She speaks in a voice like dry leaves and carries a gnarled staff she's probably had longer than most people have been alive. Nobody asks Magda for advice they don't want to hear.",
+  "descriptiones": "Una bruja Zuraldi — alta, delgada, cabello gris lleno de huesos y plumas. Habla con una voz como hojas secas y lleva un bastón nudoso que probablemente tiene desde antes de que la mayoría de la gente naciera. Nadie le pide consejo a Magda si no quiere escuchar la respuesta.",
+  "thumbnail": "magda.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Witch",
+    "Herbalist"
+  ],
+  "skillses": [
+    "Bruja",
+    "Herbolaria"
+  ]
+}

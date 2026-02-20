@@ -1,0 +1,30 @@
+{
+  "name": "Helvine",
+  "title": "Cartographer",
+  "titlees": "Cartógrafa",
+  "description": "A cartographer assigned to survey Wyrmreach — the kind of job nobody volunteers for twice. Quiet by habit, steady hands, brown eyes that miss nothing. She draws maps of places most people would rather not know exist.",
+  "descriptiones": "Una cartógrafa asignada a reconocer Wyrmreach — el tipo de trabajo para el que nadie se presenta dos veces. Callada por costumbre, manos firmes, ojos marrones que no se pierden nada. Dibuja mapas de lugares que la mayoría preferiría no saber que existen.",
+  "thumbnail": "helvine.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Cartographer"
+  ],
+  "skillses": [
+    "Cartógrafa"
+  ]
+}

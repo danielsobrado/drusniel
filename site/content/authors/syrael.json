@@ -1,0 +1,31 @@
+{
+  "name": "Syrael",
+  "title": "The Crimson Temptress",
+  "titlees": "La Tentadora Carmesí",
+  "description": "Syrael, known as 'The Crimson Temptress', 'The Siren of Vengeance', and 'The Everburning Passion', is the goddess of desire, seduction, and retribution. She embodies the intoxicating allure of passion and the sweet satisfaction of revenge. Syrael is a master of illusions, often taking on various forms to tempt and beguile mortals. Her followers, many of whom are artists, courtesans, and those seeking justice, embrace the power of desire and use it to fuel their ambitions and punish those who have wronged them. They believe that the flames of passion, whether born from love or hatred, have the power to transform and reshape the world.",
+  "descriptiones": "Syrael, conocida como 'La Tentadora Carmesí', 'La Sirena de la Venganza' y 'La Pasión Siempre Ardiente', es la diosa del deseo, la seducción y la retribución. Ella encarna el atractivo embriagador de la pasión y la dulce satisfacción de la venganza. Syrael es una maestra de las ilusiones, a menudo tomando varias formas para tentar y cautivar a los mortales. Sus seguidores, muchos de los cuales son artistas, cortesanas y aquellos que buscan justicia, abrazan el poder del deseo y lo utilizan para alimentar sus ambiciones y castigar a quienes les han agraviado. Ellos creen que las llamas de la pasión, ya sean nacidas del amor o del odio, tienen el poder de transformar y remodelar el mundo.",
+  "thumbnail": "syrael.jpg",
+  "god": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Wizard",
+    "Dark magic"
+  ],
+  "skillses": [
+    "Mago",
+    "Magia Oscura"
+  ]
+}

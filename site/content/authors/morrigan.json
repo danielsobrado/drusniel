@@ -1,0 +1,32 @@
+{
+  "name": "Morrigan",
+  "title": "Captain",
+  "titlees": "Capitana",
+  "description": "A captain on the Grukmar border — six years of goblins and worse. She sizes up everyone who walks through her post with the same flat stare, one hand near her belt. The bloodshot eyes are from lack of sleep, not sentiment. Morrigan doesn't do sentiment.",
+  "descriptiones": "Una capitana en la frontera de Grukmar — seis años de goblins y cosas peores. Evalúa a todo el que cruza su puesto con la misma mirada plana, una mano cerca del cinturón. Los ojos inyectados de sangre son por falta de sueño, no por sentimentalismo. Morrigan no hace sentimentalismos.",
+  "thumbnail": "morrigan.jpg",
+  "god": false,
+  "secondary": true,
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/drusniel/"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/twitter"
+    },
+    {
+      "name": "Website",
+      "url": "https://danielsobrado.com"
+    }
+  ],
+  "skills": [
+    "Commander",
+    "Warrior"
+  ],
+  "skillses": [
+    "Comandante",
+    "Guerrera"
+  ]
+}
