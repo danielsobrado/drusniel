@@ -1,145 +1,82 @@
-# Drusniel — Arcane Paradox A.I.
+# Drusniel — The Adventure
 
-A fantasy world-building and storytelling site built with [Gatsby 5](https://www.gatsbyjs.com/) using the ElegantStack FlexiBlog theme, structured as a Yarn/npm monorepo with Lerna.
+The old balance is breaking. Ancient towers whisper, frozen kingdoms sharpen their steel, and forgotten names return from the dark.
 
-## Prerequisites
+From the first omens in Elenoria to the distant threat of Wyrmreach, every chapter moves through doubt, loyalty, betrayal, and awakening power. Heroes are tested, cities tremble, and every decision leaves a scar on the fate of the realm.
 
-- **Node.js ≥ 20** (see `engines` in `package.json`)
-- **npm** (ships with Node.js)
+This is a journey through sacred chambers, ruined truths, and impossible choices—where survival is never guaranteed, and destiny is written by those who dare to cross the storm.
 
-## Project Structure
+If these visions call to you, begin the full journey at **[www.drusniel.com](https://www.drusniel.com/)**.
 
-```
-drusniel/
-├── packages/          # Shared blog packages (theme, core, helpers, plugins)
-│   ├── blog/
-│   │   ├── gatsby-blog-core/       # GraphQL schema, page creation, templates
-│   │   ├── gatsby-blog-helpers/    # React hooks (useBlogAuthors, etc.)
-│   │   └── gatsby-blog-pages/     # Page components (authors, gods, secondary-characters, etc.)
-│   └── plugins/                   # Custom Gatsby plugins
-├── site/              # Main Gatsby site
-│   ├── content/       # Content (posts, authors, categories, assets)
-│   ├── gatsby-config.js
-│   ├── package.json
-│   └── src/           # Theme shadowing overrides
-└── package.json       # Root monorepo config (workspaces)
-```
+## Visions of Drusniel
 
-## Getting Started
+A first welcome to the realm, where the silence already feels like a warning.
+![Wellcome](images/Wellcome.png)
 
-### 1. Install Dependencies
+Elenoria rises in grace, but shadows move behind its beauty.
+![Elenoria](images/Elenoria.png)
 
-From the **repository root**:
+The first face of Elenoria reveals the calm before the fractures begin.
+![Elenoria I](images/Elenoria1.png)
 
-```bash
-npm install
-```
+The second vision of Elenoria hints that peace there is only temporary.
+![Elenoria II](images/Elenoria2.png)
 
-This installs dependencies for all workspaces (root, `packages/**`, and `site`).
+The forest keeps old secrets, and not all who enter return unchanged.
+![Forest](images/Forest.png)
 
-### 2. Local Development
+FrostGARD stands like a frozen oath at the edge of war.
+![FrostGARD](images/FrostGARD.png)
 
-```bash
-cd site
-npm run develop
-```
+Its second image shows the same cold walls under deeper tension.
+![FrostGARD II](images/FrostGARD2.png)
 
-The site will be available at `http://localhost:8000`. GraphiQL is available at `http://localhost:8000/___graphql`.
+By the third vision, FrostGARD feels ready to break under destiny’s weight.
+![FrostGARD III](images/FrostGARD3.png)
 
-### 3. Production Build
+Grukmar appears as a place forged by strength and old grudges.
+![Grukmar](images/Grukmar.png)
 
-```bash
-cd site
-npm run clean && npm run build
-```
+The second look at Grukmar reveals the hardness beneath its pride.
+![Grukmar II](images/Grukmar2.png)
 
-This is the same command Netlify runs (`cd site && npm run clean && npm run build`). The static output is generated in `site/public/`.
+Ice marks the stillness that comes right before violence.
+![Ice](images/Ice.png)
 
-### 4. Preview the Production Build Locally
+Lumeshire glows like hope in a world learning to fear the night.
+![Lumeshire](images/Lumeshire.png)
 
-After building:
+The first spark of magic opens doors that should perhaps stay closed.
+![Magic I](images/Magic1.png)
 
-```bash
-cd site
-npm run serve
-```
+The second surge of magic feels stronger, wilder, and less controllable.
+![Magic II](images/Magic2.png)
 
-The production site will be served at `http://localhost:9000`.
+Stonehold endures as a bastion where vows are tested.
+![Stonehold](images/Stonehold.png)
 
-## Deploying to GitHub Pages (with Custom Domain)
+Its second image shows that even stone can carry cracks from within.
+![Stonehold I](images/Stonehold1.png)
 
-Everything is built locally, nothing runs in the cloud. GitHub Pages hosting is **free**.
+Transformation begins when fear and courage become the same step forward.
+![Transform](images/Transform.png)
 
-### Build & Test Locally
+Umbrakor emerges like a name spoken only in warnings.
+![Umbrakor I](images/Umbrakor1.png)
 
-```bash
-cd site
-npm run clean && npm run build
-npm run serve
-# → Preview at http://localhost:9000 — verify everything works
-```
+The second vision of Umbrakor deepens the threat now spreading across the realm.
+![Umbrakor II](images/Umbrakor2.png)
 
-### Deploy
+Wyrmreach appears in distant rumor, then suddenly in everyone’s fate.
+![Wyrmreach](images/Wyrmreach.png)
 
-```bash
-cd site
-npx gh-pages -d public
-```
+Its second image confirms the journey is moving toward a greater storm.
+![Wyrmreach II](images/Wyrmreach2.png)
 
-This pushes `site/public/` to the `gh-pages` branch on GitHub, which GitHub Pages serves automatically.
+## The Path Ahead
 
-### One-Time GitHub Setup
+The world of Drusniel is only at the beginning of its unraveling. New alliances will rise, old powers will return, and the next step into the unknown may change everything.
 
-1. Go to **github.com/danielsobrado/drusniel** → **Settings** → **Pages**
-2. **Source**: "Deploy from a branch"
-3. **Branch**: `gh-pages` / `/ (root)`
-4. **Custom domain**: `www.drusniel.com` → Save
-5. Tick **Enforce HTTPS** (once DNS propagates)
+The images are only fragments. The full chapters, lore, and unfolding conflict await inside the realm.
 
-### One-Time DNS Setup (IONOS)
-
-Update only these records at your domain registrar. **Keep all MX/TXT/autodiscover records for mail.**
-
-**Delete** the existing A record (`@ → 75.2.60.5`) and add these 4 GitHub Pages IPs:
-
-| Type | Host | Value |
-|------|------|-------|
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
-
-**Update** the existing CNAME for `www`:
-
-| Type | Host | Old Value | New Value |
-|------|------|-----------|-----------|
-| CNAME | `www` | `jolly-daffodil-d99669.netlify.app` | `danielsobrado.github.io` |
-
-> **Note:** The `site/static/CNAME` file contains `www.drusniel.com` and is automatically copied into every build. This tells GitHub Pages which custom domain to use.
-
-## Available Scripts (from `site/`)
-
-| Script          | Command                | Description                          |
-|-----------------|------------------------|--------------------------------------|
-| `npm run develop` | `gatsby develop`     | Start dev server with hot reload     |
-| `npm run build`   | `gatsby build`       | Production build → `site/public/`    |
-| `npm run clean`   | `gatsby clean`       | Clear `.cache` and `public` dirs     |
-| `npm run serve`   | `gatsby serve`       | Serve production build locally       |
-| `npm start`       | `gatsby develop`     | Alias for develop                    |
-
-## Content Management
-
-- **Posts**: `site/content/posts/{en,es}/{region}/` — MDX files with frontmatter
-- **Characters (Authors)**: `site/content/authors/*.json` — Character data with face images
-  - `"god": true` → appears on the Gods page (`/gods`)
-  - `"secondary": true` → appears on the Secondary Characters page (`/secondary-characters`)
-  - Neither flag → appears on the Main Characters page (`/authors`)
-- **Categories**: `site/content/categories/*.json`
-
-## Contributing
-
-All comments are welcome. Open an issue or send a pull request if you find any bugs or have recommendations for improvement.
-
-## License
-
-This project is licensed under: Attribution-NonCommercial-NoDerivatives (BY-NC-ND) license See: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+Enter now: **[https://www.drusniel.com/](https://www.drusniel.com/)**
