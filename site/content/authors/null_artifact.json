@@ -1,0 +1,6 @@
+{
+    "name": "Null Artifact",
+    "description": "Dead/spent Nexus artifact. Visually similar to Nexus Chassis but inert — no glyphs, no glow.",
+    "thumbnail": "nexus_chassis.jpg",
+    "note": "Stand-in. Needs dedicated render showing dead/inert state."
+}
