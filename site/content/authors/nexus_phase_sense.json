@@ -1,6 +1,6 @@
 {
     "name": "Nexus Phase: Sense",
     "nexus": true,
-    "description": "A square plate of dark metal engraved with concentric, compass-like glyphs that pulse with directional light.",
+    "description": "A cube of dark metal covered in concentric compass-like glyphs that pulse cold blue-white directional light. One face glows brighter than the others when active, pointing like a compass toward its target frequency.",
     "thumbnail": "nexus_phase_sense.jpg"
 }

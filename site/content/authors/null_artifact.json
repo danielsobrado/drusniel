@@ -1,6 +1,5 @@
 {
     "name": "Null Artifact",
-    "description": "Dead/spent Nexus artifact. Visually similar to Nexus Chassis but inert — no glyphs, no glow.",
-    "thumbnail": "nexus_chassis.jpg",
-    "note": "Stand-in. Needs dedicated render showing dead/inert state."
+    "description": "In-world name for Nexus Phase: Erase. A plate of smooth dark stone, featureless, absorbs all light. See nexus_phase_erase.",
+    "thumbnail": "nexus_phase_erase.jpg"
 }

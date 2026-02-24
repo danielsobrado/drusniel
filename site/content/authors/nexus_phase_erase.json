@@ -1,6 +1,7 @@
 {
     "name": "Nexus Phase: Erase",
     "nexus": true,
-    "description": "A square plate of metal so dark it seems to absorb light, with symbols that look like voids or absences.",
-    "thumbnail": "nexus_phase_erase.jpg"
+    "description": "A plate of smooth dark stone, geometrically perfect, completely featureless — no symbols, no markings. Absorbs all ambient light with no reflection, a void-black matte. Hairline seams barely visible under raking light suggest panels; one side hides a hidden hollow chamber no larger than a walnut for the resonant stone. Always warm to the touch. Heavier than its size should allow.",
+    "thumbnail": "nexus_phase_erase.jpg",
+    "note": "Also known as The Null. Carried by Drusniel. Visual opposite of the Beacon: emits nothing, absorbs everything."
 }
