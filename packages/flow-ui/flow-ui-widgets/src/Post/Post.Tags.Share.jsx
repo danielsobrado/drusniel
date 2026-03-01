@@ -1,8 +1,7 @@
-import React, { Suspense } from 'react'
+import React from 'react'
 import { Flex, Box, Divider } from 'theme-ui'
 import { PostTags } from '@widgets/Post/Post.Tags'
-
-const PostShare = React.lazy(() => import('@widgets/Post/Post.Share'))
+import PostShare from '@widgets/Post/Post.Share'
 
 const styles = {
   flex: {
@@ -22,9 +21,7 @@ export const PostTagsShare = props => (
     <Divider />
     <Flex sx={styles.flex}>
       <PostTags {...props} />
-      <Suspense fallback={null}>
-        <PostShare {...props} />
-      </Suspense>
+      <PostShare {...props} />
     </Flex>
   </Box>
 )

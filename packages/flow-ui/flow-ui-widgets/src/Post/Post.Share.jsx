@@ -1,11 +1,5 @@
 import React from 'react'
 import { IconButton, Heading, Flex } from 'theme-ui'
-import {
-  FacebookShareButton,
-  TwitterShareButton,
-  LinkedinShareButton,
-  EmailShareButton
-} from 'react-share'
 import attachSocialIcons from '@helpers/attachSocialIcons'
 
 const styles = {
@@ -20,6 +14,17 @@ const styles = {
 }
 
 const PostShare = ({ location, title }) => {
+  if (typeof window === 'undefined') {
+    return null
+  }
+
+  const {
+    FacebookShareButton,
+    TwitterShareButton,
+    LinkedinShareButton,
+    EmailShareButton
+  } = require('react-share')
+
   const url = location && location.href
 
   const Facebook = ({ children }) => (
