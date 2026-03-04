@@ -22,6 +22,7 @@ module.exports = async (
         edges {
           node {
             id
+            title
             order
             slug
             language
@@ -44,7 +45,36 @@ module.exports = async (
   
   const articles = result.data.allArticle.edges.map(edge => edge.node);
   articles.sort((a, b) => a.order - b.order);
-  
+
+  // Validate frontmatter data before creating pages
+  let warnings = 0
+  articles.forEach((node) => {
+    const { id, slug, title, language, order, category, tags } = node;
+    const label = `"${title || 'UNTITLED'}" (slug: ${slug}, order: ${order})`
+    if (!slug) {
+      reporter.warn(`[frontmatter] ${label} — missing slug`)
+      warnings++
+    }
+    if (!title) {
+      reporter.warn(`[frontmatter] ${label} — missing title`)
+      warnings++
+    }
+    if (!language) {
+      reporter.warn(`[frontmatter] ${label} — missing language`)
+      warnings++
+    }
+    if (order == null) {
+      reporter.warn(`[frontmatter] ${label} — missing order`)
+      warnings++
+    }
+    if (!category) {
+      reporter.warn(`[frontmatter] ${label} — missing category`)
+      warnings++
+    }
+  })
+
+  console.log(`[createPages] ${articles.length} articles found, ${warnings} frontmatter warnings`)
+
   articles.forEach((node, index) => {
     const { id, slug, language, category, tags, link } = node;
   

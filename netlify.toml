@@ -1,0 +1,7 @@
+[build]
+  command = "cd site && npm run clean && npm run build"
+  publish = "site/public"
+
+[build.environment]
+  GATSBY_CPU_COUNT = "1"
+  NODE_OPTIONS = "--max-old-space-size=4096"
