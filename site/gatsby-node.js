@@ -4,7 +4,7 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
       module: {
         rules: [
           {
-            test: /(react-share|algoliasearch|@algolia\/.*)/,
+            test: /react-slick|slick-carousel|enquire\.js|whatwg-url/,
             use: loaders.null()
           }
         ]
