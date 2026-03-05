@@ -10,6 +10,7 @@ import React from 'react'
 import { globalHistory } from '@reach/router'
 import { LanguageProvider } from '@helpers-blog/useLanguageContext'
 import { AuthProvider } from './src/context/AuthContext'
+import ContinueReadingBanner from './src/components/Auth/ContinueReadingBanner'
 
 export const wrapRootElement = ({ element }) => (
   <AuthProvider>
@@ -17,6 +18,13 @@ export const wrapRootElement = ({ element }) => (
       {element}
     </LanguageProvider>
   </AuthProvider>
+)
+
+export const wrapPageElement = ({ element, props }) => (
+  <>
+    {element}
+    <ContinueReadingBanner currentPath={props.location?.pathname} />
+  </>
 )
 
 export const onRouteUpdate = () => {

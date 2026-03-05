@@ -18,6 +18,7 @@ import {
 } from '@widgets/Post'
 import { useContext } from 'react';
 import { LanguageContext } from '@helpers-blog/useLanguageContext';
+import SaveProgressButton from '@auth/SaveProgressButton';
 
 const Post = ({
     data: { post, tagCategoryPosts, tagPosts, categoryPosts, previous, next },
@@ -63,6 +64,7 @@ const Post = ({
                     <CardComponent variant='paper'>
                         <PostBody {...post} />
                         <PostTagsShare {...post} location={props.location} />
+                        <SaveProgressButton path={props.location?.pathname} title={post.title} />
                         {services.disqus && <PostComments {...post} />}
                         {services.graphComment && <PostCommentsGraph {...post} />}
                         {services.facebookComment && (

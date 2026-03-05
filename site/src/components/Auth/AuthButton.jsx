@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Button, Box, Text } from 'theme-ui'
 import { useAuth } from '@authContext/AuthContext'
 import LoginModal from './LoginModal'
@@ -9,12 +9,26 @@ import LoginModal from './LoginModal'
  * Drop this anywhere in your layout / header shadow component.
  * Shows "Sign In" when logged out, user email + "Sign Out" when logged in.
  * Uses theme-ui variants to match the template's design language.
+ *
+ * Renders nothing during SSR to avoid hydration mismatches.
  */
 export default function AuthButton() {
   const { user, loading, signOut } = useAuth()
   const [modalOpen, setModalOpen] = useState(false)
+  const [mounted, setMounted] = useState(false)
 
-  if (loading) return null
+  useEffect(() => { setMounted(true) }, [])
+
+  // Render nothing during SSR and initial hydration to prevent mismatch
+  if (!mounted) {
+    console.log('[AuthButton] Not mounted yet (SSR or pre-hydration)')
+    return null
+  }
+  if (loading) {
+    console.log('[AuthButton] Auth state still loading...')
+    return null
+  }
+  console.log('[AuthButton] Rendering —', user ? `logged in as ${user.email}` : 'not logged in')
 
   if (user) {
     return (
