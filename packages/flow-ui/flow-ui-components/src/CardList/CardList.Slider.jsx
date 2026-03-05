@@ -7,6 +7,10 @@ import 'slick-carousel/slick/slick.css'
 import './CardList.Slider.css'
 import styles from './CardList.Slider.Styles'
 
+// SSR guard: react-slick is null-loaded during static HTML generation.
+// When null-loaded, Slider becomes an empty object instead of a component.
+const isSSR = typeof window === 'undefined'
+
 const CardListSlider = React.forwardRef((props, ref) => {
   const {
     columns,
@@ -108,6 +112,11 @@ const CardListSlider = React.forwardRef((props, ref) => {
       speed: 300,
       autoplaySpeed
     }
+  }
+
+  // During SSR, Slider is null-loaded (empty object), so render children directly
+  if (isSSR || typeof Slider !== 'function') {
+    return <div>{children}</div>
   }
 
   return <Slider {...settings}>{children}</Slider>

@@ -1,10 +1,16 @@
-const React = require('react')
+/**
+ * gatsby-ssr.js
+ *
+ * Mirrors gatsby-browser.js so the provider tree matches during SSR.
+ */
+import React from 'react'
+import { LanguageProvider } from '@helpers-blog/useLanguageContext'
+import { AuthProvider } from './src/context/AuthContext'
 
-// Wrap each page element to catch and log SSR errors
-exports.wrapPageElement = ({ element, props }) => {
-  if (typeof window === 'undefined') {
-    // SSR only - log which page is being rendered
-    console.log(`[SSR] Rendering: ${props.path}`)
-  }
-  return element
-}
+export const wrapRootElement = ({ element }) => (
+  <AuthProvider>
+    <LanguageProvider>
+      {element}
+    </LanguageProvider>
+  </AuthProvider>
+)

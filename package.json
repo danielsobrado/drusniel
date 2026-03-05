@@ -8,7 +8,10 @@
   ],
   "scripts": {
     "clean": "lerna clean",
-    "release": "lerna version"
+    "release": "lerna version",
+    "images:dedupe:en-es": "node automation/migrate-en-es-image-duplicates.mjs --apply",
+    "images:dedupe:en-es:dry": "node automation/migrate-en-es-image-duplicates.mjs",
+    "images:check:en-es": "node automation/check-en-es-image-duplicates.mjs"
   },
   "devDependencies": {
     "conventional-changelog-conventionalcommits": "^4.6.3",
