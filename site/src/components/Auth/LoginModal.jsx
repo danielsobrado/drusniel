@@ -2,42 +2,21 @@ import React, { useState } from 'react'
 import { Box, Flex, Heading, Text, Button, Input, Label, Divider } from 'theme-ui'
 import { useAuth } from '@authContext/AuthContext'
 
-// ── OAuth provider catalogue ────────────────────────────────────────────────
-// Enable/disable providers by editing this list.  Each `id` must match the
-// provider name registered in your Supabase dashboard (Auth → Providers).
+/* ── tiny inline SVG icons (no extra dependency) ───────────────────── */
+const GoogleIcon = () => (
+  <svg width='18' height='18' viewBox='0 0 48 48' style={{ marginRight: 8, flexShrink: 0 }}>
+    <path fill='#EA4335' d='M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z'/>
+    <path fill='#4285F4' d='M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z'/>
+    <path fill='#FBBC05' d='M10.53 28.59a14.5 14.5 0 0 1 0-9.18l-7.98-6.19a24.08 24.08 0 0 0 0 21.56l7.98-6.19z'/>
+    <path fill='#34A853' d='M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z'/>
+  </svg>
+)
 
-const OAUTH_PROVIDERS = [
-  {
-    id: 'google',
-    label: 'Continue with Google',
-    icon: (
-      <svg width="18" height="18" viewBox="0 0 48 48">
-        <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
-        <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
-        <path fill="#FBBC05" d="M10.53 28.59a14.5 14.5 0 0 1 0-9.18l-7.98-6.19a24.01 24.01 0 0 0 0 21.56l7.98-6.19z"/>
-        <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
-      </svg>
-    ),
-  },
-  {
-    id: 'github',
-    label: 'Continue with GitHub',
-    icon: (
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.21 11.39.6.11.79-.26.79-.58v-2.17c-3.34.73-4.04-1.42-4.04-1.42-.55-1.39-1.34-1.76-1.34-1.76-1.09-.75.08-.73.08-.73 1.2.08 1.84 1.24 1.84 1.24 1.07 1.83 2.81 1.3 3.5.99.11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6.02 0c2.28-1.55 3.29-1.23 3.29-1.23.66 1.66.25 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.19.7.8.58A12 12 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
-      </svg>
-    ),
-  },
-  {
-    id: 'discord',
-    label: 'Continue with Discord',
-    icon: (
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="#5865F2">
-        <path d="M20.32 4.37A19.8 19.8 0 0 0 15.39 3c-.22.39-.47.91-.64 1.32a18.4 18.4 0 0 0-5.5 0A13 13 0 0 0 8.61 3a19.7 19.7 0 0 0-4.93 1.37C.53 9.05-.33 13.6.1 18.08a20 20 0 0 0 6.07 3.07 14.7 14.7 0 0 0 1.29-2.1 12.8 12.8 0 0 1-2.04-.98l.48-.38a14.2 14.2 0 0 0 12.2 0l.49.38c-.65.39-1.33.72-2.05.98.37.74.8 1.44 1.3 2.1a19.95 19.95 0 0 0 6.07-3.07c.5-5.24-.86-9.77-3.59-13.71zM8.01 15.33c-1.18 0-2.15-1.09-2.15-2.42s.95-2.42 2.15-2.42 2.17 1.09 2.15 2.42c0 1.33-.95 2.42-2.15 2.42zm7.98 0c-1.18 0-2.15-1.09-2.15-2.42s.95-2.42 2.15-2.42 2.17 1.09 2.15 2.42c0 1.33-.94 2.42-2.15 2.42z"/>
-      </svg>
-    ),
-  },
-]
+const GitHubIcon = () => (
+  <svg width='18' height='18' viewBox='0 0 24 24' fill='currentColor' style={{ marginRight: 8, flexShrink: 0 }}>
+    <path d='M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z'/>
+  </svg>
+)
 
 /**
  * LoginModal
@@ -72,16 +51,6 @@ export default function LoginModal({ isOpen, onClose }) {
     }
   }
 
-  const handleOAuth = async (provider) => {
-    setBusy(true)
-    setMessage(null)
-    const { error } = await signInWithOAuth(provider)
-    setBusy(false)
-    if (error) {
-      setMessage({ type: 'error', text: error.message })
-    }
-  }
-
   const toggle = () => {
     setMode(m => m === 'login' ? 'signup' : 'login')
     setMessage(null)
@@ -110,39 +79,56 @@ export default function LoginModal({ isOpen, onClose }) {
           boxShadow: '0 12px 40px rgba(0,0,0,0.25)',
         }}
       >
-        <Heading as='h2' variant='h2' sx={{ mb: 3, fontSize: 4 }}>
+        <Heading as='h2' variant='h2' sx={{ mb: 4, fontSize: 4, textAlign: 'center' }}>
           {mode === 'login' ? 'Sign In' : 'Create Account'}
         </Heading>
 
-        {/* ── OAuth provider buttons ─────────────────────────────────── */}
-        {OAUTH_PROVIDERS.map(({ id, label, icon }) => (
-          <Button
-            key={id}
-            variant='white'
-            onClick={() => handleOAuth(id)}
-            disabled={busy}
-            sx={{
-              width: '100%',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              gap: 2,
-              mb: 2,
-              fontSize: 1,
-              py: 2,
-            }}
-          >
-            {icon}
-            {label}
-          </Button>
-        ))}
+        {/* ── OAuth buttons ──────────────────────────────────────────── */}
+        <Button
+          onClick={() => signInWithOAuth('google')}
+          sx={{
+            width: '100%',
+            mb: 2,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            bg: 'white',
+            color: '#333',
+            border: '1px solid',
+            borderColor: 'gray.3',
+            borderRadius: 'default',
+            fontWeight: 600,
+            fontSize: 1,
+            cursor: 'pointer',
+            ':hover': { bg: 'gray.1' },
+          }}
+        >
+          <GoogleIcon /> Continue with Google
+        </Button>
 
-        {/* ── divider ────────────────────────────────────────────────── */}
-        <Flex sx={{ alignItems: 'center', my: 3 }}>
+        <Button
+          onClick={() => signInWithOAuth('github')}
+          sx={{
+            width: '100%',
+            mb: 3,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            bg: '#24292e',
+            color: 'white',
+            borderRadius: 'default',
+            fontWeight: 600,
+            fontSize: 1,
+            cursor: 'pointer',
+            ':hover': { bg: '#1a1e22' },
+          }}
+        >
+          <GitHubIcon /> Continue with GitHub
+        </Button>
+
+        <Flex sx={{ alignItems: 'center', mb: 3 }}>
           <Divider sx={{ flex: 1 }} />
-          <Text sx={{ px: 2, fontSize: 0, color: 'omega', whiteSpace: 'nowrap' }}>
-            or use email
-          </Text>
+          <Text sx={{ px: 3, fontSize: 0, color: 'omega' }}>or</Text>
           <Divider sx={{ flex: 1 }} />
         </Flex>
 
@@ -190,7 +176,7 @@ export default function LoginModal({ isOpen, onClose }) {
           </Button>
         </Box>
 
-        <Button variant='mute' onClick={toggle} sx={{ width: '100%', mb: 2, fontSize: 1 }}>
+        <Button variant='mute' onClick={toggle} sx={{ width: '100%', mb: 2, fontSize: 1, mt: 2 }}>
           {mode === 'login' ? "Don't have an account? Sign up" : 'Already have an account? Sign in'}
         </Button>
 
@@ -206,6 +192,7 @@ export default function LoginModal({ isOpen, onClose }) {
             cursor: 'pointer',
             fontSize: 0,
             textAlign: 'center',
+            mt: 2,
             ':hover': { color: 'omegaDark' },
           }}
         >
