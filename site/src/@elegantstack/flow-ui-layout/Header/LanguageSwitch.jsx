@@ -58,14 +58,41 @@ export const LanguageSwitch = () => {
 
     const isEnglish = language === 'en';
 
+    const normalizeCounterpartPath = (counterpartPath) => {
+        if (!counterpartPath || typeof counterpartPath !== 'string') {
+            return '';
+        }
+
+        const normalized = counterpartPath.replace(/\\/g, '/').trim();
+
+        // Already a site-relative URL (e.g. "/the-call-to-zuraldi/").
+        if (normalized.startsWith('/')) {
+            const withoutIndex = normalized.replace(/\/index\.mdx?\/?$/i, '/');
+            return withoutIndex.endsWith('/') ? withoutIndex : `${withoutIndex}/`;
+        }
+
+        // Frontmatter file-path format:
+        // site/content/posts/<lang>/<category>/<post-slug>/index.mdx
+        const fromContentPath = normalized
+            .replace(/^site\/content\/posts\/[^/]+\/[^/]+\//i, '/')
+            .replace(/\/index\.mdx?\/?$/i, '/');
+
+        if (fromContentPath.startsWith('/')) {
+            return fromContentPath.endsWith('/') ? fromContentPath : `${fromContentPath}/`;
+        }
+
+        return `/${fromContentPath.replace(/^\/+/, '').replace(/\/?$/, '/')}`;
+    };
+
     const handleChange = () => {
         const targetLang = language === 'en' ? 'es' : 'en';
+        const counterpartTarget = normalizeCounterpartPath(pageContext?.counterpartPath);
 
         // Check if counterpart path exists in pageContext
         // We injected it in the Post container shadowing
-        if (pageContext?.counterpartPath) {
+        if (counterpartTarget) {
             setLanguage(targetLang); // Update state
-            navigate(pageContext.counterpartPath);
+            navigate(counterpartTarget);
             return;
         }
 

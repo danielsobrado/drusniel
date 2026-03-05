@@ -1,93 +1,6 @@
 import React, { useState } from 'react'
+import { Box, Flex, Heading, Text, Button, Input, Label, Divider } from 'theme-ui'
 import { useAuth } from '@authContext/AuthContext'
-
-// ── styles ───────────────────────────────────────────────────────────────────
-
-const overlay = {
-  position: 'fixed',
-  inset: 0,
-  background: 'rgba(0,0,0,0.65)',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-  zIndex: 9999,
-}
-
-const modal = {
-  background: '#1a1a2e',
-  border: '1px solid #2d2d4e',
-  borderRadius: 8,
-  padding: '2rem',
-  width: 380,
-  maxWidth: '92vw',
-  color: '#e0e0e0',
-  fontFamily: 'sans-serif',
-}
-
-const inputStyle = {
-  display: 'block',
-  width: '100%',
-  padding: '0.55rem 0.75rem',
-  marginTop: '0.3rem',
-  marginBottom: '1rem',
-  background: '#12122a',
-  border: '1px solid #3a3a5e',
-  borderRadius: 4,
-  color: '#e0e0e0',
-  fontSize: 14,
-  boxSizing: 'border-box',
-}
-
-const btnPrimary = {
-  width: '100%',
-  padding: '0.6rem',
-  background: '#6c47ff',
-  color: '#fff',
-  border: 'none',
-  borderRadius: 4,
-  cursor: 'pointer',
-  fontWeight: 600,
-  fontSize: 15,
-  marginBottom: '0.75rem',
-}
-
-const btnSecondary = {
-  ...btnPrimary,
-  background: 'transparent',
-  border: '1px solid #6c47ff',
-  color: '#6c47ff',
-}
-
-const dividerRow = {
-  display: 'flex',
-  alignItems: 'center',
-  gap: '0.75rem',
-  margin: '1rem 0',
-}
-
-const dividerLine = {
-  flex: 1,
-  height: 1,
-  background: '#3a3a5e',
-}
-
-const oauthBtn = {
-  width: '100%',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-  gap: '0.6rem',
-  padding: '0.55rem 0.75rem',
-  border: '1px solid #3a3a5e',
-  borderRadius: 4,
-  background: '#12122a',
-  color: '#e0e0e0',
-  cursor: 'pointer',
-  fontWeight: 600,
-  fontSize: 14,
-  marginBottom: '0.6rem',
-  transition: 'background 0.15s',
-}
 
 // ── OAuth provider catalogue ────────────────────────────────────────────────
 // Enable/disable providers by editing this list.  Each `id` must match the
@@ -97,7 +10,6 @@ const OAUTH_PROVIDERS = [
   {
     id: 'google',
     label: 'Continue with Google',
-    // Simple inline SVG so we don't need external assets
     icon: (
       <svg width="18" height="18" viewBox="0 0 48 48">
         <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
@@ -111,7 +23,7 @@ const OAUTH_PROVIDERS = [
     id: 'github',
     label: 'Continue with GitHub',
     icon: (
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="#e0e0e0">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.21 11.39.6.11.79-.26.79-.58v-2.17c-3.34.73-4.04-1.42-4.04-1.42-.55-1.39-1.34-1.76-1.34-1.76-1.09-.75.08-.73.08-.73 1.2.08 1.84 1.24 1.84 1.24 1.07 1.83 2.81 1.3 3.5.99.11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6.02 0c2.28-1.55 3.29-1.23 3.29-1.23.66 1.66.25 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.19.7.8.58A12 12 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
       </svg>
     ),
@@ -144,8 +56,6 @@ export default function LoginModal({ isOpen, onClose }) {
 
   if (!isOpen) return null
 
-  // ── email / password ────────────────────────────────────────────────────────
-
   const handleSubmit = async (e) => {
     e.preventDefault()
     setBusy(true)
@@ -162,8 +72,6 @@ export default function LoginModal({ isOpen, onClose }) {
     }
   }
 
-  // ── OAuth ─────────────────────────────────────────────────────────────────
-
   const handleOAuth = async (provider) => {
     setBusy(true)
     setMessage(null)
@@ -172,7 +80,6 @@ export default function LoginModal({ isOpen, onClose }) {
     if (error) {
       setMessage({ type: 'error', text: error.message })
     }
-    // On success, Supabase redirects to the provider — no need to close
   }
 
   const toggle = () => {
@@ -181,78 +88,130 @@ export default function LoginModal({ isOpen, onClose }) {
   }
 
   return (
-    <div style={overlay} onClick={onClose}>
-      <div style={modal} onClick={e => e.stopPropagation()}>
-        <h2 style={{ margin: '0 0 1.25rem', fontSize: 20, fontWeight: 700 }}>
+    <Box
+      onClick={onClose}
+      sx={{
+        position: 'fixed',
+        inset: 0,
+        bg: 'rgba(0,0,0,0.55)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        zIndex: 9999,
+      }}
+    >
+      <Box
+        onClick={e => e.stopPropagation()}
+        sx={{
+          variant: 'cards.primary',
+          p: 4,
+          width: 400,
+          maxWidth: '92vw',
+          boxShadow: '0 12px 40px rgba(0,0,0,0.25)',
+        }}
+      >
+        <Heading as='h2' variant='h2' sx={{ mb: 3, fontSize: 4 }}>
           {mode === 'login' ? 'Sign In' : 'Create Account'}
-        </h2>
+        </Heading>
 
         {/* ── OAuth provider buttons ─────────────────────────────────── */}
         {OAUTH_PROVIDERS.map(({ id, label, icon }) => (
-          <button
+          <Button
             key={id}
-            style={oauthBtn}
+            variant='white'
             onClick={() => handleOAuth(id)}
             disabled={busy}
+            sx={{
+              width: '100%',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: 2,
+              mb: 2,
+              fontSize: 1,
+              py: 2,
+            }}
           >
             {icon}
             {label}
-          </button>
+          </Button>
         ))}
 
         {/* ── divider ────────────────────────────────────────────────── */}
-        <div style={dividerRow}>
-          <span style={dividerLine} />
-          <span style={{ fontSize: 12, color: '#666', whiteSpace: 'nowrap' }}>or use email</span>
-          <span style={dividerLine} />
-        </div>
+        <Flex sx={{ alignItems: 'center', my: 3 }}>
+          <Divider sx={{ flex: 1 }} />
+          <Text sx={{ px: 2, fontSize: 0, color: 'omega', whiteSpace: 'nowrap' }}>
+            or use email
+          </Text>
+          <Divider sx={{ flex: 1 }} />
+        </Flex>
 
         {/* ── email / password form ──────────────────────────────────── */}
-        <form onSubmit={handleSubmit}>
-          <label style={{ fontSize: 13 }}>
+        <Box as='form' onSubmit={handleSubmit}>
+          <Label htmlFor='auth-email' sx={{ mb: 1, fontSize: 1, color: 'heading' }}>
             Email
-            <input
-              type='email'
-              style={inputStyle}
-              value={email}
-              onChange={e => setEmail(e.target.value)}
-              required
-            />
-          </label>
-          <label style={{ fontSize: 13 }}>
+          </Label>
+          <Input
+            id='auth-email'
+            type='email'
+            value={email}
+            onChange={e => setEmail(e.target.value)}
+            required
+            sx={{ mb: 3 }}
+          />
+
+          <Label htmlFor='auth-password' sx={{ mb: 1, fontSize: 1, color: 'heading' }}>
             Password
-            <input
-              type='password'
-              style={inputStyle}
-              value={password}
-              onChange={e => setPassword(e.target.value)}
-              required
-              minLength={6}
-            />
-          </label>
+          </Label>
+          <Input
+            id='auth-password'
+            type='password'
+            value={password}
+            onChange={e => setPassword(e.target.value)}
+            required
+            minLength={6}
+            sx={{ mb: 3 }}
+          />
 
           {message && (
-            <p style={{ color: message.type === 'error' ? '#ff6b6b' : '#6bffb8', fontSize: 13, margin: '0 0 0.75rem' }}>
+            <Text
+              sx={{
+                color: message.type === 'error' ? 'error' : 'success',
+                fontSize: 1,
+                mb: 3,
+              }}
+            >
               {message.text}
-            </p>
+            </Text>
           )}
 
-          <button type='submit' style={btnPrimary} disabled={busy}>
+          <Button type='submit' variant='primary' disabled={busy} sx={{ width: '100%', mb: 2 }}>
             {busy ? 'Please wait…' : mode === 'login' ? 'Sign In' : 'Create Account'}
-          </button>
-        </form>
+          </Button>
+        </Box>
 
-        <button style={btnSecondary} onClick={toggle}>
+        <Button variant='mute' onClick={toggle} sx={{ width: '100%', mb: 2, fontSize: 1 }}>
           {mode === 'login' ? "Don't have an account? Sign up" : 'Already have an account? Sign in'}
-        </button>
+        </Button>
 
-        <button
+        <Text
+          as='button'
           onClick={onClose}
-          style={{ background: 'none', border: 'none', color: '#888', cursor: 'pointer', fontSize: 12, width: '100%', marginTop: '0.5rem' }}
+          sx={{
+            display: 'block',
+            mx: 'auto',
+            bg: 'transparent',
+            border: 'none',
+            color: 'omega',
+            cursor: 'pointer',
+            fontSize: 0,
+            textAlign: 'center',
+            ':hover': { color: 'omegaDark' },
+          }}
         >
           Cancel
-        </button>
-      </div>
-    </div>
+        </Text>
+      </Box>
+    </Box>
   )
 }
