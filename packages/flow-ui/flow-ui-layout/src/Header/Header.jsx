@@ -1,10 +1,12 @@
 import React, { useContext } from 'react';
 import { Container, Box, Flex } from 'theme-ui';
 import pageContextProvider from '@helpers/pageContextProvider';
+import Search from '@widgets/Search';
 import { HeaderLogo } from './Header.Logo';
 import { HeaderMenu } from './Header.Menu';
 import { HeaderColorMode } from './Header.ColorMode';
 import { LanguageSwitch } from './LanguageSwitch';
+import AuthButton from '@auth/AuthButton';
 
 const styles = {
   wrapper: {
@@ -41,7 +43,6 @@ export const Header = ({ children }) => {
   const context = useContext(pageContextProvider);
   const { services, mobileMenu, darkMode } = context.pageContext;
   const algolia = services && services.algolia;
-  const Search = algolia ? require('@widgets/Search').default : null;
 
   return (
     <Box sx={styles.wrapper}>
@@ -50,13 +51,14 @@ export const Header = ({ children }) => {
           <Box sx={styles.logoContainer}>
             <HeaderLogo />
           </Box>
-          <Box sx={styles.searchContainer}>{algolia && Search && <Search />}</Box>
+          <Box sx={styles.searchContainer}>{algolia && <Search />}</Box>
           <Box sx={styles.menuContainer}>
             <HeaderMenu mobileMenu={mobileMenu} isPostPage={true} />
           </Box>
           <Box sx={styles.switchContainer}>
             {darkMode && <HeaderColorMode />}
             <LanguageSwitch />
+            <AuthButton />
           </Box>
         </Flex>
       </Container>
