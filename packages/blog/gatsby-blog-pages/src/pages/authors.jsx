@@ -9,6 +9,9 @@ import { useContext } from 'react';
 import { useBlogAuthors } from '@helpers-blog'
 import { LanguageContext } from '@helpers-blog/useLanguageContext';
 
+const dragonBlue = '#5d7ff2'
+const dragonBlueLight = 'rgba(93, 127, 242, 0.10)'
+
 const PageAuthors = props => {
   const mainCharacters = useBlogAuthors('notGods')
   const secondaryCharacters = useBlogAuthors('secondary')
@@ -61,19 +64,24 @@ const PageAuthors = props => {
       mb: 3,
     },
     tabButton: {
-      bg: 'omegaLight',
+      bg: 'transparent',
       color: 'omegaDark',
       px: 3,
       py: 2,
-      borderRadius: 'md',
+      borderRadius: '999px',
+      border: `2px solid ${dragonBlue}`,
       cursor: 'pointer',
+      transition: 'all 180ms ease',
       '&:hover': {
-        opacity: 0.9,
+        bg: dragonBlueLight,
+        color: dragonBlue,
       },
     },
     activeTabButton: {
-      bg: 'alpha',
+      bg: dragonBlue,
+      borderColor: dragonBlue,
       color: 'white',
+      boxShadow: '0 10px 24px rgba(93, 127, 242, 0.22)',
     },
   };
 

@@ -75,7 +75,7 @@ const Subheader = ({ children }) => (
   </Heading>
 );
 
-const AuthorAvatar = ({ name, thumbnail, slug }) => {
+const AuthorAvatar = ({ name, thumbnail, slug, isLinkEnabled }) => {
   const { language } = useContext(LanguageContext);
 
   // Check if the slug already includes the language prefix
@@ -83,14 +83,18 @@ const AuthorAvatar = ({ name, thumbnail, slug }) => {
 
   return thumbnail ? (
     <Box>
-      <Link as={GLink} to={slugWithLanguage} aria-label={name}>
+      {isLinkEnabled ? (
+        <Link as={GLink} to={slugWithLanguage} aria-label={name}>
+          <Avatar avatar={thumbnail} alt={name} />
+        </Link>
+      ) : (
         <Avatar avatar={thumbnail} alt={name} />
-      </Link>
+      )}
     </Box>
   ) : null;
 };
 
-  const AuthorName = ({ name, slug }) => {
+  const AuthorName = ({ name, slug, isLinkEnabled }) => {
     const { language } = useContext(LanguageContext);
   
     // Check if the slug already includes the language prefix
@@ -99,9 +103,13 @@ const AuthorAvatar = ({ name, thumbnail, slug }) => {
     return (
       <Box sx={styles.name}>
         <Heading variant='h3'>
-          <Link as={GLink} to={slugWithLanguage}>
-            {name}
-          </Link>
+          {isLinkEnabled ? (
+            <Link as={GLink} to={slugWithLanguage}>
+              {name}
+            </Link>
+          ) : (
+            name
+          )}
         </Heading>
       </Box>
     );
@@ -172,15 +180,16 @@ const AuthorSocialMedia = ({ social }) => {
 const AuthorExpanded = ({ author, withLink }) => {
   if (!author) return null;
   const { social, title, description, titlees, descriptiones, skills, skillses } = author;
+  const isLinkEnabled = Boolean(withLink && author.hasPosts);
 
   return (
     <Card variant='paper' sx={styles.card}>
       <Flex sx={styles.wrapper}>
         <Box sx={styles.avatarColumn}>
-          <AuthorAvatar {...author} />
+          <AuthorAvatar {...author} isLinkEnabled={isLinkEnabled} />
         </Box>
         <Box sx={styles.infoColumn}>
-          <AuthorName {...author} />
+          <AuthorName {...author} isLinkEnabled={isLinkEnabled} />
           <Flex sx={styles.wrapper}>
             <Box sx={styles.innerBox}>
               <AuthorBio title={title} description={description} titlees={titlees} descriptiones={descriptiones} />

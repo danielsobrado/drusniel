@@ -5,7 +5,7 @@ import { LanguageContext } from './useLanguageContext';
 
 export const useBlogAuthors = (godFilter = 'all') => {
   const { language } = useContext(LanguageContext);
-  const { allArticleAuthor } = useStaticQuery(graphql`
+  const { allArticleAuthor, allArticle } = useStaticQuery(graphql`
     query allArticleAuthorQuery {
       allArticleAuthor {
         nodes {
@@ -17,10 +17,23 @@ export const useBlogAuthors = (godFilter = 'all') => {
           secondary
         }
       }
+      allArticle(filter: { private: { ne: true }, draft: { ne: true } }) {
+        nodes {
+          language
+          author {
+            slug
+          }
+        }
+      }
     }
   `);
 
   const authors = allArticleAuthor.nodes ? dedupe(allArticleAuthor.nodes, node => node.slug) : [];
+  const authorsWithPosts = new Set(
+    (allArticle?.nodes || [])
+      .filter(node => node?.language === language && node?.author?.slug)
+      .map(node => node.author.slug)
+  )
 
   // Filter authors based on the current language, god status, and secondary status
   const filteredAuthors = authors
@@ -45,6 +58,7 @@ export const useBlogAuthors = (godFilter = 'all') => {
       title: language === 'es' ? author.titlees || author.title : author.title,
       skills: language === 'es' ? author.skillses || author.skills : author.skills,
       slug: `/${language}${author.slug}`,
+      hasPosts: authorsWithPosts.has(author.slug),
     }));
 
   return filteredAuthors;

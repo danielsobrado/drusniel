@@ -16,26 +16,34 @@ const styles = {
   container: {
     position: `relative`,
     zIndex: 10,
+    px: [3, 4, 5],
   },
   logoContainer: {
-    flexBasis: [`full`, null, `1/4`],
+    flexBasis: [`full`, null, `auto`],
+    flexShrink: 0,
   },
   searchContainer: {
-    flexBasis: [`auto`, null, `1/4`],
+    flexBasis: [`auto`, null, `auto`],
     minWidth: `auto`,
     order: [3, null, `unset`],
-    mx: 3,
+    mx: [0, null, 3],
+    flexShrink: 0,
   },
   menuContainer: {
-    flexBasis: [`auto`, null, `2/4`],
-    minWidth: `auto`,
+    flex: [ `1 0 100%`, null, `1 1 auto` ],
+    minWidth: 0,
     order: [4, null, `unset`],
+    display: `flex`,
+    justifyContent: `center`,
   },
   switchContainer: {
-    minWidth: `auto`,
+    minWidth: 0,
     order: [2, null, `unset`],
     display: `flex`,
     alignItems: `center`,
+    justifyContent: `flex-end`,
+    flexShrink: 1,
+    maxWidth: [`full`, null, `24rem`],
   },
 };
 
@@ -46,12 +54,12 @@ export const Header = ({ children }) => {
 
   return (
     <Box sx={styles.wrapper}>
-      <Container variant="compact" sx={styles.container}>
+      <Container variant="wide" sx={styles.container}>
         <Flex variant="layout.header">
           <Box sx={styles.logoContainer}>
             <HeaderLogo />
           </Box>
-          <Box sx={styles.searchContainer}>{algolia && <Search />}</Box>
+          {algolia && <Box sx={styles.searchContainer}><Search /></Box>}
           <Box sx={styles.menuContainer}>
             <HeaderMenu mobileMenu={mobileMenu} isPostPage={true} />
           </Box>

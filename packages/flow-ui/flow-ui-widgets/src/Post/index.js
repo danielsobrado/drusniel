@@ -1,5 +1,6 @@
 import React, { Suspense } from 'react'
 export { PostBody } from './Post.Body'
+export { default as PostComments } from './Post.Comments'
 export { PostFooter } from './Post.Footer'
 export { PostHead } from './Post.Head'
 export { PostImage } from './Post.Image'

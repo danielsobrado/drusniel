@@ -88,7 +88,7 @@ const PostShare = ({ location, title }) => {
               as='span'
               variant='simple'
               key={`share-${name}`}
-              sx={{ color }}
+              sx={{ color, px: 1 }}
             >
               <ShareButton>
                 <Icon />

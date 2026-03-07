@@ -10,15 +10,15 @@ if (-not (Test-Path $sitePath)) {
     exit 1
 }
 
-# 1. Delete video files
-Write-Host "`n1. Deleting video files (*.mp4, *.webm, *.avi, *.mov)..." -ForegroundColor Yellow
-$videoFiles = Get-ChildItem -Path $sitePath -Include *.mp4, *.webm, *.avi, *.mov -Recurse -ErrorAction SilentlyContinue
+# 1. Delete video files except MP4
+Write-Host "`n1. Deleting video files (*.webm, *.avi, *.mov)..." -ForegroundColor Yellow
+$videoFiles = Get-ChildItem -Path $sitePath -Include *.webm, *.avi, *.mov -Recurse -ErrorAction SilentlyContinue
 $videoCount = 0
 foreach ($file in $videoFiles) {
     Remove-Item $file.FullName -Force
     $videoCount++
 }
-Write-Host "Deleted $videoCount video files." -ForegroundColor Green
+Write-Host "Deleted $videoCount video files. MP4 files were preserved." -ForegroundColor Green
 
 # 2. Delete prompt text files
 Write-Host "`n2. Deleting prompt text files (images.txt, imagesNano.txt, video.txt, reference_prompts.txt)..." -ForegroundColor Yellow

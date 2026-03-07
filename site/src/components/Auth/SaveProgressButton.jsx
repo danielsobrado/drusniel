@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Box } from 'theme-ui'
+import { Box, Text } from 'theme-ui'
 import { useAuth } from '@authContext/AuthContext'
 
 /**
@@ -50,14 +50,17 @@ export default function SaveProgressButton({ path, title }) {
         display: 'inline-flex',
         alignItems: 'center',
         justifyContent: 'center',
+        gap: 1,
         bg: 'transparent',
         border: 'none',
         cursor: saving ? 'wait' : 'pointer',
-        p: 1,
-        ml: 2,
+        px: 1,
+        py: 0,
+        ml: 0,
         borderRadius: 'full',
         transition: 'all 200ms ease',
         color: saved ? '#6c47ff' : 'omega',
+        whiteSpace: 'nowrap',
         ':hover': {
           color: saved ? '#6c47ff' : 'omegaDark',
           transform: 'scale(1.15)',
@@ -74,21 +77,22 @@ export default function SaveProgressButton({ path, title }) {
         strokeWidth='2'
         strokeLinecap='round'
         strokeLinejoin='round'
+        style={{ flexShrink: 0 }}
       >
         <path d='M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z' />
       </svg>
-      {saved && (
-        <span
-          style={{
-            fontSize: 11,
-            fontWeight: 600,
-            marginLeft: 4,
-            color: '#6c47ff',
-          }}
-        >
-          Saved
-        </span>
-      )}
+      <Text
+        as='span'
+        sx={{
+          fontSize: 1,
+          fontWeight: 600,
+          color: saved ? '#6c47ff' : 'omegaDark',
+          display: ['none', 'inline'],
+          lineHeight: 1,
+        }}
+      >
+        {saved ? 'Saved' : 'Save for later'}
+      </Text>
     </Box>
   )
 }

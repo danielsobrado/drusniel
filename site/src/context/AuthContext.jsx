@@ -32,7 +32,9 @@ export function AuthProvider({ children }) {
       .select('last_article_path, last_article_title, last_visited_at')
       .eq('user_id', userId)
       .maybeSingle()
-    if (!error && data) setReadingProgress(data)
+    if (!error) {
+      setReadingProgress(data || null)
+    }
   }, [])
 
   // ─── auth state listener ─────────────────────────────────────────────────────
@@ -109,6 +111,67 @@ export function AuthProvider({ children }) {
     await supabase.auth.signOut()
   }
 
+  const clearReadingProgress = useCallback(async () => {
+    if (!supabase || !user) return { error: new Error('No active user') }
+
+    const { error } = await supabase
+      .from('reading_progress')
+      .delete()
+      .eq('user_id', user.id)
+
+    if (!error) {
+      setReadingProgress(null)
+    }
+
+    return { error }
+  }, [user])
+
+  const updatePreferredLanguage = useCallback(async (preferredLanguage) => {
+    if (typeof window !== 'undefined') {
+      window.localStorage.setItem('language', preferredLanguage)
+    }
+
+    if (!supabase || !user) return { error: null }
+
+    const { data, error } = await supabase.auth.updateUser({
+      data: {
+        ...(user.user_metadata || {}),
+        preferred_language: preferredLanguage,
+      },
+    })
+
+    if (!error && data?.user) {
+      setUser(data.user)
+    }
+
+    return { error }
+  }, [user])
+
+  const deleteAccount = useCallback(async () => {
+    if (!supabase || !user) return { error: new Error('No active user') }
+
+    const rpcResult = await supabase.rpc('delete_current_user')
+    if (!rpcResult.error) {
+      await supabase.auth.signOut()
+      return { error: null }
+    }
+
+    const functionResult = await supabase.functions.invoke('delete-account', {
+      body: { userId: user.id },
+    })
+
+    if (!functionResult.error) {
+      await supabase.auth.signOut()
+      return { error: null }
+    }
+
+    return {
+      error: new Error(
+        'Automatic account deletion is not configured yet. Please contact daniel@danielsobrado.com to complete the deletion request.'
+      ),
+    }
+  }, [user])
+
   /**
    * Call this from any article page to record the user's latest read.
    * Uses upsert so only one row per user exists in reading_progress.
@@ -138,7 +201,20 @@ export function AuthProvider({ children }) {
 
   return (
     <AuthContext.Provider
-      value={{ user, session, loading, signIn, signUp, signInWithOAuth, signOut, readingProgress, trackVisit }}
+      value={{
+        user,
+        session,
+        loading,
+        signIn,
+        signUp,
+        signInWithOAuth,
+        signOut,
+        readingProgress,
+        trackVisit,
+        clearReadingProgress,
+        updatePreferredLanguage,
+        deleteAccount,
+      }}
     >
       {children}
     </AuthContext.Provider>

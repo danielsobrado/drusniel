@@ -6,7 +6,15 @@ export const LanguageContext = createContext({
 });
 
 export const LanguageProvider = ({ children }) => {
-  const [language, setLanguage] = useState("en"); // Default language 'en'
+  const [language, setLanguage] = useState(() => {
+    if (typeof window === 'undefined') return 'en'
+
+    const storedLanguage = window.localStorage.getItem('language')
+    if (storedLanguage === 'en' || storedLanguage === 'es') return storedLanguage
+
+    const documentLanguage = window.document?.documentElement?.lang
+    return documentLanguage === 'es' ? 'es' : 'en'
+  }); // Default language 'en'
 
   useEffect(() => {
     // Update the language in the document's HTML lang attribute

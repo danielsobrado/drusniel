@@ -6,11 +6,12 @@ import { LanguageContext } from '@helpers-blog/useLanguageContext';
 
 const styles = {
   wrapper: {
-    alignItems: `center`
+    alignItems: `center`,
+    gap: 2,
   },
   heading: {
     color: `omegaDark`,
-    mr: 3,
+    mr: 0,
     mb: 0
   }
 }
