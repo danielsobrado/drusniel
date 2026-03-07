@@ -32,16 +32,18 @@ export default function AuthButton() {
 
   if (user) {
     return (
-      <Box sx={{ display: 'inline-flex', alignItems: 'center', gap: 2, ml: 2 }}>
+      <Box sx={{ display: 'inline-flex', alignItems: 'center', gap: 3, ml: [2, null, 4] }}>
         <Text
           sx={{
-            fontSize: 1,
-            color: 'omegaDark',
-            maxWidth: 120,
+            fontSize: '0.8rem',
+            fontWeight: 'bold',
+            color: 'text',
+            opacity: 0.8,
+            maxWidth: [80, 120, 180],
             overflow: 'hidden',
             textOverflow: 'ellipsis',
             whiteSpace: 'nowrap',
-            display: ['none', null, 'inline'],
+            display: ['none', null, 'inline-block'],
           }}
         >
           {user.email}

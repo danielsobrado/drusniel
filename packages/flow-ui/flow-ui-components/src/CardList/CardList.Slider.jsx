@@ -1,15 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { IconButton, css, useThemeUI } from 'theme-ui'
-import { FaChevronLeft, FaChevronRight } from 'react-icons/fa'
-import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import './CardList.Slider.css'
 import styles from './CardList.Slider.Styles'
-
-// SSR guard: react-slick is null-loaded during static HTML generation.
-// When null-loaded, Slider becomes an empty object instead of a component.
-const isSSR = typeof window === 'undefined'
 
 const CardListSlider = React.forwardRef((props, ref) => {
   const {
@@ -27,6 +21,15 @@ const CardListSlider = React.forwardRef((props, ref) => {
     beforeChange,
     children
   } = props
+
+  const isBrowser = typeof window !== 'undefined'
+  const Slider = isBrowser
+    ? require('react-slick').default || require('react-slick')
+    : null
+  const {
+    FaChevronLeft = () => null,
+    FaChevronRight = () => null
+  } = isBrowser ? require('react-icons/fa') : {}
 
   const context = useThemeUI()
 
@@ -114,9 +117,8 @@ const CardListSlider = React.forwardRef((props, ref) => {
     }
   }
 
-  // During SSR, Slider is null-loaded (empty object), so render children directly
-  if (isSSR || typeof Slider !== 'function') {
-    return <div>{children}</div>
+  if (!Slider) {
+    return <>{children}</>
   }
 
   return <Slider {...settings}>{children}</Slider>

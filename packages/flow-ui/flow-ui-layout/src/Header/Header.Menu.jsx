@@ -19,7 +19,6 @@ export const HeaderMenu = ({ mobileMenu = {} }) => {
     en: {
       home: 'Home',
       characters: 'Characters',
-      gods: 'Gods',
       contact: 'Contact',
       mainMenu: 'Main Menu',
       regions: 'Regions',
@@ -28,7 +27,6 @@ export const HeaderMenu = ({ mobileMenu = {} }) => {
     es: {
       home: 'Inicio',
       characters: 'Personajes',
-      gods: 'Dioses',
       contact: 'Contacto',
       mainMenu: 'Menú Principal',
       read: 'Empezemos',

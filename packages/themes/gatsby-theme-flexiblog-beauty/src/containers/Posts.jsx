@@ -51,8 +51,7 @@ const Posts = ({ data, ...props }) => {
   const categories = useBlogCategories();
   const sliderRef = React.useRef();
 
-  // Start-here anchors for both languages (reading entry points)
-  const startHereCanonSequences = ['P-001', 'D-001-001'];
+  // Start-here slugs for both languages (reading entry points)
   const startHereSlugs = [
     'the-call-to-zuraldi',
     'la-llamada-a-zuraldi',
@@ -60,7 +59,6 @@ const Posts = ({ data, ...props }) => {
     'la-camara-sagrada',
   ];
   const isStartHere = (post) =>
-    startHereCanonSequences.includes(post.canon_sequence) ||
     startHereSlugs.some((s) => post.slug && post.slug.includes(s));
 
   // Filter featured posts by language (date order from query)

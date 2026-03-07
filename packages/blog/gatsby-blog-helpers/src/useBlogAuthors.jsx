@@ -25,12 +25,16 @@ export const useBlogAuthors = (godFilter = 'all') => {
   // Filter authors based on the current language, god status, and secondary status
   const filteredAuthors = authors
     .filter(author => {
+      const isObject = author.god == null && author.secondary == null;
+
       if (godFilter === 'gods') {
         return author.god;
       } else if (godFilter === 'notGods') {
-        return !author.god && !author.secondary;
+        return author.god === false && !author.secondary;
       } else if (godFilter === 'secondary') {
         return author.secondary;
+      } else if (godFilter === 'objects') {
+        return isObject;
       } else {
         return true;
       }

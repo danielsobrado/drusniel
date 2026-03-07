@@ -25,7 +25,7 @@ interface Article implements Node {
   thumbnail: ImageAsset
   tableOfContents(maxDepth: Int = 6): JSON
   draft: Boolean
-  order: Int!
+  order: Int
   chapter: Int
   subchapter: Int
   canon_phase: String

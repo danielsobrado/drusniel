@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
 
 const useMailChimp = () => {
   const [result, setResult] = useState()
@@ -9,7 +10,6 @@ const useMailChimp = () => {
     setSubmitting(true)
     const data = new FormData(e.target)
     const email = data.get('email')
-    const { default: addToMailchimp } = await import('gatsby-plugin-mailchimp')
     const result = await addToMailchimp(email)
     setResult(result)
     setSubmitting(false)

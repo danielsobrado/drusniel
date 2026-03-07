@@ -10,6 +10,21 @@ module.exports = options => {
   );
   const mdxSource = options.sources.find(source => source.name == 'mdx');
   const mdxExtensions = mdxSource && mdxSource.extensions;
+  const mailchimpEndpointFromConfig =
+    options.mailchimp && options.mailchimp.endpoint;
+  const mailchimpEndpointRaw =
+    process.env.MAILCHIMP_ENDPOINT ||
+    process.env.MAILCHIMP_END_POINT ||
+    mailchimpEndpointFromConfig ||
+    options.mailchimpEndpoint;
+  const mailchimpEndpoint =
+    typeof mailchimpEndpointRaw === 'string'
+      ? mailchimpEndpointRaw.trim()
+      : '';
+  const isMailchimpEnabled = Boolean(
+    options.services.mailchimp && mailchimpEndpoint
+  );
+  options.services.mailchimp = isMailchimpEnabled;
 
   const plugins = [
     {
@@ -36,11 +51,6 @@ module.exports = options => {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              plugins: [
-                `gatsby-remark-extract-image-attributes`,
-                `gatsby-remark-images`,
-                `gatsby-remark-images-insert-wrapper-attributes`
-              ],
               maxWidth: 1140,
               quality: options.imageQuality,
               showCaptions: true,
@@ -71,10 +81,10 @@ module.exports = options => {
         checkSupportedExtensions: false
       }
     },
-    {
+    isMailchimpEnabled && {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
-        endpoint: process.env.MAILCHIMP_END_POINT
+        endpoint: mailchimpEndpoint
       }
     }
   ].filter(Boolean);

@@ -2,6 +2,18 @@ import React from 'react'
 import { IconButton, Heading, Flex } from 'theme-ui'
 import attachSocialIcons from '@helpers/attachSocialIcons'
 
+const getShareButtons = () => {
+  if (typeof window === 'undefined') {
+    return {}
+  }
+
+  try {
+    return require('react-share')
+  } catch (error) {
+    return {}
+  }
+}
+
 const styles = {
   wrapper: {
     alignItems: `center`
@@ -14,16 +26,17 @@ const styles = {
 }
 
 const PostShare = ({ location, title }) => {
-  if (typeof window === 'undefined') {
-    return null
-  }
-
+  const shareButtons = getShareButtons()
   const {
     FacebookShareButton,
     TwitterShareButton,
     LinkedinShareButton,
     EmailShareButton
-  } = require('react-share')
+  } = shareButtons
+
+  // During SSR, share buttons are undefined — bail out early to avoid
+  // React.createElement(undefined, ...) which crashes build-html.
+  if (!FacebookShareButton) return null
 
   const url = location && location.href
 
