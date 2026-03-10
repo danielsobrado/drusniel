@@ -8,6 +8,7 @@ import Seo from '@widgets/Seo';
 import NewsletterExpanded from '@widgets/NewsletterExpanded';
 import Sponsor from '@widgets/Sponsor';
 import Categories from '@widgets/Categories';
+import getReadableColor from '@components/utils/getReadableColor';
 import { useBlogCategories } from '@helpers-blog';
 import { useContext } from 'react';
 import { LanguageContext } from '@helpers-blog/useLanguageContext';
@@ -24,6 +25,17 @@ const styles = {
     width: `1/3`,
     ml: `auto`,
   },
+  sectionTitlePill: (color) => ({
+    display: 'inline-flex',
+    alignItems: 'center',
+    px: 3,
+    py: 2,
+    borderRadius: '999px',
+    bg: color || 'omegaLight',
+    color: color ? getReadableColor(color) : 'omegaDark',
+    lineHeight: 1,
+    boxShadow: color ? '0 10px 24px rgba(15, 23, 42, 0.12)' : 'none',
+  }),
 };
 
 const Posts = ({ data, ...props }) => {
@@ -107,6 +119,16 @@ const Posts = ({ data, ...props }) => {
       return orderA - orderB;
     });
 
+  const renderSectionTitle = (group) => {
+    const color = group?.nodes?.[0]?.category?.color;
+
+    return (
+      <Box as='span' sx={styles.sectionTitlePill(color)}>
+        {group.categoryName}
+      </Box>
+    );
+  };
+
   return (
     <Layout {...props}>
       <Seo title={language === 'en' ? 'Home' : 'Inicio'} />
@@ -158,7 +180,7 @@ const Posts = ({ data, ...props }) => {
           <React.Fragment key={`${group.categoryName}.list`}>
             {index % 2 === 0 ? (
               <Stack
-                title={group.categoryName}
+                title={renderSectionTitle(group)}
                 titleLink={`/${language}${group.nodes[0].category.slug}`}
               >
                 <Main>
@@ -174,7 +196,7 @@ const Posts = ({ data, ...props }) => {
               </Stack>
             ) : (
               <Stack
-                title={group.categoryName}
+                title={renderSectionTitle(group)}
                 titleLink={`/${language}${group.nodes[0].category.slug}`}
               >
                 <Main>

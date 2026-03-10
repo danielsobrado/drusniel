@@ -38,13 +38,13 @@ const copy = {
     imageAlt: 'Bienvenido a Drusniel',
     cardOneTitle: 'Por qué existe este proyecto',
     cardOneBody:
-      'Drusniel existe porque no quería que la historia se quedara solo como una idea. Quería un espacio donde la narrativa principal, el mundo y los personajes pudieran crecer juntos en un formato que los lectores puedan seguir con el tiempo.',
+      'Drusniel existe porque no quería que la historia se quedara solo como una idea. Quería un espacio donde la narrativa principal, el mundo y los personajes pudieran crecer juntos en un formato que los lectores puedan seguir con el tiempo. Soy un gran fan de los libros de fantasía, y aunque amo ese formato, no quería limitarme a contar la historia solo a través de un libro.  Quería un espacio donde el mundo pudiera seguir creciendo y expandiéndose sin limites, gratis para todos, para siempre.',
     cardTwoTitle: 'Qué encontrarás aquí',
     cardTwoBody:
-      'Aquí encontrarás la historia principal, lore, referencias visuales y un conjunto cada vez mayor de historias laterales para dar más espacio a los personajes secundarios. Es un mundo que sigue abriéndose en lugar de quedarse quieto.',
+      'Aquí encontrarás la historia principal, lore, referencias visuales y un conjunto cada vez mayor de historias laterales para dar más espacio a los personajes secundarios. Es un mundo que sigue expandiéndose. No es perfecto, la consistencia de las imágenes y la narrativa es algo que se va mejorando con el tiempo, pero la idea es que el mundo siga mejorando en lugar de quedarse estático. Únete a nuestro Discord para colaborar.',
     cardThreeTitle: 'Cómo abordo el trabajo',
     cardThreeBody:
-      'Veo Drusniel como un proyecto vivo. Mejora cada poco, evoluciona con nuevas ideas y sigue creciendo en profundidad. El objetivo no es solo terminar un libro, sino seguir construyendo la historia más amplia, con el libro dos ya en camino.',
+      'Veo Drusniel como un proyecto que mejora constantemente. Evoluciona con nuevas ideas y sigue creciendo en profundidad. El objetivo no es solo terminar un libro, sino seguir construyendo la historia más amplia, con el libro dos ya en camino. El proyecto es un proceso de aprendizaje constante, y cada paso es una oportunidad para mejorar. IA es una herramienta que me permite iterar rápidamente, pero el proceso creativo sigue siendo humano, y cada decisión se toma con la intención de contar la mejor historia posible.',
     ctaPrimary: 'Empezar a leer',
     ctaSecondary: 'Abrir contacto',
   },
@@ -92,11 +92,11 @@ const styles = {
     mt: 3,
   },
   primaryButton: {
-    bg: '#6c47ff',
+    bg: '#5d7ff2',
     color: '#fff',
     textDecoration: 'none',
     ':hover': {
-      bg: '#5937df',
+      bg: '#4f70df',
     },
   },
   secondaryButton: {
@@ -105,8 +105,8 @@ const styles = {
     border: '1px solid rgba(17,17,17,0.12)',
     textDecoration: 'none',
     ':hover': {
-      borderColor: '#6c47ff',
-      color: '#6c47ff',
+      borderColor: '#5d7ff2',
+      color: '#5d7ff2',
     },
   },
 }

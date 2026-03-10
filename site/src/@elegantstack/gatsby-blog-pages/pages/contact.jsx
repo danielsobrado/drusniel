@@ -19,7 +19,7 @@ const styles = {
     mb: 4,
   },
   aboutLink: {
-    color: '#6c47ff',
+    color: '#5d7ff2',
     textDecoration: 'none',
     fontWeight: 700,
     ':hover': {

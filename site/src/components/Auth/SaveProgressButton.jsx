@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { Box, Text } from 'theme-ui'
 import { useAuth } from '@authContext/AuthContext'
 
+const brandBlue = '#5d7ff2'
+
 /**
  * SaveProgressButton
  *
@@ -59,10 +61,10 @@ export default function SaveProgressButton({ path, title }) {
         ml: 0,
         borderRadius: 'full',
         transition: 'all 200ms ease',
-        color: saved ? '#6c47ff' : 'omega',
+        color: saved ? brandBlue : 'omega',
         whiteSpace: 'nowrap',
         ':hover': {
-          color: saved ? '#6c47ff' : 'omegaDark',
+          color: saved ? brandBlue : 'omegaDark',
           transform: 'scale(1.15)',
         },
       }}
@@ -86,7 +88,7 @@ export default function SaveProgressButton({ path, title }) {
         sx={{
           fontSize: 1,
           fontWeight: 600,
-          color: saved ? '#6c47ff' : 'omegaDark',
+          color: saved ? brandBlue : 'omegaDark',
           display: ['none', 'inline'],
           lineHeight: 1,
         }}

@@ -2,6 +2,9 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { useAuth } from '@authContext/AuthContext'
 
+const brandBlue = '#5d7ff2'
+const brandBlueHover = '#4f70df'
+
 /**
  * ContinueReadingBanner
  *
@@ -36,14 +39,14 @@ export default function ContinueReadingBanner({ currentPath }) {
         right: 0,
         zIndex: 1000,
         background: 'linear-gradient(90deg, #1a1a2e 0%, #16213e 100%)',
-        borderTop: '2px solid #6c47ff',
+        borderTop: `2px solid ${brandBlue}`,
         padding: '0.75rem 1.25rem',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'space-between',
         gap: '1rem',
         flexWrap: 'wrap',
-        boxShadow: '0 -4px 24px rgba(108,71,255,0.25)',
+        boxShadow: '0 -4px 24px rgba(93,127,242,0.25)',
       }}
     >
       <span style={{ color: '#c0c0d0', fontSize: 14 }}>
@@ -55,7 +58,7 @@ export default function ContinueReadingBanner({ currentPath }) {
         <Link
           to={readingProgress.last_article_path}
           style={{
-            background: '#6c47ff',
+            background: brandBlue,
             color: '#fff',
             borderRadius: 4,
             padding: '0.4rem 1rem',
@@ -63,6 +66,13 @@ export default function ContinueReadingBanner({ currentPath }) {
             fontSize: 13,
             textDecoration: 'none',
             whiteSpace: 'nowrap',
+            transition: 'background 180ms ease',
+          }}
+          onMouseEnter={(event) => {
+            event.currentTarget.style.background = brandBlueHover
+          }}
+          onMouseLeave={(event) => {
+            event.currentTarget.style.background = brandBlue
           }}
         >
           Continue Reading →

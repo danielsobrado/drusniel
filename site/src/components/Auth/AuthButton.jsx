@@ -46,6 +46,10 @@ export default function AuthButton() {
   const [currentPageTitle, setCurrentPageTitle] = useState('')
   const menuRef = useRef(null)
 
+  const brandBlue = '#5d7ff2'
+  const brandBlueSoft = 'rgba(93, 127, 242, 0.12)'
+  const brandBlueSoftStrong = 'rgba(93, 127, 242, 0.18)'
+
   const currentPath = context.location?.pathname || ''
 
   const sharedButtonStyles = {
@@ -137,7 +141,7 @@ export default function AuthButton() {
     menuHeader: {
       px: 3,
       py: 3,
-      background: 'linear-gradient(135deg, rgba(108,71,255,0.12) 0%, rgba(108,71,255,0.03) 100%)',
+      background: 'linear-gradient(135deg, rgba(93,127,242,0.12) 0%, rgba(93,127,242,0.03) 100%)',
       borderBottom: '1px solid rgba(17,17,17,0.06)',
     },
     menuBody: {
@@ -178,8 +182,8 @@ export default function AuthButton() {
       width: 32,
       height: 32,
       borderRadius: '10px',
-      bg: 'rgba(108,71,255,0.12)',
-      color: '#6c47ff',
+      bg: brandBlueSoft,
+      color: brandBlue,
       display: 'inline-flex',
       alignItems: 'center',
       justifyContent: 'center',
@@ -216,13 +220,20 @@ export default function AuthButton() {
       flexShrink: 0,
     },
     optionButton: (active) => ({
-      flex: 1,
+      flex: '1 1 0',
+      minWidth: 0,
+      minHeight: '2.5rem',
       px: 2,
       py: 2,
+      display: 'inline-flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      textAlign: 'center',
+      lineHeight: 1,
       borderRadius: '9px',
-      border: active ? '1px solid #6c47ff' : '1px solid rgba(17,17,17,0.08)',
-      bg: active ? 'rgba(108,71,255,0.12)' : 'transparent',
-      color: active ? '#6c47ff' : 'text',
+      border: active ? `1px solid ${brandBlue}` : '1px solid rgba(17,17,17,0.08)',
+      bg: active ? brandBlueSoft : 'transparent',
+      color: active ? brandBlue : 'text',
       fontWeight: 700,
       cursor: active ? 'default' : 'pointer',
     }),
@@ -450,7 +461,7 @@ export default function AuthButton() {
                             <Link
                               to={readingProgress.last_article_path}
                               onClick={() => setMenuOpen(false)}
-                              style={{ color: '#6c47ff', fontWeight: 700, textDecoration: 'none' }}
+                              style={{ color: brandBlue, fontWeight: 700, textDecoration: 'none' }}
                             >
                               {readingProgress.last_article_title}
                             </Link>

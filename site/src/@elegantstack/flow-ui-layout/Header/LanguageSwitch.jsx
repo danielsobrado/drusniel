@@ -12,7 +12,7 @@ const styles = {
         display: [`none`, null, `block`],
         // Switch Body
         '&.rc-switch': {
-            background: `linear-gradient(45deg, #FF7D6B, #FFD64C)`,
+            background: `linear-gradient(45deg, #9bb6ff, #5d7ff2)`,
             border: 0,
             width: 50,
             height: 24,
@@ -21,7 +21,7 @@ const styles = {
             },
         },
         '&.rc-switch-checked': {
-            background: `linear-gradient(45deg, #3366FF, #AC15B8)`,
+            background: `linear-gradient(45deg, #7aa2ff, #3366FF)`,
             border: 0,
         },
         // Switch Handle

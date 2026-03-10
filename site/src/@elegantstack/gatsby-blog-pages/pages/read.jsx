@@ -7,6 +7,7 @@ import PageTitle from '@components/PageTitle'
 import Divider from '@components/Divider'
 import Seo from '@widgets/Seo'
 import { LanguageContext } from '@helpers-blog/useLanguageContext'
+import getReadableColor from '@components/utils/getReadableColor'
 
 const readIndexQuery = graphql`
   query ReadIndexPageQuery {
@@ -31,6 +32,7 @@ const readIndexQuery = graphql`
         category {
           name
           slug
+          color
         }
       }
     }
@@ -849,7 +851,18 @@ const ReadIndexPage = (props) => {
                       </Box>
 
                       <Box>
-                        <Box sx={styles.categoryBadge}>
+                        <Box
+                          sx={{
+                            ...styles.categoryBadge,
+                            ...(node.category?.color
+                              ? {
+                                  bg: node.category.color,
+                                  color: getReadableColor(node.category.color),
+                                  borderColor: node.category.color,
+                                }
+                              : null),
+                          }}
+                        >
                           {highlightText(node.category?.name || texts.uncategorized, query, styles.highlight)}
                         </Box>
                         <Text sx={{ ...styles.metaText, mt: 2 }}>
