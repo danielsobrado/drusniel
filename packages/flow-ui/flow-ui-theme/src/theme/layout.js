@@ -6,7 +6,9 @@ export default {
   header: {
     justifyContent: `space-between`,
     alignItems: `center`,
-    height: [`6rem`, `7rem`], //prevent layout shift
+    flexWrap: `wrap`,
+    height: [`auto`, `7rem`], //prevent layout shift
+    minHeight: [`6rem`, `7rem`],
     py: [3, 4]
   },
   body: {

@@ -53,18 +53,18 @@ export default function AuthButton() {
   const currentPath = context.location?.pathname || ''
 
   const sharedButtonStyles = {
-    minWidth: 'auto',
-    px: 3,
+    minWidth: ['auto', null, 'auto'],
+    px: [2, null, 3],
     py: 0,
-    height: 26,
+    height: [36, null, 26],
     display: 'inline-flex',
     alignItems: 'center',
     justifyContent: 'center',
-    fontSize: '0.65rem',
+    fontSize: ['0.7rem', null, '0.65rem'],
     fontWeight: 700,
     letterSpacing: 0.5,
     textTransform: 'uppercase',
-    borderRadius: '13px',
+    borderRadius: ['18px', null, '13px'],
     bg: '#111111',
     color: 'white',
     border: 'none',
@@ -88,7 +88,8 @@ export default function AuthButton() {
     border: '1px solid rgba(17,17,17,0.08)',
     boxShadow: '0 2px 6px rgba(0,0,0,0.08)',
     maxWidth: [`full`, null, `16rem`, `18rem`],
-    px: 2,
+    px: [2, null, 2],
+    height: [36, null, 26],
     '&:hover': {
       bg: '#ebedf2',
       transform: 'translateY(-1px)',
@@ -611,7 +612,7 @@ export default function AuthButton() {
   }
 
   return (
-    <Box sx={{ ml: 3 }}>
+    <Box sx={{ ml: [2, null, 3] }}>
       <Button
         sx={sharedButtonStyles}
         onClick={() => setModalOpen(true)}

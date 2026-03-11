@@ -73,8 +73,8 @@ export default function LoginModal({ isOpen, onClose }) {
         onClick={e => e.stopPropagation()}
         sx={{
           variant: 'cards.primary',
-          p: 4,
-          width: 400,
+          p: [3, 4],
+          width: ['92vw', 400],
           maxWidth: '92vw',
           boxShadow: '0 12px 40px rgba(0,0,0,0.25)',
         }}

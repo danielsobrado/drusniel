@@ -19,7 +19,7 @@ const styles = {
     px: [3, 4, 5],
   },
   logoContainer: {
-    flexBasis: [`full`, null, `auto`],
+    flexBasis: [`auto`, null, `auto`],
     flexShrink: 0,
   },
   searchContainer: {
@@ -42,8 +42,9 @@ const styles = {
     display: `flex`,
     alignItems: `center`,
     justifyContent: `flex-end`,
-    flexShrink: 1,
-    maxWidth: [`full`, null, `24rem`],
+    flexShrink: 0,
+    maxWidth: [`none`, null, `24rem`],
+    ml: [`auto`, null, 0],
   },
 };
 
