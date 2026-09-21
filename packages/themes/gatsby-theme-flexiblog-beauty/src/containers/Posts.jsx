@@ -67,7 +67,7 @@ const Posts = ({ data, ...props }) => {
   const startHereSlugs = [
     'the-call-to-zuraldi',
     'la-llamada-a-zuraldi',
-    'the-sacred-chamber',
+    'secrets-and-shadows',
     'la-camara-sagrada',
   ];
   const isStartHere = (post) =>
