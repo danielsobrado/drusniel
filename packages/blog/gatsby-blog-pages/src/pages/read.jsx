@@ -102,7 +102,7 @@ const PageContact = props => {
 
   const spanishLinks = [
     { text: 'Prólogo 1: La llamada a Zuraldi', url: '/la-llamada-a-zuraldi/' },
-    { text: `${chapterOneLabelEs}: La Cámara Sagrada`, url: '/la-camara-sagrada/' },
+    { text: `${chapterOneLabelEs}: Secretos y Sombras`, url: '/secretos-y-sombras/' },
     { text: 'Regiones de Astalor', url: '/descubriendo-las-regiones-de-astalor/' },
     { text: 'Magia en Astalor', url: '/la-magia-en-astalor/' },
     { text: 'Historia y Mitología', url: '/es/tag/historia/' },
