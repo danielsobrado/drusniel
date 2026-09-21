@@ -602,9 +602,9 @@ const ReadIndexPage = (props) => {
         },
         {
           label: 'Capítulo 1',
-          title: 'La Cámara Sagrada',
+          title: 'Secretos y Sombras',
           description: 'Empieza directamente con Drusniel y vuelve al lore cuando quieras profundizar.',
-          url: '/la-camara-sagrada/',
+          url: '/secretos-y-sombras/',
         },
         {
           label: 'Lore',
