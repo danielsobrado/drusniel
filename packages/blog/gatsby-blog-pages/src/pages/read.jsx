@@ -94,7 +94,7 @@ const PageContact = props => {
 
   const englishLinks = [
     { text: 'Prologue 1: The Call to Zuraldi', url: '/the-call-to-zuraldi/' },
-    { text: `${chapterOneLabelEn}: The Sacred Chamber`, url: '/the-sacred-chamber/' },
+    { text: `${chapterOneLabelEn}: Secrets and Shadows`, url: '/secrets-and-shadows/' },
     { text: 'Astalor regions', url: '/discovering-the-regions-of-astalor/' },
     { text: 'Magic in Astalor', url: '/magic-in-astalor/' },
     { text: 'Lore', url: '/en/tag/lore/' },
