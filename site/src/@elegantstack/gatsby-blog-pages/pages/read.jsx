@@ -628,9 +628,9 @@ const ReadIndexPage = (props) => {
         },
         {
           label: 'Chapter 1',
-          title: 'The Sacred Chamber',
+          title: 'Secrets and Shadows',
           description: 'Jump straight into Drusniel’s story and circle back to lore whenever you want.',
-          url: '/the-sacred-chamber/',
+          url: '/secrets-and-shadows/',
         },
         {
           label: 'Lore',
