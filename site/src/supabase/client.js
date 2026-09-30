@@ -26,8 +26,10 @@ if (!configured && typeof window !== 'undefined') {
   )
 }
 
-// Singleton — only created when valid credentials are present.
-export const supabase = configured
+// Singleton — only created in the browser when valid credentials are present.
+// Skipped during SSR: supabase-js's realtime client requires a native
+// WebSocket, which Node < 22 lacks, and auth is client-only anyway.
+export const supabase = configured && typeof window !== 'undefined'
   ? createClient(supabaseUrl, supabaseAnonKey, {
       auth: {
         persistSession: true,
