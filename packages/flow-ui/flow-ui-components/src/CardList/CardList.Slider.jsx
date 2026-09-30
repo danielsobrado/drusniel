@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import PropTypes from 'prop-types'
 import { IconButton, css, useThemeUI } from 'theme-ui'
 import 'slick-carousel/slick/slick.css'
@@ -22,14 +22,20 @@ const CardListSlider = React.forwardRef((props, ref) => {
     children
   } = props
 
-  const isBrowser = typeof window !== 'undefined'
-  const Slider = isBrowser
+  // Keep the server output and the first browser render identical. Mount Slick
+  // after hydration so its browser-only layout replaces a single static card.
+  const [isMounted, setIsMounted] = useState(false)
+  useEffect(() => {
+    setIsMounted(true)
+  }, [])
+
+  const Slider = isMounted
     ? require('react-slick').default || require('react-slick')
     : null
   const {
     FaChevronLeft = () => null,
     FaChevronRight = () => null
-  } = isBrowser ? require('react-icons/fa') : {}
+  } = isMounted ? require('react-icons/fa') : {}
 
   const context = useThemeUI()
 
@@ -118,7 +124,11 @@ const CardListSlider = React.forwardRef((props, ref) => {
   }
 
   if (!Slider) {
-    return <>{children}</>
+    return (
+      <div style={{ width: '100%', minWidth: 0, overflow: 'hidden' }}>
+        {React.Children.toArray(children).slice(0, 1)}
+      </div>
+    )
   }
 
   return <Slider {...settings}>{children}</Slider>
