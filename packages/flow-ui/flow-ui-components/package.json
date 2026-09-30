@@ -10,7 +10,7 @@
     "@theme-ui/prism": "^0.3.4",
     "dedupe": "^3.0.2",
     "prop-types": "^15.8.1",
-    "react-icons": "^4.7.1",
+    "react-icons": "^5.7.0",
     "react-inlinesvg": "^3.0.1",
     "react-reveal": "^1.2.2",
     "react-slick": "^0.29.0",
